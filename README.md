@@ -1,48 +1,82 @@
 # Dreamcast VMU Pro saves
 
 Fully unlocked (or best-available) Dreamcast save data, one 128 KB `.vmu` card image per game, laid out for the
-VMU Pro: `vmupro/Dreamcast/<product ID>/<product ID>-1.vmu`. Product IDs come from the Redump Dreamcast database;
-one game per title, US preferred, else EU, else JP. Discs with several IDs get the same card under each ID.
+8BitMods VMU Pro: `vmupro/dreamcast/<GAMEID>/<GAMEID>_1.vmu`. **337 games, 366 game cards**, plus 26 VMU minigame
+cards and 9 cheat-device code cards. One game per title: US release preferred, else EU, else JP. Game IDs come from the
+Redump Dreamcast database; discs with several IDs get the same card under each ID.
 
-## Find a game
-Folders are product IDs, so use **[INDEX.md](INDEX.md)** (or `INDEX.csv`) to map folder -> game, region, status and
-which archive save was used. `STEP3_REPORT.md` has the overall status and the list of cards that still need review.
+> **Not hardware-tested.** Every card parses back cleanly with two independent checkers, but none has been loaded in EVMU,
+> a Dreamcast, or a VMU Pro. Try one first (see "Try one first" below) and tell me what happens.
+
+## Quick start
+1. **Back up your microSD card** (and any existing `/dreamcast` folder). Nothing here writes to a device for you.
+2. Copy the **contents of `vmupro/`** (the `dreamcast` folder) to the root of the VMU Pro's microSD card, so you end up with
+   `/dreamcast/T1201N/T1201N_1.vmu`, etc. You can copy only the games you want.
+3. Put the card in the VMU Pro, boot a game. If the folder name matches the game's ID the VMU Pro loads that card
+   automatically (the card is channel 1; this repo supplies channel 1 only).
+4. Find a game's folder in **[INDEX.md](INDEX.md)** (Ctrl-F the title). `INDEX.csv` is the same table for spreadsheets.
+
+### Try one first
+Copy a single folder such as `T1201N` (Marvel vs. Capcom) or `51000` (Sonic Adventure), boot that game, check the save
+loads. If you use EVMU, you can also open the `.vmu` there to inspect it. If it works, copy the rest.
+
+### How game IDs map to folders
+The folder name is the disc's product ID with dashes and spaces removed (`T-1201N` -> `T1201N`, `MK-51054-50` ->
+`MK5105450`). Per the VMU Pro docs, for games with several versions whose IDs differ only in the last two digits you can
+drop those two digits so one folder serves them all (`MK5105450` -> `MK51054`). If a game does not pick up its card, compare
+the disc's ID with the folder name in `INDEX.md` and rename the folder.
+
+### Existing saves
+A folder you already have with the same name will conflict. Do not overwrite it: rename ours, or merge the two in EVMU.
+Each card here holds just that game's chosen save (plus downloads/icons that fit), not a full memory card.
+
+### Minigames and cheat cards
+`MINIGAMES01`...`MINIGAMES26` hold the VMU minigames and animations from the archive (grouped: homebrew, official, animations;
+several share an in-card name so they can't be on one card). `CHEAT*` cards are Action Replay / GameShark / Xploder code
+saves; they only work with the matching cheat disc. These show up as ordinary virtual memory cards by folder name.
+Whether the VMU Pro can launch minigames from these cards is **unverified**. The VMU Pro docs describe a separate `games/`
+folder for `.vmupack` files, and say individual `.VMS`/`.VMI` games can be converted to a `.vmu` by opening them in EVMU
+and saving. The original `.VMI`/`.VMS` files are in `originals/minigames/`.
 
 ## What is in here
 | Path | Contents |
 |---|---|
-| `vmupro/Dreamcast/<ID>/` | Game cards (366 cards, 337 games) |
-| `vmupro/Dreamcast/_EXTRAS/` | 26 VMU minigame cards (`MINIGAMES01-26`) and 9 cheat-device code cards (`CHEAT*`) |
-| `originals/<game>/` | All original `.VMI`/`.VMS` files from the source archive plus its descriptions |
-| `INDEX.md`, `INDEX.csv` | Folder -> game index |
-| `_project/credits.csv` | Per-save credit: source URL, creator name (where the archive names one), description |
+| `vmupro/dreamcast/<ID>/<ID>_1.vmu` | The cards. Game cards use the product ID; extras are `MINIGAMES01-26`, `CHEAT*` |
+| `INDEX.md`, `INDEX.csv` | Folder -> game title, region, status, Redump title, save used |
+| `STEP3_REPORT.md` | Overall status and the list of cards still needing review |
+| `originals/<game>/` | All original `.VMI`/`.VMS` files and descriptions from the source archive |
+| `_project/credits.csv` | Per-save credit: source URL, creator name where the archive names one, description |
 | `_project/report.csv`, `saves_all.csv` | Per-card report; every save considered per game |
 | `_project/unmapped_or_skipped.csv`, `not_on_cards_extras.csv` | What was left out and why |
 | `_project/tools/` | Node tooling (no dependencies) that builds and validates everything |
 
 ## Status meaning
 - **ready**: save judged complete or best available, and its in-card filename is consistent with the chosen region.
-- **needs review**: region or save contents uncertain, Redump mapping inferred, or no complete save exists in the archive. Reason is in `report.csv`.
+- **needs review**: region or contents uncertain, Redump mapping inferred, or the archive has no complete save for it.
+  The reason is in `_project/report.csv` and `STEP3_REPORT.md`.
 
-## Caveats (read these)
-- **No card has been opened in EVMU or on VMU Pro hardware.** Cards parse back cleanly with two independent checkers
-  (`_project/tools/vmu.js` and `_project/tools/check_cards.py`) but that is not the same as loading in a game.
-- Layout and the `_EXTRAS` folder for non-game cards are unverified against the VMU Pro's own conventions.
-- Picks are heuristic plus manual review of archive descriptions; a "best" save is the uploader's claim, not tested.
-- Region-locked saves: some games only load saves whose in-card filename matches the disc region. Filename evidence is noted per game.
-- Each card holds a single game's chosen save (plus any downloads/icons that fit), not a full memory card.
+## Known limits
+- Picks are heuristics plus a manual read of the archive descriptions; "best save" is the uploader's claim and untested.
+- Region-locked saves: some games only load saves whose in-card filename matches the disc's region. Filename evidence is in each game's notes.
+- Some games have no "everything unlocked" state (sports rosters, casino money); those get the best roster/late-game save.
+- Gaps still to fill from the VMU Dream Explorer disc image are listed as "needs review" in `STEP3_REPORT.md`.
+
+## Finding things in git history
+Commit messages list `<folder> = <game title> [region, status]`, so `git log --grep="Resident Evil"` finds the commit that
+added or changed a game. `INDEX.csv` is the quickest lookup.
 
 ## Rebuilding
-Needs Node. Clone the source archive and Redump datfile (both gitignored), then from `_project/`:
+Needs Node. Clone the source archive (gitignored), then from `_project/`:
 ```
 git clone --depth 1 https://github.com/bucanero/dreamcast-saves src
 node tools/step3.js && node tools/extras.js && node tools/build.js && node tools/skiplist.js
-node tools/report.js   # from repo root
-python3 -I tools/check_cards.py   # from repo root, independent checker
+node tools/report.js                 # from repo root
+python3 -I _project/tools/check_cards.py   # from repo root; independent card checker
 ```
-Notes on the format and decisions are in `_project/notes.md`.
+Format and decision notes: `_project/notes.md`.
 
 ## Credits and licence
 Save data comes from [bucanero/dreamcast-saves](https://github.com/bucanero/dreamcast-saves) (GPL-3.0), which collects
 saves shared by many community members. See `NOTICE.md`, `LICENSE-GPL-3.0.txt` and `_project/credits.csv`. Creator email
-addresses are deliberately not reproduced.
+addresses are deliberately not reproduced. Layout follows the 8BitMods VMU Pro docs
+(<https://www.8bitmods.wiki/importing-saves>); check the current docs if the device firmware changes.

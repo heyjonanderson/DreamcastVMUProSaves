@@ -35,7 +35,7 @@ const CN=['Homebrew & fan minigames','Official / publisher minigames','Animation
 const out=[];let n=0;
 const cnt={};
 for(const c of cards){cnt[c.cat]=(cnt[c.cat]||0)+1;n++;const num=String(n).padStart(2,'0');
-  out.push({dir:'minigames',outdir:'Dreamcast/_EXTRAS',title:`VMU minigames ${num}: ${CN[c.cat]}`,rname:'(not a disc: standalone VMU minigame collection)',ids:['MINIGAMES'+num],region:'-',files:c.items.map(i=>i.r.vmi),
+  out.push({dir:'minigames',outdir:'dreamcast',title:`VMU minigames ${num}: ${CN[c.cat]}`,rname:'(not a disc: standalone VMU minigame collection)',ids:['MINIGAMES'+num],region:'-',files:c.items.map(i=>i.r.vmi),
    completion:c.items.map(i=>i.key+' ('+i.name+')').join(', '),status:'ready',notes:`${c.items.length} VMU game/animation files, ${c.used} blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames`});}
 // cheat-device cards (one per code file; most share a filename so each gets its own card)
 const CH=[
@@ -45,7 +45,7 @@ const CH=[
  ['pso','psocodes.VMI','CHEATPSOGS','GameShark CDX codes for Phantasy Star Online (JP & US)'],['pso2','v45276.vmi','CHEATPSO2XP','Xploder codes for Phantasy Star Online Ver. 2'],['pso2','FCDCHEAT.VMI','CHEATPSO2GS','GameShark codes for Phantasy Star Online Ver. 2'],
  ['soldierfortune','v64385.vmi','CHEATSOFGS','GameShark codes for Soldier of Fortune (unlimited armor/ammo)'],
 ];
-for(const [dir,f,id,t] of CH)out.push({dir,outdir:'Dreamcast/_EXTRAS',title:'Cheat-device code save: '+t,rname:'(cheat device data, not a disc)',ids:[id],region:'-',files:[f],completion:t,status:'needs review',notes:'Only useful with the matching cheat device disc; not tested'});
+for(const [dir,f,id,t] of CH)out.push({dir,outdir:'dreamcast',title:'Cheat-device code save: '+t,rname:'(cheat device data, not a disc)',ids:[id],region:'-',files:[f],completion:t,status:'needs review',notes:'Only useful with the matching cheat device disc; not tested'});
 out.push({dir:'atari',title:'Atari Anniversary Edition (VMU icon only)',rname:'Atari Anniversary Edition (USA)',ids:['T-15130N'],region:'US',files:['ATARI.VMI'],completion:'VMU icon file only; archive has no game save',status:'needs review',notes:'Icon-only card; no game progress to save in this title'});
 fs.writeFileSync(path.join(__dirname,'..','selections_extras.json'),JSON.stringify(out,null,1));
 fs.writeFileSync(path.join(__dirname,'..','extras_attach.json'),JSON.stringify(ATTACH,null,1));

@@ -1,4 +1,4 @@
-# Card index (folder under vmupro/Dreamcast/ -> game)
+# Card index (SD card path /dreamcast/<folder>/<folder>_1.vmu -> game)
 
 | Folder | Game | Region | Status | Save |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@
 | T40602N | Centipede | US | ready | v72205.vmi |
 | T41403N | Championship Surfer | US | ready | v86604.vmi |
 | T15127N | Charge 'N Blast | US | ready | v23820.vmi |
-| _EXTRAS/CHEATARCDX01 | Cheat-device code save: Action Replay CDX code save (many codes loaded) | - | needs review | arcdx1.VMI |
-| _EXTRAS/CHEATARCDX02 | Cheat-device code save: Action Replay CDX code save: 423 games, all regions | - | needs review | AR423.VMI |
-| _EXTRAS/CHEATXPLODER30 | Cheat-device code save: Code Breaker / Xploder DC code save (30 games) | - | needs review | XPLODER.VMI |
-| _EXTRAS/CHEATGSCDX01 | Cheat-device code save: GameShark CDX code save | - | needs review | gscdx1.VMI |
-| _EXTRAS/CHEATGSCDX02 | Cheat-device code save: GameShark CDX code save | - | needs review | GSCDX.vmi |
-| _EXTRAS/CHEATPSOGS | Cheat-device code save: GameShark CDX codes for Phantasy Star Online (JP & US) | - | needs review | psocodes.VMI |
-| _EXTRAS/CHEATPSO2GS | Cheat-device code save: GameShark codes for Phantasy Star Online Ver. 2 | - | needs review | FCDCHEAT.VMI |
-| _EXTRAS/CHEATSOFGS | Cheat-device code save: GameShark codes for Soldier of Fortune (unlimited armor/ammo) | - | needs review | v64385.vmi |
-| _EXTRAS/CHEATPSO2XP | Cheat-device code save: Xploder codes for Phantasy Star Online Ver. 2 | - | needs review | v45276.vmi |
+| CHEATARCDX01 | Cheat-device code save: Action Replay CDX code save (many codes loaded) | - | needs review | arcdx1.VMI |
+| CHEATARCDX02 | Cheat-device code save: Action Replay CDX code save: 423 games, all regions | - | needs review | AR423.VMI |
+| CHEATXPLODER30 | Cheat-device code save: Code Breaker / Xploder DC code save (30 games) | - | needs review | XPLODER.VMI |
+| CHEATGSCDX01 | Cheat-device code save: GameShark CDX code save | - | needs review | gscdx1.VMI |
+| CHEATGSCDX02 | Cheat-device code save: GameShark CDX code save | - | needs review | GSCDX.vmi |
+| CHEATPSOGS | Cheat-device code save: GameShark CDX codes for Phantasy Star Online (JP & US) | - | needs review | psocodes.VMI |
+| CHEATPSO2GS | Cheat-device code save: GameShark codes for Phantasy Star Online Ver. 2 | - | needs review | FCDCHEAT.VMI |
+| CHEATSOFGS | Cheat-device code save: GameShark codes for Soldier of Fortune (unlimited armor/ammo) | - | needs review | v64385.vmi |
+| CHEATPSO2XP | Cheat-device code save: Xploder codes for Phantasy Star Online Ver. 2 | - | needs review | v45276.vmi |
 | T36811N | Chicken Run | US | ready | v7111.vmi |
 | 51049 | Chu Chu Rocket | US | ready | v38939.vmi+v7640.vmi |
 | T15128N | Coaster Works | US | ready | v14850.vmi |
@@ -364,32 +364,32 @@
 | 51054 | Virtua Tennis | US | ready | v6482.vmi |
 | 51186 | Virtua Tennis 2 (Tennis 2K2) | US | ready | TENN2K2.VMI |
 | T13004N | Virtual-On: Oratorio Tangram | US | needs review | v1971.vmi+v39368.vmi+v8748.vmi |
-| _EXTRAS/MINIGAMES01 | VMU minigames 01: Homebrew & fan minigames | - | ready | ZUQIU.VMI+ALNFIGHT.VMI |
-| _EXTRAS/MINIGAMES02 | VMU minigames 02: Homebrew & fan minigames | - | ready | PACMAN.VMI+GLUCKY.VMI+TOKYOCAR.VMI+BREAKOUT.VMI |
-| _EXTRAS/MINIGAMES03 | VMU minigames 03: Homebrew & fan minigames | - | ready | FSKATER.VMI+CHAO2.VMI+DRACER.VMI+FROG.VMI+FATRAIN.VMI |
-| _EXTRAS/MINIGAMES04 | VMU minigames 04: Homebrew & fan minigames | - | ready | MINICLOC.VMI+4WINS.VMI+PAPER.VMI+SNAKY.VMI+CHAOEDIT.VMI+SWAMPY.VMI+JOJO.VMI+VISION1.VMI+IDOUDO.VMI+MINE.VMI+SI.VMI+SKETCH.VMI |
-| _EXTRAS/MINIGAMES05 | VMU minigames 05: Homebrew & fan minigames | - | ready | SOUND.VMI+PSOID.VMI+LOGIC.VMI+SLIDEPUZ.VMI+TETRIS.VMI+PSOPUZZL.VMI |
-| _EXTRAS/MINIGAMES06 | VMU minigames 06: Official / publisher minigames | - | ready | POWERSTN.VMI+4007.VMI |
-| _EXTRAS/MINIGAMES07 | VMU minigames 07: Official / publisher minigames | - | ready | 4004.VMI+POPMUSI2.VMI |
-| _EXTRAS/MINIGAMES08 | VMU minigames 08: Official / publisher minigames | - | ready | 4008.VMI+POPMUSI3.VMI |
-| _EXTRAS/MINIGAMES09 | VMU minigames 09: Official / publisher minigames | - | ready | GODZILLA.VMI+POPMUSI1.VMI |
-| _EXTRAS/MINIGAMES10 | VMU minigames 10: Official / publisher minigames | - | ready | VMFL_073.VMI+4001.VMI |
-| _EXTRAS/MINIGAMES11 | VMU minigames 11: Official / publisher minigames | - | ready | VMFL_081.VMI+SCCBRK.VMI |
-| _EXTRAS/MINIGAMES12 | VMU minigames 12: Official / publisher minigames | - | ready | VMFL_084.VMI |
-| _EXTRAS/MINIGAMES13 | VMU minigames 13: Official / publisher minigames | - | ready | KITTYCAT.VMI+PQ_NTSC.VMI |
-| _EXTRAS/MINIGAMES14 | VMU minigames 14: Official / publisher minigames | - | ready | SOUL2ADV.VMI+SCALIBU.VMI |
-| _EXTRAS/MINIGAMES15 | VMU minigames 15: Official / publisher minigames | - | ready | PQ_PAL.VMI |
-| _EXTRAS/MINIGAMES16 | VMU minigames 16: Official / publisher minigames | - | ready | SOAMINI.VMI |
-| _EXTRAS/MINIGAMES17 | VMU minigames 17: Animations & music videos | - | ready | DANGELO.VMI+00006003.VMI+VMWBP.VMI |
-| _EXTRAS/MINIGAMES18 | VMU minigames 18: Animations & music videos | - | ready | PROMO.VMI+00003831.VMI+GREY.VMI |
-| _EXTRAS/MINIGAMES19 | VMU minigames 19: Animations & music videos | - | ready | FASTFURI.VMI+E0.VMI |
-| _EXTRAS/MINIGAMES20 | VMU minigames 20: Animations & music videos | - | ready | MATRXRLD.VMI+CIRCLES.VMI+00001870.VMI |
-| _EXTRAS/MINIGAMES21 | VMU minigames 21: Animations & music videos | - | ready | RISE.VMI+00004276.VMI |
-| _EXTRAS/MINIGAMES22 | VMU minigames 22: Animations & music videos | - | ready | 00003096.VMI+MICHAEL.VMI |
-| _EXTRAS/MINIGAMES23 | VMU minigames 23: Animations & music videos | - | ready | 00004271.VMI |
-| _EXTRAS/MINIGAMES24 | VMU minigames 24: Animations & music videos | - | ready | 00003910.VMI |
-| _EXTRAS/MINIGAMES25 | VMU minigames 25: Animations & music videos | - | ready | 00003291.VMI |
-| _EXTRAS/MINIGAMES26 | VMU minigames 26: Animations & music videos | - | ready | 00004662.VMI |
+| MINIGAMES01 | VMU minigames 01: Homebrew & fan minigames | - | ready | ZUQIU.VMI+ALNFIGHT.VMI |
+| MINIGAMES02 | VMU minigames 02: Homebrew & fan minigames | - | ready | PACMAN.VMI+GLUCKY.VMI+TOKYOCAR.VMI+BREAKOUT.VMI |
+| MINIGAMES03 | VMU minigames 03: Homebrew & fan minigames | - | ready | FSKATER.VMI+CHAO2.VMI+DRACER.VMI+FROG.VMI+FATRAIN.VMI |
+| MINIGAMES04 | VMU minigames 04: Homebrew & fan minigames | - | ready | MINICLOC.VMI+4WINS.VMI+PAPER.VMI+SNAKY.VMI+CHAOEDIT.VMI+SWAMPY.VMI+JOJO.VMI+VISION1.VMI+IDOUDO.VMI+MINE.VMI+SI.VMI+SKETCH.VMI |
+| MINIGAMES05 | VMU minigames 05: Homebrew & fan minigames | - | ready | SOUND.VMI+PSOID.VMI+LOGIC.VMI+SLIDEPUZ.VMI+TETRIS.VMI+PSOPUZZL.VMI |
+| MINIGAMES06 | VMU minigames 06: Official / publisher minigames | - | ready | POWERSTN.VMI+4007.VMI |
+| MINIGAMES07 | VMU minigames 07: Official / publisher minigames | - | ready | 4004.VMI+POPMUSI2.VMI |
+| MINIGAMES08 | VMU minigames 08: Official / publisher minigames | - | ready | 4008.VMI+POPMUSI3.VMI |
+| MINIGAMES09 | VMU minigames 09: Official / publisher minigames | - | ready | GODZILLA.VMI+POPMUSI1.VMI |
+| MINIGAMES10 | VMU minigames 10: Official / publisher minigames | - | ready | VMFL_073.VMI+4001.VMI |
+| MINIGAMES11 | VMU minigames 11: Official / publisher minigames | - | ready | VMFL_081.VMI+SCCBRK.VMI |
+| MINIGAMES12 | VMU minigames 12: Official / publisher minigames | - | ready | VMFL_084.VMI |
+| MINIGAMES13 | VMU minigames 13: Official / publisher minigames | - | ready | KITTYCAT.VMI+PQ_NTSC.VMI |
+| MINIGAMES14 | VMU minigames 14: Official / publisher minigames | - | ready | SOUL2ADV.VMI+SCALIBU.VMI |
+| MINIGAMES15 | VMU minigames 15: Official / publisher minigames | - | ready | PQ_PAL.VMI |
+| MINIGAMES16 | VMU minigames 16: Official / publisher minigames | - | ready | SOAMINI.VMI |
+| MINIGAMES17 | VMU minigames 17: Animations & music videos | - | ready | DANGELO.VMI+00006003.VMI+VMWBP.VMI |
+| MINIGAMES18 | VMU minigames 18: Animations & music videos | - | ready | PROMO.VMI+00003831.VMI+GREY.VMI |
+| MINIGAMES19 | VMU minigames 19: Animations & music videos | - | ready | FASTFURI.VMI+E0.VMI |
+| MINIGAMES20 | VMU minigames 20: Animations & music videos | - | ready | MATRXRLD.VMI+CIRCLES.VMI+00001870.VMI |
+| MINIGAMES21 | VMU minigames 21: Animations & music videos | - | ready | RISE.VMI+00004276.VMI |
+| MINIGAMES22 | VMU minigames 22: Animations & music videos | - | ready | 00003096.VMI+MICHAEL.VMI |
+| MINIGAMES23 | VMU minigames 23: Animations & music videos | - | ready | 00004271.VMI |
+| MINIGAMES24 | VMU minigames 24: Animations & music videos | - | ready | 00003910.VMI |
+| MINIGAMES25 | VMU minigames 25: Animations & music videos | - | ready | 00003291.VMI |
+| MINIGAMES26 | VMU minigames 26: Animations & music videos | - | ready | 00004662.VMI |
 | T15113N | Wacky Races | US | ready | v76433.vmi |
 | T8111N | Wetrix+ | US | ready | v39228.vmi |
 | T42101N | Wild Metal | US | ready | v56159.vmi |

@@ -1,6 +1,6 @@
 # Status report
 
-Game cards: 366 (.vmu, 131072 bytes each) for 337 games, plus 35 extras cards (minigames, cheat-device codes) under vmupro/Dreamcast/_EXTRAS.
+Game cards: 366 (.vmu, 131072 bytes each) for 337 games, plus 35 extras cards (minigames, cheat-device codes) as folders named MINIGAMESnn / CHEAT* beside the game folders.
 Every card parses back cleanly (checked by tools/vmu.js and by an independent Python checker written from the VMS format notes: directory, FAT chains, save data). **No card has been opened in EVMU or on VMU Pro hardware.**
 
 - ready: 313 games (heuristic or manual pick judged complete/best available, filename/region check passed)

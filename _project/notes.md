@@ -30,3 +30,5 @@ Not yet built: Virtua Tennis (virtuatennis -> 51054, virtuatennis2 -> 51186), th
 - Remaining needs-review: see STEP3_REPORT.md. Gap-filling from the VMU Dream Explorer disc image is still pending (disc is local only; first check
   whether its saves are plain VMS/VMI or proprietary).
 - `tools/check_cards.py`: independent card checker (run from repo root).
+
+- Layout fix: VMU Pro convention is /dreamcast/<GAMEID>/<GAMEID>_1.vmu (underscore, lowercase root), per 8BitMods docs (via search summaries; the wiki itself was not fetchable from here). Earlier commits used `Dreamcast/<ID>/<ID>-1.vmu`. Extras are plain folders (MINIGAMES01-26, CHEAT*) in the same dir; the old `_EXTRAS` subfolder was dropped.
