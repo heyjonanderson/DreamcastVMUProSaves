@@ -534,7 +534,10 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [zz_MG_Shell](zz_MG_Shell) | VMU minigame: Shell | - | ready |
 | [zz_MG_Shenmue](zz_MG_Shenmue) | VMU minigame: Shenmue | - | ready |
 | [zz_MG_Shenmue_Goodies](zz_MG_Shenmue_Goodies) | VMU minigame: Shenmue Goodies | - | ready |
+| [zz_MG_Shenmue_Goodies_1](zz_MG_Shenmue_Goodies_1) | VMU minigame: Shenmue Goodies 1 of 3 | - | ready |
 | [zz_MG_Shenmue_Goodies_2](zz_MG_Shenmue_Goodies_2) | VMU minigame: Shenmue Goodies 2 | - | ready |
+| [zz_MG_Shenmue_Goodies_2](zz_MG_Shenmue_Goodies_2) | VMU minigame: Shenmue Goodies 2 of 3 | - | ready |
+| [zz_MG_Shenmue_Goodies_3](zz_MG_Shenmue_Goodies_3) | VMU minigame: Shenmue Goodies 3 of 3 | - | ready |
 | [zz_MG_Simon_Bryan](zz_MG_Simon_Bryan) | VMU minigame: Simon Bryan | - | ready |
 | [zz_MG_Skies_Arcadia_Pintas_Quest](zz_MG_Skies_Arcadia_Pintas_Quest) | VMU minigame: Skies Arcadia Pintas Quest | - | ready |
 | [zz_MG_Skies_Arcadia_Pintas_Quest_NTSC](zz_MG_Skies_Arcadia_Pintas_Quest_NTSC) | VMU minigame: Skies Arcadia Pintas Quest NTSC | - | ready |

@@ -19,7 +19,7 @@ That's the whole process. The rest of this page is for when something goes sidew
 ## What you get
 
 - **366 games** on 374 cards, one card per game. I picked the US release first, then Europe, then Japan.
-- **217 VMU minigames and animations**, one per card.
+- **219 VMU minigames and animations**, one per card.
 - **9 cheat-device code cards** for Action Replay, GameShark and Xploder. They only do anything if you own the matching cheat disc.
 
 Each card is a plain 128 KB VMU image holding that game's save, plus any downloads or icons that fit. It's a single save, not a full memory card.
@@ -93,7 +93,7 @@ Notes on the file format and the decisions behind the picks are in `_project/not
 
 Most saves come from [bucanero/dreamcast-saves](https://github.com/bucanero/dreamcast-saves) (GPL-3.0), which gathers saves shared by a lot of community members over the years. See `NOTICE.md`, `LICENSE-GPL-3.0.txt` and `_project/credits.csv`.
 
-A second batch comes from the VMU Tool / Dream Explorer CD (v0.8.5, by Speud), preserved at <https://archive.org/details/dreamxplorer>. It bundles collections from DC_KOOL (Joe Endy), HEEZY (hrb2k), JEFFMA, PURHAZE, Planetweb (Ken Soohoo), Blue Swirl, and games by The Rockin'-B. Those saves live in `_project/extra/`. About 80 more minigames come from the game pack bundled with the VM2 organizer (community and fan VMU games).
+A second batch comes from the VMU Tool / Dream Explorer CD (v0.8.5, by Speud), preserved at <https://archive.org/details/dreamxplorer>. It bundles collections from DC_KOOL (Joe Endy), HEEZY (hrb2k), JEFFMA, PURHAZE, Planetweb (Ken Soohoo), Blue Swirl, and games by The Rockin'-B. Those saves live in `_project/extra/`. About 80 more minigames come from the game pack bundled with the VM2 organizer (community and fan VMU games). The three `zz_MG_Shenmue_Goodies` cards hold a character viewer plus 203 Shenmue character files.
 
 Blue Swirl's note on that disc asked that its collection not be released without VMU Tool. That was written around 2006, the site has been gone for years, and the VMU Pro didn't exist yet, so I included it for preservation, with credit. If Blue Swirl or anyone else objects, say so and it comes out. The cards are flagged `restricted` in `_project/selections_disc.json`, and `NO_BLUESWIRL=1 node tools/build.js` rebuilds without them.
 

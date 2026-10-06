@@ -48,6 +48,13 @@ for(const it of items){
   const nice=id.replace(/^zz_MG_/,'').replace(/_/g,' ');
   out.push({dir:it.dir||'minigames',restricted:it.restricted,outdir:'Dreamcast',title:`VMU minigame: ${nice}`,rname:'(not a disc: standalone VMU minigame)',ids:[id],region:'-',files:[it.r.vmi],
    completion:`${it.key} (${it.name}): ${it.r.desc.replace(/\s+/g,' ').slice(0,100)}`,status:'ready',notes:`${CN[it.cat]}, ${it.blocks} blocks. One game per card because a VMU launches the game at block 0 only`});}
+
+// Shenmue Goodies: viewer game + character data, 3 cards (viewer 50 blocks + up to 75 two-block characters each)
+if(!process.env.NO_BLUESWIRL&&A.load('disc_bs_shenmue')){const gs=A.load('disc_bs_shenmue');
+  const viewer=gs.rows.find(r=>/viewer/.test(r.desc));const chars=gs.rows.filter(r=>r!==viewer);const per=75;
+  for(let i=0;i*per<chars.length;i++){const part=chars.slice(i*per,(i+1)*per);
+    out.push({dir:'disc_bs_shenmue',restricted:'blueswirl',outdir:'Dreamcast',title:`VMU minigame: Shenmue Goodies ${i+1} of ${Math.ceil(chars.length/per)}`,rname:'(not a disc: Shenmue character viewer + data)',ids:['zz_MG_Shenmue_Goodies_'+(i+1)],region:'-',
+      files:[viewer.vmi,...part.map(r=>r.vmi)],completion:`Viewer plus ${part.length} characters: ${part[0].desc.split(' [')[0]} ... ${part[part.length-1].desc.split(' [')[0]}`,status:'ready',notes:'Run the viewer game; it reads the character files stored on the same card. Cards 1-3 hold different characters'});}}
 // cheat-device cards (one per code file; most share a filename so each gets its own card)
 const CH=[
  ['arcdx','arcdx1.VMI','CHEATARCDX01','Action Replay CDX code save (many codes loaded)'],['arcdx','AR423.VMI','CHEATARCDX02','Action Replay CDX code save: 423 games, all regions'],
