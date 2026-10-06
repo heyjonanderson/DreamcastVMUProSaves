@@ -2,7 +2,7 @@ folder,game,region,status,redump_title,archive_dir,save_chosen
 T36803N,102 Dalmatians: Puppies to the Rescue,US,ready,Disney's 102 Dalmatians - Puppies to the Rescue (USA),puppies,v90561.vmi
 51064,18 Wheeler: Pro American Trucker,US,ready,18 Wheeler - American Pro Trucker (USA),18wheeler,v45386.vmi
 T46504M,21 -Two One-,JP,ready,21 - Two One (Japan),twoone,21twoone.VMI
-T9708N,4 Wheel Thunder,US,needs review,4 Wheel Thunder (USA),4wheelthunder,v33294.vmi
+T9708N,4 Wheel Thunder,US,ready,4 Wheel Thunder (USA),4wheelthunder,4WHEEL.VMI
 T41903N,4x4 Evolution,US,ready,4x4 Evo (USA),4x4evolution,v6405.vmi
 HDR0158,Advanced Daisenryaku,JP,ready,Advanced Daisenryaku 2001 (Japan),dazhanlu,dazhanlu.VMI
 T6807M,Aero Dancing,JP,needs review,Aero Dancing i (Japan),aeroi,aeroisys.VMI
@@ -12,19 +12,19 @@ T40210N,Aero Wings 2: Air Strike,US,ready,AeroWings 2 - Airstrike (USA),aerowing
 T9501N,Air Force Delta,US,ready,AirForce Delta (USA),airforcedelta,v39495.vmi
 T15117N,Alone in the Dark: The New Nightmare,US,ready,Alone in the Dark - The New Nightmare (USA) (Disc 1) | Alone in the Dark - The New Nightmare (USA) (Disc 2),alonedark,v9840.vmi
 T20107M,Angel Present,JP,ready,Angel Present (Japan),angelpre,angelpre.VMI
-T40301N,Armada,US,needs review,Armada (USA),armada,v51270.vmi
+T40301N,Armada,US,ready,Armada (USA),armada,v44206.vmi
 T9715N,Army Men: Sarge's Heroes,US,ready,Army Men - Sarge's Heroes (USA),armymen,v93695.vmi
 T15130N,Atari Anniversary Edition (VMU icon only),US,needs review,Atari Anniversary Edition (USA),atari,ATARI.VMI
 T44102N,Bang! Gunship Elite,US,ready,"Bang! Gunship Elite (USA) (En,Fr,De)",bang,v73147.vmi
-T40217N,Bangai-O,US,needs review,Bangai-O (USA),bangaio,v95185.vmi
+T40217N,Bangai-O,US,ready,Bangai-O (USA),bangaio,v95185.vmi
 T20101M,Black Matrix Advanced,JP,ready,Black-Matrix Advanced (Japan) (Disc 1) | Black-Matrix Advanced (Japan) (Disc 2),blackmatrix,blackad1.VMI
 T13001N,Blue Stinger,US,ready,Blue Stinger (USA),bsting,v12669.vmi
 T41802M,Boku Doraemon,JP,ready,Boku Doraemon (Japan),doraemon,dingdang.VMI
 T42903M,Bomber Hehhe,JP,ready,Bomber Hehhe! (Japan),bomberhe,bomberhe.VMI
-51065,Bomberman Online,US,needs review,Bomberman Online (USA),bomberman,boonline.VMI
+51065,Bomberman Online,US,ready,Bomberman Online (USA),bomberman,v32866.vmi
 T8117N,Bust A Move 4,US,ready,Bust-A-Move 4 (USA),bustamove4,pb4us.VMI
 T13007N,Buzz Lightyear of Star Command,US,ready,Disney-Pixar Buzz Lightyear of Star Command (USA),buzzlightyear,v74825.vmi
-T12504N,Caesar's Palace 2000,US,needs review,Caesars Palace 2000 - Millennium Gold Edition (USA),caesar,v7771.vmi
+T12504N,Caesar's Palace 2000,US,ready,Caesars Palace 2000 - Millennium Gold Edition (USA),caesar,v7771.vmi
 T1215N,Cannon Spike,US,ready,Cannon Spike (USA),cannonspike,v25804.vmi+v50562.vmi
 T20108M,Canvas,JP,ready,Canvas - Sepia-iro no Motif (Japan),canvas,CANVAS.VMI
 T1249M,Capcom vs. SNK 2,JP,ready,Capcom vs. SNK 2,capcomsnk2,v7082.vmi+cvs2rep1.VMI+cvs2rep2.VMI+cvs2rep3.VMI+cvs2rep4.VMI+cvs2rep5.VMI+cvs2rep6.VMI
@@ -32,7 +32,7 @@ T1218N,Capcom vs. SNK: Millennium Fight 2000,US,needs review,Capcom vs. SNK: Mil
 T5701N,Carrier,US,ready,Carrier (USA),carrier,CARRIER.VMI
 T46901M,Castle Fantasia,JP,ready,Castle Fantasia - Seima Taisen (Japan),castlefan,CASTLEFA.VMI
 T40602N,Centipede,US,ready,Centipede (USA),centipede,v72205.vmi
-T41403N,Championship Surfer,US,needs review,Championship Surfer (USA),champsurfer,v86604.vmi
+T41403N,Championship Surfer,US,ready,Championship Surfer (USA),champsurfer,v86604.vmi
 T15127N,Charge 'N Blast,US,ready,Charge 'N Blast (USA),chargeblast,v23820.vmi
 _EXTRAS/CHEATARCDX01,Cheat-device code save: Action Replay CDX code save (many codes loaded),-,needs review,"(cheat device data, not a disc)",arcdx,arcdx1.VMI
 _EXTRAS/CHEATARCDX02,"Cheat-device code save: Action Replay CDX code save: 423 games, all regions",-,needs review,"(cheat device data, not a disc)",arcdx,AR423.VMI
@@ -53,15 +53,15 @@ T17721N,Conflict Zone,US,ready,Conflict Zone (USA),conflictzone,v30142.vmi
 T3106M,Cool Cool Toon,JP,ready,Cool Cool Toon (Japan),cooltoon,COOLCT.VMI
 51035,Crazy Taxi,US,ready,"Crazy Taxi (USA) (En,Ja)",crazytaxi,v81909.vmi+CRAZYT.VMI
 51136,Crazy Taxi 2,US,ready,Crazy Taxi 2 (USA),crazytaxi2,v51513.vmi+v43160.vmi
-51036,D2,US,needs review,D2 (USA) (Disc 1) | D2 (USA) (Disc 2) | D2 (USA) (Disc 3) | D2 (USA) (Disc 4),d2,v93751.vmi
-HDR0084,Dabitsuku 1,JP,needs review,Dabitsuku - Derby-ba o Tsukurou! (Japan),dabi1,DABI1.VMI
-HDR0167,Dabitsuku 2,JP,needs review,Dabitsuku 2 (Japan),dabi2,DABI2.VMI
+51036,D2,US,ready,D2 (USA) (Disc 1) | D2 (USA) (Disc 2) | D2 (USA) (Disc 3) | D2 (USA) (Disc 4),d2,v93751.vmi
+HDR0084,Dabitsuku 1,JP,ready,Dabitsuku - Derby-ba o Tsukurou! (Japan),dabi1,DABI1.VMI
+HDR0167,Dabitsuku 2,JP,ready,Dabitsuku 2 (Japan),dabi2,DABI2.VMI
 T9508M,Dance Dance Revolution Club Mix,JP,ready,Dance Dance Revolution - Club Version - Dreamcast Edition (Japan),ddrclubmix,DDRCLUB.VMI
 T8120N,Dave Mirra Freestyle BMX,US,ready,Dave Mirra Freestyle BMX (USA),davemirra,v62106.vmi
 51037,Daytona USA,US,ready,Daytona USA (USA),daytona,v84127.vmi
 T3601N,Dead or Alive 2,US,ready,Dead or Alive 2,doa2,v53357.vmi
 T23202M,Death Crimson OX,JP,ready,Death Crimson OX (Japan),deathcrim,deathcox.VMI
-T17705N,Deep Fighter,US,needs review,Deep Fighter (USA) (Disc 1) | Deep Fighter (USA) (Disc 2),deepfighter,v31737.vmi
+T17705N,Deep Fighter,US,ready,Deep Fighter (USA) (Disc 1) | Deep Fighter (USA) (Disc 2),deepfighter,v2644.vmi
 T15112N,Demolition Racer: No Exit,US,ready,Demolition Racer - No Exit (USA),demolitionrace,v21403.vmi
 T46301M,DiGi Charat Fantasy,JP,ready,Di Gi Charat Fantasy (Japan),digichar,DIGICHAR.VMI
 T46302M,DiGi Charat Fantasy,JP,ready,Di Gi Charat Fantasy (Japan),digichar,DIGICHAR.VMI
@@ -69,70 +69,70 @@ T1217N,Dino Crisis,US,ready,Dino Crisis (USA),dinocrisis,v57518.vmi
 T17717N,Dinosaur,US,ready,Disney's Dinosaur (USA),dinosaur,v42869.vmi
 T36804N,Disney World Magical Racing Tour,US,ready,Walt Disney World Quest - Magical Racing Tour (USA),disneymagical,v80503.vmi
 T17719N,Donald Duck: Goin' Quackers,US,ready,Disney's Donald Duck - Goin' Quackers (USA),donaldduck,v2502.vmi
-T40203N,Draconus: Cult of the Wyrm,US,needs review,Draconus - Cult of the Wyrm (USA),draconus,v2726.vmi
-T17720N,Dragon Riders: Chronicles of Pern,US,needs review,Dragon Riders - Chronicles of Pern (USA),dragon,v68252.vmi
+T40203N,Draconus: Cult of the Wyrm,US,ready,Draconus - Cult of the Wyrm (USA),draconus,v59123.vmi
+T17720N,Dragon Riders: Chronicles of Pern,US,ready,Dragon Riders - Chronicles of Pern (USA),dragon,v68252.vmi
 T8113N,Ducati World Racing Challenge,US,ready,Ducati World - Racing Challenge (USA),ducati,v12887.vmi
-51013,Dynamite Cop,US,needs review,Dynamite Cop! (USA),dynamitecop,v65817.vmi
+51013,Dynamite Cop,US,ready,Dynamite Cop! (USA),dynamitecop,v65817.vmi
 51033,Ecco the Dolphin: Defender of the Future,US,ready,"Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es)",ecco,v19532.vmi
 T8114N,ECW: Anarchy Rulz,US,ready,ECW Anarchy Rulz (USA),ecwanarchy,v39669.vmi
 T8112N,ECW: Hardcore Revolution,US,ready,ECW Hardcore Revolution (USA),ecw,v69549.vmi
 T41601N,EGG: Elemental Gimmick Gear,US,ready,Elemental Gimmick Gear (USA),egg,v38057.vmi
-T1223M,Eldorado Gate 1,JP,needs review,Eldorado Gate Dai-1-kan (Japan),eldorado1,eldgate1.VMI
-T1229M,Eldorado Gate 7,JP,needs review,Eldorado Gate Dai-7-kan (Japan),eldorado7,eldgate7.VMI
+T1223M,Eldorado Gate 1,JP,ready,Eldorado Gate Dai-1-kan (Japan),eldorado1,eldgate1.VMI
+T1229M,Eldorado Gate 7,JP,ready,Eldorado Gate Dai-7-kan (Japan),eldorado7,eldgate7.VMI
 T38804M,Espion Age Nts,JP,ready,Espion-Age-nts (Japan),espion,ESPION.VMI
-T9509N,ESPN International Track and Field,US,needs review,ESPN International Track & Field (USA),espntrack,v80721.vmi
+T9509N,ESPN International Track and Field,US,ready,ESPN International Track & Field (USA),espntrack,v80721.vmi
 T9503N,ESPN NBA 2 Night,US,needs review,ESPN NBA 2Night (USA),espnnba,v36243.vmi
 T46303M,Evangelion Ayanami Rei,JP,ready,Shin Seiki Evangelion - Ayanami Ikusei Keikaku (Japan),evarei,vmfl_173.VMI
 T35101M,Evangelion Project E,JP,ready,Shin Seiki Evangelion - Typing E Keikaku (Japan),evaproe,type_e01.VMI
-T10003N,Evil Dead: Hail to the King,US,needs review,Evil Dead - Hail to the King (USA),evildead,v19528.vmi
+T10003N,Evil Dead: Hail to the King,US,ready,Evil Dead - Hail to the King (USA),evildead,v97286.vmi
 T46605D71,Evil Twin,EU,ready,"Evil Twin - Cyprien's Chronicles (Europe) (En,Fr,De,Es,It) | Evil Twin - Cyprien's Chronicles (Europe) (En,Fr)",eviltwin,00000024.vmi
 T46605D80,Evil Twin,EU,ready,"Evil Twin - Cyprien's Chronicles (Europe) (En,Fr,De,Es,It) | Evil Twin - Cyprien's Chronicles (Europe) (En,Fr)",eviltwin,00000024.vmi
 T17706N,Evolution,US,ready,Evolution - The World of Sacred Device (USA),evolution,v77140.vmi
-T17711N,Evolution 2: A Far Off Promise,US,needs review,Evolution 2 - Far Off Promise (USA),evolution2,v68067.vmi
-T15104N,Expendable,US,needs review,"Expendable (USA) (En,Fr,De,Es,It)",expendable,v68167.vmi
+T17711N,Evolution 2: A Far Off Promise,US,ready,Evolution 2 - Far Off Promise (USA),evolution2,00000012.vmi
+T15104N,Expendable,US,ready,"Expendable (USA) (En,Fr,De,Es,It)",expendable,v91860.vmi
 51030,F1 World Grand Prix,US,needs review,"F1 World Grand Prix (USA) (En,Fr,De,Es)",f1worldprix,v75648.vmi
 HDR0100,F355 Challenge,JP,ready,F355 Challenge (Japan),f355challenge,v59007.vmi
-T36801N,Fighting Force 2,US,needs review,Fighting Force 2 (USA) (Rev A) | Fighting Force 2 (USA),fightforce2,v3810.vmi
+T36801N,Fighting Force 2,US,needs review,Fighting Force 2 (USA) (Rev A) | Fighting Force 2 (USA),fightforce2,v94821.vmi
 MK5115450,Fighting Vipers 2,EU,needs review,Fighting Vipers 2,fightvip2,f_snake2.VMI
-T18804M,Fire Pro Wrestling D,JP,needs review,Fire Pro Wrestling D (Japan),fireprowd,SYS.VMI
-51007,Flag To Flag,US,needs review,Flag to Flag (USA),flag2flag,v59453.vmi
+T18804M,Fire Pro Wrestling D,JP,ready,Fire Pro Wrestling D (Japan),fireprowd,SYS.VMI
+51007,Flag To Flag,US,ready,Flag to Flag (USA),flag2flag,v54673.vmi
 51114,Floigan Brothers,US,ready,Floigan Bros. - Episode 1 (USA),floiganbros,v46904.vmi+FBROSJ.VMI
-T34201M,Frame Gride,JP,needs review,Frame Gride (Japan),framegride,FRAMEGR.VMI
+T34201M,Frame Gride,JP,ready,Frame Gride (Japan),framegride,FRAMEGR.VMI
 T40604N,Frogger 2: Swampy's Revenge,US,ready,Frogger 2 - Swampy's Revenge (USA),frogger2,v54472.vmi
 T8107N,Fur Fighters,US,ready,"Fur Fighters (USA) (En,Fr,De,Es)",furfighters,v35224.vmi
-HDR0187,Fushigi Dungeon,JP,needs review,Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan),fushigi,asuka001.VMI
+HDR0187,Fushigi Dungeon,JP,ready,Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan),fushigi,asuka001.VMI
 T3108M,Garou: Mark of the Wolves,JP,needs review,Garou: Mark of the Wolves,garou,garou1.VMI
 T47302M,Garou: Mark of the Wolves,JP,needs review,Garou: Mark of the Wolves,garou,garou1.VMI
-T9710N,Gauntlet Legends,US,needs review,Gauntlet Legends (USA),gauntletlegends,v48502.vmi
+T9710N,Gauntlet Legends,US,ready,Gauntlet Legends (USA),gauntletlegends,v48502.vmi
 HDR0101,Giant Gram 2000,JP,ready,Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuushatachi (Japan),giantgram,GIANTG2K.VMI
 T1209N,Giga Wing,US,ready,GigaWing (USA),gigawing,GIGAWING.VMI
 T1222N,Giga Wing 2,US,ready,GigaWing 2 (USA),gigawing2,v499.vmi
-HDR0004,Godzilla Generations,JP,needs review,Godzilla Generations (Japan),godzilla,GODZILLA.VMI
+HDR0004,Godzilla Generations,JP,ready,Godzilla Generations (Japan),godzilla,GODZILLA.VMI
 T44501M,Golf Shiyouyo,JP,needs review,Golf Shiyou yo 2 - Aratanaru Chousen (Japan),golfshiyo,SHIGOLF2.VMI
 T42102N,Grand Theft Auto 2,US,ready,Grand Theft Auto 2 (USA),gta2,v81958.vmi
-T17716N,Grandia 2,US,needs review,Grandia II (USA),grandia2,v53994.vmi
+T17716N,Grandia 2,US,ready,Grandia II (USA),grandia2,v81729.vmi
 T2401M,Guilty Gear X,JP,ready,Guilty Gear X,guiltygearx,v55699.vmi
 T2402M,Guilty Gear X,JP,ready,Guilty Gear X,guiltygearx,v55699.vmi
 T1214N,Gunbird 2,US,needs review,Gunbird 2 (USA),gunbird2,v33167.vmi
-T13304M,Gundam Battle Online,JP,needs review,Gundam Battle Online (Japan),gundamol,GUNDAMO3.VMI
-T13301N,Gundam Side Story 0079,US,needs review,Gundam Side Story 0079 - Rise from the Ashes (USA),gundam,v58359.vmi
-T13305M,Gundam: Blood Of Zeon,JP,needs review,Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 1) (Earth Federation Disc) | Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 2) (Zeon Disc),gundambz,00000006.vmi
+T13304M,Gundam Battle Online,JP,ready,Gundam Battle Online (Japan),gundamol,GUNDAMO2.VMI
+T13301N,Gundam Side Story 0079,US,ready,Gundam Side Story 0079 - Rise from the Ashes (USA),gundam,v58359.vmi
+T13305M,Gundam: Blood Of Zeon,JP,ready,Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 1) (Earth Federation Disc) | Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 2) (Zeon Disc),gundambz,00000181.vmi
 MK5104150,Head Hunter,EU,ready,"Headhunter (Europe) (En,Fr,De,Es) (Disc 1) | Headhunter (Europe) (En,Fr,De,Es) (Disc 2)",headhunt,v86416.vmi
 T1223N,Heavy Metal: Geomatrix,US,ready,Heavy Metal - Geomatrix (USA),heavymetal,v99350.vmi
 T40502N,Hidden and Dangerous,US,ready,Hidden & Dangerous (USA),hiddendangerous,v45698.vmi
-51002,House of the Dead 2,US,needs review,"House of the Dead 2, The (USA)",house_dead,v3080.vmi
-T11008N,Hoyle Casino,US,needs review,Hoyle Casino (USA),hoyle,v46800.vmi
-HDR0124,Hundred Swords,JP,needs review,Hundred Swords (Japan) | Hundred Swords (Japan) (@barai),hswords,100sword.VMI
-HDR0127,Hundred Swords,JP,needs review,Hundred Swords (Japan) | Hundred Swords (Japan) (@barai),hswords,100sword.VMI
+51002,House of the Dead 2,US,ready,"House of the Dead 2, The (USA)",house_dead,v3080.vmi
+T11008N,Hoyle Casino,US,ready,Hoyle Casino (USA),hoyle,v7562.vmi
+HDR0124,Hundred Swords,JP,ready,Hundred Swords (Japan) | Hundred Swords (Japan) (@barai),hswords,100SWOR3.VMI
+HDR0127,Hundred Swords,JP,ready,Hundred Swords (Japan) | Hundred Swords (Japan) (@barai),hswords,100SWOR3.VMI
 T9702N,Hydro Thunder,US,ready,Hydro Thunder (USA) (Rev 1) | Hydro Thunder (USA),hydrothunder,v17911.vmi
 T38706M,Ikaruga,JP,ready,Ikaruga (Japan),ikaruga,IKARUGA.VMI
-T46001N,Illbleed,US,needs review,Illbleed (USA),illbleed,v76597.vmi+v85416.vmi
+T46001N,Illbleed,US,ready,Illbleed (USA),illbleed,v53049.vmi+v85416.vmi
 T12503N,Incoming,US,ready,Incoming (USA),incoming,v30743.vmi
 T41302N,Industrial Spy: Operation Espionage,US,ready,Industrial Spy - Operation Espionage (USA),industrialspy,v8391.vmi
 T15129N,Iron Aces,US,ready,Iron Aces (USA),ironaces,v91038.vmi
-T8104N,Jeremy McGrath Supercross 2000,US,needs review,Jeremy McGrath Supercross 2000 (USA),jeremymcgrath,v85569.vmi
-51058,Jet Grind Radio,US,needs review,Jet Grind Radio (USA),jetgrindradio,v63649.vmi+v4596.vmi
-51084,Jet Grind Radio,US,needs review,Jet Grind Radio (USA),jetgrindradio,v63649.vmi+v4596.vmi
+T8104N,Jeremy McGrath Supercross 2000,US,ready,Jeremy McGrath Supercross 2000 (USA),jeremymcgrath,v85569.vmi
+51058,Jet Grind Radio,US,ready,Jet Grind Radio (USA),jetgrindradio,v63649.vmi+v4596.vmi
+51084,Jet Grind Radio,US,ready,Jet Grind Radio (USA),jetgrindradio,v63649.vmi+v4596.vmi
 HDR0128,Jet Set Radio DX,JP,needs review,"De La Jet Set Radio (Japan) (En,Ja,Fr,De,Es)",jetsetdx,jetsetdx.VMI
 HDR0186,Jet Set Radio DX,JP,needs review,"De La Jet Set Radio (Japan) (En,Ja,Fr,De,Es)",jetsetdx,jetsetdx.VMI
 T1206N,JoJo's Bizarre Adventure,US,ready,JoJo's Bizarre Adventure,jojo,v11766.vmi
@@ -142,7 +142,7 @@ T22903N,Kao the Kangaroo,US,ready,"Kao the Kangaroo (USA) (En,Es)",kao,v27628.vm
 T13306M,Kidou Senshi Gundam: Renpou vs. Zeon & DX,JP,needs review,Kidou Senshi Gundam: Renpou vs. Zeon & DX,gundamrvz,gundadx1.VMI+gundadx2.VMI
 T41901N,KISS Psycho Circus: The Nightmare Child,US,ready,KISS Psycho Circus - The Nightmare Child (USA),kisspsycho,v18835.vmi
 T9905M,Kono Hana True Report,JP,ready,Konohana - True Report (Japan),truerep,00000004.vmi
-T2501M,Langrisser Millennium,JP,needs review,Langrisser Millennium (Japan),langrisser,langriss.VMI
+T2501M,Langrisser Millennium,JP,ready,Langrisser Millennium (Japan),langrisser,langris2.VMI
 T36802N,Legacy of Kain: Soul Reaver,US,ready,Legacy of Kain - Soul Reaver (USA),legacykain,v3848.vmi
 T15116N,Looney Toons Space Race,US,ready,"Looney Tunes - Space Race (USA) (En,Fr,Es)",looneytoons,v96069.vmi
 HDR0102,Love Hina,JP,ready,Love Hina - Totsuzen no Engage Happening (Japan),lovehina,lovehina.VMI
@@ -165,30 +165,30 @@ T12502N,MDK 2,US,ready,MDK2 (USA),mdk2,v23982.vmi
 T19707M,Memories Off 2nd,JP,ready,Memories Off 2nd (Japan),memoff2,memoff2.VMI
 T19708M,Memories Off 2nd,JP,ready,Memories Off 2nd (Japan),memoff2,memoff2.VMI
 T19702M,Memories Off Complete,JP,ready,Memories Off Complete (Japan),memoff,memoff1.VMI
-51012,Metropolis Street Racer,US,needs review,MSR - Metropolis Street Racer (USA),metropolisracer,v72304.vmi
+51012,Metropolis Street Racer,US,ready,MSR - Metropolis Street Racer (USA),metropolisracer,v72304.vmi
 T19713M,Milky Season,JP,ready,Milky Season (Japan),milky,milkysea.VMI
 T20114M,Mizuiro,JP,ready,Mizuiro (Japan),mizuiro,mizuiro.VMI
 T20115M,Mizuiro,JP,ready,Mizuiro (Japan),mizuiro,mizuiro.VMI
-T17701N,Monaco Grand Prix,US,needs review,Monaco Grand Prix (USA),monacoprix,v42190.vmi
+T17701N,Monaco Grand Prix,US,ready,Monaco Grand Prix (USA),monacoprix,v88272.vmi
 T9701N,Mortal Kombat Gold,US,ready,Mortal Kombat Gold,mkg,v23409.vmi
 T1402N,Mr. Driller,US,ready,Mr. Driller (USA),driller,drilleru.VMI
 T1404N,Ms. Pac-Man Maze Madness,US,ready,Ms. Pac-Man Maze Madness (USA),mspacman,PACMAN.vmi
 T10004N,MTV Sports: Skateboarding,US,ready,MTV Sports - Skateboarding featuring Andy Macdonald (USA),mtvskate,v34809.vmi
 T27901M,Nadesico The Mission,JP,ready,Kidou Senkan Nadesico - Nadesico the Mission (Japan),nadesico,NADESICO.VMI
 T44702M,NaKoRuRu,JP,ready,Nakoruru - Ano Hito kara no Okurimono (Japan),nakoruru,00000020.vmi
-T1403N,Namco Museum,US,needs review,Namco Museum (USA),namcomuseum,v36300.vmi
-T9709N,NBA Hoopz,US,needs review,NBA Hoopz (USA),nbahoopz,v13529.vmi
+T1403N,Namco Museum,US,ready,Namco Museum (USA),namcomuseum,v15212.vmi
+T9709N,NBA Hoopz,US,ready,NBA Hoopz (USA),nbahoopz,v13529.vmi
 T9706N,NBA Showtime: NBA on NBC,US,ready,NBA Showtime - NBA on NBC (USA),nbashow,v14808.vmi
-51176,NCAA College Football 2K2: Road to the Rose Bowl,US,needs review,NCAA College Football 2K2 - Road to the Rose Bowl (USA),ncaa,v26223.vmi
+51176,NCAA College Football 2K2: Road to the Rose Bowl,US,ready,NCAA College Football 2K2 - Road to the Rose Bowl (USA),ncaa,v26223.vmi
 T19703M,Never 7: The End of Infinity,JP,ready,Never 7 - The End of Infinity (Japan),never7,never7.VMI
-T9703N,NFL Blitz 2000,US,needs review,NFL Blitz 2000 (USA) | NFL Blitz 2000 (USA) (Rev 1),nflblitz,v21453.vmi
-T9712N,NFL Blitz 2001,US,needs review,NFL Blitz 2001 (USA),nflblitz2k1,v58068.vmi
-T9504N,Nightmare Creatures 2,US,needs review,Nightmare Creatures II (USA),nightcreature2,v74500.vmi
-T36807N,Omikron: The Nomad Soul,US,needs review,"Omikron - The Nomad Soul (USA) (En,Fr,De,Es,It)",omikron,v66653.vmi
+T9703N,NFL Blitz 2000,US,ready,NFL Blitz 2000 (USA) | NFL Blitz 2000 (USA) (Rev 1),nflblitz,v21453.vmi
+T9712N,NFL Blitz 2001,US,ready,NFL Blitz 2001 (USA),nflblitz2k1,v58068.vmi
+T9504N,Nightmare Creatures 2,US,ready,Nightmare Creatures II (USA),nightcreature2,v22798.vmi
+T36807N,Omikron: The Nomad Soul,US,ready,"Omikron - The Nomad Soul (USA) (En,Fr,De,Es,It)",omikron,v89140.vmi
 51140,Ooga Booga,US,ready,Ooga Booga (USA),ooga,v81380.vmi
 51102,Outtrigger,US,ready,Outtrigger (USA),outtrigger,v4846.vmi
 T15105N,Pen Pen Trilcelon,US,ready,PenPen TriIcelon (USA),penpen,v92450.vmi
-51100,Phantasy Star Online,US,needs review,"Phantasy Star Online (USA) (En,Ja,Fr,De,Es)",pso,PSO_D1J.VMI
+51100,Phantasy Star Online,US,needs review,"Phantasy Star Online (USA) (En,Ja,Fr,De,Es)",pso,USFIRES1.VMI+USFIRES2.VMI+USSTEEL1.VMI+USSTEEL2.VMI+LETTER1.VMI+RAREMAT1.VMI+RAREMAT2.VMI
 51193,Phantasy Star Online Version 2,US,ready,"Phantasy Star Online Ver. 2 (USA) (En,Ja,Fr,De,Es)",pso2,v14517.vmi
 T20110M,Pia Carrot 3,JP,ready,Pia Carrot e Youkoso!! 3 (Japan),pia3,PIA3BEST.VMI
 T1207N,Plasma Sword,US,ready,Plasma Sword,plasmasword,v78823.vmi
@@ -206,11 +206,11 @@ T1219N,Project Justice,US,ready,Project Justice,projectjustice,schoolus.VMI
 T31101N,Psychic Force 2012,US,ready,Psychic Force 2012,psychicforce,v27440.vmi
 HDR0216,Puyo Pop Fever,JP,ready,"Puyo Puyo Fever (Japan) (En,Ja)",puyofever,00001654.VMI
 HDR0217,Puyo Pop Fever,JP,ready,"Puyo Puyo Fever (Japan) (En,Ja)",puyofever,00001654.VMI
-HDR0014,Puyo Puyo 4,JP,needs review,Puyo Puyoon (Japan),puyopuyo4,PUYOP4.VMI
+HDR0014,Puyo Puyo 4,JP,ready,Puyo Puyoon (Japan),puyopuyo4,PUYOP4.VMI
 51061,Quake 3 Arena,US,ready,Quake III - Arena (USA),quake3,v84042.vmi
 T41902N,Railroad Tycoon 2,US,ready,Railroad Tycoon II (USA),railroadtycoon2,v43042.vmi
 T9901M,Rainbow Cotton,JP,ready,Rainbow Cotton (Japan),rainbowcotton,RAINCOT.VMI
-T40401N,Rainbow Six,US,needs review,Tom Clancy's Rainbow Six with Eagle Watch Missions (USA),rainbowsix,RAINBOW6.VMI
+T40401N,Rainbow Six,US,ready,Tom Clancy's Rainbow Six with Eagle Watch Missions (USA),rainbowsix,RAINBOW6.VMI
 T40402N,Rainbow Six: Rogue Spear,US,ready,Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (USA),rsrogue,v95448.vmi
 T17704N,Rayman 2: The Great Escape,US,ready,"Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",rayman2,v17571.vmi+v5124.vmi
 T40219N,Razor Freestyle Scooter,US,ready,Razor Freestyle Scooter (USA),razor,v47428.vmi
@@ -222,16 +222,16 @@ T40215N,Red Dog: Superior Fire Power,US,ready,Red Dog - Superior Firepower (USA)
 T15002M,Redline Racer,JP,needs review,Redline Racer (Japan),redlineracer,REDRACE.VMI
 T44303N,Reel Fishing Wild,US,ready,Reel Fishing + Wild (USA),reelfish,v60365.vmi
 HDR0074,Rent A Hero No. 1,JP,ready,Rent a Hero No. 1 (Japan),rentahero,v47039.vmi
-T1205N,Resident Evil 2,US,needs review,Resident Evil 2 (USA) (Disc 1) | Resident Evil 2 (USA) (Disc 2),residentevil2,v50830.vmi
-T1220N,Resident Evil 3: Nemesis,US,needs review,Resident Evil 3 - Nemesis (USA),residentevil3,v27144.vmi
-T1204N,Resident Evil: Code Veronica,US,needs review,Resident Evil - Code - Veronica (USA) (Disc 1) | Resident Evil - Code - Veronica (USA) (Disc 2),resident_evil,v65733.vmi
+T1205N,Resident Evil 2,US,ready,Resident Evil 2 (USA) (Disc 1) | Resident Evil 2 (USA) (Disc 2),residentevil2,v68066.vmi
+T1220N,Resident Evil 3: Nemesis,US,ready,Resident Evil 3 - Nemesis (USA),residentevil3,v27144.vmi
+T1204N,Resident Evil: Code Veronica,US,ready,Resident Evil - Code - Veronica (USA) (Disc 1) | Resident Evil - Code - Veronica (USA) (Disc 2),resident_evil,v65733.vmi
 T1301M,Revive,JP,ready,Revive... - Sosei (Japan),revive,revive1.VMI
 MK5119250,Rez,EU,ready,"Rez (Europe) (En,Ja,Fr,De,Es,It)",rez,rez9999.VMI
 51010,Rippin' Riders,US,ready,Rippin' Riders Snowboarding (USA),rippinriders,00000579.vmi
-T22901N,Roadsters,US,needs review,Roadsters (USA),roadsters,v43459.vmi
-T19502M,Roommate Novel,JP,needs review,Roommate Novel - Satou Yuka (Japan),roommate,ROOMMATE.VMI
-HDR0126,SaKaToKu 1,JP,needs review,Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) | Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A),sakato1,TEDAH1_1.VMI
-HDR0183,SaKaToKu 2,JP,needs review,Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan),sakato2,TEDAH2e1.VMI
+T22901N,Roadsters,US,needs review,Roadsters (USA),roadsters,v96969.vmi
+T19502M,Roommate Novel,JP,ready,Roommate Novel - Satou Yuka (Japan),roommate,ROOMMATE.VMI
+HDR0126,SaKaToKu 1,JP,ready,Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) | Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A),sakato1,TEDAH1_1.VMI
+HDR0183,SaKaToKu 2,JP,ready,Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan),sakato2,TEDAH2e1.VMI
 HDR0115,Sakura Card Captor: Tomoyo Video,JP,needs review,Cardcaptor Sakura - Tomoyo no Video Daisakusen (Japan),sakura_card,v14383.vmi
 HDR0132,Sakura Card Captor: Tomoyo Video,JP,needs review,Cardcaptor Sakura - Tomoyo no Video Daisakusen (Japan),sakura_card,v14383.vmi
 HDR0089,Sakura Wars 1,JP,ready,Sakura Taisen (Japan) (Disc 1) | Sakura Taisen (Japan) (Disc 2) | Sakura Taisen (Japan) (Disc 2) (Rev A) | Sakura Taisen (Japan) (Disc 1) (Rev A),sakura1,sw1_sys.VMI
@@ -247,44 +247,44 @@ HDR0191,Sakura Wars 4,JP,ready,Sakura Taisen 4 - Koi seyo Otome (Japan),sakura4,
 HDR0202,Sakura Wars 4,JP,ready,Sakura Taisen 4 - Koi seyo Otome (Japan),sakura4,00000023.vmi
 HDR0046,Sakura Wars Columns,JP,needs review,Sakura Taisen - Hanagumi Taisen Columns 2 (Japan),sakurapz,sakurapz.VMI
 HDR0057,Sakura Wars Kayou Show,JP,ready,Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1) | Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2),sakuraks,SWDASHEN.VMI
-51092,Samba de Amigo,US,needs review,Samba de Amigo (USA),samba,v39888.vmi
+51092,Samba de Amigo,US,ready,Samba de Amigo (USA),samba,v39888.vmi
 T9707N,San Francisco Rush 2049,US,ready,"San Francisco Rush 2049 (USA) (En,Fr,De,Es,It,Nl)",rush2049,v82401.vmi
 51006,Sega Bass Fishing,US,ready,Sega Bass Fishing (USA),bassfish,v21584.vmi
-51166,Sega Bass Fishing 2,US,needs review,Sega Bass Fishing 2 (USA),bassfish2,v88108.vmi
+51166,Sega Bass Fishing 2,US,ready,Sega Bass Fishing 2 (USA),bassfish2,v40328.vmi
 MK51053,Sega GT,US,ready,Sega GT (USA),segagt,v64594.vmi
 51096,Sega Marine Fishing,US,ready,Sega Marine Fishing (USA),marinefish,v72852.vmi
-51019,Sega Rally Championship 2,US,needs review,Sega Rally 2 (USA),segarally,v26643.vmi
-51146,Sega Smash Pack Vol. 1,US,needs review,Sega Smash Pack - Volume 1 (USA),smashpack,v55779.vmi
-51004,Sega Sports NBA 2K,US,needs review,NBA 2K (USA),nba2k,v90157.vmi
+51019,Sega Rally Championship 2,US,ready,Sega Rally 2 (USA),segarally,SGRALLY2.VMI
+51146,Sega Smash Pack Vol. 1,US,ready,Sega Smash Pack - Volume 1 (USA),smashpack,MDEMU001.VMI+MDEMU002.VMI+v28454.vmi
+51004,Sega Sports NBA 2K,US,ready,NBA 2K (USA),nba2k,v90157.vmi
 51063,Sega Sports NBA 2K1,US,ready,NBA 2K1 (USA),nba2k1,v77819.vmi+v23656.vmi
 51178,Sega Sports NBA 2K2,US,ready,NBA 2K2 (USA),nba2k2,v37129.vmi
-51003,Sega Sports NFL 2K,US,needs review,NFL 2K (USA),nfl2k,v40814.vmi
+51003,Sega Sports NFL 2K,US,ready,NFL 2K (USA),nfl2k,v41856.vmi
 51062,Sega Sports NFL 2K1,US,ready,"NFL 2K1 (USA, Canada)",nfl2k1,v92764.vmi+v45179.vmi
 51069,Sega Sports NFL 2K1,US,ready,"NFL 2K1 (USA, Canada)",nfl2k1,v92764.vmi+v45179.vmi
 51168,Sega Sports NFL 2K2,US,ready,NFL 2K2 (USA),nfl2k2,v76050.vmi
 51025,Sega Sports NHL 2K,US,ready,"NHL 2K (USA, Canada)",nhl2k,v62214.vmi
 51124,Sega Sports NHL 2K,US,ready,"NHL 2K (USA, Canada)",nhl2k,v62214.vmi
-HDR0083,SeGaGaGa,JP,needs review,SGGG - Segagaga (Japan) | SGGG - Segagaga (Japan) (Rev A),segagaga,SEGAGAGA.VMI
-HDR0151,SeGaGaGa,JP,needs review,SGGG - Segagaga (Japan) | SGGG - Segagaga (Japan) (Rev A),segagaga,SEGAGAGA.VMI
-HDR0171,SeGaGaGa,JP,needs review,SGGG - Segagaga (Japan) | SGGG - Segagaga (Japan) (Rev A),segagaga,SEGAGAGA.VMI
-T42201M,Seirei Hata Ray Blade,JP,needs review,Seireiki Rayblade (Japan),seirei,SHENGLJ1.VMI
-T41301N,Seventh Cross Evolution,US,needs review,Seventh Cross Evolution (USA),seventhcrossevolution,00000176.vmi
+HDR0083,SeGaGaGa,JP,ready,SGGG - Segagaga (Japan) | SGGG - Segagaga (Japan) (Rev A),segagaga,SEGAGAGA.VMI
+HDR0151,SeGaGaGa,JP,ready,SGGG - Segagaga (Japan) | SGGG - Segagaga (Japan) (Rev A),segagaga,SEGAGAGA.VMI
+HDR0171,SeGaGaGa,JP,ready,SGGG - Segagaga (Japan) | SGGG - Segagaga (Japan) (Rev A),segagaga,SEGAGAGA.VMI
+T42201M,Seirei Hata Ray Blade,JP,needs review,Seireiki Rayblade (Japan),seirei,SHENGLJ2.VMI
+T41301N,Seventh Cross Evolution,US,ready,Seventh Cross Evolution (USA),seventhcrossevolution,00000176.vmi
 T8106N,Shadow Man,US,ready,Shadow Man (USA) | Shadow Man (USA) (Rev A),shadowman,v92438.vmi+v8737.vmi
 51059,Shenmue Chapter 1: Yokosuka,US,ready,Shenmue (USA) (Disc 1) | Shenmue (USA) (Disc 2) | Shenmue (USA) (Disc 3) | Shenmue (USA) (Shenmue Passport),shenmue,v98269.vmi
 51131,Shenmue Chapter 1: Yokosuka,US,ready,Shenmue (USA) (Disc 1) | Shenmue (USA) (Disc 2) | Shenmue (USA) (Disc 3) | Shenmue (USA) (Shenmue Passport),shenmue,v98269.vmi
 MK5118450,Shenmue II,EU,ready,"Shenmue II (Europe) (En,Fr,De,Es) (Disc 1) | Shenmue II (Europe) (En,Fr,De,Es) (Disc 2) | Shenmue II (Europe) (En,Fr,De,Es) (Disc 3) | Shenmue II (Europe) (En,Fr,De,Es) (Disc 4)",shenmue2,v91835.vmi
 T9507N,Silent Scope,US,ready,Silent Scope (USA),silentscope,v91000.vmi
-T15108N,Silver,US,needs review,Silver (USA),silver,v760.vmi
-51052,Skies of Arcadia,US,needs review,Skies of Arcadia (USA) (Disc 1) | Skies of Arcadia (USA) (Disc 2),arcadia,v28902.vmi+sa_d01.vmi+sa_d02.vmi+sa_d03.vmi+v94208.vmi
-T15106N,Slave Zero,US,needs review,Slave Zero (USA) | Slave Zero (USA) (Rev A),slave_zero,v33117.vmi
-T40207N,Sno-Cross Championship Racing,US,needs review,SnoCross Championship Racing (USA),snocross,v78041.vmi
+T15108N,Silver,US,ready,Silver (USA),silver,v760.vmi
+51052,Skies of Arcadia,US,ready,Skies of Arcadia (USA) (Disc 1) | Skies of Arcadia (USA) (Disc 2),arcadia,v28902.vmi+sa_d01.vmi+sa_d02.vmi+sa_d03.vmi+v94208.vmi
+T15106N,Slave Zero,US,ready,Slave Zero (USA) | Slave Zero (USA) (Rev A),slave_zero,v31826.vmi
+T40207N,Sno-Cross Championship Racing,US,ready,SnoCross Championship Racing (USA),snocross,v78041.vmi
 T40212N,Soldier of Fortune,US,ready,Soldier of Fortune (USA),soldierfortune,v71043.vmi
 51000,Sonic Adventure,US,ready,"Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A) | Sonic Adventure (USA) (En,Ja,Fr,De,Es)",sonic,v34162.vmi+v90593.vmi
 51117,Sonic Adventure 2,US,ready,"Sonic Adventure 2 (USA) (En,Ja,Fr,De,Es)",sonic2,v55288.vmi+v47754.vmi
 51060,Sonic Shuffle,US,needs review,Sonic Shuffle (USA),sonicshuffle,v58859.vmi
-T9102M,Sorcerian,JP,needs review,Sorcerian - Shichisei Mahou no Shito (Japan),sorcer,7XING.VMI
-T9103M,Sorcerian,JP,needs review,Sorcerian - Shichisei Mahou no Shito (Japan),sorcer,7XING.VMI
-T41401N,Soul Fighter,US,needs review,Soul Fighter (USA),soulfighter,v20176.vmi
+T9102M,Sorcerian,JP,ready,Sorcerian - Shichisei Mahou no Shito (Japan),sorcer,7XING.VMI
+T9103M,Sorcerian,JP,ready,Sorcerian - Shichisei Mahou no Shito (Japan),sorcer,7XING.VMI
+T41401N,Soul Fighter,US,ready,Soul Fighter (USA),soulfighter,v20176.vmi
 T1401N,Soulcalibur,US,ready,Soulcalibur,soulcalibur,v27888.vmi
 T8116N,South Park Rally,US,ready,South Park Rally (USA),southparkrally,v76554.vmi
 51051,Space Channel 5,US,ready,Space Channel 5 (USA),spacechannel5,v53161.vmi
@@ -305,11 +305,11 @@ T1213N,Street Fighter III: 3rd Strike,US,ready,Street Fighter III: 3rd Strike,st
 T1210N,Street Fighter III: Double Impact,US,ready,Street Fighter III: Double Impact,streetfight3di,v50554.vmi
 T15111N,Striker Pro 2000,US,ready,Striker Pro 2000 (USA),strikerpro2k,v3240.vmi
 T22904D50,Stunt GP,EU,ready,"Stunt GP (Europe) (En,Fr,De,Es,It,Nl,Sv)",stuntgp,STUNTGP.VMI
-T17708N,Stupid Invaders,US,needs review,Stupid Invaders (USA) (Disc 1) | Stupid Invaders (USA) (Disc 2),stupidinvaders,v78852.vmi
+T17708N,Stupid Invaders,US,ready,Stupid Invaders (USA) (Disc 1) | Stupid Invaders (USA) (Disc 2),stupidinvaders,v1814.vmi
 T41101M,Sunrise Eiyuutan,JP,ready,Sunrise Eiyuutan (Japan),sunrise_eiyu,SUNRISE.VMI
 T20601M,Super Hero Retsuden,JP,ready,Tokusatsu Bouken Katsugeki Super Hero Retsuden (Japan),heroretsuden,supehero.VMI
 T40206N,Super Magnetic Neo,US,ready,Super Magnetic Neo (USA),supermagicneo,v88771.vmi
-T20602M,Super Robot Wars Alpha,JP,needs review,Super Robot Taisen Alpha (Japan),srw,SRWREAL2.VMI
+T20602M,Super Robot Wars Alpha,JP,ready,Super Robot Taisen Alpha (Japan),srw,SRWLAST2.VMI+SRWSYSTE.VMI
 T12511N,Super Runabout SF Edition,US,ready,Super Runabout - San Francisco Edition (USA),superrun,v62262.vmi
 T1236M,Super Street Fighter II X for Matching Service,JP,ready,Super Street Fighter II X for Matching Service,ssf2x,SSF2X.VMI
 T40216N,Surf Rocket Racers,US,ready,Surf Rocket Racers (USA),surfrocket,v85992.vmi
@@ -319,10 +319,10 @@ T36808N,Sydney 2000,US,ready,Sydney 2000 (USA),sydney2000,v48886.vmi
 T44401M,Tantei Shinshi Dash,JP,ready,Tantei Shinshi Dash! (Japan) | Tantei Shinshi Dash! (Japan) (Rev A),tanteidash,ZhenTan.VMI
 T44403M,Tantei Shinshi Dash,JP,ready,Tantei Shinshi Dash! (Japan) | Tantei Shinshi Dash! (Japan) (Rev A),tanteidash,ZhenTan.VMI
 T1208N,Tech Romancer,US,ready,Tech Romancer,techromancer,v75767.vmi
-T8108N,Tee-Off,US,needs review,Tee Off (USA),teeoff,v78706.vmi
+T8108N,Tee-Off,US,ready,Tee Off (USA),teeoff,00000586.vmi
 T15102N,Test Drive 6,US,ready,Test Drive 6 (USA),testdrive6,v26596.vmi
-T15123N,Test Drive Le Mans,US,needs review,"Test Drive Le Mans (USA) (En,Fr,Es)",lemans,v13162.vmi
-T15110N,Test Drive V-Rally,US,needs review,"Test Drive V-Rally (USA) (En,Fr,De)",vrally,v93443.vmi
+T15123N,Test Drive Le Mans,US,ready,"Test Drive Le Mans (USA) (En,Fr,Es)",lemans,v40738.vmi
+T15110N,Test Drive V-Rally,US,ready,"Test Drive V-Rally (USA) (En,Fr,De)",vrally,v93443.vmi
 T9512N,The Grinch,US,ready,"Grinch, The (USA) (En,Fr,Es)",grinch,v5981.vmi
 T47303M,The King of Fighters 2000,JP,ready,The King of Fighters 2000,kof2000,KOF_2000.VMI
 T47304M,The King of Fighters 2001,JP,ready,The King of Fighters 2001,kof2001,KOF_2001.VMI
@@ -330,16 +330,16 @@ T47305M,The King of Fighters 2002,JP,ready,The King of Fighters 2002,kof2002,KOF
 T3101N,The King of Fighters: Dream Match 1999,US,ready,The King of Fighters: Dream Match 1999,kof99dm,v93429.vmi
 T44302N,The King of Fighters: Evolution,US,ready,The King of Fighters: Evolution,kof99evo,v62523.vmi
 T44305N,The Last Blade 2,US,ready,The Last Blade 2,lastblade2,v35892.vmi
-T40214N,The Next Tetris: Net Edition,US,needs review,"Next Tetris, The - On-Line Edition (USA)",tetris,00000025.vmi
-T44502M,The Rhapsody Of Zephyr,JP,needs review,"Rhapsody of Zephyr, The (Japan)",rzephyr,XIFENG01.VMI
-T15122N,The Ring: Terror's Realm,US,needs review,"Ring, The - Terror's Realm (USA)",thering,v72336.vmi
+T40214N,The Next Tetris: Net Edition,US,ready,"Next Tetris, The - On-Line Edition (USA)",tetris,v10638.vmi
+T44502M,The Rhapsody Of Zephyr,JP,ready,"Rhapsody of Zephyr, The (Japan)",rzephyr,XIFENG02.VMI
+T15122N,The Ring: Terror's Realm,US,ready,"Ring, The - Terror's Realm (USA)",thering,THERING.VMI
 51144,The Typing Of The Dead,US,ready,"Typing of the Dead, The (USA)",typingdead,TYPEDEAD.VMI
 T42802M,The Virgin On Megiddo,JP,ready,Kaen Seibo - The Virgin on Megiddo (Japan) (Disc 1) | Kaen Seibo - The Virgin on Megiddo (Japan) (Disc 2),megiddo,huoyansh.VMI
 51011,Time Stalkers,US,ready,Time Stalkers (USA),timestalkers,v67772.vmi
 T13701N,TNN Motorsports Hardcore Heat,US,ready,TNN Motorsports Hardcore Heat (USA),hardcore,v87901.vmi
 T35402M,Tokyo Bus Guide,JP,ready,Tokyo Bus Guide (Japan) | Tokyo Bus Guide (Japan) (Rev A),tokyobus,TOKYOBUS.VMI
 T40202N,Tokyo Xtreme Racer,US,ready,Tokyo Xtreme Racer (USA),tokyo,v81983.vmi
-T40211N,Tokyo Xtreme Racer 2,US,needs review,Tokyo Xtreme Racer 2 (USA),tokyo2,v33171.vmi
+T40211N,Tokyo Xtreme Racer 2,US,ready,Tokyo Xtreme Racer 2 (USA),tokyo2,v33171.vmi
 T36812N,Tomb Raider: Chronicles,US,ready,Tomb Raider Chronicles (USA),tombraider5,v49962.vmi
 T36806N,Tomb Raider: The Last Revelation,US,ready,Tomb Raider - The Last Revelation (USA),tombraider,00000001.vmi
 T40205N,Tony Hawk's Pro Skater,US,ready,Tony Hawk's Pro Skater (USA),tonyhawk,v82327.vmi
@@ -347,18 +347,18 @@ T13006N,Tony Hawk's Pro Skater 2,US,ready,Tony Hawk's Pro Skater 2 (USA),tonyhaw
 51020,Toy Commander,US,ready,"Toy Commander (USA) (En,Fr,De,Es)",toycommander,v50553.vmi
 T13003N,Toy Story 2,US,ready,Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA),toystory,v38204.vmi
 T8102N,Trickstyle,US,ready,TrickStyle (USA),trickstyle,00000168.vmi
-T9104M,Tricolore Crise,JP,needs review,Tricolore Crise (Japan),tricolore,3jiao.VMI
+T9104M,Tricolore Crise,JP,ready,Tricolore Crise (Japan),tricolore,3jiao3.VMI
 T40204N,Ultimate Fighting Championship,US,needs review,Ultimate Fighting Championship,ufc,v13438.vmi+v67002.vmi
 T15125N,Unreal Tournament,US,ready,"Unreal Tournament (USA) (En,Fr,De,Es,It)",unreal,v97099.vmi
 T36810N,Urban Chaos,US,ready,"Urban Chaos (USA) (En,Fr)",urbanchaos,v247.vmi
 T8110N,Vanishing Point,US,ready,Vanishing Point (USA),vanishpoint,v10038.vmi
 T5302M,Vermilion Desert,JP,ready,Vermilion Desert (Japan),vermilion,00001212.VMI
 T13002N,Vigilante 8: 2nd Offense,US,ready,Vigilante 8 - 2nd Offense (USA),vigilante8,v69901.vmi
-MK5109450,Virtua Athlete 2K,EU,needs review,"Virtua Athlete 2K (Europe) (En,Fr,De,Es)",virtuaathlete,v1963.vmi
+MK5109450,Virtua Athlete 2K,EU,ready,"Virtua Athlete 2K (Europe) (En,Fr,De,Es)",virtuaathlete,v1963.vmi
 HDR0061,Virtua Cop 2,JP,ready,Virtua Cop 2 (Japan),virtuacop2,v59185.vmi
 51001,Virtua Fighter 3tb,US,ready,Virtua Fighter 3tb,vf,v57870.vmi
 51028,Virtua Striker 2,US,ready,"Virtua Striker 2 (USA) (En,Ja,De,Es)",virtuastriker,v21388.vmi
-51054,Virtua Tennis,US,needs review,Virtua Tennis,virtuatennis,v6482.vmi
+51054,Virtua Tennis,US,ready,Virtua Tennis,virtuatennis,v6482.vmi
 51186,Virtua Tennis 2 (Tennis 2K2),US,ready,Virtua Tennis 2 (Tennis 2K2),virtuatennis2,TENN2K2.VMI
 T13004N,Virtual-On: Oratorio Tangram,US,needs review,Virtual-On: Oratorio Tangram,virtualon,v1971.vmi+v39368.vmi+v8748.vmi
 _EXTRAS/MINIGAMES01,VMU minigames 01: Homebrew & fan minigames,-,ready,(not a disc: standalone VMU minigame collection),minigames,ZUQIU.VMI+ALNFIGHT.VMI
@@ -388,10 +388,10 @@ _EXTRAS/MINIGAMES24,VMU minigames 24: Animations & music videos,-,ready,(not a d
 _EXTRAS/MINIGAMES25,VMU minigames 25: Animations & music videos,-,ready,(not a disc: standalone VMU minigame collection),minigames,00003291.VMI
 _EXTRAS/MINIGAMES26,VMU minigames 26: Animations & music videos,-,ready,(not a disc: standalone VMU minigame collection),minigames,00004662.VMI
 T15113N,Wacky Races,US,ready,Wacky Races (USA),wackyraces,v76433.vmi
-T8111N,Wetrix+,US,needs review,Wetrix+ (USA),wetrix,v39228.vmi
+T8111N,Wetrix+,US,ready,Wetrix+ (USA),wetrix,v39228.vmi
 T42101N,Wild Metal,US,ready,"Wild Metal (USA) (En,Fr,De,Es,It,Pt)",wildmetal,v56159.vmi
-51055,World Series Baseball 2K1,US,needs review,World Series Baseball 2K1 (USA),baseball2k1,v54876.vmi
-51152,World Series Baseball 2K2,US,needs review,World Series Baseball 2K2 (USA),baseball2k2,v95783.vmi
+51055,World Series Baseball 2K1,US,ready,World Series Baseball 2K1 (USA),baseball2k1,v54876.vmi
+51152,World Series Baseball 2K2,US,ready,World Series Baseball 2K2 (USA),baseball2k2,v95783.vmi
 T40601N,Worms Armageddon,US,ready,"Worms Armageddon (USA) (En,Fr,De,Nl,Sv,No,Da)",worm,v54621.vmi
 T22904N,Worms World Party,US,ready,"Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",wormparty,v66120.vmi
 T8103N,WWF Attitude,US,ready,WWF Attitude (USA),wwfattitude,00000855.vmi
