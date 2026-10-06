@@ -10,7 +10,7 @@ is different and would not match.) A disc with several header numbers (revisions
 > a Dreamcast, or a VMU Pro. Try one first (see "Try one first" below) and tell me what happens.
 
 ## Quick start
-**Nothing showing in the VMU Browser?** Check the card holds exactly `/Dreamcast/<name>/<name>-1.vmu` at the root (not `/Dreamcast/Dreamcast/...` or inside an extra folder from unzipping), then test with just a few cards first (for example `T1201N`, `51000`, `MINIGAMES01`) to rule out a card-count limit.
+**Nothing showing in the VMU Browser?** Check the card holds exactly `/Dreamcast/<name>/<name>-1.vmu` at the root (not `/Dreamcast/Dreamcast/...` or inside an extra folder from unzipping), then test with just a few cards first (for example `T1201N`, `MK51000`, `MG_VMU_Football`) to rule out a card-count limit.
 
 1. **Back up your microSD card** (and any existing `/Dreamcast` folder). Nothing here writes to a device for you.
 2. Copy the **contents of `vmupro/`** (the `dreamcast` folder) to the root of the VMU Pro's microSD card, so you end up with
