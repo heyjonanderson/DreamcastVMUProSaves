@@ -2687,7 +2687,7 @@
  {
   "dir": "ready_rumble2",
   "title": "Ready to Rumble Boxing 2",
-  "rname": "Ready 2 Rumble Boxing (USA) (Rerelease) | Ready 2 Rumble Boxing (USA) | Ready 2 Rumble Boxing - Round 2 (USA) (En,Fr,De)",
+  "rname": "Ready 2 Rumble Boxing - Round 2 (USA) (En,Fr,De)",
   "ids": [
    "T-9717N"
   ],
@@ -2697,7 +2697,7 @@
   ],
   "completion": "Best of 24: Everything, I mean EVERYTHING unlocked. All boxers, all champ costumes, all holiday costumes and an extra game mode (TRAINING). The Ultimate",
   "status": "ready",
-  "notes": "ID T-9704N shared with another game's disc, card not duplicated; single filename across archive; region of save unlabelled; also released: EU"
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
  },
  {
   "dir": "reclodoss",

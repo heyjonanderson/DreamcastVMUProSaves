@@ -1,9 +1,10 @@
 # Dreamcast VMU Pro saves
 
 Fully unlocked (or best-available) Dreamcast save data, one 128 KB `.vmu` card image per game, laid out for the
-8BitMods VMU Pro: `vmupro/Dreamcast/<GAMEID>/<GAMEID>-1.vmu`. **337 games, 366 game cards**, plus 26 VMU minigame
-cards and 9 cheat-device code cards. One game per title: US release preferred, else EU, else JP. Game IDs come from the
-Redump Dreamcast database; discs with several IDs get the same card under each ID.
+8BitMods VMU Pro: `vmupro/Dreamcast/<GAMEID>/<GAMEID>-1.vmu`. **337 games, 343 game cards**, plus 26 VMU minigame
+cards and 9 cheat-device code cards. One game per title: US release preferred, else EU, else JP. Folder names are the disc-header **Product Number** (e.g. Sonic Adventure US is `MK-51000` -> `MK51000`), taken from the
+kevh182/Redump_GameID list, because that is the ID the VMU Pro's GameID matches. (Redump's own serial for that disc, `51000`,
+is different and would not match.) A disc with several header numbers (revisions) gets a card under each.
 
 > **Not hardware-tested.** Every card parses back cleanly with two independent checkers, but none has been loaded in EVMU,
 > a Dreamcast, or a VMU Pro. Try one first (see "Try one first" below) and tell me what happens.

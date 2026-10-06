@@ -8,4 +8,4 @@ are listed in `_project/credits.csv` where the archive names them.
 The VMU card images here are derivative works of that archive (single VMI/VMS saves wrapped
 into 128 KB VMU images). The GPL-3.0 licence text is in `LICENSE-GPL-3.0.txt`.
 
-Product IDs are from the Redump Dreamcast database (redump.org).
+Product IDs come from the Redump Dreamcast database (redump.org); disc-header Product Numbers (used as card folder names) come from kevh182/Redump_GameID (https://github.com/kevh182/Redump_GameID).

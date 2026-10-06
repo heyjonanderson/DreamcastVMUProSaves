@@ -26,15 +26,20 @@ function build(files){
   img.writeUInt16LE(FATB,r+0x46);img.writeUInt16LE(1,r+0x48);img.writeUInt16LE(DIRB,r+0x4a);img.writeUInt16LE(DIRN,r+0x4c);img.writeUInt16LE(0,r+0x4e);img.writeUInt16LE(USER,r+0x50);
   fat.writeUInt16LE(EOC,ROOT*2);fat.writeUInt16LE(EOC,FATB*2);
   for(let i=0;i<DIRN;i++)fat.writeUInt16LE(i===DIRN-1?EOC:DIRB-i-1,(DIRB-i)*2);
-  let next=USER-1;
+  // Game (0xCC) files: header sits at block 1 of the file (dir hdr-offset=1) and they are laid out ascending from block 0,
+  // as on a real VMU. Data files are laid out descending from block 199 (as the Dreamcast does).
+  let nextLow=0,nextHigh=USER-1;
   files.forEach((f,idx)=>{
     const nb=Math.ceil(f.data.length/BLK);
-    const blocks=[];for(let i=0;i<nb;i++){if(next<0)throw new Error('card full');blocks.push(next--);}
+    const isGame=f.type===0xcc;
+    const blocks=[];for(let i=0;i<nb;i++){
+      const b=isGame?nextLow++:nextHigh--;
+      if(isGame?b>nextHigh:b<nextLow)throw new Error('card full');blocks.push(b);}
     blocks.forEach((b,i)=>{f.data.copy(img,b*BLK,i*BLK,Math.min((i+1)*BLK,f.data.length));fat.writeUInt16LE(i===nb-1?EOC:blocks[i+1],b*2);});
     const e=(DIRB-Math.floor(idx/16))*BLK+(idx%16)*32;
     img[e]=f.type||0x33;img[e+1]=f.protect?0xff:0;img.writeUInt16LE(blocks[0],e+2);
     Buffer.from(f.name.padEnd(12,'\0').slice(0,12),'latin1').copy(img,e+4);
-    ts(f.time).copy(img,e+0x10);img.writeUInt16LE(nb,e+0x18);img.writeUInt16LE(0,e+0x1a);
+    ts(f.time).copy(img,e+0x10);img.writeUInt16LE(nb,e+0x18);img.writeUInt16LE(isGame?1:0,e+0x1a);
   });
   fat.copy(img,FATB*BLK);
   return img;

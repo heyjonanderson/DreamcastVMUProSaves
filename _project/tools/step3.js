@@ -16,7 +16,7 @@ sakura3:/^Sakura Taisen 3 - Paris wa Moeteiru ka \(Japan\) \(Disc/,sakura4:/^Sak
 sorcer:/^Sorcerian/,spiderman:/^Spider-Man/,starlancer:/^StarLancer/,toystory:/Toy Story 2/,chuchu:/Chu-?Chu Rocket/,dabi1:/^Dabitsuku - /,dabi2:/^Dabitsuku 2/,ddrclubmix:/Club Version/,
 golfshiyo:/^Golf Shiyou yo 2/,grandia2:/^Grandia II/,jetsetdx:/^De La Jet Set Radio/,lovehina:/Totsuzen no Engage/,lovehina2:/Smile Again/,mdk2:/^MDK2/,nadesico:/Nadesico the Mission/,puyopuyo4:/^Puyo Puyoon/,
 rainbowsix:/Rainbow Six (with|incl)/,shenmue:/^Shenmue \((USA|Europe|Japan)\)/,snocross:/^SnoCross/,nba2k:/^NBA 2K \(/,nba2k1:/^NBA 2K1 /,nba2k2:/^NBA 2K2 /,nfl2k:/^NFL 2K \(/,nfl2k1:/^NFL 2K1 /,nfl2k2:/^NFL 2K2 /,
-nhl2k:/^NHL 2K /,metropolisracer:/^MSR /,buzzlightyear:/Buzz Lightyear of Star Command/,
+nhl2k:/^NHL 2K /,metropolisracer:/^MSR /,buzzlightyear:/Buzz Lightyear of Star Command/,ready_rumble:/^Ready 2 Rumble Boxing \(/,ready_rumble2:/Round 2/,
 };
 // no Redump entry / not a game save
 const NOID={bluesub6:'No matching Redump disc (Blue Submarine No. 6 not found)',halflife:'Half-Life Dreamcast was never released; no Redump disc',fe776:'Fire Emblem 776 is a homebrew/fan release; no Redump disc',prop_arena:'Propeller Arena was cancelled/unreleased; no retail disc in Redump',nijyuei:'No matching Redump disc',sega_swirl:'Sega Swirl is a web/promo title; no Redump retail disc',dvine:'No saves in archive'};
