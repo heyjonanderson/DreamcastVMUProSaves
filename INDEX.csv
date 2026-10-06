@@ -15,7 +15,7 @@ T9501N,Air Force Delta,US,ready,AirForce Delta (USA),airforcedelta,v39495.vmi
 T15117N,Alone in the Dark: The New Nightmare,US,ready,Alone in the Dark - The New Nightmare (USA) (Disc 1) | Alone in the Dark - The New Nightmare (USA) (Disc 2),alonedark,v9840.vmi
 T20107M,Angel Present,JP,ready,Angel Present (Japan),angelpre,angelpre.VMI
 T40509D50,Aqua GT,EU,ready,"Aqua GT (Europe) (En,Fr,De)",disc_bs_aquagt,blue_swirl_aqua_gt_SAVE0000.vmi
-T40301N00,Armada,US,ready,Armada (USA),armada,v44206.vmi
+T40301N,Armada,US,ready,Armada (USA),armada,v44206.vmi
 T9715N,Army Men: Sarge's Heroes,US,ready,Army Men - Sarge's Heroes (USA),armymen,v93695.vmi
 T15130N,Atari Anniversary Edition (VMU icon only),US,needs review,Atari Anniversary Edition (USA),atari,ATARI.VMI
 T44102N,Bang! Gunship Elite,US,ready,"Bang! Gunship Elite (USA) (En,Fr,De)",bang,v73147.vmi
@@ -134,7 +134,7 @@ MK5104150,Head Hunter,EU,ready,"Headhunter (Europe) (En,Fr,De,Es) (Disc 1) | Hea
 T1223N,Heavy Metal: Geomatrix,US,ready,Heavy Metal - Geomatrix (USA),heavymetal,v99350.vmi
 T40502N,Hidden and Dangerous,US,ready,Hidden & Dangerous (USA),hiddendangerous,v45698.vmi
 MK51002,House of the Dead 2,US,ready,"House of the Dead 2, The (USA)",house_dead,v3080.vmi
-T11008N00,Hoyle Casino,US,ready,Hoyle Casino (USA),hoyle,v7562.vmi
+T11008N,Hoyle Casino,US,ready,Hoyle Casino (USA),hoyle,v7562.vmi
 HDR0124,Hundred Swords,JP,ready,Hundred Swords (Japan) | Hundred Swords (Japan) (@barai),hswords,100SWOR3.VMI
 HDR0127,Hundred Swords,JP,ready,Hundred Swords (Japan) | Hundred Swords (Japan) (@barai),hswords,100SWOR3.VMI
 T9702N,Hydro Thunder,US,ready,Hydro Thunder (USA) (Rev 1) | Hydro Thunder (USA),hydrothunder,v17911.vmi
@@ -507,7 +507,7 @@ MG_Where_s_Bruce,VMU minigame: Where s Bruce,-,ready,(not a disc: standalone VMU
 MG_ZOMBIE_REVENGE_TRAININ,VMU minigame: ZOMBIE REVENGE TRAININ,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0023.vmi
 T15113N,Wacky Races,US,ready,Wacky Races (USA),wackyraces,v76433.vmi
 T8111N,Wetrix+,US,ready,Wetrix+ (USA),wetrix,v39228.vmi
-T42101N00,Wild Metal,US,ready,"Wild Metal (USA) (En,Fr,De,Es,It,Pt)",wildmetal,v56159.vmi
+T42101N,Wild Metal,US,ready,"Wild Metal (USA) (En,Fr,De,Es,It,Pt)",wildmetal,v56159.vmi
 MK51055,World Series Baseball 2K1,US,ready,World Series Baseball 2K1 (USA),baseball2k1,v54876.vmi
 MK51152,World Series Baseball 2K2,US,ready,World Series Baseball 2K2 (USA),baseball2k2,v95783.vmi
 T40601N,Worms Armageddon,US,ready,"Worms Armageddon (USA) (En,Fr,De,Nl,Sv,No,Da)",worm,v54621.vmi

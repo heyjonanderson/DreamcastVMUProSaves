@@ -20,7 +20,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T15117N](T15117N) | Alone in the Dark: The New Nightmare | US | ready |
 | [T20107M](T20107M) | Angel Present | JP | ready |
 | [T40509D50](T40509D50) | Aqua GT | EU | ready |
-| [T40301N00](T40301N00) | Armada | US | ready |
+| [T40301N](T40301N) | Armada | US | ready |
 | [T9715N](T9715N) | Army Men: Sarge's Heroes | US | ready |
 | [T15130N](T15130N) | Atari Anniversary Edition (VMU icon only) | US | needs review |
 | [T44102N](T44102N) | Bang! Gunship Elite | US | ready |
@@ -139,7 +139,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T1223N](T1223N) | Heavy Metal: Geomatrix | US | ready |
 | [T40502N](T40502N) | Hidden and Dangerous | US | ready |
 | [MK51002](MK51002) | House of the Dead 2 | US | ready |
-| [T11008N00](T11008N00) | Hoyle Casino | US | ready |
+| [T11008N](T11008N) | Hoyle Casino | US | ready |
 | [HDR0124](HDR0124) | Hundred Swords | JP | ready |
 | [HDR0127](HDR0127) | Hundred Swords | JP | ready |
 | [T9702N](T9702N) | Hydro Thunder | US | ready |
@@ -512,7 +512,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MG_ZOMBIE_REVENGE_TRAININ](MG_ZOMBIE_REVENGE_TRAININ) | VMU minigame: ZOMBIE REVENGE TRAININ | - | ready |
 | [T15113N](T15113N) | Wacky Races | US | ready |
 | [T8111N](T8111N) | Wetrix+ | US | ready |
-| [T42101N00](T42101N00) | Wild Metal | US | ready |
+| [T42101N](T42101N) | Wild Metal | US | ready |
 | [MK51055](MK51055) | World Series Baseball 2K1 | US | ready |
 | [MK51152](MK51152) | World Series Baseball 2K2 | US | ready |
 | [T40601N](T40601N) | Worms Armageddon | US | ready |

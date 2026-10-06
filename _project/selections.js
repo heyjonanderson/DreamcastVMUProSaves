@@ -12,7 +12,7 @@ function remap(s){
   let ents=[];
   if(s.rname&&!/^\(/.test(s.rname)){const names=new Set(s.rname.split(' | '));ents=dat.filter(e=>names.has(e.name));}
   if(!ents.length){const re=regOf(s.region);ents=dat.filter(e=>!EXCL.test(e.name)&&(!re||re.test(e.name))&&s.ids.some(i=>e.serial.split(/,\s*/).includes(i)));}
-  const pn=[...new Set(ents.map(lookup).filter(Boolean).map(x=>x.replace(/[-\s]/g,'')))];
+  const pn=[...new Set(ents.map(lookup).filter(Boolean).map(x=>x.replace(/ 00$/,'').replace(/[-\s]/g,'')))];
   if(!pn.length)return s;
   const old=s.ids.map(i=>i.replace(/[-\s]/g,''));
   // header numbers that are placeholders/ambiguous (T0000M is shared by homebrew) also keep the Redump-serial folder

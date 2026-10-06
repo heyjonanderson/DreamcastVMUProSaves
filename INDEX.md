@@ -18,7 +18,7 @@
 | T15117N | Alone in the Dark: The New Nightmare | US | ready | v9840.vmi |
 | T20107M | Angel Present | JP | ready | angelpre.VMI |
 | T40509D50 | Aqua GT | EU | ready | blue_swirl_aqua_gt_SAVE0000.vmi |
-| T40301N00 | Armada | US | ready | v44206.vmi |
+| T40301N | Armada | US | ready | v44206.vmi |
 | T9715N | Army Men: Sarge's Heroes | US | ready | v93695.vmi |
 | T15130N | Atari Anniversary Edition (VMU icon only) | US | needs review | ATARI.VMI |
 | T44102N | Bang! Gunship Elite | US | ready | v73147.vmi |
@@ -137,7 +137,7 @@
 | T1223N | Heavy Metal: Geomatrix | US | ready | v99350.vmi |
 | T40502N | Hidden and Dangerous | US | ready | v45698.vmi |
 | MK51002 | House of the Dead 2 | US | ready | v3080.vmi |
-| T11008N00 | Hoyle Casino | US | ready | v7562.vmi |
+| T11008N | Hoyle Casino | US | ready | v7562.vmi |
 | HDR0124 | Hundred Swords | JP | ready | 100SWOR3.VMI |
 | HDR0127 | Hundred Swords | JP | ready | 100SWOR3.VMI |
 | T9702N | Hydro Thunder | US | ready | v17911.vmi |
@@ -510,7 +510,7 @@
 | MG_ZOMBIE_REVENGE_TRAININ | VMU minigame: ZOMBIE REVENGE TRAININ | - | ready | bs_misc_game0023.vmi |
 | T15113N | Wacky Races | US | ready | v76433.vmi |
 | T8111N | Wetrix+ | US | ready | v39228.vmi |
-| T42101N00 | Wild Metal | US | ready | v56159.vmi |
+| T42101N | Wild Metal | US | ready | v56159.vmi |
 | MK51055 | World Series Baseball 2K1 | US | ready | v54876.vmi |
 | MK51152 | World Series Baseball 2K2 | US | ready | v95783.vmi |
 | T40601N | Worms Armageddon | US | ready | v54621.vmi |
