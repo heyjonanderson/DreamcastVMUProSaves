@@ -1,12 +1,12 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Dreamcast VMU Pro saves catalog</title>
 <style>:root{--bg:#fff;--fg:#1b1f24;--mut:#59636e;--line:#d1d9e0;--acc:#0969da;--ok:#1a7f37;--warn:#9a6700;--card:#f6f8fa}
 @media(prefers-color-scheme:dark){:root{--bg:#0d1117;--fg:#e6edf3;--mut:#8d96a0;--line:#30363d;--acc:#4493f8;--ok:#3fb950;--warn:#d29922;--card:#161b22}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 system-ui,sans-serif}main{max-width:1000px;margin:0 auto;padding:16px}
-h1{font-size:1.5rem;margin:.2rem 0 .4rem}h2{font-size:1.05rem;margin:0 0 .6rem}p{color:var(--mut);margin:.5rem 0}.lead{font-size:1.05rem;color:var(--fg);margin:.4rem 0 1rem}.help{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 18px;margin:0 0 6px}.help ol{margin:0;padding-left:1.3rem}.help li{margin:0 0 .85rem;line-height:1.55}.help li:last-child{margin-bottom:.3rem}.help p{margin:.9rem 0 0;line-height:1.55}.bar{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:2}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 system-ui,sans-serif}main{max-width:1400px;margin:0 auto;padding:16px}
+h1{font-size:1.5rem;margin:.2rem 0 .4rem}h2{font-size:1.05rem;margin:0 0 .6rem}p{color:var(--mut);margin:.5rem 0}.lead{font-size:1.05rem;color:var(--fg);margin:.4rem 0 1rem}.help{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 18px;margin:0 0 6px}.help ol{margin:0;padding-left:1.3rem}.help li{margin:0 0 .85rem;line-height:1.55}.help li:last-child{margin-bottom:.3rem}.help p{margin:.9rem 0 0;line-height:1.55}.stick{position:sticky;top:0;z-index:3;background:var(--bg);padding:10px 0 8px;border-bottom:1px solid var(--line);margin:12px 0 4px}.bar{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px}.bar:last-child{margin-bottom:0}.lead,.help{max-width:900px}
 input,select,button{font:inherit;padding:7px 10px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg)}input[type=search]{flex:1;min-width:180px}button{cursor:pointer}button.p{background:var(--acc);border-color:var(--acc);color:#fff}
 table{width:100%;border-collapse:collapse}th,td{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{font-size:.8rem;color:var(--mut)}tr:hover td{background:var(--card)}
 .ok{color:var(--ok)}.wn{color:var(--warn)}code{background:var(--card);padding:1px 5px;border-radius:4px}a{color:var(--acc)}.sm{font-size:.82rem;color:var(--mut)}
-@media(max-width:640px){.hm{display:none}}</style></head><body><main>
+td:last-child{white-space:nowrap}.tw{overflow-x:auto}@media(max-width:640px){.hm{display:none}td:last-child{white-space:normal}}</style></head><body><main>
 <h1>Dreamcast VMU Pro saves</h1>
 <p class="lead">Save files for your Dreamcast games, ready to drop onto a VMU Pro. Pick the games you own and download them as one zip.</p>
 <section class="help"><h2>How to use this</h2>
@@ -18,11 +18,11 @@ table{width:100%;border-collapse:collapse}th,td{padding:6px 8px;border-bottom:1p
 <li><b>Play.</b> Put the card back in the VMU Pro and start a game. When the folder name matches the disc, the VMU Pro loads that save automatically. You can also browse every card in the VMU Browser. Minigames and cheat cards are named <code>ZZ_</code> so they sit at the end of the list.</li>
 </ol>
 <p class="sm">Folder names are disc IDs (that is how the VMU Pro finds the right card), so the zip looks cryptic but is correct. Games marked ⚠️ have a weaker or unconfirmed save; the note under the title says why. Not every game has been tested on a real device. Full details are in the <a href="https://github.com/heyjonanderson/DreamcastVMUProSaves#readme">README</a>.</p></section>
-<div class="bar"><input id="q" type="search" placeholder="Search title or ID…"><select id="r"><option value="">All regions</option><option>US</option><option>EU</option><option>JP</option></select>
+<div class="stick"><div class="bar"><input id="q" type="search" placeholder="Search title or ID…"><select id="r"><option value="">All regions</option><option>US</option><option>EU</option><option>JP</option></select>
 <select id="k"><option value="game">Games</option><option value="minigame">Minigames</option><option value="cheat">Cheat cards</option><option value="">Everything</option></select>
 <select id="s"><option value="">Any status</option><option value="ready">✅ ready</option><option value="review">⚠️ needs review</option></select></div>
-<div class="bar" style="position:static"><button id="all">Select visible</button><button id="none">Clear</button><button id="zip" class="p">Build SD zip (<span id="n">0</span>)</button><span id="msg" class="sm"></span></div>
-<table><thead><tr><th></th><th>Game</th><th class="hm">Folder</th><th>Region</th><th></th><th>Card</th></tr></thead><tbody id="t"></tbody></table>
+<div class="bar"><button id="all">Select visible</button><button id="none">Clear</button><button id="zip" class="p">Build SD zip (<span id="n">0</span>)</button><span id="msg" class="sm"></span></div></div>
+<div class="tw"><table><thead><tr><th></th><th>Game</th><th class="hm">Folder</th><th>Region</th><th></th><th>Card</th></tr></thead><tbody id="t"></tbody></table></div>
 <p class="sm" id="cnt"></p><p class="sm">374 games, 136 VMU minigames and 9 cheat-device cards in total.</p></main>
 <script>/*!
 
