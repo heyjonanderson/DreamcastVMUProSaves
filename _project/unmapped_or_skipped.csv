@@ -1,0 +1,15 @@
+game,archive_dir,reason
+VMU Mini Games,minigames,"skipped: VMU minigames/downloads, not game saves"
+Action Replay CDX,arcdx,"skipped: Cheat-device (Action Replay CDX) code storage, not a game save"
+Atari Anniversary Edition,atari,"skipped: Archive contains only an icon/VMU file, no game save"
+Blue Submarine No. 6,bluesub6,no card: No matching Redump disc (Blue Submarine No. 6 not found)
+Code Breaker / Xploder DC,xploder,"skipped: Cheat-device (Code Breaker/Xploder) code storage, not a game save"
+D+Vine [LUV],dvine,no card: No saves in archive
+Dream Passport 3,dp3,"skipped: Dream Passport ISP browser data, not a game save"
+Fire Emblem 776,fe776,no card: Fire Emblem 776 is a homebrew/fan release; no Redump disc
+GameShark CDX,gscdx,"skipped: Cheat-device (GameShark CDX) code storage, not a game save"
+Half-Life,halflife,no card: Half-Life Dreamcast was never released; no Redump disc
+Nijyuei,nijyuei,no card: No matching Redump disc
+Planetweb Dreamcast Browser 3.0,pwbrowser,"skipped: Web browser bookmarks/settings, not a game save"
+Propeller Arena,prop_arena,no card: Propeller Arena was cancelled/unreleased; no retail disc in Redump
+Sega Swirl,sega_swirl,no card: Sega Swirl is a web/promo title; no Redump retail disc

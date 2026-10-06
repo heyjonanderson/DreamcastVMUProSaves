@@ -55,5 +55,14 @@ for(const s of sel){
 const w=(f,rows)=>fs.writeFileSync(path.join(__dirname,'..',f),csv(rows));
 const merge=(f,rows)=>{ // keep rows of other games on partial runs
   const p=path.join(__dirname,'..',f);w(f,rows);};
+// human-readable index: folder -> game title (also written to repo root)
+const index=[['folder','game','region','status','redump_title','archive_dir','save_chosen']];
+for(const s of sel){if(only.length&&!only.includes(s.dir))continue;
+  for(const id of s.ids){const folder=id.replace(/[-\s]/g,'');const r=report.find(x=>x[1]===folder&&x[0]===s.title);
+    if(r)index.push([folder,s.title,s.region,r[8],s.rname||s.title,s.dir,r[4]]);}}
+index.slice(1).sort((a,b)=>a[1].localeCompare(b[1]));
+const idxRows=[index[0],...index.slice(1).sort((a,b)=>a[1].localeCompare(b[1])||a[0].localeCompare(b[0]))];
+fs.writeFileSync(path.join(ROOT,'INDEX.csv'),csv(idxRows));
+fs.writeFileSync(path.join(ROOT,'INDEX.md'),'# Card index (folder under vmupro/Dreamcast/ -> game)\n\n| Folder | Game | Region | Status | Save |\n|---|---|---|---|---|\n'+idxRows.slice(1).map(r=>`| ${r[0]} | ${r[1]} | ${r[2]} | ${r[3]} | ${r[6]} |`).join('\n')+'\n');
 w('credits.csv',credits);w('report.csv',report);w('saves_all.csv',allSaves);
 console.log('cards built; problems:',problems.length);problems.forEach(x=>console.log(' -',x));

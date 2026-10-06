@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Godzilla Generations"
+parent: SEGA Dreamcast Saves
+permalink: ./godzilla/
+---
+# Godzilla Generations
+
+## VMU Saves
+
+| Icon | Filename | VMI | VMS | Description |
+|------|----------|-----|-----|-------------|
+| ![Godzilla Generations](../icons/GODZILLA_GEN.GIF) | `GODZILLA_GEN` | [GODZILLA.VMI](GODZILLA.VMI) | [GODZILLA.VMS](GODZILLA.VMS) | Hidden characters opened |

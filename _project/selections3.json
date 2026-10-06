@@ -1,0 +1,4559 @@
+[
+ {
+  "dir": "puppies",
+  "title": "102 Dalmatians: Puppies to the Rescue",
+  "rname": "Disney's 102 Dalmatians - Puppies to the Rescue (USA)",
+  "ids": [
+   "T-36803N"
+  ],
+  "region": "US",
+  "files": [
+   "v90561.vmi"
+  ],
+  "completion": "Best of 2: all levels complete and secret levels unlocked",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "18wheeler",
+  "title": "18 Wheeler: Pro American Trucker",
+  "rname": "18 Wheeler - American Pro Trucker (USA)",
+  "ids": [
+   "51064"
+  ],
+  "region": "US",
+  "files": [
+   "v45386.vmi"
+  ],
+  "completion": "Best of 10: Save 100% parking mode complete and all trucks and a secret truck and big records.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "twoone",
+  "title": "21 -Two One-",
+  "rname": "21 - Two One (Japan)",
+  "ids": [
+   "T-46504M"
+  ],
+  "region": "JP",
+  "files": [
+   "21twoone.VMI"
+  ],
+  "completion": "Only save: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "4wheelthunder",
+  "title": "4 Wheel Thunder",
+  "rname": "4 Wheel Thunder (USA)",
+  "ids": [
+   "T-9708N"
+  ],
+  "region": "US",
+  "files": [
+   "v33294.vmi"
+  ],
+  "completion": "Best of 4: 4 wheel thunder every vehicle,every upgrade & every track",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "4x4evolution",
+  "title": "4x4 Evolution",
+  "rname": "4x4 Evo (USA)",
+  "ids": [
+   "T-41903N"
+  ],
+  "region": "US",
+  "files": [
+   "v6405.vmi"
+  ],
+  "completion": "Best of 30: BIGGEST, BADDEST RED DODGE DAKOTA CLUB CAB 2WD/4WD I'VE EVER MADE CAN EVEN KEEP UP WITH SOME RACE TRUCKS GOT 38\" TIRES 14\" LIFT CHASSIS MAXE",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "dazhanlu",
+  "title": "Advanced Daisenryaku",
+  "rname": "Advanced Daisenryaku 2001 (Japan)",
+  "ids": [
+   "HDR-0158"
+  ],
+  "region": "JP",
+  "files": [
+   "dazhanlu.VMI"
+  ],
+  "completion": "Only save: Everything Unlocked",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "aeroi",
+  "title": "Aero Dancing",
+  "rname": "Aero Dancing i (Japan)",
+  "ids": [
+   "T-6807M"
+  ],
+  "region": "JP",
+  "files": [
+   "aeroisys.VMI"
+  ],
+  "completion": "Best of 16: best save! unlock all plane!",
+  "status": "needs review",
+  "notes": "Redump mapping inferred from filename/title, not confirmed"
+ },
+ {
+  "dir": "aeroif",
+  "title": "Aero Dancing Fan Disc",
+  "rname": "Aero Dancing i - Jikai Saku made Matemasen (Japan)",
+  "ids": [
+   "T-6809M"
+  ],
+  "region": "JP",
+  "files": [
+   "aerocnem.VMI"
+  ],
+  "completion": "Best of 12: best save! unlock all plane!",
+  "status": "needs review",
+  "notes": "Redump mapping inferred from filename/title, not confirmed"
+ },
+ {
+  "dir": "aerowings",
+  "title": "Aero Wings",
+  "rname": "AeroWings (USA)",
+  "ids": [
+   "T-40201N"
+  ],
+  "region": "US",
+  "files": [
+   "v61068.vmi"
+  ],
+  "completion": "Best of 5: This is the best save for aerowings that you can get!I've got all the planes and all the levels beaten.There's even a dolphin to fly as well",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "aerowings2",
+  "title": "Aero Wings 2: Air Strike",
+  "rname": "AeroWings 2 - Airstrike (USA)",
+  "ids": [
+   "T-40210N"
+  ],
+  "region": "US",
+  "files": [
+   "v36311.vmi"
+  ],
+  "completion": "Best of 12: This save contains all 23 planes, all extra options, all levels beaten, very cool replay, all Fighter pilot missioncomplete.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "airforcedelta",
+  "title": "Air Force Delta",
+  "rname": "AirForce Delta (USA)",
+  "ids": [
+   "T-9501N"
+  ],
+  "region": "US",
+  "files": [
+   "v39495.vmi"
+  ],
+  "completion": "Best of 17: All missions open, all aircraftsincluding the two harriers, s-37 berkut, f22raptor, mig1.44.Infinite weapons in normal mode.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; game also has settings/system file(s) (AIRFORCE.SYS) not included; also released: JP"
+ },
+ {
+  "dir": "alonedark",
+  "title": "Alone in the Dark: The New Nightmare",
+  "rname": "Alone in the Dark - The New Nightmare (USA) (Disc 1) | Alone in the Dark - The New Nightmare (USA) (Disc 2)",
+  "ids": [
+   "T-15117N"
+  ],
+  "region": "US",
+  "files": [
+   "v9840.vmi"
+  ],
+  "completion": "Best of 15: This is very hacked save with all guns and 999 ammo and all items available!!! What else do you want?NOTE:DON'T RELOAD THE GUNS WITH 999 AMM",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/other"
+ },
+ {
+  "dir": "angelpre",
+  "title": "Angel Present",
+  "rname": "Angel Present (Japan)",
+  "ids": [
+   "T-20107M"
+  ],
+  "region": "JP",
+  "files": [
+   "angelpre.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "armada",
+  "title": "Armada",
+  "rname": "Armada (USA)",
+  "ids": [
+   "T-40301N"
+  ],
+  "region": "US",
+  "files": [
+   "v51270.vmi"
+  ],
+  "completion": "Best of 6: Heres an armada file with a level 32 Terran ship which has shiva and 2 disruptors. R.I.P Armada!! 2 other ships as well<high level>",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "armymen",
+  "title": "Army Men: Sarge's Heroes",
+  "rname": "Army Men - Sarge's Heroes (USA)",
+  "ids": [
+   "T-9715N"
+  ],
+  "region": "US",
+  "files": [
+   "v93695.vmi"
+  ],
+  "completion": "Best of 9: unlocked everything in game",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "bang",
+  "title": "Bang! Gunship Elite",
+  "rname": "Bang! Gunship Elite (USA) (En,Fr,De)",
+  "ids": [
+   "T-44102N"
+  ],
+  "region": "US",
+  "files": [
+   "v73147.vmi"
+  ],
+  "completion": "Best of 7: ALL STAGES UNLOCKED! Check it out and have fun.",
+  "status": "ready",
+  "notes": "game also has settings/system file(s) (BANGBANG.SYS) not included"
+ },
+ {
+  "dir": "bangaio",
+  "title": "Bangai-O",
+  "rname": "Bangai-O (USA)",
+  "ids": [
+   "T-40217N"
+  ],
+  "region": "US",
+  "files": [
+   "v95185.vmi"
+  ],
+  "completion": "Best of 2: *UPDATE* All stages completed, some new high scores, and codes inplace. Just press 'B' when you're at the options screen, to bring up the \"S",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "blackmatrix",
+  "title": "Black Matrix Advanced",
+  "rname": "Black-Matrix Advanced (Japan) (Disc 1) | Black-Matrix Advanced (Japan) (Disc 2)",
+  "ids": [
+   "T-20101M"
+  ],
+  "region": "JP",
+  "files": [
+   "blackad1.VMI"
+  ],
+  "completion": "Best of 2: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "bsting",
+  "title": "Blue Stinger",
+  "rname": "Blue Stinger (USA)",
+  "ids": [
+   "T-13001N"
+  ],
+  "region": "US",
+  "files": [
+   "v12669.vmi"
+  ],
+  "completion": "Best of 20: Eliot market 1f 999999 cash all weapons and all ammo full health bar hard difficulty 48:23 min game time.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU/other"
+ },
+ {
+  "dir": "doraemon",
+  "title": "Boku Doraemon",
+  "rname": "Boku Doraemon (Japan)",
+  "ids": [
+   "T-41802M"
+  ],
+  "region": "JP",
+  "files": [
+   "dingdang.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "bomberhe",
+  "title": "Bomber Hehhe",
+  "rname": "Bomber Hehhe! (Japan)",
+  "ids": [
+   "T-42903M"
+  ],
+  "region": "JP",
+  "files": [
+   "bomberhe.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "bomberman",
+  "title": "Bomberman Online",
+  "rname": "Bomberman Online (USA)",
+  "ids": [
+   "51065"
+  ],
+  "region": "US",
+  "files": [
+   "boonline.VMI"
+  ],
+  "completion": "Best of 19: All collection and all charcater design!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "bustamove4",
+  "title": "Bust A Move 4",
+  "rname": "Bust-A-Move 4 (USA)",
+  "ids": [
+   "T-8117N"
+  ],
+  "region": "US",
+  "files": [
+   "pb4us.VMI"
+  ],
+  "completion": "Best of 6: US Perfect Save! All Open!",
+  "status": "ready",
+  "notes": "also released: EU"
+ },
+ {
+  "dir": "buzzlightyear",
+  "title": "Buzz Lightyear of Star Command",
+  "rname": "Disney-Pixar Buzz Lightyear of Star Command (USA)",
+  "ids": [
+   "T-13007N"
+  ],
+  "region": "US",
+  "files": [
+   "v74825.vmi"
+  ],
+  "completion": "Best of 6: This save has 7 levels completed.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "caesar",
+  "title": "Caesar's Palace 2000",
+  "rname": "Caesars Palace 2000 - Millennium Gold Edition (USA)",
+  "ids": [
+   "T-12504N"
+  ],
+  "region": "US",
+  "files": [
+   "v7771.vmi"
+  ],
+  "completion": "Only save: Lots of money",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "cannonspike",
+  "title": "Cannon Spike",
+  "rname": "Cannon Spike (USA)",
+  "ids": [
+   "T-1215N"
+  ],
+  "region": "US",
+  "files": [
+   "v25804.vmi"
+  ],
+  "completion": "Best of 3: Everything completed.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "canvas",
+  "title": "Canvas",
+  "rname": "Canvas - Sepia-iro no Motif (Japan)",
+  "ids": [
+   "T-20108M"
+  ],
+  "region": "JP",
+  "files": [
+   "CANVAS.VMI"
+  ],
+  "completion": "Only save: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "carrier",
+  "title": "Carrier",
+  "rname": "Carrier (USA)",
+  "ids": [
+   "T-5701N"
+  ],
+  "region": "US",
+  "files": [
+   "CARRIER.VMI"
+  ],
+  "completion": "Best of 11: Perfect Save! All Secret Unlocked!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "castlefan",
+  "title": "Castle Fantasia",
+  "rname": "Castle Fantasia - Seima Taisen (Japan)",
+  "ids": [
+   "T-46901M"
+  ],
+  "region": "JP",
+  "files": [
+   "CASTLEFA.VMI"
+  ],
+  "completion": "Only save: Best Save, Everything Unlocked",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "centipede",
+  "title": "Centipede",
+  "rname": "Centipede (USA)",
+  "ids": [
+   "T-40602N"
+  ],
+  "region": "US",
+  "files": [
+   "v72205.vmi"
+  ],
+  "completion": "Only save: All levels and 1,028 lives.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "champsurfer",
+  "title": "Championship Surfer",
+  "rname": "Championship Surfer (USA)",
+  "ids": [
+   "T-41403N"
+  ],
+  "region": "US",
+  "files": [
+   "v86604.vmi"
+  ],
+  "completion": "Best of 5: All Beaches [10 beaches]Todas as praias Galera!!!arquivos - sanzao e srnfrom: \"BRASIL\"",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "chargeblast",
+  "title": "Charge 'N Blast",
+  "rname": "Charge 'N Blast (USA)",
+  "ids": [
+   "T-15127N"
+  ],
+  "region": "US",
+  "files": [
+   "v23820.vmi"
+  ],
+  "completion": "Best of 2: BEST SAVE (american version)has both character's easy modeunlocked!!!",
+  "status": "ready",
+  "notes": "also released: JP/EU"
+ },
+ {
+  "dir": "chickenrun",
+  "title": "Chicken Run",
+  "rname": "Chicken Run (USA)",
+  "ids": [
+   "T-36811N"
+  ],
+  "region": "US",
+  "files": [
+   "v7111.vmi"
+  ],
+  "completion": "Best of 4: 100% beaten. Including the Bonus Movie.All pics/movies/map pieces unlocked.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "chuchu",
+  "title": "Chu Chu Rocket",
+  "rname": "ChuChu Rocket! (USA) (En,Ja,Fr,De,Es)",
+  "ids": [
+   "51049"
+  ],
+  "region": "US",
+  "files": [
+   "v38939.vmi"
+  ],
+  "completion": "Best of 15: Most of the puzzles completed and 2 puzzles i made, see if you can beat them! enjoy! e-mail me if you beated them",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/JP"
+ },
+ {
+  "dir": "coasterworks",
+  "title": "Coaster Works",
+  "rname": "Coaster Works (USA)",
+  "ids": [
+   "T-15128N"
+  ],
+  "region": "US",
+  "files": [
+   "v14850.vmi"
+  ],
+  "completion": "Best of 11: Game 100% completo,com o sexto estagio,o Dream Coaster,onde voce monta sua montanha russa sem nenhuma meta a ser cumprida.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "comicpart",
+  "title": "Comic Party",
+  "rname": "Comic Party (Japan) (Disc 1) (Rev A) | Comic Party (Japan) (Disc 2) | Comic Party (Japan) (Disc 1) (Rev B) | Comic Party (Japan) (Disc 2) (Rev B)",
+  "ids": [
+   "T-38301M",
+   "T-38302M"
+  ],
+  "region": "JP",
+  "files": [
+   "comicpar.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All secret unlocked",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "cmission",
+  "title": "Confidential Mission",
+  "rname": "Confidential Mission (USA) (En,Ja,Fr,De,Es)",
+  "ids": [
+   "51160"
+  ],
+  "region": "US",
+  "files": [
+   "v23841.vmi"
+  ],
+  "completion": "Best of 5: 100% COMPLETE",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "conflictzone",
+  "title": "Conflict Zone",
+  "rname": "Conflict Zone (USA)",
+  "ids": [
+   "T-17721N"
+  ],
+  "region": "US",
+  "files": [
+   "v30142.vmi"
+  ],
+  "completion": "Best of 9: I really like this game.All ICP campaing done,all but 1 campaing for ghost completed.have fun",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "cooltoon",
+  "title": "Cool Cool Toon",
+  "rname": "Cool Cool Toon (Japan)",
+  "ids": [
+   "T-3106M"
+  ],
+  "region": "JP",
+  "files": [
+   "COOLCT.VMI"
+  ],
+  "completion": "Only save: Cool Cool Toon Save, all unlocked.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "crazytaxi",
+  "title": "Crazy Taxi",
+  "rname": "Crazy Taxi (USA) (En,Ja)",
+  "ids": [
+   "51035"
+  ],
+  "region": "US",
+  "files": [
+   "v81909.vmi"
+  ],
+  "completion": "Best of 22: You want all the Crazy Box games unlocked? It's all right here.You want the hidden rickshaw bicycle taxi? I got that too. Unbelievably high ",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "crazytaxi2",
+  "title": "Crazy Taxi 2",
+  "rname": "Crazy Taxi 2 (USA)",
+  "ids": [
+   "51136"
+  ],
+  "region": "US",
+  "files": [
+   "v51513.vmi"
+  ],
+  "completion": "Best of 21: This game is 100% complete. San Francisco cabbies & all other vehicles unlocked. Crazy Pyramid cleared. Unbeatable records. Awesome licsense",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "d2",
+  "title": "D2",
+  "rname": "D2 (USA) (Disc 1) | D2 (USA) (Disc 2) | D2 (USA) (Disc 3) | D2 (USA) (Disc 4)",
+  "ids": [
+   "51036"
+  ],
+  "region": "US",
+  "files": [
+   "v93751.vmi"
+  ],
+  "completion": "Best of 19: Start at disc one all level maxed out and exp too999 meats got at booyaka.com the perfect savethnx for this na chenua we are in your debt fo",
+  "status": "needs review",
+  "notes": "archive has 3 filename variants"
+ },
+ {
+  "dir": "dabi1",
+  "title": "Dabitsuku 1",
+  "rname": "Dabitsuku - Derby-ba o Tsukurou! (Japan)",
+  "ids": [
+   "HDR-0084"
+  ],
+  "region": "JP",
+  "files": [
+   "DABI1.VMI"
+  ],
+  "completion": "Only save: Money Max!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "dabi2",
+  "title": "Dabitsuku 2",
+  "rname": "Dabitsuku 2 (Japan)",
+  "ids": [
+   "HDR-0167"
+  ],
+  "region": "JP",
+  "files": [
+   "DABI2.VMI"
+  ],
+  "completion": "Only save: Money Max!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "ddrclubmix",
+  "title": "Dance Dance Revolution Club Mix",
+  "rname": "Dance Dance Revolution - Club Version - Dreamcast Edition (Japan)",
+  "ids": [
+   "T-9508M"
+  ],
+  "region": "JP",
+  "files": [
+   "DDRCLUB.VMI"
+  ],
+  "completion": "Only save: All unlocked.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "davemirra",
+  "title": "Dave Mirra Freestyle BMX",
+  "rname": "Dave Mirra Freestyle BMX (USA)",
+  "ids": [
+   "T-8120N"
+  ],
+  "region": "US",
+  "files": [
+   "v62106.vmi"
+  ],
+  "completion": "Best of 16: Everything unlocked. All characters. All moves mastered for all characters. Every cheat unlocked. There is pretty much nothing to do, becaus",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "daytona",
+  "title": "Daytona USA",
+  "rname": "Daytona USA (USA)",
+  "ids": [
+   "51037"
+  ],
+  "region": "US",
+  "files": [
+   "v84127.vmi"
+  ],
+  "completion": "Best of 12: All cars,the best calibrationcomplete, all circuits.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "deathcrim",
+  "title": "Death Crimson OX",
+  "rname": "Death Crimson OX (Japan)",
+  "ids": [
+   "T-23202M"
+  ],
+  "region": "JP",
+  "files": [
+   "deathcox.VMI"
+  ],
+  "completion": "Only save: JP Perfect Save! Credit Max!",
+  "status": "ready",
+  "notes": "archive saves are for the JP release, so the JP ID is used; also released: USA"
+ },
+ {
+  "dir": "deepfighter",
+  "title": "Deep Fighter",
+  "rname": "Deep Fighter (USA) (Disc 1) | Deep Fighter (USA) (Disc 2)",
+  "ids": [
+   "T-17705N"
+  ],
+  "region": "US",
+  "files": [
+   "v31737.vmi"
+  ],
+  "completion": "Best of 5: 4 awards acquired with 3 subsonlineStatus: Savage Commander",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU/other"
+ },
+ {
+  "dir": "demolitionrace",
+  "title": "Demolition Racer: No Exit",
+  "rname": "Demolition Racer - No Exit (USA)",
+  "ids": [
+   "T-15112N"
+  ],
+  "region": "US",
+  "files": [
+   "v21403.vmi"
+  ],
+  "completion": "Best of 11: 100% all complete game all cars all tracks everiting unlocked tenis hunter modes are all open ><><>< jogo comlpeto todos os carros abertos t",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "digichar",
+  "title": "DiGi Charat Fantasy",
+  "rname": "Di Gi Charat Fantasy (Japan)",
+  "ids": [
+   "T-46301M",
+   "T-46302M"
+  ],
+  "region": "JP",
+  "files": [
+   "DIGICHAR.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "dinocrisis",
+  "title": "Dino Crisis",
+  "rname": "Dino Crisis (USA)",
+  "ids": [
+   "T-1217N"
+  ],
+  "region": "US",
+  "files": [
+   "v57518.vmi"
+  ],
+  "completion": "Best of 11: Grenade gun w/ infinite ammo available.Cleared three times, all three endings completed.Operation Wipeout available. All four costumes avail",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/JP/other"
+ },
+ {
+  "dir": "dinosaur",
+  "title": "Dinosaur",
+  "rname": "Disney's Dinosaur (USA)",
+  "ids": [
+   "T-17717N"
+  ],
+  "region": "US",
+  "files": [
+   "v42869.vmi"
+  ],
+  "completion": "Best of 2: 100 percent everything.BET YOU CAN*T BEAT THAT.....................",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "disneymagical",
+  "title": "Disney World Magical Racing Tour",
+  "rname": "Walt Disney World Quest - Magical Racing Tour (USA)",
+  "ids": [
+   "T-36804N"
+  ],
+  "region": "US",
+  "files": [
+   "v80503.vmi"
+  ],
+  "completion": "Best of 7: The whole game is complete, extremly hard times to beat, all characters unlocked, and all tracks unlocked. The Perfect Game Save!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "donaldduck",
+  "title": "Donald Duck: Goin' Quackers",
+  "rname": "Disney's Donald Duck - Goin' Quackers (USA)",
+  "ids": [
+   "T-17719N"
+  ],
+  "region": "US",
+  "files": [
+   "v2502.vmi"
+  ],
+  "completion": "Best of 7: 100% Complete, all costumes, everything.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "draconus",
+  "title": "Draconus: Cult of the Wyrm",
+  "rname": "Draconus - Cult of the Wyrm (USA)",
+  "ids": [
+   "T-40203N"
+  ],
+  "region": "US",
+  "files": [
+   "v2726.vmi"
+  ],
+  "completion": "Best of 7: Cynric with a middle levelrank=3 offense=3 defense=3",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "dragon",
+  "title": "Dragon Riders: Chronicles of Pern",
+  "rname": "Dragon Riders - Chronicles of Pern (USA)",
+  "ids": [
+   "T-17720N"
+  ],
+  "region": "US",
+  "files": [
+   "v68252.vmi"
+  ],
+  "completion": "Best of 5: no final do jogo com tudo completo,so faltou o gold fire lizard egg",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "ducati",
+  "title": "Ducati World Racing Challenge",
+  "rname": "Ducati World - Racing Challenge (USA)",
+  "ids": [
+   "T-8113N"
+  ],
+  "region": "US",
+  "files": [
+   "v12887.vmi"
+  ],
+  "completion": "Best of 6: Perfect ducati life mode with 750.000 bucksall licenses.in the garage; MH900e,foggy 996,888,ST4 WPand as a special surprise to all ducatifan",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "dynamitecop",
+  "title": "Dynamite Cop",
+  "rname": "Dynamite Cop! (USA)",
+  "ids": [
+   "51013"
+  ],
+  "region": "US",
+  "files": [
+   "v65817.vmi"
+  ],
+  "completion": "Best of 11: All 6 missions finished,good bonus game score,and all illustrations found. All characters unlocked.",
+  "status": "needs review",
+  "notes": "archive has 3 filename variants (D_COP_US/D_COP_PL/DDEKA2DC); region of chosen save not confirmed; also released: EU"
+ },
+ {
+  "dir": "ecco",
+  "title": "Ecco the Dolphin: Defender of the Future",
+  "rname": "Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es)",
+  "ids": [
+   "51033"
+  ],
+  "region": "US",
+  "files": [
+   "v19532.vmi"
+  ],
+  "completion": "Best of 14: Perfect Save! All levels beaten. All vitals.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/JP"
+ },
+ {
+  "dir": "ecwanarchy",
+  "title": "ECW: Anarchy Rulz",
+  "rname": "ECW Anarchy Rulz (USA)",
+  "ids": [
+   "T-8114N"
+  ],
+  "region": "US",
+  "files": [
+   "v39669.vmi"
+  ],
+  "completion": "Best of 3: has most secret players unlocked, championship modes unlocked, secret stuff unlocked",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "ecw",
+  "title": "ECW: Hardcore Revolution",
+  "rname": "ECW Hardcore Revolution (USA)",
+  "ids": [
+   "T-8112N"
+  ],
+  "region": "US",
+  "files": [
+   "v69549.vmi"
+  ],
+  "completion": "Best of 12: all cheats unlockedtodos los trucos destrabados.ame y ray",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/other"
+ },
+ {
+  "dir": "egg",
+  "title": "EGG: Elemental Gimmick Gear",
+  "rname": "Elemental Gimmick Gear (USA)",
+  "ids": [
+   "T-41601N"
+  ],
+  "region": "US",
+  "files": [
+   "v38057.vmi"
+  ],
+  "completion": "Best of 8: I Think everything you need close to the last boss!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP"
+ },
+ {
+  "dir": "eldorado1",
+  "title": "Eldorado Gate 1",
+  "rname": "Eldorado Gate Dai-1-kan (Japan)",
+  "ids": [
+   "T-1223M"
+  ],
+  "region": "JP",
+  "files": [
+   "eldgate1.VMI"
+  ],
+  "completion": "Only save: Last Save! At last Boss!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "eldorado7",
+  "title": "Eldorado Gate 7",
+  "rname": "Eldorado Gate Dai-7-kan (Japan)",
+  "ids": [
+   "T-1229M"
+  ],
+  "region": "JP",
+  "files": [
+   "eldgate7.VMI"
+  ],
+  "completion": "Only save: Last Save! At last Boss!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "espion",
+  "title": "Espion Age Nts",
+  "rname": "Espion-Age-nts (Japan)",
+  "ids": [
+   "T-38804M"
+  ],
+  "region": "JP",
+  "files": [
+   "ESPION.VMI"
+  ],
+  "completion": "Only save: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "espntrack",
+  "title": "ESPN International Track and Field",
+  "rname": "ESPN International Track & Field (USA)",
+  "ids": [
+   "T-9509N"
+  ],
+  "region": "US",
+  "files": [
+   "v80721.vmi"
+  ],
+  "completion": "Best of 8: all events unlocked.",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants (ITANDF_U/ITANDF_E); region of chosen save not confirmed; also released: EU"
+ },
+ {
+  "dir": "espnnba",
+  "title": "ESPN NBA 2 Night",
+  "rname": "ESPN NBA 2Night (USA)",
+  "ids": [
+   "T-9503N"
+  ],
+  "region": "US",
+  "files": [
+   "v36243.vmi"
+  ],
+  "completion": "Only save: Season save with the Toronto Raptors. Perfect record so far and just a few games in an 82 game season.",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "evarei",
+  "title": "Evangelion Ayanami Rei",
+  "rname": "Shin Seiki Evangelion - Ayanami Ikusei Keikaku (Japan)",
+  "ids": [
+   "T-46303M"
+  ],
+  "region": "JP",
+  "files": [
+   "vmfl_173.VMI"
+  ],
+  "completion": "Only save: Money Max & Album All Open",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "evaproe",
+  "title": "Evangelion Project E",
+  "rname": "Shin Seiki Evangelion - Typing E Keikaku (Japan)",
+  "ids": [
+   "T-35101M"
+  ],
+  "region": "JP",
+  "files": [
+   "type_e01.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "evildead",
+  "title": "Evil Dead: Hail to the King",
+  "rname": "Evil Dead - Hail to the King (USA)",
+  "ids": [
+   "T-10003N"
+  ],
+  "region": "US",
+  "files": [
+   "v19528.vmi"
+  ],
+  "completion": "Best of 7: At the start of the game 999 large med kits,999 hand gun bullets, 999 gas and 999 saves. The 999 helth will make it easy to pass this game :",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: other/EU"
+ },
+ {
+  "dir": "eviltwin",
+  "title": "Evil Twin",
+  "rname": "Evil Twin - Cyprien's Chronicles (Europe) (En,Fr,De,Es,It) | Evil Twin - Cyprien's Chronicles (Europe) (En,Fr)",
+  "ids": [
+   "T-46605D-80",
+   "T-46605D-71"
+  ],
+  "region": "EU",
+  "files": [
+   "00000024.vmi"
+  ],
+  "completion": "Only save: Best Save! All Cheats On!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "evolution",
+  "title": "Evolution",
+  "rname": "Evolution - The World of Sacred Device (USA)",
+  "ids": [
+   "T-17706N"
+  ],
+  "region": "US",
+  "files": [
+   "v77140.vmi"
+  ],
+  "completion": "Best of 16: Finished lots of rare items skills complete lvl.99 characters both debts paid 100% comp.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "evolution2",
+  "title": "Evolution 2: A Far Off Promise",
+  "rname": "Evolution 2 - Far Off Promise (USA)",
+  "ids": [
+   "T-17711N"
+  ],
+  "region": "US",
+  "files": [
+   "v68067.vmi"
+  ],
+  "completion": "Best of 14: At the end after beating the game twice MAX & Pepper LV 99",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "expendable",
+  "title": "Expendable",
+  "rname": "Expendable (USA) (En,Fr,De,Es,It)",
+  "ids": [
+   "T-15104N"
+  ],
+  "region": "US",
+  "files": [
+   "v68167.vmi"
+  ],
+  "completion": "Best of 4: THIS IS A SAVE AT THE 4th OR Solevel",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "f1worldprix",
+  "title": "F1 World Grand Prix",
+  "rname": "F1 World Grand Prix (USA) (En,Fr,De,Es)",
+  "ids": [
+   "51030"
+  ],
+  "region": "US",
+  "files": [
+   "v75648.vmi"
+  ],
+  "completion": "Best of 3: 5 races remaining for the end of championshipand of course 1 in drivers and constructors championship",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "f355challenge",
+  "title": "F355 Challenge",
+  "rname": "F355 Challenge (Japan)",
+  "ids": [
+   "HDR-0100"
+  ],
+  "region": "JP",
+  "files": [
+   "v59007.vmi"
+  ],
+  "completion": "Best of 7: [Japanese] All tracks available.",
+  "status": "ready",
+  "notes": "game also has settings/system file(s) (F355DATA.SYS) not included"
+ },
+ {
+  "dir": "fightforce2",
+  "title": "Fighting Force 2",
+  "rname": "Fighting Force 2 (USA) (Rev A) | Fighting Force 2 (USA)",
+  "ids": [
+   "T-36801N"
+  ],
+  "region": "US",
+  "files": [
+   "v3810.vmi"
+  ],
+  "completion": "Best of 4: Level 3 with 4 saves",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: other/EU"
+ },
+ {
+  "dir": "fireprowd",
+  "title": "Fire Pro Wrestling D",
+  "rname": "Fire Pro Wrestling D (Japan)",
+  "ids": [
+   "T-18804M"
+  ],
+  "region": "JP",
+  "files": [
+   "SYS.VMI"
+  ],
+  "completion": "Best of 255: System File - All Wrestlers",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "flag2flag",
+  "title": "Flag To Flag",
+  "rname": "Flag to Flag (USA)",
+  "ids": [
+   "51007"
+  ],
+  "region": "US",
+  "files": [
+   "v59453.vmi"
+  ],
+  "completion": "Best of 7: Todos los autos y el super speed mode.",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "floiganbros",
+  "title": "Floigan Brothers",
+  "rname": "Floigan Bros. - Episode 1 (USA)",
+  "ids": [
+   "51114"
+  ],
+  "region": "US",
+  "files": [
+   "v46904.vmi"
+  ],
+  "completion": "Best of 8: game completed! allparts of secret project collected!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "framegride",
+  "title": "Frame Gride",
+  "rname": "Frame Gride (Japan)",
+  "ids": [
+   "T-34201M"
+  ],
+  "region": "JP",
+  "files": [
+   "FRAMEGR.VMI"
+  ],
+  "completion": "Only save: FRAME GRIDE save (JAPAN) Final Stage",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "frogger2",
+  "title": "Frogger 2: Swampy's Revenge",
+  "rname": "Frogger 2 - Swampy's Revenge (USA)",
+  "ids": [
+   "T-40604N"
+  ],
+  "region": "US",
+  "files": [
+   "v54472.vmi"
+  ],
+  "completion": "Best of 2: All levels/absolutly everything.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "furfighters",
+  "title": "Fur Fighters",
+  "rname": "Fur Fighters (USA) (En,Fr,De,Es)",
+  "ids": [
+   "T-8107N"
+  ],
+  "region": "US",
+  "files": [
+   "v35224.vmi"
+  ],
+  "completion": "Best of 9: Here it is people! The Fur Fighters save ya been longing for! The Bad Place CLEARED! No more running around fleeing that killer tank. All we",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "fushigi",
+  "title": "Fushigi Dungeon",
+  "rname": "Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan)",
+  "ids": [
+   "HDR-0187"
+  ],
+  "region": "JP",
+  "files": [
+   "asuka001.VMI"
+  ],
+  "completion": "Best of 2: Weapon LV99!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "gauntletlegends",
+  "title": "Gauntlet Legends",
+  "rname": "Gauntlet Legends (USA)",
+  "ids": [
+   "T-9710N"
+  ],
+  "region": "US",
+  "files": [
+   "v48502.vmi"
+  ],
+  "completion": "Best of 27: Level 99 Jester- All runes shards and obelisks with flying pig helper and max stats Strenght: 600 Speed: 999 Armor: 600 Magic: 750",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "giantgram",
+  "title": "Giant Gram 2000",
+  "rname": "Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuushatachi (Japan)",
+  "ids": [
+   "HDR-0101"
+  ],
+  "region": "JP",
+  "files": [
+   "GIANTG2K.VMI"
+  ],
+  "completion": "Only save: Giant Gram 2000, all unlocked.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "gigawing",
+  "title": "Giga Wing",
+  "rname": "GigaWing (USA)",
+  "ids": [
+   "T-1209N"
+  ],
+  "region": "US",
+  "files": [
+   "GIGAWING.VMI"
+  ],
+  "completion": "Best of 2: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "gigawing2",
+  "title": "Giga Wing 2",
+  "rname": "GigaWing 2 (USA)",
+  "ids": [
+   "T-1222N"
+  ],
+  "region": "US",
+  "files": [
+   "v499.vmi"
+  ],
+  "completion": "Best of 6: tudo 100%.eder rules!!!!!!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP"
+ },
+ {
+  "dir": "godzilla",
+  "title": "Godzilla Generations",
+  "rname": "Godzilla Generations (Japan)",
+  "ids": [
+   "HDR-0004"
+  ],
+  "region": "JP",
+  "files": [
+   "GODZILLA.VMI"
+  ],
+  "completion": "Only save: Hidden characters opened",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "golfshiyo",
+  "title": "Golf Shiyouyo",
+  "rname": "Golf Shiyou yo 2 - Aratanaru Chousen (Japan)",
+  "ids": [
+   "T-44501M"
+  ],
+  "region": "JP",
+  "files": [
+   "SHIGOLF2.VMI"
+  ],
+  "completion": "Only save: All characters unlocked",
+  "status": "needs review",
+  "notes": "Redump mapping inferred from filename/title, not confirmed"
+ },
+ {
+  "dir": "gta2",
+  "title": "Grand Theft Auto 2",
+  "rname": "Grand Theft Auto 2 (USA)",
+  "ids": [
+   "T-42102N"
+  ],
+  "region": "US",
+  "files": [
+   "v81958.vmi"
+  ],
+  "completion": "Best of 3: $9950300, all civilians are elvis,gore mode, max rep. with all gangs, always invisible, all weapons, invincible,all levels & bonuses, 99 liv",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/other"
+ },
+ {
+  "dir": "grandia2",
+  "title": "Grandia 2",
+  "rname": "Grandia II (USA)",
+  "ids": [
+   "T-17716N"
+  ],
+  "region": "US",
+  "files": [
+   "v53994.vmi"
+  ],
+  "completion": "Best of 48: For you novice player,start with [$9999999] gold and [99999] special points and [99999] magic points, dowload it now !!!!",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU/JP"
+ },
+ {
+  "dir": "gunbird2",
+  "title": "Gunbird 2",
+  "rname": "Gunbird 2 (USA)",
+  "ids": [
+   "T-1214N"
+  ],
+  "region": "US",
+  "files": [
+   "v33167.vmi"
+  ],
+  "completion": "Only save: In random select put up for morrigan, or down for aime.",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: JP/EU"
+ },
+ {
+  "dir": "gundamol",
+  "title": "Gundam Battle Online",
+  "rname": "Gundam Battle Online (Japan)",
+  "ids": [
+   "T-13304M"
+  ],
+  "region": "JP",
+  "files": [
+   "GUNDAMO3.VMI"
+  ],
+  "completion": "Best of 4: Best MS,best ships,all pilot lv20",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "gundambz",
+  "title": "Gundam: Blood Of Zeon",
+  "rname": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 1) (Earth Federation Disc) | Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 2) (Zeon Disc)",
+  "ids": [
+   "T-13305M"
+  ],
+  "region": "JP",
+  "files": [
+   "00000006.vmi"
+  ],
+  "completion": "Best of 2: JP Save! Money Max(Turn 1)!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "gundam",
+  "title": "Gundam Side Story 0079",
+  "rname": "Gundam Side Story 0079 - Rise from the Ashes (USA)",
+  "ids": [
+   "T-13301N"
+  ],
+  "region": "US",
+  "files": [
+   "v58359.vmi"
+  ],
+  "completion": "Best of 17: Each stat at 100% beat game",
+  "status": "needs review",
+  "notes": "archive has 3 filename variants (GUNDAM_U/GUNDAM_S/GUNDAM_P); region of chosen save not confirmed; also released: JP"
+ },
+ {
+  "dir": "headhunt",
+  "title": "Head Hunter",
+  "rname": "Headhunter (Europe) (En,Fr,De,Es) (Disc 1) | Headhunter (Europe) (En,Fr,De,Es) (Disc 2)",
+  "ids": [
+   "MK-51041-50"
+  ],
+  "region": "EU",
+  "files": [
+   "v86416.vmi"
+  ],
+  "completion": "Best of 7: zdraveite tova e 100%-tov save.ako ste ot [Bulgaria]pishete mi",
+  "status": "ready",
+  "notes": "game also has settings/system file(s) (H_HUNTER.SYS) not included"
+ },
+ {
+  "dir": "heavymetal",
+  "title": "Heavy Metal: Geomatrix",
+  "rname": "Heavy Metal - Geomatrix (USA)",
+  "ids": [
+   "T-1223N"
+  ],
+  "region": "US",
+  "files": [
+   "v99350.vmi"
+  ],
+  "completion": "Best of 6: EVERIONE UNLOCKD (TUDO LIBERADO)",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/JP"
+ },
+ {
+  "dir": "hiddendangerous",
+  "title": "Hidden and Dangerous",
+  "rname": "Hidden & Dangerous (USA)",
+  "ids": [
+   "T-40502N"
+  ],
+  "region": "US",
+  "files": [
+   "v45698.vmi"
+  ],
+  "completion": "Best of 7: This is a great game file! Everything Complete",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "house_dead",
+  "title": "House of the Dead 2",
+  "rname": "House of the Dead 2, The (USA)",
+  "ids": [
+   "51002"
+  ],
+  "region": "US",
+  "files": [
+   "v3080.vmi"
+  ],
+  "completion": "Best of 13: All unlocked. In original game is all (Amy,Harry custumise,ufo?).PERFECT SAVE!",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants (HOD2DC_U/HOD2DC__); region of chosen save not confirmed; also released: EU/JP"
+ },
+ {
+  "dir": "hoyle",
+  "title": "Hoyle Casino",
+  "rname": "Hoyle Casino (USA)",
+  "ids": [
+   "T-11008N"
+  ],
+  "region": "US",
+  "files": [
+   "v46800.vmi"
+  ],
+  "completion": "Best of 3: All the money you will ever need. The game stops at $1 billion.",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "hswords",
+  "title": "Hundred Swords",
+  "rname": "Hundred Swords (Japan) | Hundred Swords (Japan) (@barai)",
+  "ids": [
+   "HDR-0124",
+   "HDR-0127"
+  ],
+  "region": "JP",
+  "files": [
+   "100sword.VMI"
+  ],
+  "completion": "Best of 3: Personal Save! Stage 5!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "hydrothunder",
+  "title": "Hydro Thunder",
+  "rname": "Hydro Thunder (USA) (Rev 1) | Hydro Thunder (USA)",
+  "ids": [
+   "T-9702N"
+  ],
+  "region": "US",
+  "files": [
+   "v17911.vmi"
+  ],
+  "completion": "Best of 9: I have all stages and bonus stages unlocked and boats unlockedincluding the bonus boats",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "ikaruga",
+  "title": "Ikaruga",
+  "rname": "Ikaruga (Japan)",
+  "ids": [
+   "T-38706M"
+  ],
+  "region": "JP",
+  "files": [
+   "IKARUGA.VMI"
+  ],
+  "completion": "Only save: Credit MAX,All Mode Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "illbleed",
+  "title": "Illbleed",
+  "rname": "Illbleed (USA)",
+  "ids": [
+   "T-46001N"
+  ],
+  "region": "US",
+  "files": [
+   "v76597.vmi"
+  ],
+  "completion": "Best of 15: the final boss and 99999999 money",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: JP/other"
+ },
+ {
+  "dir": "incoming",
+  "title": "Incoming",
+  "rname": "Incoming (USA)",
+  "ids": [
+   "T-12503N"
+  ],
+  "region": "US",
+  "files": [
+   "v30743.vmi"
+  ],
+  "completion": "Best of 3: this is a perfect save whit everithing done.All the 10 missions done.Tudo completo este e o save que todos procuram.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "industrialspy",
+  "title": "Industrial Spy: Operation Espionage",
+  "rname": "Industrial Spy - Operation Espionage (USA)",
+  "ids": [
+   "T-41302N"
+  ],
+  "region": "US",
+  "files": [
+   "v8391.vmi"
+  ],
+  "completion": "Best of 4: 5 levels completed",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "ironaces",
+  "title": "Iron Aces",
+  "rname": "Iron Aces (USA)",
+  "ids": [
+   "T-15129N"
+  ],
+  "region": "US",
+  "files": [
+   "v91038.vmi"
+  ],
+  "completion": "Best of 7: todos avioes no hard.all planes.BRASIL!RUMO AO HEXA!CAMPEAO MUNDIAL!I LOVE YOU LISI!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "jeremymcgrath",
+  "title": "Jeremy McGrath Supercross 2000",
+  "rname": "Jeremy McGrath Supercross 2000 (USA)",
+  "ids": [
+   "T-8104N"
+  ],
+  "region": "US",
+  "files": [
+   "v85569.vmi"
+  ],
+  "completion": "Best of 3: all 125 beat xec custom goast towntable top freestyle open 250s alsoopen will be back",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "jetgrindradio",
+  "title": "Jet Grind Radio",
+  "rname": "Jet Grind Radio (USA)",
+  "ids": [
+   "51058",
+   "51084"
+  ],
+  "region": "US",
+  "files": [
+   "v63649.vmi"
+  ],
+  "completion": "Best of 20: Save of all Saves, the best of the best, Characters ALL unlocked! This means you play with Noise Tanks, Love Shockers, Poison Jam, Golden Rh",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants"
+ },
+ {
+  "dir": "jetsetdx",
+  "title": "Jet Set Radio DX",
+  "rname": "De La Jet Set Radio (Japan) (En,Ja,Fr,De,Es)",
+  "ids": [
+   "HDR-0128",
+   "HDR-0186"
+  ],
+  "region": "JP",
+  "files": [
+   "jetsetdx.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "needs review",
+  "notes": "Redump mapping inferred from filename/title, not confirmed"
+ },
+ {
+  "dir": "july",
+  "title": "July",
+  "rname": "July (Japan) (Rev A) | July (Japan)",
+  "ids": [
+   "T-35401M"
+  ],
+  "region": "JP",
+  "files": [
+   "july0001.VMI"
+  ],
+  "completion": "Only save: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "kanon",
+  "title": "Kanon",
+  "rname": "Kanon (Japan)",
+  "ids": [
+   "T-20105M"
+  ],
+  "region": "JP",
+  "files": [
+   "KANON1.VMI"
+  ],
+  "completion": "Best of 2: Kanon Save (Jap) All Unlocked",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "kao",
+  "title": "Kao the Kangaroo",
+  "rname": "Kao the Kangaroo (USA) (En,Es)",
+  "ids": [
+   "T-22903N"
+  ],
+  "region": "US",
+  "files": [
+   "v27628.vmi"
+  ],
+  "completion": "Only save: The perfect save all stages available.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "kisspsycho",
+  "title": "KISS Psycho Circus: The Nightmare Child",
+  "rname": "KISS Psycho Circus - The Nightmare Child (USA)",
+  "ids": [
+   "T-41901N"
+  ],
+  "region": "US",
+  "files": [
+   "v18835.vmi"
+  ],
+  "completion": "Best of 8: In this save file, the wholegame is 100% complete. Allweapons, maximum health onall four charecters, and ofcourse, the last stage isbaeten. ",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "truerep",
+  "title": "Kono Hana True Report",
+  "rname": "Konohana - True Report (Japan)",
+  "ids": [
+   "T-9905M"
+  ],
+  "region": "JP",
+  "files": [
+   "00000004.vmi"
+  ],
+  "completion": "Only save: JP Perfect Save! All Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "langrisser",
+  "title": "Langrisser Millennium",
+  "rname": "Langrisser Millennium (Japan)",
+  "ids": [
+   "T-2501M"
+  ],
+  "region": "JP",
+  "files": [
+   "langriss.VMI"
+  ],
+  "completion": "Best of 2: Personal Save.Low Level",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "legacykain",
+  "title": "Legacy of Kain: Soul Reaver",
+  "rname": "Legacy of Kain - Soul Reaver (USA)",
+  "ids": [
+   "T-36802N"
+  ],
+  "region": "US",
+  "files": [
+   "v3848.vmi"
+  ],
+  "completion": "Best of 8: has all abilties exept fire reaver.I decorated the place a bitmost spears are at 3rd warpgatearea. has health coil maxed out and magic maxed",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: other/EU"
+ },
+ {
+  "dir": "looneytoons",
+  "title": "Looney Toons Space Race",
+  "rname": "Looney Tunes - Space Race (USA) (En,Fr,Es)",
+  "ids": [
+   "T-15116N"
+  ],
+  "region": "US",
+  "files": [
+   "v96069.vmi"
+  ],
+  "completion": "Best of 4: Game completed, all characters, allacme events, all gallery photos, all challenges, time trials completed.[everthing in this game]",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "lovehina",
+  "title": "Love Hina",
+  "rname": "Love Hina - Totsuzen no Engage Happening (Japan)",
+  "ids": [
+   "HDR-0102",
+   "HDR-0112"
+  ],
+  "region": "JP",
+  "files": [
+   "lovehina.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "lovehina2",
+  "title": "Love Hina 2",
+  "rname": "Love Hina - Smile Again (Japan)",
+  "ids": [
+   "HDR-0139"
+  ],
+  "region": "JP",
+  "files": [
+   "lovehin2.VMI"
+  ],
+  "completion": "Only save: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "macross",
+  "title": "Macross M3",
+  "rname": "Macross M3 (Japan)",
+  "ids": [
+   "T-21501M",
+   "T-21502M"
+  ],
+  "region": "JP",
+  "files": [
+   "macross.VMI"
+  ],
+  "completion": "Best of 2: Perfect Save!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "magforceracing",
+  "title": "MagForce Racing",
+  "rname": "MagForce Racing (USA) (En,Fr,De,Es,It)",
+  "ids": [
+   "T-40208N"
+  ],
+  "region": "US",
+  "files": [
+   "v25599.vmi"
+  ],
+  "completion": "Best of 4: All Tripods and tracks.25% Faster Mode.Game 100% complete!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "magic",
+  "title": "Magic The Gathering",
+  "rname": "Magic - The Gathering (Japan)",
+  "ids": [
+   "HDR-0116"
+  ],
+  "region": "JP",
+  "files": [
+   "magicthe.VMI"
+  ],
+  "completion": "Best of 2: Perfect Save! All Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "makenx",
+  "title": "Maken X",
+  "rname": "Maken X (USA)",
+  "ids": [
+   "51050"
+  ],
+  "region": "US",
+  "files": [
+   "v3910.vmi"
+  ],
+  "completion": "Best of 8: Start on last level All levels open All Hakke available for jacking All Blademasters except Kitty Best (Happy) ending",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "marionette1",
+  "title": "Marionette Handler",
+  "rname": "Marionette Handler (Japan)",
+  "ids": [
+   "T-2201M"
+  ],
+  "region": "JP",
+  "files": [
+   "MARHAND1.VMI"
+  ],
+  "completion": "Only save: All cleared.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "marionette2",
+  "title": "Marionette Handler 2",
+  "rname": "Marionette Handler 2 (Japan)",
+  "ids": [
+   "T-2204M"
+  ],
+  "region": "JP",
+  "files": [
+   "MARHAND2.VMI"
+  ],
+  "completion": "Only save: All cleared.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "marsmatrix",
+  "title": "Mars Matrix",
+  "rname": "Mars Matrix (USA)",
+  "ids": [
+   "T-1221N"
+  ],
+  "region": "US",
+  "files": [
+   "v36250.vmi"
+  ],
+  "completion": "Best of 9: Ship speed, free play unlocked, score attack up to level 5. 3 pictures in the gallery, mosquito guage speed, all the hard stuff already gott",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP"
+ },
+ {
+  "dir": "matbmx",
+  "title": "Mat Hoffman's Pro BMX",
+  "rname": "Mat Hoffman's Pro BMX (USA)",
+  "ids": [
+   "T-13005N"
+  ],
+  "region": "US",
+  "files": [
+   "v34970.vmi"
+  ],
+  "completion": "Best of 12: Beat it with all but 3 people.Grandma, Tony hawk, unlocked. couple more days will upload completed file. also have bails video which is cool",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "maxsteel",
+  "title": "Max Steel",
+  "rname": "Max Steel - Covert Missions (USA)",
+  "ids": [
+   "T-41402N"
+  ],
+  "region": "US",
+  "files": [
+   "v23833.vmi"
+  ],
+  "completion": "Best of 8: missile launch c and all weaponss",
+  "status": "ready",
+  "notes": "game also has settings/system file(s) (MAXSTEEL.OPT) not included"
+ },
+ {
+  "dir": "maxpool",
+  "title": "Maximum Pool",
+  "rname": "Maximum Pool (USA)",
+  "ids": [
+   "T-11002N"
+  ],
+  "region": "US",
+  "files": [
+   "v9149.vmi"
+  ],
+  "completion": "Best of 8: All cool tables, new games, and beaten all opponents on hardest difficulty.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "mdk2",
+  "title": "MDK 2",
+  "rname": "MDK2 (USA)",
+  "ids": [
+   "T-12502N"
+  ],
+  "region": "US",
+  "files": [
+   "v23982.vmi"
+  ],
+  "completion": "Best of 13: juego al 100%(game 100%)todos los videos",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "memoff",
+  "title": "Memories Off Complete",
+  "rname": "Memories Off Complete (Japan)",
+  "ids": [
+   "T-19702M"
+  ],
+  "region": "JP",
+  "files": [
+   "memoff1.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "memoff2",
+  "title": "Memories Off 2nd",
+  "rname": "Memories Off 2nd (Japan)",
+  "ids": [
+   "T-19707M",
+   "T-19708M"
+  ],
+  "region": "JP",
+  "files": [
+   "memoff2.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "metropolisracer",
+  "title": "Metropolis Street Racer",
+  "rname": "MSR - Metropolis Street Racer (USA)",
+  "ids": [
+   "51012"
+  ],
+  "region": "US",
+  "files": [
+   "v72304.vmi"
+  ],
+  "completion": "Best of 19: 329563.5 kudos earned. All standard cars28/28 opened. All bonus cars earned 13/13chat vehicles 7/7 earned. Specialsbeaten 44/44.all races be",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants (MSRSINGL/MSRGHOST); region of chosen save not confirmed; also released: EU"
+ },
+ {
+  "dir": "milky",
+  "title": "Milky Season",
+  "rname": "Milky Season (Japan)",
+  "ids": [
+   "T-19713M"
+  ],
+  "region": "JP",
+  "files": [
+   "milkysea.VMI"
+  ],
+  "completion": "Only save: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "mizuiro",
+  "title": "Mizuiro",
+  "rname": "Mizuiro (Japan)",
+  "ids": [
+   "T-20114M",
+   "T-20115M"
+  ],
+  "region": "JP",
+  "files": [
+   "mizuiro.VMI"
+  ],
+  "completion": "Only save: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "monacoprix",
+  "title": "Monaco Grand Prix",
+  "rname": "Monaco Grand Prix (USA)",
+  "ids": [
+   "T-17701N"
+  ],
+  "region": "US",
+  "files": [
+   "v42190.vmi"
+  ],
+  "completion": "Best of 4: Season 2002 cars and drivers.Saison 2002 pilotes et voituresToyota a pris la place de minardi(faute de place)",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "driller",
+  "title": "Mr. Driller",
+  "rname": "Mr. Driller (USA)",
+  "ids": [
+   "T-1402N"
+  ],
+  "region": "US",
+  "files": [
+   "drilleru.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Open!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/JP"
+ },
+ {
+  "dir": "mspacman",
+  "title": "Ms. Pac-Man Maze Madness",
+  "rname": "Ms. Pac-Man Maze Madness (USA)",
+  "ids": [
+   "T-1404N"
+  ],
+  "region": "US",
+  "files": [
+   "PACMAN.vmi"
+  ],
+  "completion": "Best of 4: Completed game! Save for Ms. PacMan maze madness.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "mtvskate",
+  "title": "MTV Sports: Skateboarding",
+  "rname": "MTV Sports - Skateboarding featuring Andy Macdonald (USA)",
+  "ids": [
+   "T-10004N"
+  ],
+  "region": "US",
+  "files": [
+   "v34809.vmi"
+  ],
+  "completion": "Only save: This save has everything unlocked.Just load it up and enjoy.This game is great.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "nadesico",
+  "title": "Nadesico The Mission",
+  "rname": "Kidou Senkan Nadesico - Nadesico the Mission (Japan)",
+  "ids": [
+   "T-27901M"
+  ],
+  "region": "JP",
+  "files": [
+   "NADESICO.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "nakoruru",
+  "title": "NaKoRuRu",
+  "rname": "Nakoruru - Ano Hito kara no Okurimono (Japan)",
+  "ids": [
+   "T-44702M"
+  ],
+  "region": "JP",
+  "files": [
+   "00000020.vmi"
+  ],
+  "completion": "Only save: Perfect Save! All Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "namcomuseum",
+  "title": "Namco Museum",
+  "rname": "Namco Museum (USA)",
+  "ids": [
+   "T-1403N"
+  ],
+  "region": "US",
+  "files": [
+   "v36300.vmi"
+  ],
+  "completion": "Best of 3: GAlaga high score, beat it if you can!!!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "nbahoopz",
+  "title": "NBA Hoopz",
+  "rname": "NBA Hoopz (USA)",
+  "ids": [
+   "T-9709N"
+  ],
+  "region": "US",
+  "files": [
+   "v13529.vmi"
+  ],
+  "completion": "Only save: UPDATED ROSTER INCLUDING J-ROSE TO THE BULLS AND RAEF LAFRENTZ & VAN EXEL TO THE MAVS OH & OFCOURSE THEIRS MJ",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "nbashow",
+  "title": "NBA Showtime: NBA on NBC",
+  "rname": "NBA Showtime - NBA on NBC (USA)",
+  "ids": [
+   "T-9706N"
+  ],
+  "region": "US",
+  "files": [
+   "v14808.vmi"
+  ],
+  "completion": "Best of 13: All players unlocked 80 wins All Midway players unlocked",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "ncaa",
+  "title": "NCAA College Football 2K2: Road to the Rose Bowl",
+  "rname": "NCAA College Football 2K2 - Road to the Rose Bowl (USA)",
+  "ids": [
+   "51176"
+  ],
+  "region": "US",
+  "files": [
+   "v26223.vmi"
+  ],
+  "completion": "Only save: this game save is all about the bowl games.miami vs nebraska....in the rose bowl.",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "never7",
+  "title": "Never 7: The End of Infinity",
+  "rname": "Never 7 - The End of Infinity (Japan)",
+  "ids": [
+   "T-19703M"
+  ],
+  "region": "JP",
+  "files": [
+   "never7.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "nflblitz",
+  "title": "NFL Blitz 2000",
+  "rname": "NFL Blitz 2000 (USA) | NFL Blitz 2000 (USA) (Rev 1)",
+  "ids": [
+   "T-9703N"
+  ],
+  "region": "US",
+  "files": [
+   "v21453.vmi"
+  ],
+  "completion": "Only save: This saved game has the Titans at the superbowl against the 49ers. It also my 31 straight wins and all my stats on arcade mode.",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "nflblitz2k1",
+  "title": "NFL Blitz 2001",
+  "rname": "NFL Blitz 2001 (USA)",
+  "ids": [
+   "T-9712N"
+  ],
+  "region": "US",
+  "files": [
+   "v58068.vmi"
+  ],
+  "completion": "Best of 3: souped up dallas cowboys check the roster i'm undefeated with them",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "nightcreature2",
+  "title": "Nightmare Creatures 2",
+  "rname": "Nightmare Creatures II (USA)",
+  "ids": [
+   "T-9504N"
+  ],
+  "region": "US",
+  "files": [
+   "v74500.vmi"
+  ],
+  "completion": "Best of 6: ESTA NA ULTIMA FASE MAS CUIDADO...",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "omikron",
+  "title": "Omikron: The Nomad Soul",
+  "rname": "Omikron - The Nomad Soul (USA) (En,Fr,De,Es,It)",
+  "ids": [
+   "T-36807N"
+  ],
+  "region": "US",
+  "files": [
+   "v66653.vmi"
+  ],
+  "completion": "Best of 11: After kail and tarek fight",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "ooga",
+  "title": "Ooga Booga",
+  "rname": "Ooga Booga (USA)",
+  "ids": [
+   "51140"
+  ],
+  "region": "US",
+  "files": [
+   "v81380.vmi"
+  ],
+  "completion": "Best of 4: THE IS 100% COMPLETE.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "outtrigger",
+  "title": "Outtrigger",
+  "rname": "Outtrigger (USA)",
+  "ids": [
+   "51102"
+  ],
+  "region": "US",
+  "files": [
+   "v4846.vmi"
+  ],
+  "completion": "Best of 11: All missions complete, all characters unlocked, and all weapons available.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "penpen",
+  "title": "Pen Pen Trilcelon",
+  "rname": "PenPen TriIcelon (USA)",
+  "ids": [
+   "T-15105N"
+  ],
+  "region": "US",
+  "files": [
+   "v92450.vmi"
+  ],
+  "completion": "Only save: Most things unlocked.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "pso",
+  "title": "Phantasy Star Online",
+  "rname": "Phantasy Star Online (USA) (En,Ja,Fr,De,Es)",
+  "ids": [
+   "51100"
+  ],
+  "region": "US",
+  "files": [
+   "PSO_D1J.VMI"
+  ],
+  "completion": "Best of 24: DOWNLOAD SAVE FILE 1 JAP",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU/JP"
+ },
+ {
+  "dir": "pso2",
+  "title": "Phantasy Star Online Version 2",
+  "rname": "Phantasy Star Online Ver. 2 (USA) (En,Ja,Fr,De,Es)",
+  "ids": [
+   "51193"
+  ],
+  "region": "US",
+  "files": [
+   "v14517.vmi"
+  ],
+  "completion": "Best of 20: lv100 chara nonhacked lvled myself. almost all weaps nonhacked. max hp all stats maxed not hacked. but this chara is a girl lol.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "pia3",
+  "title": "Pia Carrot 3",
+  "rname": "Pia Carrot e Youkoso!! 3 (Japan)",
+  "ids": [
+   "T-20110M"
+  ],
+  "region": "JP",
+  "files": [
+   "PIA3BEST.VMI"
+  ],
+  "completion": "Only save: Perfect Save, Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "pod",
+  "title": "POD: Speedzone",
+  "rname": "POD - Speedzone (USA)",
+  "ids": [
+   "T-17713N"
+  ],
+  "region": "US",
+  "files": [
+   "podsave.VMI"
+  ],
+  "completion": "Best of 2: This save file has extra cars and a track unlocked that were only accessable if an online account was created. The save has cars 'Crab' and ",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "jetr2001",
+  "title": "Power Jet Racing 2001",
+  "rname": "Power Jet Racing 2001 (Japan)",
+  "ids": [
+   "T-6806M"
+  ],
+  "region": "JP",
+  "files": [
+   "JETRACE1.VMI"
+  ],
+  "completion": "Only save: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "prince",
+  "title": "Prince of Persia: Arabian Nights",
+  "rname": "Prince of Persia - Arabian Nights (USA)",
+  "ids": [
+   "T-41405N"
+  ],
+  "region": "US",
+  "files": [
+   "v4808.vmi"
+  ],
+  "completion": "Best of 4: The final battle with nearly full health and several good weapons.The fire sword seems towork best.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "princessh",
+  "title": "Princess Holiday",
+  "rname": "Princess Holiday - Korogaru Ringo Tei Sen'ya Ichiya (Japan)",
+  "ids": [
+   "T-47105M",
+   "T-47106M"
+  ],
+  "region": "JP",
+  "files": [
+   "PRINCESS.VMI"
+  ],
+  "completion": "Only save: Cool save for Princess Holiday!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "princessmaker",
+  "title": "Princess Maker Collection",
+  "rname": "Princess Maker Collection (Japan)",
+  "ids": [
+   "T-44801M"
+  ],
+  "region": "JP",
+  "files": [
+   "primake2.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "prism",
+  "title": "Prism Heart",
+  "rname": "Prism Heart (Japan)",
+  "ids": [
+   "T-19711M"
+  ],
+  "region": "JP",
+  "files": [
+   "prismhea.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "prismatic",
+  "title": "Prismaticallization",
+  "rname": "Prismaticallization (Japan)",
+  "ids": [
+   "T-22002M"
+  ],
+  "region": "JP",
+  "files": [
+   "PRISMATI.VMI"
+  ],
+  "completion": "Only save: Everything unlocked",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "puyopuyo4",
+  "title": "Puyo Puyo 4",
+  "rname": "Puyo Puyoon (Japan)",
+  "ids": [
+   "HDR-0014"
+  ],
+  "region": "JP",
+  "files": [
+   "PUYOP4.VMI"
+  ],
+  "completion": "Only save: Hidden stages & characters opened",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "puyofever",
+  "title": "Puyo Pop Fever",
+  "rname": "Puyo Puyo Fever (Japan) (En,Ja)",
+  "ids": [
+   "HDR-0216",
+   "HDR-0217"
+  ],
+  "region": "JP",
+  "files": [
+   "00001654.VMI"
+  ],
+  "completion": "Only save: complete Puyo pop Fever game save! Everything unlocked! Press start at bios for real mode",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "quake3",
+  "title": "Quake 3 Arena",
+  "rname": "Quake III - Arena (USA)",
+  "ids": [
+   "51061"
+  ],
+  "region": "US",
+  "files": [
+   "v84042.vmi"
+  ],
+  "completion": "Best of 36: This is the best save so far and it was hard as hell to do the maze for hardcore! This save has all difficulties beat besides nighmare. so y",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "railroadtycoon2",
+  "title": "Railroad Tycoon 2",
+  "rname": "Railroad Tycoon II (USA)",
+  "ids": [
+   "T-41902N"
+  ],
+  "region": "US",
+  "files": [
+   "v43042.vmi"
+  ],
+  "completion": "Best of 8: Every scenario finished with at least 17 Gold Medals. 4 cheat codes unlocked.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "rainbowcotton",
+  "title": "Rainbow Cotton",
+  "rname": "Rainbow Cotton (Japan)",
+  "ids": [
+   "T-9901M"
+  ],
+  "region": "JP",
+  "files": [
+   "RAINCOT.VMI"
+  ],
+  "completion": "Only save: Voice Select Unlocked",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "rainbowsix",
+  "title": "Rainbow Six",
+  "rname": "Tom Clancy's Rainbow Six with Eagle Watch Missions (USA)",
+  "ids": [
+   "T-40401N"
+  ],
+  "region": "US",
+  "files": [
+   "RAINBOW6.VMI"
+  ],
+  "completion": "Best of 16: Perfect Save! All Secret Unlocked!",
+  "status": "needs review",
+  "notes": "archive has 7 filename variants (EW_LW_01/RAINBOW6/R6_LF_13/R6_FW_07); region of chosen save not confirmed; also released: other/EU"
+ },
+ {
+  "dir": "rsrogue",
+  "title": "Rainbow Six: Rogue Spear",
+  "rname": "Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (USA)",
+  "ids": [
+   "T-40402N"
+  ],
+  "region": "US",
+  "files": [
+   "v95448.vmi"
+  ],
+  "completion": "Best of 13: All levels in both regular game and urban operations complete. every last level is complete. is on easy. most people still alive.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: other/EU"
+ },
+ {
+  "dir": "rayman2",
+  "title": "Rayman 2: The Great Escape",
+  "rname": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",
+  "ids": [
+   "T-17704N"
+  ],
+  "region": "US",
+  "files": [
+   "v17571.vmi"
+  ],
+  "completion": "Best of 16: 100% Complete All lums.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "razor",
+  "title": "Razor Freestyle Scooter",
+  "rname": "Razor Freestyle Scooter (USA)",
+  "ids": [
+   "T-40219N"
+  ],
+  "region": "US",
+  "files": [
+   "v47428.vmi"
+  ],
+  "completion": "Only save: This file has everything. All levels unlocked. All charecters unlocked including the Robot. This save is the best!!!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "revolt",
+  "title": "Re-Volt",
+  "rname": "Re-Volt (USA)",
+  "ids": [
+   "T-8109N"
+  ],
+  "region": "US",
+  "files": [
+   "v63092.vmi"
+  ],
+  "completion": "Best of 7: 100% done",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "ready_rumble",
+  "title": "Ready 2 Rumble Boxing",
+  "rname": "Ready 2 Rumble Boxing (USA) (Rerelease) | Ready 2 Rumble Boxing (USA)",
+  "ids": [
+   "T-9704N"
+  ],
+  "region": "US",
+  "files": [
+   "v83017.vmi"
+  ],
+  "completion": "Best of 9: All boxers unlocked in champ mode strength, dexterity, experience all 100% on all boxers plus 2 million dollars and just 7 boxers left to be",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; game also has settings/system file(s) (R2RUMBLE.SYS) not included; also released: EU"
+ },
+ {
+  "dir": "ready_rumble2",
+  "title": "Ready to Rumble Boxing 2",
+  "rname": "Ready 2 Rumble Boxing (USA) (Rerelease) | Ready 2 Rumble Boxing (USA) | Ready 2 Rumble Boxing - Round 2 (USA) (En,Fr,De)",
+  "ids": [
+   "T-9717N"
+  ],
+  "region": "US",
+  "files": [
+   "v36902.vmi"
+  ],
+  "completion": "Best of 24: Everything, I mean EVERYTHING unlocked. All boxers, all champ costumes, all holiday costumes and an extra game mode (TRAINING). The Ultimate",
+  "status": "ready",
+  "notes": "ID T-9704N shared with another game's disc, card not duplicated; single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "reclodoss",
+  "title": "Record of Lodoss War",
+  "rname": "Record of Lodoss War (USA)",
+  "ids": [
+   "T-40218N"
+  ],
+  "region": "US",
+  "files": [
+   "v68838.vmi"
+  ],
+  "completion": "Best of 20: Level 100,all weapon,all legendary ammunition,all ancient words at MAX level,the BEST amuletsrings/ belts/ robes and etc. P.S.: the amazing ",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: other/EU"
+ },
+ {
+  "dir": "reddog",
+  "title": "Red Dog: Superior Fire Power",
+  "rname": "Red Dog - Superior Firepower (USA)",
+  "ids": [
+   "T-40215N"
+  ],
+  "region": "US",
+  "files": [
+   "v64962.vmi"
+  ],
+  "completion": "Best of 4: 100% complete. All maps unlocked.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "redlineracer",
+  "title": "Redline Racer",
+  "rname": "Redline Racer (Japan)",
+  "ids": [
+   "T-15002M"
+  ],
+  "region": "JP",
+  "files": [
+   "REDRACE.VMI"
+  ],
+  "completion": "Only save: First set of racers complete",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "reelfish",
+  "title": "Reel Fishing Wild",
+  "rname": "Reel Fishing + Wild (USA)",
+  "ids": [
+   "T-44303N"
+  ],
+  "region": "US",
+  "files": [
+   "v60365.vmi"
+  ],
+  "completion": "Best of 2: All Fishing spots are open. All fish have been caught. Game has been completed.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "rentahero",
+  "title": "Rent A Hero No. 1",
+  "rname": "Rent a Hero No. 1 (Japan)",
+  "ids": [
+   "HDR-0074"
+  ],
+  "region": "JP",
+  "files": [
+   "v47039.vmi"
+  ],
+  "completion": "Best of 4: EVERY THING UNLOCKED!!! EVERYTHING",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "residentevil2",
+  "title": "Resident Evil 2",
+  "rname": "Resident Evil 2 (USA) (Disc 1) | Resident Evil 2 (USA) (Disc 2)",
+  "ids": [
+   "T-1205N"
+  ],
+  "region": "US",
+  "files": [
+   "v50830.vmi"
+  ],
+  "completion": "Best of 20: Extreme battle mode and all 3d models (but not 4th survivor and tofu),infinite ammo for machine gun in normal mode. And hard, nightmare, eas",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants (RESEVIL2/BIOHAZRD); region of chosen save not confirmed; description does not show a clearly complete save; game also has settings/system file(s) (RESEVIL2.SYS) not included; also released: EU"
+ },
+ {
+  "dir": "residentevil3",
+  "title": "Resident Evil 3: Nemesis",
+  "rname": "Resident Evil 3 - Nemesis (USA)",
+  "ids": [
+   "T-1220N"
+  ],
+  "region": "US",
+  "files": [
+   "v27144.vmi"
+  ],
+  "completion": "Best of 26: This save has all the file for you to view. All weapons at max all weapons are in the box and you can view both endings of the game.",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants (RESEVIL3/BIOHAZRD); region of chosen save not confirmed; also released: EU/other"
+ },
+ {
+  "dir": "resident_evil",
+  "title": "Resident Evil: Code Veronica",
+  "rname": "Resident Evil - Code - Veronica (USA) (Disc 1) | Resident Evil - Code - Veronica (USA) (Disc 2)",
+  "ids": [
+   "T-1204N"
+  ],
+  "region": "US",
+  "files": [
+   "v65733.vmi"
+  ],
+  "completion": "Best of 33: Everything unlocked! All weapons and infinite ammo!",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants (RE_CV000/VERONICA); region of chosen save not confirmed; game also has settings/system file(s) (RE_CV000.SYS,VERONICA.SYS) not included; also released: EU/other"
+ },
+ {
+  "dir": "revive",
+  "title": "Revive",
+  "rname": "Revive... - Sosei (Japan)",
+  "ids": [
+   "T-1301M"
+  ],
+  "region": "JP",
+  "files": [
+   "revive1.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "rez",
+  "title": "Rez",
+  "rname": "Rez (Europe) (En,Ja,Fr,De,Es,It)",
+  "ids": [
+   "MK-51192-50"
+  ],
+  "region": "EU",
+  "files": [
+   "rez9999.VMI"
+  ],
+  "completion": "Only save: Best Save! Everything Unlocked",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP"
+ },
+ {
+  "dir": "rippinriders",
+  "title": "Rippin' Riders",
+  "rname": "Rippin' Riders Snowboarding (USA)",
+  "ids": [
+   "51010"
+  ],
+  "region": "US",
+  "files": [
+   "00000579.vmi"
+  ],
+  "completion": "Best of 6: Snowman unlocked, 1,2,3,4,5, and ending couse beat, soon I will have secret force unlocked",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "roadsters",
+  "title": "Roadsters",
+  "rname": "Roadsters (USA)",
+  "ids": [
+   "T-22901N"
+  ],
+  "region": "US",
+  "files": [
+   "v43459.vmi"
+  ],
+  "completion": "Best of 2: EVANDRO ARARAS_SP",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "roommate",
+  "title": "Roommate Novel",
+  "rname": "Roommate Novel - Satou Yuka (Japan)",
+  "ids": [
+   "T-19502M"
+  ],
+  "region": "JP",
+  "files": [
+   "ROOMMATE.VMI"
+  ],
+  "completion": "Only save: The ultimate female roommate",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "sakato1",
+  "title": "SaKaToKu 1",
+  "rname": "Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) | Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)",
+  "ids": [
+   "HDR-0126"
+  ],
+  "region": "JP",
+  "files": [
+   "TEDAH1_1.VMI"
+  ],
+  "completion": "Best of 2: Offical Team Download! (Team 1)",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "sakato2",
+  "title": "SaKaToKu 2",
+  "rname": "Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)",
+  "ids": [
+   "HDR-0183"
+  ],
+  "region": "JP",
+  "files": [
+   "TEDAH2e1.VMI"
+  ],
+  "completion": "Best of 2: Special Song! Sakura Wars!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "sakura_card",
+  "title": "Sakura Card Captor: Tomoyo Video",
+  "rname": "Cardcaptor Sakura - Tomoyo no Video Daisakusen (Japan)",
+  "ids": [
+   "HDR-0115",
+   "HDR-0132"
+  ],
+  "region": "JP",
+  "files": [
+   "v14383.vmi"
+  ],
+  "completion": "Only save: VMU SAVE for SAKURA CARD captor (dreamcast game) in second stage",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "sakura1",
+  "title": "Sakura Wars 1",
+  "rname": "Sakura Taisen (Japan) (Disc 1) | Sakura Taisen (Japan) (Disc 2) | Sakura Taisen (Japan) (Disc 2) (Rev A) | Sakura Taisen (Japan) (Disc 1) (Rev A)",
+  "ids": [
+   "HDR-0089",
+   "HDR-0192"
+  ],
+  "region": "JP",
+  "files": [
+   "sw1_sys.VMI"
+  ],
+  "completion": "Best of 2: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "sakura2",
+  "title": "Sakura Wars 2",
+  "rname": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) | Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2) | Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) | Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Rev A) | Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2) (Rev A) | Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Rev A)",
+  "ids": [
+   "HDR-0082",
+   "HDR-0108",
+   "HDR-0193"
+  ],
+  "region": "JP",
+  "files": [
+   "sw2_sys.VMI"
+  ],
+  "completion": "Best of 2: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "sakura3",
+  "title": "Sakura Wars 3",
+  "rname": "Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Disc 1) | Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Disc 2) | Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Disc 3)",
+  "ids": [
+   "HDR-0147",
+   "HDR-0148",
+   "HDR-0152",
+   "HDR-0194"
+  ],
+  "region": "JP",
+  "files": [
+   "sw3_sys.VMI"
+  ],
+  "completion": "Best of 18: System File! All Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "sakura4",
+  "title": "Sakura Wars 4",
+  "rname": "Sakura Taisen 4 - Koi seyo Otome (Japan)",
+  "ids": [
+   "HDR-0191",
+   "HDR-0202"
+  ],
+  "region": "JP",
+  "files": [
+   "00000023.vmi"
+  ],
+  "completion": "Best of 7: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "sakurapz",
+  "title": "Sakura Wars Columns",
+  "rname": "Sakura Taisen - Hanagumi Taisen Columns 2 (Japan)",
+  "ids": [
+   "HDR-0046"
+  ],
+  "region": "JP",
+  "files": [
+   "sakurapz.VMI"
+  ],
+  "completion": "Only save: Cool save for Sakura Wars Columns!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "sakuraks",
+  "title": "Sakura Wars Kayou Show",
+  "rname": "Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1) | Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2)",
+  "ids": [
+   "HDR-0057"
+  ],
+  "region": "JP",
+  "files": [
+   "SWDASHEN.VMI"
+  ],
+  "completion": "Only save: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "samba",
+  "title": "Samba de Amigo",
+  "rname": "Samba de Amigo (USA)",
+  "ids": [
+   "51092"
+  ],
+  "region": "US",
+  "files": [
+   "v39888.vmi"
+  ],
+  "completion": "Best of 37: exclusive Sofdec.com save: * All Songs Unlocked. * 4 Exclusive Songs. * All maracas SE effects unlocked. * All challenges completed.",
+  "status": "needs review",
+  "notes": "archive has 3 filename variants (SAMBAUS1/SAMBAV2K/SAMBADE1); region of chosen save not confirmed; also released: JP/EU"
+ },
+ {
+  "dir": "rush2049",
+  "title": "San Francisco Rush 2049",
+  "rname": "San Francisco Rush 2049 (USA) (En,Fr,De,Es,It,Nl)",
+  "ids": [
+   "T-9707N"
+  ],
+  "region": "US",
+  "files": [
+   "v82401.vmi"
+  ],
+  "completion": "Best of 22: Everything unlocked. All cars, all tracks, all battle arenas, all stunt courses, obstacle course, all parts and ALL COINS.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "bassfish",
+  "title": "Sega Bass Fishing",
+  "rname": "Sega Bass Fishing (USA)",
+  "ids": [
+   "51006"
+  ],
+  "region": "US",
+  "files": [
+   "v21584.vmi"
+  ],
+  "completion": "Best of 7: All lures all big fishin the diary every thing thing unlocked with thewhole game finished!1111",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "bassfish2",
+  "title": "Sega Bass Fishing 2",
+  "rname": "Sega Bass Fishing 2 (USA)",
+  "ids": [
+   "51166"
+  ],
+  "region": "US",
+  "files": [
+   "v88108.vmi"
+  ],
+  "completion": "Best of 9: I have beated the game.I Got 90 lures,12 togo",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save; archive has 2 filename variants"
+ },
+ {
+  "dir": "segagt",
+  "title": "Sega GT",
+  "rname": "Sega GT (USA)",
+  "ids": [
+   "MK-51053"
+  ],
+  "region": "US",
+  "files": [
+   "v64594.vmi"
+  ],
+  "completion": "Best of 58: THE BEST SAVE OF ALL!!! Best modified save u can find on the WEB!!! Everything unlocked, plus a ton of the best cars.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "marinefish",
+  "title": "Sega Marine Fishing",
+  "rname": "Sega Marine Fishing (USA)",
+  "ids": [
+   "51096"
+  ],
+  "region": "US",
+  "files": [
+   "v72852.vmi"
+  ],
+  "completion": "Best of 16: CLOSE TO EVERYTHING UNLOCKED GOT THE DOG AND BIG SPERM WHALE IN THE AQUARIUM. STILL WORKING ON IT WHEN IM 100% DONE ILLBE BACK AGAIN",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP"
+ },
+ {
+  "dir": "segarally",
+  "title": "Sega Rally Championship 2",
+  "rname": "Sega Rally 2 (USA)",
+  "ids": [
+   "51019"
+  ],
+  "region": "US",
+  "files": [
+   "v26643.vmi"
+  ],
+  "completion": "Best of 10: All seasons in first place, all cars, all tracks and all records broken.BRASIL PENTA!!!",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants (SGRALLY2/SG_RALLY); region of chosen save not confirmed; also released: JP/EU"
+ },
+ {
+  "dir": "smashpack",
+  "title": "Sega Smash Pack Vol. 1",
+  "rname": "Sega Smash Pack - Volume 1 (USA)",
+  "ids": [
+   "51146"
+  ],
+  "region": "US",
+  "files": [
+   "v55779.vmi"
+  ],
+  "completion": "Best of 12: For PS2 at motherbrain beat herto see the best game ending of all time",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save; archive has 3 filename variants"
+ },
+ {
+  "dir": "nba2k",
+  "title": "Sega Sports NBA 2K",
+  "rname": "NBA 2K (USA)",
+  "ids": [
+   "51004"
+  ],
+  "region": "US",
+  "files": [
+   "v90157.vmi"
+  ],
+  "completion": "Best of 24: 2000-2001 rosters w\\ewing trade and all rookies as of preseason. The most up to date file next to nba 2k1 is here!!!!!",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU/JP"
+ },
+ {
+  "dir": "nba2k1",
+  "title": "Sega Sports NBA 2K1",
+  "rname": "NBA 2K1 (USA)",
+  "ids": [
+   "51063"
+  ],
+  "region": "US",
+  "files": [
+   "v77819.vmi"
+  ],
+  "completion": "Best of 43: WWF Smackdown! team. Players include Rock, Stone Cold, Road Dogg, etc. 100% overall rating.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP"
+ },
+ {
+  "dir": "nba2k2",
+  "title": "Sega Sports NBA 2K2",
+  "rname": "NBA 2K2 (USA)",
+  "ids": [
+   "51178"
+  ],
+  "region": "US",
+  "files": [
+   "v37129.vmi"
+  ],
+  "completion": "Best of 22: This is a basketball team like the rest of the nba teams but thisteam is \"NBDL\" in case yall' didn'tknow it's a basketball league madeby the",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/JP"
+ },
+ {
+  "dir": "nfl2k",
+  "title": "Sega Sports NFL 2K",
+  "rname": "NFL 2K (USA)",
+  "ids": [
+   "51003"
+  ],
+  "region": "US",
+  "files": [
+   "v40814.vmi"
+  ],
+  "completion": "Best of 12: November 6, 2000 Vikings NFC Champs plus 5 new offensive plays I designed for the Hardcore Viking fans and hopefully the team.",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: JP"
+ },
+ {
+  "dir": "nfl2k1",
+  "title": "Sega Sports NFL 2K1",
+  "rname": "NFL 2K1 (USA, Canada)",
+  "ids": [
+   "51062",
+   "51069"
+  ],
+  "region": "US",
+  "files": [
+   "v92764.vmi"
+  ],
+  "completion": "Best of 39: The perfected ravens Roster. Mysterio- Quarterback- perfect accuracy and strength.L Blaze- Running Back-super fast and strong.S Andrews- Wid",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP"
+ },
+ {
+  "dir": "nfl2k2",
+  "title": "Sega Sports NFL 2K2",
+  "rname": "NFL 2K2 (USA)",
+  "ids": [
+   "51168"
+  ],
+  "region": "US",
+  "files": [
+   "v76050.vmi"
+  ],
+  "completion": "Best of 9: Philly Eagles one super bowl victory in franchise new players all round solid football team!!!! A must for Philly Fans!!!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP"
+ },
+ {
+  "dir": "nhl2k",
+  "title": "Sega Sports NHL 2K",
+  "rname": "NHL 2K (USA, Canada)",
+  "ids": [
+   "51025",
+   "51124"
+  ],
+  "region": "US",
+  "files": [
+   "v62214.vmi"
+  ],
+  "completion": "Best of 8: complete flyers team as of 01-01-02",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "segagaga",
+  "title": "SeGaGaGa",
+  "rname": "SGGG - Segagaga (Japan) | SGGG - Segagaga (Japan) (Rev A)",
+  "ids": [
+   "HDR-0083",
+   "HDR-0151",
+   "HDR-0171"
+  ],
+  "region": "JP",
+  "files": [
+   "SEGAGAGA.VMI"
+  ],
+  "completion": "Best of 2: Super Save! Money Max!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "seirei",
+  "title": "Seirei Hata Ray Blade",
+  "rname": "Seireiki Rayblade (Japan)",
+  "ids": [
+   "T-42201M"
+  ],
+  "region": "JP",
+  "files": [
+   "SHENGLJ1.VMI"
+  ],
+  "completion": "Best of 2: Money Max at Stage 1!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "seventhcrossevolution",
+  "title": "Seventh Cross Evolution",
+  "rname": "Seventh Cross Evolution (USA)",
+  "ids": [
+   "T-41301N"
+  ],
+  "region": "US",
+  "files": [
+   "00000176.vmi"
+  ],
+  "completion": "Best of 2: 999/999 HP, 999/999 EP, 999 EVP, 999/999 AT, 999 E-AT, 999 DEF, 999 INT, 999 HEAL, 999 DEX, all Stone Monuments unlocked, lots of different ",
+  "status": "needs review",
+  "notes": "VMI size field (44 blocks) disagrees with VMS size (172 blocks); card uses the VMS as-is, same in both archive saves"
+ },
+ {
+  "dir": "shadowman",
+  "title": "Shadow Man",
+  "rname": "Shadow Man (USA) | Shadow Man (USA) (Rev A)",
+  "ids": [
+   "T-8106N"
+  ],
+  "region": "US",
+  "files": [
+   "v92438.vmi"
+  ],
+  "completion": "Best of 10: The actual game file save. Everything beaten. Need to DL this one and the other one to get all levels, cheats & movies.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; game also has settings/system file(s) (SHADOMAN.SYS) not included; also released: other/EU"
+ },
+ {
+  "dir": "shenmue",
+  "title": "Shenmue Chapter 1: Yokosuka",
+  "rname": "Shenmue (USA) (Disc 1) | Shenmue (USA) (Disc 2) | Shenmue (USA) (Disc 3) | Shenmue (USA) (Shenmue Passport)",
+  "ids": [
+   "51059",
+   "51131"
+  ],
+  "region": "US",
+  "files": [
+   "v98269.vmi"
+  ],
+  "completion": "Best of 65: This file there is All punches fully mastered along with kicks and throws, 99,999,999 Yen, A crap load of items and ALL of the collection.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "shenmue2",
+  "title": "Shenmue II",
+  "rname": "Shenmue II (Europe) (En,Fr,De,Es) (Disc 1) | Shenmue II (Europe) (En,Fr,De,Es) (Disc 2) | Shenmue II (Europe) (En,Fr,De,Es) (Disc 3) | Shenmue II (Europe) (En,Fr,De,Es) (Disc 4)",
+  "ids": [
+   "MK-51184-50"
+  ],
+  "region": "EU",
+  "files": [
+   "v91835.vmi"
+  ],
+  "completion": "Best of 32: (Euro Version)A finished game file.This has all of the Arcade games and all but one fight available in the 4th disk mode. I collected many n",
+  "status": "ready",
+  "notes": "game also has settings/system file(s) (SHENMUE2_SYS) not included; also released: JP"
+ },
+ {
+  "dir": "silentscope",
+  "title": "Silent Scope",
+  "rname": "Silent Scope (USA)",
+  "ids": [
+   "T-9507N"
+  ],
+  "region": "US",
+  "files": [
+   "v91000.vmi"
+  ],
+  "completion": "Best of 10: [USA] Game solved on difficultlty level 4Real time aiming unlockedThe realtime aime makes the game so much better to playSee if you can beat",
+  "status": "ready",
+  "notes": "also released: JP/EU"
+ },
+ {
+  "dir": "silver",
+  "title": "Silver",
+  "rname": "Silver (USA)",
+  "ids": [
+   "T-15108N"
+  ],
+  "region": "US",
+  "files": [
+   "v760.vmi"
+  ],
+  "completion": "Best of 14: Save withs all orbs. All wepons,all specials.On end of the game",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; game also has settings/system file(s) (_SILVER_.SYS) not included; also released: other/EU"
+ },
+ {
+  "dir": "arcadia",
+  "title": "Skies of Arcadia",
+  "rname": "Skies of Arcadia (USA) (Disc 1) | Skies of Arcadia (USA) (Disc 2)",
+  "ids": [
+   "51052"
+  ],
+  "region": "US",
+  "files": [
+   "v28902.vmi"
+  ],
+  "completion": "Best of 69: The game is 100% complete, but saved before the final boss, since the game won't let you save after the last boss. ALL magic and S-moved lea",
+  "status": "needs review",
+  "notes": "archive has 3 filename variants (S.ARCADI/ARCADIA_/E.ARCADI); region of chosen save not confirmed; also released: EU"
+ },
+ {
+  "dir": "slave_zero",
+  "title": "Slave Zero",
+  "rname": "Slave Zero (USA) | Slave Zero (USA) (Rev A)",
+  "ids": [
+   "T-15106N"
+  ],
+  "region": "US",
+  "files": [
+   "v33117.vmi"
+  ],
+  "completion": "Best of 4: The ultimate save",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "snocross",
+  "title": "Sno-Cross Championship Racing",
+  "rname": "SnoCross Championship Racing (USA)",
+  "ids": [
+   "T-40207N"
+  ],
+  "region": "US",
+  "files": [
+   "v78041.vmi"
+  ],
+  "completion": "Best of 2: almost all open/ Check the custom tracks anyone want to post something 4 me to race on?",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "soldierfortune",
+  "title": "Soldier of Fortune",
+  "rname": "Soldier of Fortune (USA)",
+  "ids": [
+   "T-40212N"
+  ],
+  "region": "US",
+  "files": [
+   "v71043.vmi"
+  ],
+  "completion": "Best of 17: THE ENDCOMPLETE 100%",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "sonic",
+  "title": "Sonic Adventure",
+  "rname": "Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A) | Sonic Adventure (USA) (En,Ja,Fr,De,Es)",
+  "ids": [
+   "51000"
+  ],
+  "region": "US",
+  "files": [
+   "v34162.vmi"
+  ],
+  "completion": "Best of 48: Perfect Save! All Powerups, for all characters. All 130 Emblems too!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; game also has settings/system file(s) (SONICADV_SYS) not included; also released: EU/JP"
+ },
+ {
+  "dir": "sonic2",
+  "title": "Sonic Adventure 2",
+  "rname": "Sonic Adventure 2 (USA) (En,Ja,Fr,De,Es)",
+  "ids": [
+   "51117"
+  ],
+  "region": "US",
+  "files": [
+   "v55288.vmi"
+  ],
+  "completion": "Best of 92: Sonic Adventre 2 save file. All secret players in 2Player are unlocked. All 180 emblems have been collected. GreenHill Zone unlocked, ALL A ",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "sonicshuffle",
+  "title": "Sonic Shuffle",
+  "rname": "Sonic Shuffle (USA)",
+  "ids": [
+   "51060"
+  ],
+  "region": "US",
+  "files": [
+   "v58859.vmi"
+  ],
+  "completion": "Best of 5: all pic bought, all 8 characters, game fully beaten.",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants (SSHUFFLE/SONICSHU); region of chosen save not confirmed; also released: JP/EU"
+ },
+ {
+  "dir": "sorcer",
+  "title": "Sorcerian",
+  "rname": "Sorcerian - Shichisei Mahou no Shito (Japan)",
+  "ids": [
+   "T-9102M",
+   "T-9103M"
+  ],
+  "region": "JP",
+  "files": [
+   "7XING.VMI"
+  ],
+  "completion": "Only save: Money Max! Exp Max!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "soulfighter",
+  "title": "Soul Fighter",
+  "rname": "Soul Fighter (USA)",
+  "ids": [
+   "T-41401N"
+  ],
+  "region": "US",
+  "files": [
+   "v20176.vmi"
+  ],
+  "completion": "Only save: last level",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "southparkrally",
+  "title": "South Park Rally",
+  "rname": "South Park Rally (USA)",
+  "ids": [
+   "T-8116N"
+  ],
+  "region": "US",
+  "files": [
+   "v76554.vmi"
+  ],
+  "completion": "Best of 2: OPENING ALL CARS & SECRETS MODE",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "spacechannel5",
+  "title": "Space Channel 5",
+  "rname": "Space Channel 5 (USA)",
+  "ids": [
+   "51051"
+  ],
+  "region": "US",
+  "files": [
+   "v53161.vmi"
+  ],
+  "completion": "Best of 10: 100% COMPLETED & EXTRA MODE CLEARED AND PROFILE UNLOCKED",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "space5p2",
+  "title": "Space Channel 5 Part 2",
+  "rname": "Space Channel 5 Part 2 (Japan)",
+  "ids": [
+   "HDR-0190"
+  ],
+  "region": "JP",
+  "files": [
+   "space5p2.VMI"
+  ],
+  "completion": "Best of 2: Best Save! Everything Unlocked",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "specopsomega",
+  "title": "Spec Ops: Omega Squad",
+  "rname": "Spec Ops II - Omega Squad (USA)",
+  "ids": [
+   "T-41704N"
+  ],
+  "region": "US",
+  "files": [
+   "v68899.vmi"
+  ],
+  "completion": "Best of 5: 100% complete. I have reached highest rank of General!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "speeddevils",
+  "title": "Speed Devils",
+  "rname": "Speed Devils (USA)",
+  "ids": [
+   "T-17702N"
+  ],
+  "region": "US",
+  "files": [
+   "v95612.vmi"
+  ],
+  "completion": "Best of 8: Ultimate save all cars and tracks unlocked.Mystere unlocked in chamionship mode",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/JP"
+ },
+ {
+  "dir": "speeddevilson",
+  "title": "Speed Devils Online Racing",
+  "rname": "Speed Devils - Online Racing (USA)",
+  "ids": [
+   "T-17718N"
+  ],
+  "region": "US",
+  "files": [
+   "v93076.vmi"
+  ],
+  "completion": "Best of 5: Class B with 75,000. Full Blown \"Duffinburg\".",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; game also has settings/system file(s) (SPEEDONL.SYS) not included; also released: EU"
+ },
+ {
+  "dir": "spiderman",
+  "title": "Spiderman",
+  "rname": "Spider-Man (USA)",
+  "ids": [
+   "T-13008N"
+  ],
+  "region": "US",
+  "files": [
+   "v92670.vmi"
+  ],
+  "completion": "Best of 17: everything unlocked, all costumes,comic books, stages EVERYTHING! Enter this on the cheat screen to get more out of the game: uatusees",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "sportsjam",
+  "title": "Sports Jam",
+  "rname": "Sports Jam (USA)",
+  "ids": [
+   "T-44304N"
+  ],
+  "region": "US",
+  "files": [
+   "v33248.vmi"
+  ],
+  "completion": "Only save: All unlocked, all hidden bonuses, all characters, etc...",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP"
+ },
+ {
+  "dir": "starlancer",
+  "title": "Star Lancer",
+  "rname": "StarLancer (USA)",
+  "ids": [
+   "T-40209N"
+  ],
+  "region": "US",
+  "files": [
+   "v89877.vmi"
+  ],
+  "completion": "Best of 12: All medals, all ships, & squadron commander. Difficult level. Stage 23 - final battle. Either you're very good, or very dead!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "starseek",
+  "title": "Star Seeker - Doki Doki Idol Remix",
+  "rname": "Doki Doki Idol Star Seeker Remix (Japan)",
+  "ids": [
+   "T-46701M"
+  ],
+  "region": "JP",
+  "files": [
+   "starseek.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "swdemolition",
+  "title": "Star Wars Demolition",
+  "rname": "Star Wars - Demolition (USA)",
+  "ids": [
+   "T-23003N"
+  ],
+  "region": "US",
+  "files": [
+   "v28784.vmi"
+  ],
+  "completion": "Best of 3: Everything unlocked.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "starwarsjedi",
+  "title": "Star Wars Episode 1: Jedi Power Battles",
+  "rname": "Star Wars - Episode I - Jedi Power Battles (USA)",
+  "ids": [
+   "T-23002N"
+  ],
+  "region": "US",
+  "files": [
+   "v56151.vmi"
+  ],
+  "completion": "Best of 11: I am master jedi. All characters, utimate saber,training mode is complete",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "starwars",
+  "title": "Star Wars Episode 1: Racer",
+  "rname": "Star Wars - Episode I - Racer (USA)",
+  "ids": [
+   "T-23001N"
+  ],
+  "region": "US",
+  "files": [
+   "v19047.vmi"
+  ],
+  "completion": "Best of 14: Great times, all tracks unlocked, all people w/full power and first place in all races.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "strikerpro2k",
+  "title": "Striker Pro 2000",
+  "rname": "Striker Pro 2000 (USA)",
+  "ids": [
+   "T-15111N"
+  ],
+  "region": "US",
+  "files": [
+   "v3240.vmi"
+  ],
+  "completion": "Best of 2: ALL teams and Torneos open.I won training mode with promedie of 10 and I have all open to play.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "stuntgp",
+  "title": "Stunt GP",
+  "rname": "Stunt GP (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+  "ids": [
+   "T-22904D-50"
+  ],
+  "region": "EU",
+  "files": [
+   "STUNTGP.VMI"
+  ],
+  "completion": "Only save: Almost all unlocked.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "stupidinvaders",
+  "title": "Stupid Invaders",
+  "rname": "Stupid Invaders (USA) (Disc 1) | Stupid Invaders (USA) (Disc 2)",
+  "ids": [
+   "T-17708N"
+  ],
+  "region": "US",
+  "files": [
+   "v78852.vmi"
+  ],
+  "completion": "Best of 3: HERE ARE SEVERAL SAVE POINTS FOR DISKS 1&2 >HOPEFULLY THEY HELP SOME OF U GUYS OUT!!",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; game also has settings/system file(s) (STUPIDIN_SET) not included; also released: EU/other"
+ },
+ {
+  "dir": "sunrise_eiyu",
+  "title": "Sunrise Eiyuutan",
+  "rname": "Sunrise Eiyuutan (Japan)",
+  "ids": [
+   "T-41101M"
+  ],
+  "region": "JP",
+  "files": [
+   "SUNRISE.VMI"
+  ],
+  "completion": "Only save: Everything unlocked & complete",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "heroretsuden",
+  "title": "Super Hero Retsuden",
+  "rname": "Tokusatsu Bouken Katsugeki Super Hero Retsuden (Japan)",
+  "ids": [
+   "T-20601M"
+  ],
+  "region": "JP",
+  "files": [
+   "supehero.VMI"
+  ],
+  "completion": "Best of 2: Perfect Save! All Secret Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "supermagicneo",
+  "title": "Super Magnetic Neo",
+  "rname": "Super Magnetic Neo (USA)",
+  "ids": [
+   "T-40206N"
+  ],
+  "region": "US",
+  "files": [
+   "v88771.vmi"
+  ],
+  "completion": "Best of 5: All challenges unlocked and beaten, except the last one (Impossible!!! 20).",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "srw",
+  "title": "Super Robot Wars Alpha",
+  "rname": "Super Robot Taisen Alpha (Japan)",
+  "ids": [
+   "T-20602M"
+  ],
+  "region": "JP",
+  "files": [
+   "SRWREAL2.VMI"
+  ],
+  "completion": "Best of 7: ALL Max at stage 2! (Real Story)",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save; game also has settings/system file(s) (SRWALPHA.SYS) not included"
+ },
+ {
+  "dir": "superrun",
+  "title": "Super Runabout SF Edition",
+  "rname": "Super Runabout - San Francisco Edition (USA)",
+  "ids": [
+   "T-12511N"
+  ],
+  "region": "US",
+  "files": [
+   "v62262.vmi"
+  ],
+  "completion": "Best of 11: All vehicles all courses unlocked including the BIM car!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/JP"
+ },
+ {
+  "dir": "surfrocket",
+  "title": "Surf Rocket Racers",
+  "rname": "Surf Rocket Racers (USA)",
+  "ids": [
+   "T-40216N"
+  ],
+  "region": "US",
+  "files": [
+   "v85992.vmi"
+  ],
+  "completion": "Best of 3: perfect save. everything cleared and unlocked. including reverse tracks and duck racer.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "suzukirace",
+  "title": "Suzuki Alstare Extreme Racing",
+  "rname": "Suzuki Alstare - Extreme Racing (USA)",
+  "ids": [
+   "T-17703N"
+  ],
+  "region": "US",
+  "files": [
+   "v79472.vmi"
+  ],
+  "completion": "Best of 10: All the tracks and all the bikes unlocked. Allyou have to do is finish the reverse.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "sword_berserk",
+  "title": "Sword of the Berserk: Guts' Rage",
+  "rname": "Sword of the Berserk - Guts' Rage (USA)",
+  "ids": [
+   "T-36805N"
+  ],
+  "region": "US",
+  "files": [
+   "v73453.vmi"
+  ],
+  "completion": "Best of 11: 100% COMPLETE! Game Beaten on ALL difficulty levels and EVERYTHING has been unlocked. I have also gotten the high scores for each game in th",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "sydney2000",
+  "title": "Sydney 2000",
+  "rname": "Sydney 2000 (USA)",
+  "ids": [
+   "T-36808N"
+  ],
+  "region": "US",
+  "files": [
+   "v48886.vmi"
+  ],
+  "completion": "Best of 8: All events qualified for olympics with all the training at 100 percent.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU/other"
+ },
+ {
+  "dir": "tanteidash",
+  "title": "Tantei Shinshi Dash",
+  "rname": "Tantei Shinshi Dash! (Japan) | Tantei Shinshi Dash! (Japan) (Rev A)",
+  "ids": [
+   "T-44403M",
+   "T-44401M"
+  ],
+  "region": "JP",
+  "files": [
+   "ZhenTan.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All secret unlocked",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "teeoff",
+  "title": "Tee-Off",
+  "rname": "Tee Off (USA)",
+  "ids": [
+   "T-8108N"
+  ],
+  "region": "US",
+  "files": [
+   "v78706.vmi"
+  ],
+  "completion": "Best of 2: This Save file is for Tee Off 2[aka Shiyouyo golf 2] This Save Filehas everything unlocked 100%All courses, All Golfers, All Clubsand Balls.",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants (SHIYOUY2/TEE_OFF_); region of chosen save not confirmed; game also has settings/system file(s) (TEE_OFF_.SYS) not included; also released: EU"
+ },
+ {
+  "dir": "testdrive6",
+  "title": "Test Drive 6",
+  "rname": "Test Drive 6 (USA)",
+  "ids": [
+   "T-15102N"
+  ],
+  "region": "US",
+  "files": [
+   "v26596.vmi"
+  ],
+  "completion": "Best of 14: Every tournament completed. Cop chase completed. Many cars including all mustangs. All cars are upgraded to level 4. All tracks available.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "lemans",
+  "title": "Test Drive Le Mans",
+  "rname": "Test Drive Le Mans (USA) (En,Fr,Es)",
+  "ids": [
+   "T-15123N"
+  ],
+  "region": "US",
+  "files": [
+   "v13162.vmi"
+  ],
+  "completion": "Best of 22: All quick race and championships unlocked...3 of 10 time trials completed...10min and 1hr le man's completed...21 cars available, all tracks",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants"
+ },
+ {
+  "dir": "vrally",
+  "title": "Test Drive V-Rally",
+  "rname": "Test Drive V-Rally (USA) (En,Fr,De)",
+  "ids": [
+   "T-15110N"
+  ],
+  "region": "US",
+  "files": [
+   "v93443.vmi"
+  ],
+  "completion": "Best of 7: All levels beaten, all cars attained. AND, as a VERY special bonus, a quite long movie of rally driver Ari Vatanen driving the Peugeot 405 T",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants"
+ },
+ {
+  "dir": "grinch",
+  "title": "The Grinch",
+  "rname": "Grinch, The (USA) (En,Fr,Es)",
+  "ids": [
+   "T-9512N"
+  ],
+  "region": "US",
+  "files": [
+   "v5981.vmi"
+  ],
+  "completion": "Best of 3: 100%done everything is beat all gadgets all presents all objects completed",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "tetris",
+  "title": "The Next Tetris: Net Edition",
+  "rname": "Next Tetris, The - On-Line Edition (USA)",
+  "ids": [
+   "T-40214N"
+  ],
+  "region": "US",
+  "files": [
+   "00000025.vmi"
+  ],
+  "completion": "Best of 2: Perfect Save! All Open!",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants"
+ },
+ {
+  "dir": "rzephyr",
+  "title": "The Rhapsody Of Zephyr",
+  "rname": "Rhapsody of Zephyr, The (Japan)",
+  "ids": [
+   "T-44502M"
+  ],
+  "region": "JP",
+  "files": [
+   "XIFENG01.VMI"
+  ],
+  "completion": "Best of 2: Start with 999999 Money!",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "thering",
+  "title": "The Ring: Terror's Realm",
+  "rname": "Ring, The - Terror's Realm (USA)",
+  "ids": [
+   "T-15122N"
+  ],
+  "region": "US",
+  "files": [
+   "v72336.vmi"
+  ],
+  "completion": "Best of 6: Update!! go at the chief office and take the hidden elevator behaind of bookstan and go down at B1 and check the movie, also ammo,guns and h",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "typingdead",
+  "title": "The Typing Of The Dead",
+  "rname": "Typing of the Dead, The (USA)",
+  "ids": [
+   "51144"
+  ],
+  "region": "US",
+  "files": [
+   "TYPEDEAD.VMI"
+  ],
+  "completion": "Best of 2: Typing of the Dead USA, All unlocked!",
+  "status": "ready",
+  "notes": "also released: JP"
+ },
+ {
+  "dir": "megiddo",
+  "title": "The Virgin On Megiddo",
+  "rname": "Kaen Seibo - The Virgin on Megiddo (Japan) (Disc 1) | Kaen Seibo - The Virgin on Megiddo (Japan) (Disc 2)",
+  "ids": [
+   "T-42802M"
+  ],
+  "region": "JP",
+  "files": [
+   "huoyansh.VMI"
+  ],
+  "completion": "Only save: Perfect Save! All secret unlocked",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "timestalkers",
+  "title": "Time Stalkers",
+  "rname": "Time Stalkers (USA)",
+  "ids": [
+   "51011"
+  ],
+  "region": "US",
+  "files": [
+   "v67772.vmi"
+  ],
+  "completion": "Best of 15: 100% monsters, 90% items, 99,999,999 in gold. End of the game with lots of skills, magic & 9 legendary items",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "hardcore",
+  "title": "TNN Motorsports Hardcore Heat",
+  "rname": "TNN Motorsports Hardcore Heat (USA)",
+  "ids": [
+   "T-13701N"
+  ],
+  "region": "US",
+  "files": [
+   "v87901.vmi"
+  ],
+  "completion": "Best of 3: A car that I created it took me a while although still not perfect. Best track is Egypt",
+  "status": "ready",
+  "notes": "game also has settings/system file(s) (HARDCORE.SYS) not included"
+ },
+ {
+  "dir": "tokyobus",
+  "title": "Tokyo Bus Guide",
+  "rname": "Tokyo Bus Guide (Japan) | Tokyo Bus Guide (Japan) (Rev A)",
+  "ids": [
+   "T-35402M"
+  ],
+  "region": "JP",
+  "files": [
+   "TOKYOBUS.VMI"
+  ],
+  "completion": "Best of 2: JP Perfect Save! All Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "tokyo",
+  "title": "Tokyo Xtreme Racer",
+  "rname": "Tokyo Xtreme Racer (USA)",
+  "ids": [
+   "T-40202N"
+  ],
+  "region": "US",
+  "files": [
+   "v81983.vmi"
+  ],
+  "completion": "Best of 22: The best of everything here it is all secret cars unlocked and TONS of cash for upgrades.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "tokyo2",
+  "title": "Tokyo Xtreme Racer 2",
+  "rname": "Tokyo Xtreme Racer 2 (USA)",
+  "ids": [
+   "T-40211N"
+  ],
+  "region": "US",
+  "files": [
+   "v33171.vmi"
+  ],
+  "completion": "Best of 37: all unlock VIPER GTS +800hpcelica +230mph 999999cash",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants"
+ },
+ {
+  "dir": "tombraider5",
+  "title": "Tomb Raider: Chronicles",
+  "rname": "Tomb Raider Chronicles (USA)",
+  "ids": [
+   "T-36812N"
+  ],
+  "region": "US",
+  "files": [
+   "v49962.vmi"
+  ],
+  "completion": "Best of 19: system file/archivo de sistemaall secrets found, gallery unlocked.todos los secretos encontrados, galeria completa.ame y ray",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/other"
+ },
+ {
+  "dir": "tombraider",
+  "title": "Tomb Raider: The Last Revelation",
+  "rname": "Tomb Raider - The Last Revelation (USA)",
+  "ids": [
+   "T-36806N"
+  ],
+  "region": "US",
+  "files": [
+   "00000001.vmi"
+  ],
+  "completion": "Best of 15: Perfect Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; game also has settings/system file(s) (TOMBRAID.SYS) not included; also released: EU/other"
+ },
+ {
+  "dir": "tonyhawk",
+  "title": "Tony Hawk's Pro Skater",
+  "rname": "Tony Hawk's Pro Skater (USA)",
+  "ids": [
+   "T-40205N"
+  ],
+  "region": "US",
+  "files": [
+   "v82327.vmi"
+  ],
+  "completion": "Best of 15: This file is the best of the best! It has each person with 50 tapes, full attributes, all levels opened, all boards opened, Officier Dick is",
+  "status": "ready",
+  "notes": "game also has settings/system file(s) (TONYHAWK.SYS) not included"
+ },
+ {
+  "dir": "tonyhawk2",
+  "title": "Tony Hawk's Pro Skater 2",
+  "rname": "Tony Hawk's Pro Skater 2 (USA)",
+  "ids": [
+   "T-13006N"
+  ],
+  "region": "US",
+  "files": [
+   "v29481.vmi"
+  ],
+  "completion": "Best of 13: This is a 100% complete THPS2 game save. This means EVERY cheat, EVERY skater, all videos, all levels, entire gap list finished... yes, all ",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: other/EU"
+ },
+ {
+  "dir": "toycommander",
+  "title": "Toy Commander",
+  "rname": "Toy Commander (USA) (En,Fr,De,Es)",
+  "ids": [
+   "51020"
+  ],
+  "region": "US",
+  "files": [
+   "v50553.vmi"
+  ],
+  "completion": "Best of 9: Everything unlocked. Best times in all levels.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "toystory",
+  "title": "Toy Story 2",
+  "rname": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
+  "ids": [
+   "T-13003N"
+  ],
+  "region": "US",
+  "files": [
+   "v38204.vmi"
+  ],
+  "completion": "Best of 6: 100% Complete - todo completoen este juego de mierda.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/other"
+ },
+ {
+  "dir": "trickstyle",
+  "title": "Trickstyle",
+  "rname": "TrickStyle (USA)",
+  "ids": [
+   "T-8102N"
+  ],
+  "region": "US",
+  "files": [
+   "00000168.vmi"
+  ],
+  "completion": "Best of 5: Game completed, All boards and tricks and all tracks unlocked.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "tricolore",
+  "title": "Tricolore Crise",
+  "rname": "Tricolore Crise (Japan)",
+  "ids": [
+   "T-9104M"
+  ],
+  "region": "JP",
+  "files": [
+   "3jiao.VMI"
+  ],
+  "completion": "Best of 3: Money 999999 !",
+  "status": "needs review",
+  "notes": "description does not show a clearly complete save"
+ },
+ {
+  "dir": "unreal",
+  "title": "Unreal Tournament",
+  "rname": "Unreal Tournament (USA) (En,Fr,De,Es,It)",
+  "ids": [
+   "T-15125N"
+  ],
+  "region": "US",
+  "files": [
+   "v97099.vmi"
+  ],
+  "completion": "Best of 26: El juego esta 100%100 todos los mapas,etc...",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "urbanchaos",
+  "title": "Urban Chaos",
+  "rname": "Urban Chaos (USA) (En,Fr)",
+  "ids": [
+   "T-36810N"
+  ],
+  "region": "US",
+  "files": [
+   "v247.vmi"
+  ],
+  "completion": "Best of 7: All stages cleared until the last(breakout).",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "vanishpoint",
+  "title": "Vanishing Point",
+  "rname": "Vanishing Point (USA)",
+  "ids": [
+   "T-8110N"
+  ],
+  "region": "US",
+  "files": [
+   "v10038.vmi"
+  ],
+  "completion": "Best of 27: 1500 on stunt, all tune up, all cars, every secret car, 100% game completed, took me a long time, i am just sick of seein everyone have as h",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "vermilion",
+  "title": "Vermilion Desert",
+  "rname": "Vermilion Desert (Japan)",
+  "ids": [
+   "T-5302M"
+  ],
+  "region": "JP",
+  "files": [
+   "00001212.VMI"
+  ],
+  "completion": "Only save: All game completed!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "vigilante8",
+  "title": "Vigilante 8: 2nd Offense",
+  "rname": "Vigilante 8 - 2nd Offense (USA)",
+  "ids": [
+   "T-13002N"
+  ],
+  "region": "US",
+  "files": [
+   "v69901.vmi"
+  ],
+  "completion": "Best of 11: The best V8-2 download anywhere! ALL CODES!!! ALL CARS UPGRATED!!! ALL LEVELS COMPLETE!!!!!!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "virtuaathlete",
+  "title": "Virtua Athlete 2K",
+  "rname": "Virtua Athlete 2K (Europe) (En,Fr,De,Es)",
+  "ids": [
+   "MK-51094-50"
+  ],
+  "region": "EU",
+  "files": [
+   "v1963.vmi"
+  ],
+  "completion": "Best of 6: All records.",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: JP"
+ },
+ {
+  "dir": "virtuacop2",
+  "title": "Virtua Cop 2",
+  "rname": "Virtua Cop 2 (Japan)",
+  "ids": [
+   "HDR-0061"
+  ],
+  "region": "JP",
+  "files": [
+   "v59185.vmi"
+  ],
+  "completion": "Best of 2: Everything is complete.",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "virtuastriker",
+  "title": "Virtua Striker 2",
+  "rname": "Virtua Striker 2 (USA) (En,Ja,De,Es)",
+  "ids": [
+   "51028"
+  ],
+  "region": "US",
+  "files": [
+   "v21388.vmi"
+  ],
+  "completion": "Best of 20: TUDO ABERTO 100% FECHADO!!!!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "wackyraces",
+  "title": "Wacky Races",
+  "rname": "Wacky Races (USA)",
+  "ids": [
+   "T-15113N"
+  ],
+  "region": "US",
+  "files": [
+   "v76433.vmi"
+  ],
+  "completion": "Best of 12: All done: all stars, all characters, all weapons and all modes and championships completed.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "wetrix",
+  "title": "Wetrix+",
+  "rname": "Wetrix+ (USA)",
+  "ids": [
+   "T-8111N"
+  ],
+  "region": "US",
+  "files": [
+   "v39228.vmi"
+  ],
+  "completion": "Only save: New pieces and floors.",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: EU"
+ },
+ {
+  "dir": "wildmetal",
+  "title": "Wild Metal",
+  "rname": "Wild Metal (USA) (En,Fr,De,Es,It,Pt)",
+  "ids": [
+   "T-42101N"
+  ],
+  "region": "US",
+  "files": [
+   "v56159.vmi"
+  ],
+  "completion": "Best of 2: 100% complete, all levels, and tanks. This save is ready to kill some alien scum.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "baseball2k1",
+  "title": "World Series Baseball 2K1",
+  "rname": "World Series Baseball 2K1 (USA)",
+  "ids": [
+   "51055"
+  ],
+  "region": "US",
+  "files": [
+   "v54876.vmi"
+  ],
+  "completion": "Best of 19: 1997 Marlins, Infinite Create Points, and Hall of Famers (note: Arm & Fielding attributes are \"reversed\" on created players due to Sega's pr",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: JP"
+ },
+ {
+  "dir": "baseball2k2",
+  "title": "World Series Baseball 2K2",
+  "rname": "World Series Baseball 2K2 (USA)",
+  "ids": [
+   "51152"
+  ],
+  "region": "US",
+  "files": [
+   "v95783.vmi"
+  ],
+  "completion": "Best of 8: tihs is the best team of all year the yankees appearing in their seasonal games you will love the rookie mode because it is simply easy...ha",
+  "status": "needs review",
+  "notes": "single filename across archive; region of save unlabelled; description does not show a clearly complete save; also released: JP"
+ },
+ {
+  "dir": "worm",
+  "title": "Worms Armageddon",
+  "rname": "Worms Armageddon (USA) (En,Fr,De,Nl,Sv,No,Da)",
+  "ids": [
+   "T-40601N"
+  ],
+  "region": "US",
+  "files": [
+   "v54621.vmi"
+  ],
+  "completion": "Best of 8: PERFECT SAVE! Gold medals in all training levels and in all 33 missions. Elite deathmatch ratingwith 21 wins, 0 losses. All 7 bonusmultiplay",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "wormparty",
+  "title": "Worms World Party",
+  "rname": "Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",
+  "ids": [
+   "T-22904N"
+  ],
+  "region": "US",
+  "files": [
+   "v66120.vmi"
+  ],
+  "completion": "Best of 5: A save with all missions and bonus schemes unlocked. Only a few time attack missions complete! The Dj's team was used to unlock all missions",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU"
+ },
+ {
+  "dir": "wwfattitude",
+  "title": "WWF Attitude",
+  "rname": "WWF Attitude (USA)",
+  "ids": [
+   "T-8103N"
+  ],
+  "region": "US",
+  "files": [
+   "00000855.vmi"
+  ],
+  "completion": "Best of 13: Finished Career Everything Unlocked! Perfect Save.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/other"
+ },
+ {
+  "dir": "wwfrumble",
+  "title": "WWF Royal Rumble",
+  "rname": "WWF Royal Rumble (USA)",
+  "ids": [
+   "T-10005N"
+  ],
+  "region": "US",
+  "files": [
+   "v31180.vmi"
+  ],
+  "completion": "Best of 11: Shane and Vince unlock plus 60 wrestlersbeaten plus unlocked super rock fromgagameshark.",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: EU/JP"
+ },
+ {
+  "dir": "xsports",
+  "title": "Xtreme Sports",
+  "rname": "Xtreme Sports (USA)",
+  "ids": [
+   "T-15126N"
+  ],
+  "region": "US",
+  "files": [
+   "v37050.vmi"
+  ],
+  "completion": "Best of 9: Game complete with all the sportsavaliable.",
+  "status": "needs review",
+  "notes": "archive has 2 filename variants"
+ },
+ {
+  "dir": "zerogun2",
+  "title": "Zero Gunner 2",
+  "rname": "Zero Gunner 2 (Japan)",
+  "ids": [
+   "T-20401M"
+  ],
+  "region": "JP",
+  "files": [
+   "zerogun2.VMI"
+  ],
+  "completion": "Best of 2: Perfect Save! All Open!",
+  "status": "ready",
+  "notes": ""
+ },
+ {
+  "dir": "zombie",
+  "title": "Zombie Revenge",
+  "rname": "Zombie Revenge (USA)",
+  "ids": [
+   "51038"
+  ],
+  "region": "US",
+  "files": [
+   "ZOMBIERE.VMI"
+  ],
+  "completion": "Best of 5: Best Save! Everything Unlocked!",
+  "status": "ready",
+  "notes": "single filename across archive; region of save unlabelled; also released: JP/EU"
+ },
+ {
+  "dir": "zusarvasar",
+  "title": "Zusar Vasar",
+  "rname": "Zusar Vasar (Japan) (En,Ja)",
+  "ids": [
+   "T-43301M"
+  ],
+  "region": "JP",
+  "files": [
+   "00000945.VMI"
+  ],
+  "completion": "Only save: Everything unlocked! All tracks available.",
+  "status": "ready",
+  "notes": ""
+ }
+]
