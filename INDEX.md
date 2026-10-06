@@ -372,142 +372,142 @@
 | MK51054 | Virtua Tennis | US | ready | v6482.vmi |
 | MK51186 | Virtua Tennis 2 (Tennis 2K2) | US | ready | TENN2K2.VMI |
 | T13004N | Virtual-On: Oratorio Tangram | US | needs review | v1971.vmi+v39368.vmi+v8748.vmi |
+| ZZ_MG_3d_FPS | VMU minigame: 3d FPS | - | ready | bs_interanim_game0001.vmi |
 | ZZ_MG_4_Wins | VMU minigame: 4 Wins | - | ready | 4WINS.VMI |
 | ZZ_MG_4_Wins_0001 | VMU minigame: 4 Wins 0001 | - | ready | bs_strategy_game0001.vmi |
-| ZZ_MG_A_simple_Calculator | VMU minigame: A simple Calculator | - | ready | bs_rockin_b_pcv09b.vmi |
+| ZZ_MG_Air_Disaster | VMU minigame: Air Disaster | - | ready | bs_interanim_game0002.vmi |
 | ZZ_MG_Alien_Fighter | VMU minigame: Alien Fighter | - | ready | ALNFIGHT.VMI |
 | ZZ_MG_Alien_Shooter | VMU minigame: Alien Shooter | - | ready | 00003831.VMI |
+| ZZ_MG_Arrow | VMU minigame: Arrow | - | ready | bs_demo_game0001.vmi |
+| ZZ_MG_Basketball | VMU minigame: Basketball | - | ready | bs_sport_game0001.vmi |
+| ZZ_MG_Boxing | VMU minigame: Boxing | - | ready | bs_sport_game0002.vmi |
+| ZZ_MG_Buffy | VMU minigame: Buffy | - | ready | bs_interanim_game0003.vmi |
 | ZZ_MG_Cardcaptor_Breakout | VMU minigame: Cardcaptor Breakout | - | ready | SCCBRK.VMI |
+| ZZ_MG_CC_Sakura_Kero | VMU minigame: CC Sakura Kero | - | ready | bs_clock_game0001.vmi |
+| ZZ_MG_CC_Sakura_Li | VMU minigame: CC Sakura Li | - | ready | bs_clock_game0002.vmi |
+| ZZ_MG_CC_Sakura_Oyatu | VMU minigame: CC Sakura Oyatu | - | ready | bs_strategy_game0002.vmi |
+| ZZ_MG_CC_Sakura_Sakura | VMU minigame: CC Sakura Sakura | - | ready | bs_clock_game0003.vmi |
+| ZZ_MG_CC_Sakura_Tobakero | VMU minigame: CC Sakura Tobakero | - | ready | bs_strategy_game0003.vmi |
+| ZZ_MG_CC_Sakura_Tomoyo | VMU minigame: CC Sakura Tomoyo | - | ready | bs_clock_game0004.vmi |
+| ZZ_MG_Chao_Adventure_2_En | VMU minigame: Chao Adventure 2 En | - | ready | bs_misc_game0002.vmi |
+| ZZ_MG_Chao_Adventure_2_Fr | VMU minigame: Chao Adventure 2 Fr | - | ready | bs_misc_game0003.vmi |
 | ZZ_MG_Chao_Adventure_by_SEGA | VMU minigame: Chao Adventure by SEGA | - | ready | VMFL_073.VMI |
 | ZZ_MG_Chao_Editor_2_by_Tyro | VMU minigame: Chao Editor 2 by Tyro | - | ready | CHAO2.VMI |
 | ZZ_MG_Chao_Editor_by_Tyro | VMU minigame: Chao Editor by Tyro | - | ready | CHAOEDIT.VMI |
+| ZZ_MG_Chuchu | VMU minigame: Chuchu | - | ready | bs_interanim_game0004.vmi |
 | ZZ_MG_circles | VMU minigame: circles | - | ready | CIRCLES.VMI |
 | ZZ_MG_Climax_Landers | VMU minigame: Climax Landers | - | ready | VMFL_084.VMI |
+| ZZ_MG_Dance_Dance | VMU minigame: Dance Dance | - | ready | bs_arcade_game0003.vmi |
 | ZZ_MG_DAngelo_Music_Video | VMU minigame: DAngelo Music Video | - | ready | DANGELO.VMI |
-| ZZ_MG_DCAnim_actio_0003 | VMU minigame: DCAnim actio 0003 | - | ready | bs_action_game0003.vmi |
-| ZZ_MG_DCAnim_actio_0004 | VMU minigame: DCAnim actio 0004 | - | ready | bs_action_game0004.vmi |
-| ZZ_MG_DCAnim_actio_0005 | VMU minigame: DCAnim actio 0005 | - | ready | bs_action_game0005.vmi |
-| ZZ_MG_DCAnim_actio_0006 | VMU minigame: DCAnim actio 0006 | - | ready | bs_action_game0006.vmi |
-| ZZ_MG_DCAnim_actio_0008 | VMU minigame: DCAnim actio 0008 | - | ready | bs_action_game0008.vmi |
-| ZZ_MG_DCAnim_actio_0009 | VMU minigame: DCAnim actio 0009 | - | ready | bs_action_game0009.vmi |
-| ZZ_MG_DCAnim_actio_0010 | VMU minigame: DCAnim actio 0010 | - | ready | bs_action_game0010.vmi |
-| ZZ_MG_DCAnim_actio_0012 | VMU minigame: DCAnim actio 0012 | - | ready | bs_action_game0012.vmi |
-| ZZ_MG_DCAnim_actio_0013 | VMU minigame: DCAnim actio 0013 | - | ready | bs_action_game0013.vmi |
-| ZZ_MG_DCAnim_actio_0015 | VMU minigame: DCAnim actio 0015 | - | ready | bs_action_game0015.vmi |
-| ZZ_MG_DCAnim_actio_0016 | VMU minigame: DCAnim actio 0016 | - | ready | bs_action_game0016.vmi |
-| ZZ_MG_DCAnim_actio_0017 | VMU minigame: DCAnim actio 0017 | - | ready | bs_action_game0017.vmi |
-| ZZ_MG_DCAnim_actio_0018 | VMU minigame: DCAnim actio 0018 | - | ready | bs_action_game0018.vmi |
-| ZZ_MG_DCAnim_actio_0019 | VMU minigame: DCAnim actio 0019 | - | ready | bs_action_game0019.vmi |
-| ZZ_MG_DCAnim_actio_0020 | VMU minigame: DCAnim actio 0020 | - | ready | bs_action_game0020.vmi |
-| ZZ_MG_DCAnim_actio_0021 | VMU minigame: DCAnim actio 0021 | - | ready | bs_action_game0021.vmi |
-| ZZ_MG_DCAnim_adven_0001 | VMU minigame: DCAnim adven 0001 | - | ready | bs_adventure_game0001.vmi |
-| ZZ_MG_DCAnim_arcad_0003 | VMU minigame: DCAnim arcad 0003 | - | ready | bs_arcade_game0003.vmi |
-| ZZ_MG_DCAnim_arcad_0009 | VMU minigame: DCAnim arcad 0009 | - | ready | bs_arcade_game0009.vmi |
-| ZZ_MG_DCAnim_demo_0003 | VMU minigame: DCAnim demo 0003 | - | ready | bs_demo_game0003.vmi |
-| ZZ_MG_DCAnim_inter_0001 | VMU minigame: DCAnim inter 0001 | - | ready | bs_interanim_game0001.vmi |
-| ZZ_MG_DCAnim_inter_0002 | VMU minigame: DCAnim inter 0002 | - | ready | bs_interanim_game0002.vmi |
-| ZZ_MG_DCAnim_inter_0003 | VMU minigame: DCAnim inter 0003 | - | ready | bs_interanim_game0003.vmi |
-| ZZ_MG_DCAnim_inter_0004 | VMU minigame: DCAnim inter 0004 | - | ready | bs_interanim_game0004.vmi |
-| ZZ_MG_DCAnim_inter_0007 | VMU minigame: DCAnim inter 0007 | - | ready | bs_interanim_game0007.vmi |
-| ZZ_MG_DCAnim_inter_0009 | VMU minigame: DCAnim inter 0009 | - | ready | bs_interanim_game0009.vmi |
-| ZZ_MG_DCAnim_inter_0010 | VMU minigame: DCAnim inter 0010 | - | ready | bs_interanim_game0010.vmi |
-| ZZ_MG_DCAnim_inter_0011 | VMU minigame: DCAnim inter 0011 | - | ready | bs_interanim_game0011.vmi |
-| ZZ_MG_DCAnim_inter_0012 | VMU minigame: DCAnim inter 0012 | - | ready | bs_interanim_game0012.vmi |
-| ZZ_MG_DCAnim_inter_0013 | VMU minigame: DCAnim inter 0013 | - | ready | bs_interanim_game0013.vmi |
-| ZZ_MG_DCAnim_inter_0014 | VMU minigame: DCAnim inter 0014 | - | ready | bs_interanim_game0014.vmi |
-| ZZ_MG_DCAnim_inter_0015 | VMU minigame: DCAnim inter 0015 | - | ready | bs_interanim_game0015.vmi |
-| ZZ_MG_DCAnim_misc_0021 | VMU minigame: DCAnim misc 0021 | - | ready | bs_misc_game0021.vmi |
-| ZZ_MG_DCAnim_sport_0001 | VMU minigame: DCAnim sport 0001 | - | ready | bs_sport_game0001.vmi |
-| ZZ_MG_DCAnim_sport_0002 | VMU minigame: DCAnim sport 0002 | - | ready | bs_sport_game0002.vmi |
-| ZZ_MG_DCAnim_sport_0005 | VMU minigame: DCAnim sport 0005 | - | ready | bs_sport_game0005.vmi |
-| ZZ_MG_DCAnim_strat_0004 | VMU minigame: DCAnim strat 0004 | - | ready | bs_strategy_game0004.vmi |
 | ZZ_MG_Dragon_Ball_Z | VMU minigame: Dragon Ball Z | - | ready | 00006003.VMI |
+| ZZ_MG_Dream_Monsters | VMU minigame: Dream Monsters | - | ready | bs_action_game0003.vmi |
 | ZZ_MG_Dream_Racer | VMU minigame: Dream Racer | - | ready | DRACER.VMI |
+| ZZ_MG_Dunar_Fighter | VMU minigame: Dunar Fighter | - | ready | bs_action_game0004.vmi |
 | ZZ_MG_Enemy_Zero_Training | VMU minigame: Enemy Zero Training | - | ready | E0.VMI |
 | ZZ_MG_Fast_and_Furious_Animation | VMU minigame: Fast and Furious Animation | - | ready | FASTFURI.VMI |
 | ZZ_MG_Fat_Rain | VMU minigame: Fat Rain | - | ready | FATRAIN.VMI |
+| ZZ_MG_Forever_Legend_Pocket | VMU minigame: Forever Legend Pocket | - | ready | bs_adventure_game0001.vmi |
 | ZZ_MG_Freak_Skater | VMU minigame: Freak Skater | - | ready | FSKATER.VMI |
 | ZZ_MG_Frog_in_a_blender | VMU minigame: Frog in a blender | - | ready | FROG.VMI |
-| ZZ_MG_Game_arcad_0011 | VMU minigame: Game arcad 0011 | - | ready | bs_arcade_game0011.vmi |
-| ZZ_MG_Game_arcad_0012 | VMU minigame: Game arcad 0012 | - | ready | bs_arcade_game0012.vmi |
-| ZZ_MG_Game_clock_0001 | VMU minigame: Game clock 0001 | - | ready | bs_clock_game0001.vmi |
-| ZZ_MG_Game_clock_0002 | VMU minigame: Game clock 0002 | - | ready | bs_clock_game0002.vmi |
-| ZZ_MG_Game_demo_0001 | VMU minigame: Game demo 0001 | - | ready | bs_demo_game0001.vmi |
-| ZZ_MG_Game_demo_0004 | VMU minigame: Game demo 0004 | - | ready | bs_demo_game0004.vmi |
-| ZZ_MG_Game_demo_0007 | VMU minigame: Game demo 0007 | - | ready | bs_demo_game0007.vmi |
-| ZZ_MG_Game_misc_0006 | VMU minigame: Game misc 0006 | - | ready | bs_misc_game0006.vmi |
-| ZZ_MG_Game_rocki__sg2 | VMU minigame: Game rocki  sg2 | - | ready | bs_rockin_b_sg2.vmi |
-| ZZ_MG_Game_rocki_b_3d | VMU minigame: Game rocki b 3d | - | ready | bs_rockin_b_3d.vmi |
-| ZZ_MG_Game_strat_0002 | VMU minigame: Game strat 0002 | - | ready | bs_strategy_game0002.vmi |
-| ZZ_MG_Game_strat_0003 | VMU minigame: Game strat 0003 | - | ready | bs_strategy_game0003.vmi |
-| ZZ_MG_GAME0003 | VMU minigame: GAME0003 | - | ready | bs_clock_game0003.vmi |
-| ZZ_MG_GAME0004 | VMU minigame: GAME0004 | - | ready | bs_clock_game0004.vmi |
 | ZZ_MG_Glucky_Labyrinth | VMU minigame: Glucky Labyrinth | - | ready | GLUCKY.VMI |
 | ZZ_MG_Godzilla | VMU minigame: Godzilla | - | ready | GODZILLA.VMI |
+| ZZ_MG_Godzilla_0006 | VMU minigame: Godzilla 0006 | - | ready | bs_misc_game0006.vmi |
 | ZZ_MG_Greyscale_Photo_Demo | VMU minigame: Greyscale Photo Demo | - | ready | GREY.VMI |
+| ZZ_MG_Guess_That_Square | VMU minigame: Guess That Square | - | ready | bs_strategy_game0004.vmi |
 | ZZ_MG_Hello_Kitty | VMU minigame: Hello Kitty | - | ready | KITTYCAT.VMI |
 | ZZ_MG_I_do_U_do | VMU minigame: I do U do | - | ready | IDOUDO.VMI |
-| ZZ_MG_ID_Calculator | VMU minigame: ID Calculator | - | ready | bs_misc_game0024.vmi |
+| ZZ_MG_James_Bond | VMU minigame: James Bond | - | ready | bs_action_game0005.vmi |
+| ZZ_MG_Jim_Bowl | VMU minigame: Jim Bowl | - | ready | bs_sport_game0005.vmi |
+| ZZ_MG_Jim_Light | VMU minigame: Jim Light | - | ready | bs_interanim_game0007.vmi |
 | ZZ_MG_Jojo_s_Problem | VMU minigame: Jojo s Problem | - | ready | JOJO.VMI |
+| ZZ_MG_Kill_Em_All | VMU minigame: Kill Em All | - | ready | bs_action_game0006.vmi |
 | ZZ_MG_Kill_Hyman | VMU minigame: Kill Hyman | - | ready | 00003096.VMI |
-| ZZ_MG_Lights_GAME_by | VMU minigame: Lights GAME by | - | ready | bs_strategy_game0006.vmi |
+| ZZ_MG_Light | VMU minigame: Light | - | ready | bs_strategy_game0006.vmi |
 | ZZ_MG_Lightsabre_Battle | VMU minigame: Lightsabre Battle | - | ready | 00003910.VMI |
 | ZZ_MG_Linear_s_Watch | VMU minigame: Linear s Watch | - | ready | MINICLOC.VMI |
 | ZZ_MG_Logic | VMU minigame: Logic | - | ready | LOGIC.VMI |
+| ZZ_MG_Logic_0007 | VMU minigame: Logic 0007 | - | ready | bs_strategy_game0007.vmi |
 | ZZ_MG_Marvel_vs_Capcom_2 | VMU minigame: Marvel vs Capcom 2 | - | ready | 4007.VMI |
 | ZZ_MG_Matrix_Reloaded_vmu_animat | VMU minigame: Matrix Reloaded vmu animat | - | ready | MATRXRLD.VMI |
+| ZZ_MG_Megaman_VMU_Battle | VMU minigame: Megaman VMU Battle | - | ready | bs_action_game0008.vmi |
+| ZZ_MG_Metal_Gear_Stealth | VMU minigame: Metal Gear Stealth | - | ready | bs_action_game0009.vmi |
+| ZZ_MG_Metroid | VMU minigame: Metroid | - | ready | bs_action_game0010.vmi |
 | ZZ_MG_Michael_Jackson_music_vide | VMU minigame: Michael Jackson music vide | - | ready | MICHAEL.VMI |
 | ZZ_MG_Minesweeper | VMU minigame: Minesweeper | - | ready | MINE.VMI |
+| ZZ_MG_Muddy_Says | VMU minigame: Muddy Says | - | ready | bs_interanim_game0009.vmi |
 | ZZ_MG_Neko_2_2 | VMU minigame: Neko 2 2 | - | ready | 00004662.VMI |
+| ZZ_MG_Outrun | VMU minigame: Outrun | - | ready | bs_interanim_game0010.vmi |
 | ZZ_MG_Paper_Attack | VMU minigame: Paper Attack | - | ready | PAPER.VMI |
+| ZZ_MG_Pocket_Calculator | VMU minigame: Pocket Calculator | - | ready | bs_rockin_b_pcv09b.vmi |
+| ZZ_MG_Pocket_GT_Eu | VMU minigame: Pocket GT Eu | - | ready | bs_misc_game0012.vmi |
+| ZZ_MG_Pocket_GT_Jap | VMU minigame: Pocket GT Jap | - | ready | bs_misc_game0013.vmi |
+| ZZ_MG_Pocket_GT_Usa | VMU minigame: Pocket GT Usa | - | ready | bs_misc_game0014.vmi |
 | ZZ_MG_Pop_n_Music_Vol_1 | VMU minigame: Pop n Music Vol 1 | - | ready | POPMUSI1.VMI |
 | ZZ_MG_Pop_n_Music_Vol_2 | VMU minigame: Pop n Music Vol 2 | - | ready | POPMUSI2.VMI |
 | ZZ_MG_Pop_n_Music_Vol_3 | VMU minigame: Pop n Music Vol 3 | - | ready | POPMUSI3.VMI |
 | ZZ_MG_Power_Stone_2_JP | VMU minigame: Power Stone 2 JP | - | ready | 4008.VMI |
-| ZZ_MG_POWER_STONE_MINI | VMU minigame: POWER STONE MINI | - | ready | bs_misc_game0015.vmi |
+| ZZ_MG_Powerstone_Mini | VMU minigame: Powerstone Mini | - | ready | bs_misc_game0015.vmi |
 | ZZ_MG_Powerstone_mini_by_Capcom | VMU minigame: Powerstone mini by Capcom | - | ready | POWERSTN.VMI |
 | ZZ_MG_promotion_video | VMU minigame: promotion video | - | ready | PROMO.VMI |
 | ZZ_MG_PSO_ID_Calculator | VMU minigame: PSO ID Calculator | - | ready | PSOID.VMI |
 | ZZ_MG_PSO_Slide_Puzzle | VMU minigame: PSO Slide Puzzle | - | ready | PSOPUZZL.VMI |
+| ZZ_MG_PSO_VMU_ID_Calculator_Beta | VMU minigame: PSO VMU ID Calculator Beta | - | ready | bs_misc_game0024.vmi |
+| ZZ_MG_QTE | VMU minigame: QTE | - | ready | bs_arcade_game0009.vmi |
+| ZZ_MG_Rainbow_Six | VMU minigame: Rainbow Six | - | ready | bs_action_game0012.vmi |
+| ZZ_MG_Revenge | VMU minigame: Revenge | - | ready | bs_action_game0013.vmi |
+| ZZ_MG_Road_Kill | VMU minigame: Road Kill | - | ready | bs_misc_game0017.vmi |
 | ZZ_MG_Rotozoom | VMU minigame: Rotozoom | - | ready | bs_demo_game0002.vmi |
+| ZZ_MG_Sample | VMU minigame: Sample | - | ready | bs_demo_game0003.vmi |
+| ZZ_MG_Scroll | VMU minigame: Scroll | - | ready | bs_demo_game0004.vmi |
 | ZZ_MG_SEGA_GT | VMU minigame: SEGA GT | - | ready | 4004.VMI |
-| ZZ_MG_SegaGT_Mini_Ga_0013 | VMU minigame: SegaGT Mini Ga 0013 | - | ready | bs_misc_game0013.vmi |
-| ZZ_MG_SegaGT_Mini_Ga_0014 | VMU minigame: SegaGT Mini Ga 0014 | - | ready | bs_misc_game0014.vmi |
-| ZZ_MG_SegaGT_Mini_Game | VMU minigame: SegaGT Mini Game | - | ready | bs_misc_game0012.vmi |
+| ZZ_MG_Shell | VMU minigame: Shell | - | ready | bs_interanim_game0011.vmi |
 | ZZ_MG_Shenmue | VMU minigame: Shenmue | - | ready | 4001.VMI |
+| ZZ_MG_Shenmue_Goodies_2 | VMU minigame: Shenmue Goodies 2 | - | ready | bs_rockin_b_sg2.vmi |
 | ZZ_MG_Simon_Bryan | VMU minigame: Simon Bryan | - | ready | 00004276.VMI |
 | ZZ_MG_Skies_Arcadia_Pintas_Quest | VMU minigame: Skies Arcadia Pintas Quest | - | ready | SOAMINI.VMI |
 | ZZ_MG_Skies_Arcadia_Pintas_Quest_NTSC | VMU minigame: Skies Arcadia Pintas Quest NTSC | - | ready | PQ_NTSC.VMI |
 | ZZ_MG_Skies_Arcadia_Pintas_Quest_PAL | VMU minigame: Skies Arcadia Pintas Quest PAL | - | ready | PQ_PAL.VMI |
 | ZZ_MG_Slidepuzzle | VMU minigame: Slidepuzzle | - | ready | SLIDEPUZ.VMI |
+| ZZ_MG_Snake | VMU minigame: Snake | - | ready | bs_arcade_game0011.vmi |
 | ZZ_MG_Snaky | VMU minigame: Snaky | - | ready | SNAKY.VMI |
-| ZZ_MG_SONIC_ADVENTUR_0003 | VMU minigame: SONIC ADVENTUR 0003 | - | ready | bs_misc_game0003.vmi |
-| ZZ_MG_SONIC_ADVENTURE_2_CHAO | VMU minigame: SONIC ADVENTURE 2 CHAO | - | ready | bs_misc_game0002.vmi |
+| ZZ_MG_Snaky_0012 | VMU minigame: Snaky 0012 | - | ready | bs_arcade_game0012.vmi |
+| ZZ_MG_Sniper | VMU minigame: Sniper | - | ready | bs_interanim_game0012.vmi |
 | ZZ_MG_Soul_Calibur_2_Adventure | VMU minigame: Soul Calibur 2 Adventure | - | ready | SOUL2ADV.VMI |
 | ZZ_MG_SoulCalibur_by_Namco | VMU minigame: SoulCalibur by Namco | - | ready | SCALIBU.VMI |
+| ZZ_MG_Sound_1 | VMU minigame: Sound 1 | - | ready | bs_demo_game0005.vmi |
+| ZZ_MG_Sound_2 | VMU minigame: Sound 2 | - | ready | bs_demo_game0006.vmi |
+| ZZ_MG_Sound_3 | VMU minigame: Sound 3 | - | ready | bs_demo_game0007.vmi |
 | ZZ_MG_Sound_Demo_v1_0 | VMU minigame: Sound Demo v1 0 | - | ready | SOUND.VMI |
-| ZZ_MG_Sound_rpging_simplenet | VMU minigame: Sound rpging simplenet | - | ready | bs_demo_game0006.vmi |
-| ZZ_MG_Soundengine_demo | VMU minigame: Soundengine demo | - | ready | bs_demo_game0005.vmi |
 | ZZ_MG_Space_Invaders | VMU minigame: Space Invaders | - | ready | SI.VMI |
 | ZZ_MG_Star_Wars | VMU minigame: Star Wars | - | ready | 00003291.VMI |
 | ZZ_MG_sun_moon_rise | VMU minigame: sun moon rise | - | ready | RISE.VMI |
 | ZZ_MG_Supercross_VMU | VMU minigame: Supercross VMU | - | ready | 00001870.VMI |
 | ZZ_MG_Swampy | VMU minigame: Swampy | - | ready | SWAMPY.VMI |
 | ZZ_MG_Tech_Romancer | VMU minigame: Tech Romancer | - | ready | VMFL_081.VMI |
+| ZZ_MG_Tera | VMU minigame: Tera | - | ready | bs_action_game0015.vmi |
+| ZZ_MG_Time_Crisis | VMU minigame: Time Crisis | - | ready | bs_action_game0016.vmi |
+| ZZ_MG_Time_Shooter | VMU minigame: Time Shooter | - | ready | bs_action_game0017.vmi |
+| ZZ_MG_Tiny_3D_Engine | VMU minigame: Tiny 3D Engine | - | ready | bs_rockin_b_3d.vmi |
 | ZZ_MG_Tiny_Tetris | VMU minigame: Tiny Tetris | - | ready | TETRIS.VMI |
 | ZZ_MG_Tokyo_Car_race | VMU minigame: Tokyo Car race | - | ready | TOKYOCAR.VMI |
-| ZZ_MG_TRICKSTYLE_JR_VMU_GAME | VMU minigame: TRICKSTYLE JR VMU GAME | - | ready | bs_arcade_game0015.vmi |
+| ZZ_MG_Trickstyle_Jr_VMU_Game | VMU minigame: Trickstyle Jr VMU Game | - | ready | bs_arcade_game0015.vmi |
+| ZZ_MG_Trigger_Front_1 | VMU minigame: Trigger Front 1 | - | ready | bs_action_game0018.vmi |
+| ZZ_MG_Trigger_Front_2 | VMU minigame: Trigger Front 2 | - | ready | bs_action_game0019.vmi |
+| ZZ_MG_Trigger_Front_3_4 | VMU minigame: Trigger Front 3 4 | - | ready | bs_action_game0020.vmi |
+| ZZ_MG_Virtua_Cop | VMU minigame: Virtua Cop | - | ready | bs_action_game0021.vmi |
+| ZZ_MG_Virtual_Teacher | VMU minigame: Virtual Teacher | - | ready | bs_misc_game0021.vmi |
 | ZZ_MG_VM_a_Sketch | VMU minigame: VM a Sketch | - | ready | SKETCH.VMI |
+| ZZ_MG_VMU_8_Ball | VMU minigame: VMU 8 Ball | - | ready | bs_interanim_game0013.vmi |
+| ZZ_MG_VMU_Adventure | VMU minigame: VMU Adventure | - | ready | bs_interanim_game0014.vmi |
 | ZZ_MG_VMU_All_Stars_1 | VMU minigame: VMU All Stars 1 | - | ready | bs_rockin_b_allstars.vmi |
 | ZZ_MG_VMU_Breakout_by_MJ | VMU minigame: VMU Breakout by MJ | - | ready | BREAKOUT.VMI |
+| ZZ_MG_VMU_Dice | VMU minigame: VMU Dice | - | ready | bs_interanim_game0015.vmi |
 | ZZ_MG_VMU_Fighter | VMU minigame: VMU Fighter | - | ready | 00004271.VMI |
 | ZZ_MG_VMU_Football | VMU minigame: VMU Football | - | ready | ZUQIU.VMI |
-| ZZ_MG_VMU_Gong | VMU minigame: VMU Gong | - | ready | bs_misc_game0017.vmi |
 | ZZ_MG_VMU_Mini_Pacman | VMU minigame: VMU Mini Pacman | - | ready | PACMAN.VMI |
-| ZZ_MG_VMU_Script | VMU minigame: VMU Script | - | ready | bs_strategy_game0007.vmi |
 | ZZ_MG_VMU_Vision_by_Tyro | VMU minigame: VMU Vision by Tyro | - | ready | VISION1.VMI |
 | ZZ_MG_Where_s_Bruce | VMU minigame: Where s Bruce | - | ready | VMWBP.VMI |
-| ZZ_MG_ZOMBIE_REVENGE_TRAININ | VMU minigame: ZOMBIE REVENGE TRAININ | - | ready | bs_misc_game0023.vmi |
+| ZZ_MG_Zombie_Revenge | VMU minigame: Zombie Revenge | - | ready | bs_misc_game0023.vmi |
 | T15113N | Wacky Races | US | ready | v76433.vmi |
 | T8111N | Wetrix+ | US | ready | v39228.vmi |
 | T42101N | Wild Metal | US | ready | v56159.vmi |

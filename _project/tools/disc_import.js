@@ -81,7 +81,9 @@ if(process.argv[3]){
     for(const f of fs.readdirSync(cd).filter(f=>/\.VMS$/i.test(f)).sort()){const base=f.replace(/\.VMS$/i,'');const vmi=path.join(cd,base+'.VMI');if(!fs.existsSync(vmi))continue;
       const data=fs.readFileSync(path.join(cd,f));if(have.has(H(data)))continue;have.add(H(data));
       const pv=V.parseVmi(fs.readFileSync(vmi));const clean2=b=>b.toString('latin1').replace(/[^\x20-\x7e]/g,'').replace(/\S+@\S+/g,'').trim();
-      const t=clean2(data.subarray(0x210,0x230))||clean2(data.subarray(0x200,0x210))||base;const n=`bs_${cat.toLowerCase()}_${base.toLowerCase()}`;
+      const RB={'3d':'Tiny 3D Engine','allstars':'VMU All Stars 1','pcv09b':'Pocket Calculator','sg2':'Shenmue Goodies 2'};
+      const vd=clean2(Buffer.from(pv.description,'latin1'));const generic=/^(description|ido|a movie on vm!?|dreamcast animation)$/i.test(vd);
+      const t=(cat==='ROCKIN_B'&&RB[base.toLowerCase()])||(vd&&!generic?vd:(clean2(data.subarray(0x210,0x230))||clean2(data.subarray(0x200,0x210))||base));const n=`bs_${cat.toLowerCase()}_${base.toLowerCase()}`;
       fs.copyFileSync(vmi,path.join(dir,n+'.vmi'));fs.copyFileSync(path.join(cd,f),path.join(dir,n+'.VMS'));
       rows.push(`| ![](x.gif) | \`${pv.name}\` | [${n}.vmi](${n}.vmi) | [${n}.VMS](${n}.VMS) | ${t} (${cat.toLowerCase()}) [source: Blue Swirl collection / Rockin'-B games on the VMU Tool disc; (c) 2006 Blue Swirl] |`);}}
   fs.writeFileSync(path.join(dir,'README.md'),`# disc_bs_minigames\n\n| Icon | Filename | VMI | VMS | Description |\n|---|---|---|---|---|\n${rows.join('\n')}\n`);console.log(rows.length,'extra minigames');}

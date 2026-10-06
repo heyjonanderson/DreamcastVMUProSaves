@@ -31,9 +31,10 @@ const items=g.rows.map(r=>{const vmi=V.parseVmi(fs.readFileSync(A.ci(g.path,r.vm
 const CN=['Homebrew & fan minigame','Official / publisher minigame','Animation / music video','Blue Swirl collection minigame'];
 if(gbs)for(const r of gbs.rows){const vmi=V.parseVmi(fs.readFileSync(A.ci(gbs.path,r.vmi)));const d=fs.readFileSync(A.ci(gbs.path,r.vms));
   const m=r.desc.match(/^(.*?) \((\w+)\) \[source/);const title=m?m[1]:r.desc;const cat2=m?m[2]:'';
-  let slug=title.replace(/www\.\S+|by .*$/i,'').replace(/[^A-Za-z0-9]+/g,'_').replace(/^_+|_+$/g,'').slice(0,22);
+  const tc=/[a-z]/.test(title)?title:title.toLowerCase().replace(/\b([a-z])/g,m=>m.toUpperCase()).replace(/\b(Vmu|Cc|Qte|Psx|Pso|Gt|Fps|Soa)\b/g,m=>m.toUpperCase());
+  let slug=tc.replace(/www\.\S+|by .*$/i,'').replace(/[^A-Za-z0-9]+/g,'_').replace(/^_+|_+$/g,'').slice(0,26);
   const base=r.vmi.replace(/\.vmi$/i,'');
-  if(slug.length<5||/^(http|written|ooooo|vmufan)/i.test(slug))slug='Game_'+cat2.slice(0,5)+'_'+base.slice(-4);
+  if(slug.length<3||/^(http|written|ooooo|vmufan)/i.test(slug))slug='Game_'+cat2.slice(0,5)+'_'+base.slice(-4);
   if(/^DC_Animation/.test(slug))slug='DCAnim_'+cat2.slice(0,5)+'_'+base.slice(-4);
   items.push({r:{...r,desc:title},key:base,cat:3,blocks:Math.ceil(d.length/512),name:vmi.name,dir:'disc_bs_minigames',bsSlug:slug,restricted:'blueswirl'});}
 const SLUG={'4007':'Marvel_vs_Capcom_2','4008':'Power_Stone_2_JP','PQ_NTSC':'Skies_Arcadia_Pintas_Quest_NTSC','PQ_PAL':'Skies_Arcadia_Pintas_Quest_PAL','SOAMINI':'Skies_Arcadia_Pintas_Quest','SCCBRK':'Cardcaptor_Breakout','DANGELO':'DAngelo_Music_Video','E0':'Enemy_Zero_Training','FASTFURI':'Fast_and_Furious_Animation','GREY':'Greyscale_Photo_Demo'};
