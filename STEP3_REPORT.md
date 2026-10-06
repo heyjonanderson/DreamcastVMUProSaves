@@ -3,8 +3,8 @@
 Game cards: 366 (.vmu, 131072 bytes each) for 337 games, plus 35 extras cards (minigames, cheat-device codes) under vmupro/Dreamcast/_EXTRAS.
 Every card parses back cleanly (checked by tools/vmu.js and by an independent Python checker written from the VMS format notes: directory, FAT chains, save data). **No card has been opened in EVMU or on VMU Pro hardware.**
 
-- ready: 312 games (heuristic or manual pick judged complete/best available, filename/region check passed)
-- needs review: 25 games (listed below)
+- ready: 313 games (heuristic or manual pick judged complete/best available, filename/region check passed)
+- needs review: 24 games (listed below)
 - failed to build: 0
 - extras cards: 35 (cheat-device cards are marked needs review because they only work with the matching cheat disc)
 - no card: see _project/unmapped_or_skipped.csv; extras not on a card: _project/not_on_cards_extras.csv
@@ -26,7 +26,6 @@ Every card parses back cleanly (checked by tools/vmu.js and by an independent Py
 | ESPN NBA 2 Night | T9503N | US | Only save: early in a season, not a completed state |
 | F1 World Grand Prix | 51030 | US | Mid-championship save; no completed save in archive |
 | Fighting Force 2 | T36801N | US | Level 8 save; archive has no completed save; also released: other/EU |
-| Golf Shiyouyo | T44501M | JP | Redump mapping inferred from filename/title, not confirmed |
 | Gunbird 2 | T1214N | US | Only save; description gives no unlock info; also released: JP/EU |
 | Jet Set Radio DX | HDR0128, HDR0186 | JP | Redump mapping inferred from filename/title, not confirmed (alt ID HDR-0186) |
 | Phantasy Star Online | 51100 | US | Archive has only official download quest files (no character save); US-labelled quests plus as many others as fit; JP-labelled download saves skipped; also released: EU/JP / extras on card: LETTER1.VMI,RAREMAT1.VMI,RAREMAT2.VMI / extras not fitted (card full or name clash): LETTER2.VMI (PSO______017),RETIRED1.VMI (PSO______028),RETIRED2.VMI (PSO______029),SOULV2_1.VMI (PSO______030),SOULV2_2.VMI (PSO______031),FIRE1.VMI (PSO______024),FIRE2.VMI (PSO______025),EASTER1.VMI (PSO______010),EASTER2.VMI (PSO______011),EASTER3.VMI (PSO______012) |

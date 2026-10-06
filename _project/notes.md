@@ -17,3 +17,16 @@ Facts found
 Step 1 deferred / borderline (not yet built): wrestling/boxing (fireprowd, giantgram, wwfattitude, wwfrumble, ecw, ecwanarchy, ready_rumble, ready_rumble2), beat-em-ups (soulfighter, fightforce2, cannonspike, dynamitecop).
 DLC/minigame-type saves seen so far (skipped): SFALPHA3.DWN (v20786 Master Rolento), SPAWNNGM.701 & SPAWNL0U.A01 (Spawn downloads), CvS2 replay files CVS.S2___RD*. Full list to be produced in step 3.
 Not yet built: Virtua Tennis (virtuatennis -> 51054, virtuatennis2 -> 51186), then everything else.
+
+
+## Status after steps 2-3 + extras (update)
+- Step 2 done (Virtua Tennis, Virtua Tennis 2). Step 3 done: `tools/step3.js` maps every archive folder to Redump IDs and picks a save
+  (heuristic scoring + a manual `FORCE` table written after reading all descriptions); output `selections3.json`. `selections.js` merges
+  steps 1-2 (`tools/selections_12.js`), step 3, per-game attachments (`extras_attach.json`) and extras cards (`selections_extras.json`, from `tools/extras.js`).
+- Region evidence from in-card filenames: HOD2DC_U=US, SAMBAUS1=US, S.ARCADIA=US (E.ARCADIA=JP, ARCADIA_E=EU), TDLEMANS/TDVRALLY=US, TXRACER=US (SHUTOKOU=JP),
+  RESEVIL2/3 = US/EU (BIOHAZRD = JP), SGRALLY2I0VD=US (SG_RALLY20VD=JP), D_COP_US=US (DDEKA2DC=JP), ITANDF_U=US (_E=EU), GUNDAM_US=US.
+- Shared Redump IDs: HDR-0201 (Sakura Taisen Rev A discs) is dropped to avoid one folder serving several games.
+- Seventh Cross Evolution: VMI size field is wrong in the archive (44 vs 172 blocks); card uses the full 172-block VMS.
+- Remaining needs-review: see STEP3_REPORT.md. Gap-filling from the VMU Dream Explorer disc image is still pending (disc is local only; first check
+  whether its saves are plain VMS/VMI or proprietary).
+- `tools/check_cards.py`: independent card checker (run from repo root).

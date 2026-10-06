@@ -111,7 +111,7 @@
 | T1209N | Giga Wing | US | ready | GIGAWING.VMI |
 | T1222N | Giga Wing 2 | US | ready | v499.vmi |
 | HDR0004 | Godzilla Generations | JP | ready | GODZILLA.VMI |
-| T44501M | Golf Shiyouyo | JP | needs review | SHIGOLF2.VMI |
+| T44501M | Golf Shiyouyo | JP | ready | SHIGOLF2.VMI |
 | T42102N | Grand Theft Auto 2 | US | ready | v81958.vmi |
 | T17716N | Grandia 2 | US | ready | v81729.vmi |
 | T2401M | Guilty Gear X | JP | ready | v55699.vmi |

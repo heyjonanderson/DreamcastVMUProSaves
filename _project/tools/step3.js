@@ -127,6 +127,7 @@ const FORCE={
 'samba':{fn:/^SAMBAUS1\.SYS/,st:R_,note:'SAMBAUS1 = US name (SAMBADE1 = EU/DE, SAMBAV2K = JP Ver.2000)'},
 'arcadia':{fn:/^S\.ARCADIA001/,st:R_,note:'S.ARCADIA = US name (E.ARCADIA = JP, ARCADIA_E = EU, per archive download descriptions)'},
 'segarally':{files:['SGRALLY2.VMI'],st:R_,note:'Labelled "All unlocked (USA)" in archive; SGRALLY2I0VD = US name (SG_RALLY20VD is the JP version)'},
+'golfshiyo':{files:['SHIGOLF2.VMI'],st:R_,note:'Save filename SHIYOUY2 matches Golf Shiyou yo 2 (T-44501M); only save in archive'},
 'd2':{fn:/^D2_______001/,st:R_,note:'D2_______001 slot; D2SYSTEM file not included'},
 };
 const owner={};for(const s of base)for(const i of s.ids)owner[i.replace(/[-\s]/g,'')]=s.dir;
@@ -187,7 +188,7 @@ for(const m of map1){
     pick.r=pickRows[0];status=F.st;notes.length=0;notes.push(...notes0);notes.push(F.note);
   }
   const comp=g.rows.length>1?`Best of ${rows.length}: ${pick.r.desc.replace(/\s+/g,' ').slice(0,140)}`:`Only save: ${pick.r.desc.replace(/\s+/g,' ').slice(0,140)}`;
-  if(OV[m.dir]&&/^(aeroi|aeroif|golfshiyo|jetsetdx)$/.test(m.dir)){status='needs review';notes.push('Redump mapping inferred from filename/title, not confirmed');}
+  if(OV[m.dir]&&/^(aeroi|aeroif|jetsetdx)$/.test(m.dir)){status='needs review';notes.push('Redump mapping inferred from filename/title, not confirmed');}
   const companions=[...new Set(rows.map(r=>r.fname).filter(f=>/\.(SYS|OPT|CFG|CNF)$|_(SYS|CFG|CNF|SET)$/.test(f)&&f!==pick.r.fname))];
   if(companions.length&&!/\.(SYS|OPT|CFG|CNF)$|_(SYS|CFG|CNF|SET)$/.test(pick.r.fname))notes.push('game also has settings/system file(s) ('+companions.slice(0,3).join(',')+') not included');
   if(regionsAvail.length>1)notes.push('also released: '+regionsAvail.filter(x=>x!==rname[best]).join('/'));

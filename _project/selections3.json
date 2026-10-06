@@ -1363,9 +1363,9 @@
   "files": [
    "SHIGOLF2.VMI"
   ],
-  "completion": "Only save: All characters unlocked",
-  "status": "needs review",
-  "notes": "Redump mapping inferred from filename/title, not confirmed"
+  "completion": "All characters unlocked",
+  "status": "ready",
+  "notes": "Save filename SHIYOUY2 matches Golf Shiyou yo 2 (T-44501M); only save in archive"
  },
  {
   "dir": "gta2",
