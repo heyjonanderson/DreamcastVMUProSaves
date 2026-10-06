@@ -381,7 +381,14 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [zz_MG_Alien_Fighter](zz_MG_Alien_Fighter) | VMU minigame: Alien Fighter | - | ready |
 | [zz_MG_Alien_Shooter](zz_MG_Alien_Shooter) | VMU minigame: Alien Shooter | - | ready |
 | [zz_MG_Arrow](zz_MG_Arrow) | VMU minigame: Arrow | - | ready |
+| [zz_MG_Asagiri_Ayame_Clock](zz_MG_Asagiri_Ayame_Clock) | VMU minigame: Asagiri Ayame Clock | - | ready |
+| [zz_MG_Asagiri_Minami_Clock](zz_MG_Asagiri_Minami_Clock) | VMU minigame: Asagiri Minami Clock | - | ready |
+| [zz_MG_Asonde_Kid_DC_DC](zz_MG_Asonde_Kid_DC_DC) | VMU minigame: Asonde Kid DC DC | - | ready |
+| [zz_MG_Atsumete_Godzilla](zz_MG_Atsumete_Godzilla) | VMU minigame: Atsumete Godzilla | - | ready |
+| [zz_MG_Bababa_Battle](zz_MG_Bababa_Battle) | VMU minigame: Bababa Battle | - | ready |
 | [zz_MG_Basketball](zz_MG_Basketball) | VMU minigame: Basketball | - | ready |
+| [zz_MG_Bass_Rush_Mini](zz_MG_Bass_Rush_Mini) | VMU minigame: Bass Rush Mini | - | ready |
+| [zz_MG_Beam_Force](zz_MG_Beam_Force) | VMU minigame: Beam Force | - | ready |
 | [zz_MG_Boxing](zz_MG_Boxing) | VMU minigame: Boxing | - | ready |
 | [zz_MG_Buffy](zz_MG_Buffy) | VMU minigame: Buffy | - | ready |
 | [zz_MG_Cardcaptor_Breakout](zz_MG_Cardcaptor_Breakout) | VMU minigame: Cardcaptor Breakout | - | ready |
@@ -396,58 +403,110 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [zz_MG_Chao_Adventure_by_SEGA](zz_MG_Chao_Adventure_by_SEGA) | VMU minigame: Chao Adventure by SEGA | - | ready |
 | [zz_MG_Chao_Editor_2_by_Tyro](zz_MG_Chao_Editor_2_by_Tyro) | VMU minigame: Chao Editor 2 by Tyro | - | ready |
 | [zz_MG_Chao_Editor_by_Tyro](zz_MG_Chao_Editor_by_Tyro) | VMU minigame: Chao Editor by Tyro | - | ready |
+| [zz_MG_Chiisana_Kotori_Uranai](zz_MG_Chiisana_Kotori_Uranai) | VMU minigame: Chiisana Kotori Uranai | - | ready |
 | [zz_MG_Chuchu](zz_MG_Chuchu) | VMU minigame: Chuchu | - | ready |
 | [zz_MG_circles](zz_MG_circles) | VMU minigame: circles | - | ready |
+| [zz_MG_Climax_Editor_1](zz_MG_Climax_Editor_1) | VMU minigame: Climax Editor 1 | - | ready |
+| [zz_MG_Climax_Editor_2](zz_MG_Climax_Editor_2) | VMU minigame: Climax Editor 2 | - | ready |
 | [zz_MG_Climax_Landers](zz_MG_Climax_Landers) | VMU minigame: Climax Landers | - | ready |
+| [zz_MG_Coji_Coji_Watch](zz_MG_Coji_Coji_Watch) | VMU minigame: Coji Coji Watch | - | ready |
+| [zz_MG_Collect_Gachara](zz_MG_Collect_Gachara) | VMU minigame: Collect Gachara | - | ready |
+| [zz_MG_Culdcept_2_Pocket_Book](zz_MG_Culdcept_2_Pocket_Book) | VMU minigame: Culdcept 2 Pocket Book | - | ready |
 | [zz_MG_Dance_Dance](zz_MG_Dance_Dance) | VMU minigame: Dance Dance | - | ready |
 | [zz_MG_DAngelo_Music_Video](zz_MG_DAngelo_Music_Video) | VMU minigame: DAngelo Music Video | - | ready |
 | [zz_MG_Dragon_Ball_Z](zz_MG_Dragon_Ball_Z) | VMU minigame: Dragon Ball Z | - | ready |
 | [zz_MG_Dream_Monsters](zz_MG_Dream_Monsters) | VMU minigame: Dream Monsters | - | ready |
 | [zz_MG_Dream_Racer](zz_MG_Dream_Racer) | VMU minigame: Dream Racer | - | ready |
 | [zz_MG_Dunar_Fighter](zz_MG_Dunar_Fighter) | VMU minigame: Dunar Fighter | - | ready |
+| [zz_MG_Dungeon_IV](zz_MG_Dungeon_IV) | VMU minigame: Dungeon IV | - | ready |
 | [zz_MG_Enemy_Zero_Training](zz_MG_Enemy_Zero_Training) | VMU minigame: Enemy Zero Training | - | ready |
+| [zz_MG_F_San_Gogo](zz_MG_F_San_Gogo) | VMU minigame: F San Gogo | - | ready |
 | [zz_MG_Fast_and_Furious_Animation](zz_MG_Fast_and_Furious_Animation) | VMU minigame: Fast and Furious Animation | - | ready |
 | [zz_MG_Fat_Rain](zz_MG_Fat_Rain) | VMU minigame: Fat Rain | - | ready |
+| [zz_MG_Flappy_Bird](zz_MG_Flappy_Bird) | VMU minigame: Flappy Bird | - | ready |
 | [zz_MG_Forever_Legend_Pocket](zz_MG_Forever_Legend_Pocket) | VMU minigame: Forever Legend Pocket | - | ready |
 | [zz_MG_Freak_Skater](zz_MG_Freak_Skater) | VMU minigame: Freak Skater | - | ready |
 | [zz_MG_Frog_in_a_blender](zz_MG_Frog_in_a_blender) | VMU minigame: Frog in a blender | - | ready |
+| [zz_MG_Fsync2](zz_MG_Fsync2) | VMU minigame: Fsync2 | - | ready |
+| [zz_MG_Gamera_Dream_Battle](zz_MG_Gamera_Dream_Battle) | VMU minigame: Gamera Dream Battle | - | ready |
+| [zz_MG_Giant_Channel](zz_MG_Giant_Channel) | VMU minigame: Giant Channel | - | ready |
 | [zz_MG_Glucky_Labyrinth](zz_MG_Glucky_Labyrinth) | VMU minigame: Glucky Labyrinth | - | ready |
 | [zz_MG_Godzilla](zz_MG_Godzilla) | VMU minigame: Godzilla | - | ready |
 | [zz_MG_Godzilla_0006](zz_MG_Godzilla_0006) | VMU minigame: Godzilla 0006 | - | ready |
+| [zz_MG_Gose_Satsuki_Clock](zz_MG_Gose_Satsuki_Clock) | VMU minigame: Gose Satsuki Clock | - | ready |
 | [zz_MG_Greyscale_Photo_Demo](zz_MG_Greyscale_Photo_Demo) | VMU minigame: Greyscale Photo Demo | - | ready |
 | [zz_MG_Guess_That_Square](zz_MG_Guess_That_Square) | VMU minigame: Guess That Square | - | ready |
+| [zz_MG_Heartful_Catch](zz_MG_Heartful_Catch) | VMU minigame: Heartful Catch | - | ready |
 | [zz_MG_Hello_Kitty](zz_MG_Hello_Kitty) | VMU minigame: Hello Kitty | - | ready |
+| [zz_MG_Hello_Kitty_Diet_Room](zz_MG_Hello_Kitty_Diet_Room) | VMU minigame: Hello Kitty Diet Room | - | ready |
 | [zz_MG_I_do_U_do](zz_MG_I_do_U_do) | VMU minigame: I do U do | - | ready |
+| [zz_MG_Imuppi](zz_MG_Imuppi) | VMU minigame: Imuppi | - | ready |
 | [zz_MG_James_Bond](zz_MG_James_Bond) | VMU minigame: James Bond | - | ready |
+| [zz_MG_Jet_Set_Radio_Graffiti_DL_](zz_MG_Jet_Set_Radio_Graffiti_DL_) | VMU minigame: Jet Set Radio Graffiti DL  | - | ready |
 | [zz_MG_Jim_Bowl](zz_MG_Jim_Bowl) | VMU minigame: Jim Bowl | - | ready |
 | [zz_MG_Jim_Light](zz_MG_Jim_Light) | VMU minigame: Jim Light | - | ready |
 | [zz_MG_Jojo_s_Problem](zz_MG_Jojo_s_Problem) | VMU minigame: Jojo s Problem | - | ready |
 | [zz_MG_Kill_Em_All](zz_MG_Kill_Em_All) | VMU minigame: Kill Em All | - | ready |
 | [zz_MG_Kill_Hyman](zz_MG_Kill_Hyman) | VMU minigame: Kill Hyman | - | ready |
+| [zz_MG_Kotodamashi_Encyclopedia](zz_MG_Kotodamashi_Encyclopedia) | VMU minigame: Kotodamashi Encyclopedia | - | ready |
+| [zz_MG_Lets_Play_VMU_Trade](zz_MG_Lets_Play_VMU_Trade) | VMU minigame: Lets Play VMU Trade | - | ready |
 | [zz_MG_Light](zz_MG_Light) | VMU minigame: Light | - | ready |
 | [zz_MG_Lightsabre_Battle](zz_MG_Lightsabre_Battle) | VMU minigame: Lightsabre Battle | - | ready |
 | [zz_MG_Linear_s_Watch](zz_MG_Linear_s_Watch) | VMU minigame: Linear s Watch | - | ready |
 | [zz_MG_Logic](zz_MG_Logic) | VMU minigame: Logic | - | ready |
 | [zz_MG_Logic_0007](zz_MG_Logic_0007) | VMU minigame: Logic 0007 | - | ready |
+| [zz_MG_Make_Soccer_Anywhere_1](zz_MG_Make_Soccer_Anywhere_1) | VMU minigame: Make Soccer Anywhere 1 | - | ready |
+| [zz_MG_Make_Soccer_Anywhere_2](zz_MG_Make_Soccer_Anywhere_2) | VMU minigame: Make Soccer Anywhere 2 | - | ready |
+| [zz_MG_Make_Soccer_Anywhere_3](zz_MG_Make_Soccer_Anywhere_3) | VMU minigame: Make Soccer Anywhere 3 | - | ready |
+| [zz_MG_Manari_Clock](zz_MG_Manari_Clock) | VMU minigame: Manari Clock | - | ready |
+| [zz_MG_Marvel_vs_Capc_om_2](zz_MG_Marvel_vs_Capc_om_2) | VMU minigame: Marvel vs Capc om 2 | - | ready |
 | [zz_MG_Marvel_vs_Capcom_2](zz_MG_Marvel_vs_Capcom_2) | VMU minigame: Marvel vs Capcom 2 | - | ready |
 | [zz_MG_Matrix_Reloaded_vmu_animat](zz_MG_Matrix_Reloaded_vmu_animat) | VMU minigame: Matrix Reloaded vmu animat | - | ready |
 | [zz_MG_Megaman_VMU_Battle](zz_MG_Megaman_VMU_Battle) | VMU minigame: Megaman VMU Battle | - | ready |
 | [zz_MG_Metal_Gear_Stealth](zz_MG_Metal_Gear_Stealth) | VMU minigame: Metal Gear Stealth | - | ready |
 | [zz_MG_Metroid](zz_MG_Metroid) | VMU minigame: Metroid | - | ready |
 | [zz_MG_Michael_Jackson_music_vide](zz_MG_Michael_Jackson_music_vide) | VMU minigame: Michael Jackson music vide | - | ready |
+| [zz_MG_Mikami_Satoru_Clock](zz_MG_Mikami_Satoru_Clock) | VMU minigame: Mikami Satoru Clock | - | ready |
 | [zz_MG_Minesweeper](zz_MG_Minesweeper) | VMU minigame: Minesweeper | - | ready |
+| [zz_MG_Mini_Anima_Notebook](zz_MG_Mini_Anima_Notebook) | VMU minigame: Mini Anima Notebook | - | ready |
+| [zz_MG_Minto_To_Issho](zz_MG_Minto_To_Issho) | VMU minigame: Minto To Issho | - | ready |
+| [zz_MG_Mojipuchi](zz_MG_Mojipuchi) | VMU minigame: Mojipuchi | - | ready |
+| [zz_MG_Mojipuchi_Animals](zz_MG_Mojipuchi_Animals) | VMU minigame: Mojipuchi Animals | - | ready |
+| [zz_MG_Mojipuchi_English](zz_MG_Mojipuchi_English) | VMU minigame: Mojipuchi English | - | ready |
+| [zz_MG_Mojipuchi_Mixed](zz_MG_Mojipuchi_Mixed) | VMU minigame: Mojipuchi Mixed | - | ready |
+| [zz_MG_Mojipuchi_Places](zz_MG_Mojipuchi_Places) | VMU minigame: Mojipuchi Places | - | ready |
+| [zz_MG_Moonlighter](zz_MG_Moonlighter) | VMU minigame: Moonlighter | - | ready |
+| [zz_MG_Mothra_Dream_Battle](zz_MG_Mothra_Dream_Battle) | VMU minigame: Mothra Dream Battle | - | ready |
 | [zz_MG_Muddy_Says](zz_MG_Muddy_Says) | VMU minigame: Muddy Says | - | ready |
+| [zz_MG_Nakoruro_Mana_Character_VM](zz_MG_Nakoruro_Mana_Character_VM) | VMU minigame: Nakoruro Mana Character VM | - | ready |
+| [zz_MG_Nakoruro_Nako_Character_VM](zz_MG_Nakoruro_Nako_Character_VM) | VMU minigame: Nakoruro Nako Character VM | - | ready |
+| [zz_MG_Nakoruro_Rera_Character_VM](zz_MG_Nakoruro_Rera_Character_VM) | VMU minigame: Nakoruro Rera Character VM | - | ready |
+| [zz_MG_Nakoruro_Rimu_Character_VM](zz_MG_Nakoruro_Rimu_Character_VM) | VMU minigame: Nakoruro Rimu Character VM | - | ready |
+| [zz_MG_Nakoruru_Clock](zz_MG_Nakoruru_Clock) | VMU minigame: Nakoruru Clock | - | ready |
+| [zz_MG_Narumi_Rio_Clock](zz_MG_Narumi_Rio_Clock) | VMU minigame: Narumi Rio Clock | - | ready |
+| [zz_MG_Nba_2k1_VMU](zz_MG_Nba_2k1_VMU) | VMU minigame: Nba 2k1 VMU | - | ready |
 | [zz_MG_Neko_2_2](zz_MG_Neko_2_2) | VMU minigame: Neko 2 2 | - | ready |
 | [zz_MG_Outrun](zz_MG_Outrun) | VMU minigame: Outrun | - | ready |
+| [zz_MG_PACit](zz_MG_PACit) | VMU minigame: PACit | - | ready |
 | [zz_MG_Paper_Attack](zz_MG_Paper_Attack) | VMU minigame: Paper Attack | - | ready |
+| [zz_MG_Pari_No_Futari](zz_MG_Pari_No_Futari) | VMU minigame: Pari No Futari | - | ready |
+| [zz_MG_Pata_Pies](zz_MG_Pata_Pies) | VMU minigame: Pata Pies | - | ready |
+| [zz_MG_Pier_Solar_Labyrinth](zz_MG_Pier_Solar_Labyrinth) | VMU minigame: Pier Solar Labyrinth | - | ready |
+| [zz_MG_Pinguino](zz_MG_Pinguino) | VMU minigame: Pinguino | - | ready |
+| [zz_MG_Pixel_Art](zz_MG_Pixel_Art) | VMU minigame: Pixel Art | - | ready |
+| [zz_MG_PockeKano](zz_MG_PockeKano) | VMU minigame: PockeKano | - | ready |
+| [zz_MG_PockeKano_Shizuka](zz_MG_PockeKano_Shizuka) | VMU minigame: PockeKano Shizuka | - | ready |
+| [zz_MG_PockeKano_Yumi](zz_MG_PockeKano_Yumi) | VMU minigame: PockeKano Yumi | - | ready |
 | [zz_MG_Pocket_Calculator](zz_MG_Pocket_Calculator) | VMU minigame: Pocket Calculator | - | ready |
 | [zz_MG_Pocket_GT_Eu](zz_MG_Pocket_GT_Eu) | VMU minigame: Pocket GT Eu | - | ready |
 | [zz_MG_Pocket_GT_Jap](zz_MG_Pocket_GT_Jap) | VMU minigame: Pocket GT Jap | - | ready |
 | [zz_MG_Pocket_GT_Usa](zz_MG_Pocket_GT_Usa) | VMU minigame: Pocket GT Usa | - | ready |
+| [zz_MG_Pop_n_Music_Anywhere_3](zz_MG_Pop_n_Music_Anywhere_3) | VMU minigame: Pop n Music Anywhere 3 | - | ready |
 | [zz_MG_Pop_n_Music_Vol_1](zz_MG_Pop_n_Music_Vol_1) | VMU minigame: Pop n Music Vol 1 | - | ready |
 | [zz_MG_Pop_n_Music_Vol_2](zz_MG_Pop_n_Music_Vol_2) | VMU minigame: Pop n Music Vol 2 | - | ready |
 | [zz_MG_Pop_n_Music_Vol_3](zz_MG_Pop_n_Music_Vol_3) | VMU minigame: Pop n Music Vol 3 | - | ready |
 | [zz_MG_Power_Stone_2_JP](zz_MG_Power_Stone_2_JP) | VMU minigame: Power Stone 2 JP | - | ready |
+| [zz_MG_Power_Stone_2_Mini_Book](zz_MG_Power_Stone_2_Mini_Book) | VMU minigame: Power Stone 2 Mini Book | - | ready |
 | [zz_MG_Powerstone_Mini](zz_MG_Powerstone_Mini) | VMU minigame: Powerstone Mini | - | ready |
 | [zz_MG_Powerstone_mini_by_Capcom](zz_MG_Powerstone_mini_by_Capcom) | VMU minigame: Powerstone mini by Capcom | - | ready |
 | [zz_MG_promotion_video](zz_MG_promotion_video) | VMU minigame: promotion video | - | ready |
@@ -456,14 +515,25 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [zz_MG_PSO_VMU_ID_Calculator_Beta](zz_MG_PSO_VMU_ID_Calculator_Beta) | VMU minigame: PSO VMU ID Calculator Beta | - | ready |
 | [zz_MG_QTE](zz_MG_QTE) | VMU minigame: QTE | - | ready |
 | [zz_MG_Rainbow_Six](zz_MG_Rainbow_Six) | VMU minigame: Rainbow Six | - | ready |
+| [zz_MG_Rera_Clock](zz_MG_Rera_Clock) | VMU minigame: Rera Clock | - | ready |
 | [zz_MG_Revenge](zz_MG_Revenge) | VMU minigame: Revenge | - | ready |
+| [zz_MG_Rich_Life_Collection](zz_MG_Rich_Life_Collection) | VMU minigame: Rich Life Collection | - | ready |
+| [zz_MG_Rimururu_Clock](zz_MG_Rimururu_Clock) | VMU minigame: Rimururu Clock | - | ready |
 | [zz_MG_Road_Kill](zz_MG_Road_Kill) | VMU minigame: Road Kill | - | ready |
 | [zz_MG_Rotozoom](zz_MG_Rotozoom) | VMU minigame: Rotozoom | - | ready |
+| [zz_MG_Runabout_Mini_Madness](zz_MG_Runabout_Mini_Madness) | VMU minigame: Runabout Mini Madness | - | ready |
+| [zz_MG_Sakagami_Hazuki_Clock](zz_MG_Sakagami_Hazuki_Clock) | VMU minigame: Sakagami Hazuki Clock | - | ready |
+| [zz_MG_Sakagami_Miyuki_Clock](zz_MG_Sakagami_Miyuki_Clock) | VMU minigame: Sakagami Miyuki Clock | - | ready |
 | [zz_MG_Sample](zz_MG_Sample) | VMU minigame: Sample | - | ready |
+| [zz_MG_Sasagawa_Asami_Clock](zz_MG_Sasagawa_Asami_Clock) | VMU minigame: Sasagawa Asami Clock | - | ready |
+| [zz_MG_Sasagawa_Sanae_Clock](zz_MG_Sasagawa_Sanae_Clock) | VMU minigame: Sasagawa Sanae Clock | - | ready |
 | [zz_MG_Scroll](zz_MG_Scroll) | VMU minigame: Scroll | - | ready |
+| [zz_MG_Seaman_Storage_Matrix](zz_MG_Seaman_Storage_Matrix) | VMU minigame: Seaman Storage Matrix | - | ready |
 | [zz_MG_SEGA_GT](zz_MG_SEGA_GT) | VMU minigame: SEGA GT | - | ready |
+| [zz_MG_Sega_Rally_2_Record_Viewer](zz_MG_Sega_Rally_2_Record_Viewer) | VMU minigame: Sega Rally 2 Record Viewer | - | ready |
 | [zz_MG_Shell](zz_MG_Shell) | VMU minigame: Shell | - | ready |
 | [zz_MG_Shenmue](zz_MG_Shenmue) | VMU minigame: Shenmue | - | ready |
+| [zz_MG_Shenmue_Goodies](zz_MG_Shenmue_Goodies) | VMU minigame: Shenmue Goodies | - | ready |
 | [zz_MG_Shenmue_Goodies_2](zz_MG_Shenmue_Goodies_2) | VMU minigame: Shenmue Goodies 2 | - | ready |
 | [zz_MG_Simon_Bryan](zz_MG_Simon_Bryan) | VMU minigame: Simon Bryan | - | ready |
 | [zz_MG_Skies_Arcadia_Pintas_Quest](zz_MG_Skies_Arcadia_Pintas_Quest) | VMU minigame: Skies Arcadia Pintas Quest | - | ready |
@@ -476,12 +546,17 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [zz_MG_Sniper](zz_MG_Sniper) | VMU minigame: Sniper | - | ready |
 | [zz_MG_Soul_Calibur_2_Adventure](zz_MG_Soul_Calibur_2_Adventure) | VMU minigame: Soul Calibur 2 Adventure | - | ready |
 | [zz_MG_SoulCalibur_by_Namco](zz_MG_SoulCalibur_by_Namco) | VMU minigame: SoulCalibur by Namco | - | ready |
+| [zz_MG_SoulCalibur_VMU_Game_Pak](zz_MG_SoulCalibur_VMU_Game_Pak) | VMU minigame: SoulCalibur VMU Game Pak | - | ready |
 | [zz_MG_Sound_1](zz_MG_Sound_1) | VMU minigame: Sound 1 | - | ready |
 | [zz_MG_Sound_2](zz_MG_Sound_2) | VMU minigame: Sound 2 | - | ready |
 | [zz_MG_Sound_3](zz_MG_Sound_3) | VMU minigame: Sound 3 | - | ready |
 | [zz_MG_Sound_Demo_v1_0](zz_MG_Sound_Demo_v1_0) | VMU minigame: Sound Demo v1 0 | - | ready |
 | [zz_MG_Space_Invaders](zz_MG_Space_Invaders) | VMU minigame: Space Invaders | - | ready |
+| [zz_MG_Space_Senmu](zz_MG_Space_Senmu) | VMU minigame: Space Senmu | - | ready |
+| [zz_MG_Speed_Devils_Record_Viewer](zz_MG_Speed_Devils_Record_Viewer) | VMU minigame: Speed Devils Record Viewer | - | ready |
 | [zz_MG_Star_Wars](zz_MG_Star_Wars) | VMU minigame: Star Wars | - | ready |
+| [zz_MG_Street_Race_VMU](zz_MG_Street_Race_VMU) | VMU minigame: Street Race VMU | - | ready |
+| [zz_MG_Stuff](zz_MG_Stuff) | VMU minigame: Stuff | - | ready |
 | [zz_MG_sun_moon_rise](zz_MG_sun_moon_rise) | VMU minigame: sun moon rise | - | ready |
 | [zz_MG_Supercross_VMU](zz_MG_Supercross_VMU) | VMU minigame: Supercross VMU | - | ready |
 | [zz_MG_Swampy](zz_MG_Swampy) | VMU minigame: Swampy | - | ready |
@@ -491,6 +566,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [zz_MG_Time_Shooter](zz_MG_Time_Shooter) | VMU minigame: Time Shooter | - | ready |
 | [zz_MG_Tiny_3D_Engine](zz_MG_Tiny_3D_Engine) | VMU minigame: Tiny 3D Engine | - | ready |
 | [zz_MG_Tiny_Tetris](zz_MG_Tiny_Tetris) | VMU minigame: Tiny Tetris | - | ready |
+| [zz_MG_Tokyo_Bus_Guide](zz_MG_Tokyo_Bus_Guide) | VMU minigame: Tokyo Bus Guide | - | ready |
 | [zz_MG_Tokyo_Car_race](zz_MG_Tokyo_Car_race) | VMU minigame: Tokyo Car race | - | ready |
 | [zz_MG_Trickstyle_Jr_VMU_Game](zz_MG_Trickstyle_Jr_VMU_Game) | VMU minigame: Trickstyle Jr VMU Game | - | ready |
 | [zz_MG_Trigger_Front_1](zz_MG_Trigger_Front_1) | VMU minigame: Trigger Front 1 | - | ready |
@@ -499,6 +575,9 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [zz_MG_Virtua_Cop](zz_MG_Virtua_Cop) | VMU minigame: Virtua Cop | - | ready |
 | [zz_MG_Virtual_Teacher](zz_MG_Virtual_Teacher) | VMU minigame: Virtual Teacher | - | ready |
 | [zz_MG_VM_a_Sketch](zz_MG_VM_a_Sketch) | VMU minigame: VM a Sketch | - | ready |
+| [zz_MG_VM_Business_Card_Exchange](zz_MG_VM_Business_Card_Exchange) | VMU minigame: VM Business Card Exchange | - | ready |
+| [zz_MG_VMChan_1](zz_MG_VMChan_1) | VMU minigame: VMChan 1 | - | ready |
+| [zz_MG_VMChan_2](zz_MG_VMChan_2) | VMU minigame: VMChan 2 | - | ready |
 | [zz_MG_VMU_8_Ball](zz_MG_VMU_8_Ball) | VMU minigame: VMU 8 Ball | - | ready |
 | [zz_MG_VMU_Adventure](zz_MG_VMU_Adventure) | VMU minigame: VMU Adventure | - | ready |
 | [zz_MG_VMU_All_Stars_1](zz_MG_VMU_All_Stars_1) | VMU minigame: VMU All Stars 1 | - | ready |
@@ -509,6 +588,8 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [zz_MG_VMU_Mini_Pacman](zz_MG_VMU_Mini_Pacman) | VMU minigame: VMU Mini Pacman | - | ready |
 | [zz_MG_VMU_Vision_by_Tyro](zz_MG_VMU_Vision_by_Tyro) | VMU minigame: VMU Vision by Tyro | - | ready |
 | [zz_MG_Where_s_Bruce](zz_MG_Where_s_Bruce) | VMU minigame: Where s Bruce | - | ready |
+| [zz_MG_Yogurts_Big_Adventure](zz_MG_Yogurts_Big_Adventure) | VMU minigame: Yogurts Big Adventure | - | ready |
+| [zz_MG_Zombie_Player_vs_Monster](zz_MG_Zombie_Player_vs_Monster) | VMU minigame: Zombie Player vs Monster | - | ready |
 | [zz_MG_Zombie_Revenge](zz_MG_Zombie_Revenge) | VMU minigame: Zombie Revenge | - | ready |
 | [T15113N](T15113N) | Wacky Races | US | ready |
 | [T8111N](T8111N) | Wetrix+ | US | ready |

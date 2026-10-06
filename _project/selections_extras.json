@@ -1086,7 +1086,7 @@
   ],
   "completion": "bs_action_game0003 (DC_ANIM.EXE): DREAM MONSTERS",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 19 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 19 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1103,7 +1103,7 @@
   ],
   "completion": "bs_action_game0004 (DC_ANIM.EXE): DUNAR FIGHTER",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 59 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 59 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1120,7 +1120,7 @@
   ],
   "completion": "bs_action_game0005 (DC_ANIM.EXE): JAMES BOND",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 26 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 26 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1137,7 +1137,7 @@
   ],
   "completion": "bs_action_game0006 (DC_ANIM.EXE): KILL'EM ALL",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 15 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 15 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1154,7 +1154,7 @@
   ],
   "completion": "bs_action_game0008 (DC_ANIM.EXE): MEGAMAN VMU BATTLE",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 105 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 105 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1171,7 +1171,7 @@
   ],
   "completion": "bs_action_game0009 (DC_ANIM.EXE): METAL GEAR STEALTH",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 40 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 40 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1188,7 +1188,7 @@
   ],
   "completion": "bs_action_game0010 (DC_ANIM.EXE): METROID",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 58 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 58 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1205,7 +1205,7 @@
   ],
   "completion": "bs_action_game0012 (DC_ANIM.EXE): RAINBOW SIX",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 32 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 32 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1222,7 +1222,7 @@
   ],
   "completion": "bs_action_game0013 (DC_ANIM.EXE): REVENGE",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 46 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 46 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1239,7 +1239,7 @@
   ],
   "completion": "bs_action_game0015 (DC_ANIM.EXE): TERA",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 42 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 42 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1256,7 +1256,7 @@
   ],
   "completion": "bs_action_game0016 (DC_ANIM.EXE): TIME CRISIS",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 35 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 35 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1273,7 +1273,7 @@
   ],
   "completion": "bs_action_game0017 (DC_ANIM.EXE): TIME SHOOTER",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 46 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 46 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1290,7 +1290,7 @@
   ],
   "completion": "bs_action_game0018 (DC_ANIM.EXE): TRIGGER FRONT 1",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 57 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 57 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1307,7 +1307,7 @@
   ],
   "completion": "bs_action_game0019 (DC_ANIM.EXE): TRIGGER FRONT 2",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 51 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 51 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1324,7 +1324,7 @@
   ],
   "completion": "bs_action_game0020 (DC_ANIM.EXE): TRIGGER FRONT 3-4",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 55 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 55 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1341,7 +1341,7 @@
   ],
   "completion": "bs_action_game0021 (DC_ANIM.EXE): VIRTUA COP",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 52 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 52 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1358,7 +1358,7 @@
   ],
   "completion": "bs_adventure_game0001 (DC_ANIM.EXE): FOREVER LEGEND POCKET",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 60 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 60 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1375,7 +1375,7 @@
   ],
   "completion": "bs_arcade_game0003 (DC_ANIM.EXE): DANCE DANCE",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 43 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 43 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1392,7 +1392,7 @@
   ],
   "completion": "bs_arcade_game0009 (DC_ANIM.EXE): QTE",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 24 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 24 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1409,7 +1409,7 @@
   ],
   "completion": "bs_arcade_game0011 (SNAKE): SNAKE",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 6 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 6 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1426,7 +1426,7 @@
   ],
   "completion": "bs_arcade_game0012 (SNAKY): SNAKY!",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 19 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 19 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1443,7 +1443,7 @@
   ],
   "completion": "bs_arcade_game0015 (VMU_MINIGAME): TRICKSTYLE JR VMU GAME",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 7 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 7 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1460,7 +1460,7 @@
   ],
   "completion": "bs_clock_game0001 (VMU_MINIGAME): CC SAKURA (KERO)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 9 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 9 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1477,7 +1477,7 @@
   ],
   "completion": "bs_clock_game0002 (VMU_MINIGAME): CC SAKURA (LI)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 9 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 9 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1494,7 +1494,7 @@
   ],
   "completion": "bs_clock_game0003 (VMU_MINIGAME): CC SAKURA (SAKURA)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 9 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 9 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1511,7 +1511,7 @@
   ],
   "completion": "bs_clock_game0004 (VMU_MINIGAME): CC SAKURA (TOMOYO)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 9 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 9 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1528,7 +1528,7 @@
   ],
   "completion": "bs_demo_game0001 (VMU_MINIGAME): ARROW",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 4 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 4 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1545,7 +1545,7 @@
   ],
   "completion": "bs_demo_game0002 (VMU_MINIGAME): ROTOZOOM",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 5 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 5 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1562,7 +1562,7 @@
   ],
   "completion": "bs_demo_game0003 (DC_ANIM.EXE): SAMPLE",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 34 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 34 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1579,7 +1579,7 @@
   ],
   "completion": "bs_demo_game0004 (VMU_MINIGAME): SCROLL",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 7 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 7 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1596,7 +1596,7 @@
   ],
   "completion": "bs_demo_game0005 (VMU_MINIGAME): SOUND 1",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 4 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 4 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1613,7 +1613,7 @@
   ],
   "completion": "bs_demo_game0006 (VMU_MINIGAME): SOUND 2",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 4 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 4 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1630,7 +1630,7 @@
   ],
   "completion": "bs_demo_game0007 (SOUND): SOUND 3",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 8 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 8 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1647,7 +1647,7 @@
   ],
   "completion": "bs_interanim_game0001 (DC_ANIM.EXE): 3D FPS",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 52 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 52 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1664,7 +1664,7 @@
   ],
   "completion": "bs_interanim_game0002 (DC_ANIM.EXE): AIR DISASTER",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 25 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 25 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1681,7 +1681,7 @@
   ],
   "completion": "bs_interanim_game0003 (DC_ANIM.EXE): BUFFY",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 41 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 41 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1698,7 +1698,7 @@
   ],
   "completion": "bs_interanim_game0004 (DC_ANIM.EXE): CHUCHU",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 20 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 20 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1715,7 +1715,7 @@
   ],
   "completion": "bs_interanim_game0007 (DC_ANIM.EXE): JIM LIGHT",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 36 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 36 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1732,7 +1732,7 @@
   ],
   "completion": "bs_interanim_game0009 (DC_ANIM.EXE): MUDDY SAYS",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 24 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 24 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1749,7 +1749,7 @@
   ],
   "completion": "bs_interanim_game0010 (DC_ANIM.EXE): OUTRUN",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 63 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 63 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1766,7 +1766,7 @@
   ],
   "completion": "bs_interanim_game0011 (DC_ANIM.EXE): SHELL",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 35 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 35 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1783,7 +1783,7 @@
   ],
   "completion": "bs_interanim_game0012 (DC_ANIM.EXE): SNIPER",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 29 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 29 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1800,7 +1800,7 @@
   ],
   "completion": "bs_interanim_game0013 (DC_ANIM.EXE): VMU 8 BALL",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 12 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 12 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1817,7 +1817,7 @@
   ],
   "completion": "bs_interanim_game0014 (DC_ANIM.EXE): VMU ADVENTURE",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 23 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 23 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1834,7 +1834,7 @@
   ],
   "completion": "bs_interanim_game0015 (DC_ANIM.EXE): VMU DICE",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 12 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 12 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1851,7 +1851,7 @@
   ],
   "completion": "bs_misc_game0002 (SONIC2____VM): CHAO ADVENTURE 2 (EN)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1868,7 +1868,7 @@
   ],
   "completion": "bs_misc_game0003 (SONIC2____VM): CHAO ADVENTURE 2 (FR)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1885,7 +1885,7 @@
   ],
   "completion": "bs_misc_game0006 (GODZILLA): GODZILLA",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1902,7 +1902,7 @@
   ],
   "completion": "bs_misc_game0012 (BS__MINIGAME): POCKET GT (EU)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1919,7 +1919,7 @@
   ],
   "completion": "bs_misc_game0013 (VMU_MINIGAME): POCKET GT (JAP)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1936,7 +1936,7 @@
   ],
   "completion": "bs_misc_game0014 (VMU_MINIGAME): POCKET GT (USA)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1953,7 +1953,7 @@
   ],
   "completion": "bs_misc_game0015 (POWERSTONE): POWERSTONE MINI",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1970,7 +1970,7 @@
   ],
   "completion": "bs_misc_game0017 (VMU_MINIGAME): ROAD KILL",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 11 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 11 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -1987,7 +1987,7 @@
   ],
   "completion": "bs_misc_game0021 (DC_ANIM.EXE): VIRTUAL TEACHER",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 14 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 14 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2004,7 +2004,7 @@
   ],
   "completion": "bs_misc_game0023 (ZOMBIE_U__VM): ZOMBIE REVENGE",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 110 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 110 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2021,7 +2021,7 @@
   ],
   "completion": "bs_misc_game0024 (PSO_ID_CALC): PSO VMU ID Calculator (Beta 0.6)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 8 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 8 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2038,7 +2038,7 @@
   ],
   "completion": "bs_rockin_b_3d (TINY3DENGINE): Tiny 3D Engine",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 19 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 19 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2055,7 +2055,7 @@
   ],
   "completion": "bs_rockin_b_allstars (VMU_ALLSTARS): VMU All Stars 1",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 114 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 114 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2072,7 +2072,7 @@
   ],
   "completion": "bs_rockin_b_pcv09b (PCV09BETA): Pocket Calculator",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 9 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 9 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2089,7 +2089,7 @@
   ],
   "completion": "bs_rockin_b_sg2 (SHENMUE2): Shenmue Goodies 2",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 122 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 122 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2106,7 +2106,7 @@
   ],
   "completion": "bs_sport_game0001 (DC_ANIM.EXE): BASKETBALL",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 18 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 18 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2123,7 +2123,7 @@
   ],
   "completion": "bs_sport_game0002 (DC_ANIM.EXE): BOXING",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 46 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 46 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2140,7 +2140,7 @@
   ],
   "completion": "bs_sport_game0005 (DC_ANIM.EXE): JIM BOWL",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 46 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 46 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2157,7 +2157,7 @@
   ],
   "completion": "bs_strategy_game0001 (4_WINS): 4 WINS",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 27 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 27 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2174,7 +2174,7 @@
   ],
   "completion": "bs_strategy_game0002 (VMU_MINIGAME): CC SAKURA (OYATU)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 21 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 21 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2191,7 +2191,7 @@
   ],
   "completion": "bs_strategy_game0003 (VMU_MINIGAME): CC SAKURA (TOBAKERO)",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 24 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 24 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2208,7 +2208,7 @@
   ],
   "completion": "bs_strategy_game0004 (DC_ANIM.EXE): GUESS THAT SQUARE",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 18 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 18 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2225,7 +2225,7 @@
   ],
   "completion": "bs_strategy_game0006 (LIGHT): LIGHT",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 8 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 8 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "disc_bs_minigames",
@@ -2242,7 +2242,1303 @@
   ],
   "completion": "bs_strategy_game0007 (LOGIC): LOGIC",
   "status": "ready",
-  "notes": "Blue Swirl collection minigame, 7 blocks. One game per card because a VMU launches the game at block 0 only"
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 7 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Asagiri Ayame Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Asagiri_Ayame_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_asagiri_ayame_clock.vmi"
+  ],
+  "completion": "vm2_asagiri_ayame_clock (MABOROSI_C1+): Asagiri Ayame Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Asagiri Minami Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Asagiri_Minami_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_asagiri_minami_clock.vmi"
+  ],
+  "completion": "vm2_asagiri_minami_clock (MABOROSI_C2+): Asagiri Minami Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Asonde Kid DC DC",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Asonde_Kid_DC_DC"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_asonde_kid_dc_dc.vmi"
+  ],
+  "completion": "vm2_asonde_kid_dc_dc (ASONDEKID_VM): Asonde Kid DC DC",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Atsumete Godzilla",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Atsumete_Godzilla"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_atsumete_godzilla.vmi"
+  ],
+  "completion": "vm2_atsumete_godzilla (GODZILLA): Atsumete Godzilla",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Bababa Battle",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Bababa_Battle"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_bababa_battle.vmi"
+  ],
+  "completion": "vm2_bababa_battle (REALSOUND_VM): Bababa Battle",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 27 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Bass Rush Mini",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Bass_Rush_Mini"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_bass_rush_mini.vmi"
+  ],
+  "completion": "vm2_bass_rush_mini (BASSRUSH._VM): Bass Rush Mini",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 30 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Beam Force",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Beam_Force"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_beam_force.vmi"
+  ],
+  "completion": "vm2_beam_force (EVE0_BF_._VM): Beam Force",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 24 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Chiisana Kotori Uranai",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Chiisana_Kotori_Uranai"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_chiisana_kotori_uranai.vmi"
+  ],
+  "completion": "vm2_chiisana_kotori_uranai (ONSEN_URA_VM): Chiisana Kotori Uranai",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 96 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Climax Editor 1",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Climax_Editor_1"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_climax_editor_1.vmi"
+  ],
+  "completion": "vm2_climax_editor_1 (EDITOR_U._VM): Climax Editor 1",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 29 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Climax Editor 2",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Climax_Editor_2"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_climax_editor_2.vmi"
+  ],
+  "completion": "vm2_climax_editor_2 (EDITNAME._VM): Climax Editor 2",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 33 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Coji Coji Watch",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Coji_Coji_Watch"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_coji_coji_watch.vmi"
+  ],
+  "completion": "vm2_coji_coji_watch (COJICOJI._VM): Coji Coji Watch",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 80 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Collect Gachara",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Collect_Gachara"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_collect_gachara.vmi"
+  ],
+  "completion": "vm2_collect_gachara (RENTA1GMG_VM): Collect Gachara",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 61 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Culdcept 2 Pocket Book",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Culdcept_2_Pocket_Book"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_culdcept_2_pocket_book.vmi"
+  ],
+  "completion": "vm2_culdcept_2_pocket_book (CULDCEPT2_VM): Culdcept 2 Pocket Book",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 85 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Dungeon IV",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Dungeon_IV"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_dungeon_iv.vmi"
+  ],
+  "completion": "vm2_dungeon_iv (TSUYU4U_._VM): Dungeon IV",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 123 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: F San Gogo",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_F_San_Gogo"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_f_san_gogo.vmi"
+  ],
+  "completion": "vm2_f_san_gogo (RENTA1GMF_VM): F San Gogo",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 61 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Flappy Bird",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Flappy_Bird"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_flappy_bird.vmi"
+  ],
+  "completion": "vm2_flappy_bird (FLPPYBRD): Flappy Bird",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 36 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Fsync2",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Fsync2"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_fsync2.vmi"
+  ],
+  "completion": "vm2_fsync2 (Frame Sy): FSYNC2",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 1 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Gamera Dream Battle",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Gamera_Dream_Battle"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_gamera_dream_battle.vmi"
+  ],
+  "completion": "vm2_gamera_dream_battle (GAMERADBTVMS): Gamera Dream Battle",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Giant Channel",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Giant_Channel"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_giant_channel.vmi"
+  ],
+  "completion": "vm2_giant_channel (GIANTGRAM_V+): Giant Channel",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Gose Satsuki Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Gose_Satsuki_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_gose_satsuki_clock.vmi"
+  ],
+  "completion": "vm2_gose_satsuki_clock (MABOROSI_C9+): Gose Satsuki Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Heartful Catch",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Heartful_Catch"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_heartful_catch.vmi"
+  ],
+  "completion": "vm2_heartful_catch (MARICOMP__VM): Heartful Catch",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 76 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Hello Kitty Diet Room",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Hello_Kitty_Diet_Room"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_hello_kitty_diet_room.vmi"
+  ],
+  "completion": "vm2_hello_kitty_diet_room (KITTYSND._VM): Hello Kitty Diet Room",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 104 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Imuppi",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Imuppi"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_imuppi.vmi"
+  ],
+  "completion": "vm2_imuppi (PLUTO_IMUPPI): Imuppi",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 27 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Jet Set Radio Graffiti DL ",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Jet_Set_Radio_Graffiti_DL_"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_jet_set_radio_graffiti_dl_tool.vmi"
+  ],
+  "completion": "vm2_jet_set_radio_graffiti_dl_tool (JETSET____VM): Jet Set Radio Graffiti DL Tool",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 30 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Kotodamashi Encyclopedia",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Kotodamashi_Encyclopedia"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_kotodamashi_encyclopedia.vmi"
+  ],
+  "completion": "vm2_kotodamashi_encyclopedia (KOTODAMA_VM+): Kotodamashi Encyclopedia",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Lets Play VMU Trade",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Lets_Play_VMU_Trade"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_lets_play_vmu_trade.vmi"
+  ],
+  "completion": "vm2_lets_play_vmu_trade (Y_ASOBOU__VM): Lets Play VMU Trade",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Make Soccer Anywhere 1",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Make_Soccer_Anywhere_1"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_make_soccer_anywhere_1.vmi"
+  ],
+  "completion": "vm2_make_soccer_anywhere_1 (SAKATOKU._V+): Make Soccer Anywhere 1",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 40 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Make Soccer Anywhere 2",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Make_Soccer_Anywhere_2"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_make_soccer_anywhere_2.vmi"
+  ],
+  "completion": "vm2_make_soccer_anywhere_2 (SAKATOKU._VM): Make Soccer Anywhere 2",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 40 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Make Soccer Anywhere 3",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Make_Soccer_Anywhere_3"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_make_soccer_anywhere_3.vmi"
+  ],
+  "completion": "vm2_make_soccer_anywhere_3 (SAKATOK2._VM): Make Soccer Anywhere 3",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 40 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Manari Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Manari_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_manari_clock.vmi"
+  ],
+  "completion": "vm2_manari_clock (NAKORURU_VM+): Manari Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Marvel vs Capc om 2",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Marvel_vs_Capc_om_2"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_marvel_vs_capcom_2.vmi"
+  ],
+  "completion": "vm2_marvel_vs_capcom_2 (MVLVSCP2__VM): Marvel vs Capcom 2",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 64 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Mikami Satoru Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Mikami_Satoru_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_mikami_satoru_clock.vmi"
+  ],
+  "completion": "vm2_mikami_satoru_clock (MABOROSI_C8+): Mikami Satoru Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Mini Anima Notebook",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Mini_Anima_Notebook"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_mini_anima_notebook.vmi"
+  ],
+  "completion": "vm2_mini_anima_notebook (ANIMASTAR_VM): Mini Anima Notebook",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 68 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Minto To Issho",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Minto_To_Issho"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_minto_to_issho.vmi"
+  ],
+  "completion": "vm2_minto_to_issho (TANTEIDSH_V+): Minto To Issho",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 88 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Mojipuchi Animals",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Mojipuchi_Animals"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_mojipuchi_animals.vmi"
+  ],
+  "completion": "vm2_mojipuchi_animals (ROOMNEJI_VM+): Mojipuchi - Animals",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Mojipuchi English",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Mojipuchi_English"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_mojipuchi_english.vmi"
+  ],
+  "completion": "vm2_mojipuchi_english (ROOMNEJI_VM+): Mojipuchi - English",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Mojipuchi Mixed",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Mojipuchi_Mixed"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_mojipuchi_mixed.vmi"
+  ],
+  "completion": "vm2_mojipuchi_mixed (ROOMNEJI__VM): Mojipuchi - Mixed",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Mojipuchi Places",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Mojipuchi_Places"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_mojipuchi_places.vmi"
+  ],
+  "completion": "vm2_mojipuchi_places (ROOMNEJI_VM+): Mojipuchi - Places",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Mojipuchi",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Mojipuchi"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_mojipuchi.vmi"
+  ],
+  "completion": "vm2_mojipuchi (ROOMNEJI_VM+): Mojipuchi",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Moonlighter",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Moonlighter"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_moonlighter.vmi"
+  ],
+  "completion": "vm2_moonlighter (TOPPARAU._VM): Moonlighter",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 54 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Mothra Dream Battle",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Mothra_Dream_Battle"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_mothra_dream_battle.vmi"
+  ],
+  "completion": "vm2_mothra_dream_battle (MOTHRADBTVMS): Mothra Dream Battle",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Nakoruro Mana Character VM",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Nakoruro_Mana_Character_VM"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_nakoruro_mana_character_vmu_clock_en.vmi"
+  ],
+  "completion": "vm2_nakoruro_mana_character_vmu_clock_en (NAKO_MANA_VM): Nakoruro Mana Character VMU Clock (EN)",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 30 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Nakoruro Nako Character VM",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Nakoruro_Nako_Character_VM"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_nakoruro_nako_character_vmu_clock_en.vmi"
+  ],
+  "completion": "vm2_nakoruro_nako_character_vmu_clock_en (NAKO_NAKO_VM): Nakoruro Nako Character VMU Clock (EN)",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 30 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Nakoruro Rera Character VM",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Nakoruro_Rera_Character_VM"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_nakoruro_rera_character_vmu_clock_en.vmi"
+  ],
+  "completion": "vm2_nakoruro_rera_character_vmu_clock_en (NAKO_RERA_VM): Nakoruro Rera Character VMU Clock (EN)",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 30 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Nakoruro Rimu Character VM",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Nakoruro_Rimu_Character_VM"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_nakoruro_rimu_character_vmu_clock_en.vmi"
+  ],
+  "completion": "vm2_nakoruro_rimu_character_vmu_clock_en (NAKO_RIMU_VM): Nakoruro Rimu Character VMU Clock (EN)",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 30 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Nakoruru Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Nakoruru_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_nakoruru_clock.vmi"
+  ],
+  "completion": "vm2_nakoruru_clock (NAKORURU_VM+): Nakoruru Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Narumi Rio Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Narumi_Rio_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_narumi_rio_clock.vmi"
+  ],
+  "completion": "vm2_narumi_rio_clock (MABOROSI_C3+): Narumi Rio Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Nba 2k1 VMU",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Nba_2k1_VMU"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_nba_2k1_vmu.vmi"
+  ],
+  "completion": "vm2_nba_2k1_vmu (VMUVPLAY__VM): NBA 2K1 VMU",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 71 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: PACit",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_PACit"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_pacit.vmi"
+  ],
+  "completion": "vm2_pacit (PACIT_NM.VMU): PACit",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 9 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Pari No Futari",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Pari_No_Futari"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_pari_no_futari.vmi"
+  ],
+  "completion": "vm2_pari_no_futari (SAKURA_3._VM): Pari No Futari",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 64 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Pata Pies",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Pata_Pies"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_pata_pies.vmi"
+  ],
+  "completion": "vm2_pata_pies (PATAPIES__VM): Pata Pies",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 80 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Pier Solar Labyrinth",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Pier_Solar_Labyrinth"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_pier_solar_labyrinth.vmi"
+  ],
+  "completion": "vm2_pier_solar_labyrinth (PSHD.VMS): Pier Solar Labyrinth",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Pinguino",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Pinguino"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_pinguino.vmi"
+  ],
+  "completion": "vm2_pinguino (.VMS): PINGUINO",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 24 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Pixel Art",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Pixel_Art"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_pixel_art.vmi"
+  ],
+  "completion": "vm2_pixel_art (DOTILOVE._VM): Pixel Art",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: PockeKano Shizuka",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_PockeKano_Shizuka"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_pockekano_shizuka.vmi"
+  ],
+  "completion": "vm2_pockekano_shizuka (POCKEKANO_VM): PockeKano - Shizuka",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: PockeKano Yumi",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_PockeKano_Yumi"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_pockekano_yumi.vmi"
+  ],
+  "completion": "vm2_pockekano_yumi (POCKEKANO_VM): PockeKano - Yumi",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: PockeKano",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_PockeKano"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_pockekano.vmi"
+  ],
+  "completion": "vm2_pockekano (POCKEKANO_VM): PockeKano",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Pop n Music Anywhere 3",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Pop_n_Music_Anywhere_3"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_pop_n_music_anywhere_3.vmi"
+  ],
+  "completion": "vm2_pop_n_music_anywhere_3 (ROOMNEJI_VM+): Pop 'n Music Anywhere 3",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Power Stone 2 Mini Book",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Power_Stone_2_Mini_Book"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_power_stone_2_mini_book.vmi"
+  ],
+  "completion": "vm2_power_stone_2_mini_book (P_STONE2__VM): Power Stone 2 Mini Book",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Rera Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Rera_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_rera_clock.vmi"
+  ],
+  "completion": "vm2_rera_clock (NAKORURU_VM+): Rera Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Rich Life Collection",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Rich_Life_Collection"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_rich_life_collection.vmi"
+  ],
+  "completion": "vm2_rich_life_collection (GAME0200._VM): Rich Life Collection",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 112 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Rimururu Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Rimururu_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_rimururu_clock.vmi"
+  ],
+  "completion": "vm2_rimururu_clock (NAKORURU_VM+): Rimururu Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 28 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Runabout Mini Madness",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Runabout_Mini_Madness"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_runabout_mini_madness.vmi"
+  ],
+  "completion": "vm2_runabout_mini_madness (RUNABOUU._VM): Runabout Mini Madness",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Sakagami Hazuki Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Sakagami_Hazuki_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_sakagami_hazuki_clock.vmi"
+  ],
+  "completion": "vm2_sakagami_hazuki_clock (MABOROSI_C4+): Sakagami Hazuki Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Sakagami Miyuki Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Sakagami_Miyuki_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_sakagami_miyuki_clock.vmi"
+  ],
+  "completion": "vm2_sakagami_miyuki_clock (MABOROSI_C5+): Sakagami Miyuki Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Sasagawa Asami Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Sasagawa_Asami_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_sasagawa_asami_clock.vmi"
+  ],
+  "completion": "vm2_sasagawa_asami_clock (MABOROSI_C7+): Sasagawa Asami Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Sasagawa Sanae Clock",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Sasagawa_Sanae_Clock"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_sasagawa_sanae_clock.vmi"
+  ],
+  "completion": "vm2_sasagawa_sanae_clock (MABOROSI_C6+): Sasagawa Sanae Clock",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Seaman Storage Matrix",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Seaman_Storage_Matrix"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_seaman_storage_matrix.vmi"
+  ],
+  "completion": "vm2_seaman_storage_matrix (SEAMANDC._VM): Seaman Storage Matrix",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 21 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Sega Rally 2 Record Viewer",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Sega_Rally_2_Record_Viewer"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_sega_rally_2_record_viewer.vmi"
+  ],
+  "completion": "vm2_sega_rally_2_record_viewer (SGRALLY2I_VM): Sega Rally 2 Record Viewer",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 20 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Shenmue Goodies",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Shenmue_Goodies"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_shenmue_goodies.vmi"
+  ],
+  "completion": "vm2_shenmue_goodies (V_SHENMUE_VM): Shenmue Goodies",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 50 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: SoulCalibur VMU Game Pak",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_SoulCalibur_VMU_Game_Pak"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_soulcalibur_vmu_game_pak.vmi"
+  ],
+  "completion": "vm2_soulcalibur_vmu_game_pak (SCALIBUR_PAK): SoulCalibur VMU Game Pak",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 98 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Space Senmu",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Space_Senmu"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_space_senmu.vmi"
+  ],
+  "completion": "vm2_space_senmu (SP_SENMU__VM): Space Senmu",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 33 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Speed Devils Record Viewer",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Speed_Devils_Record_Viewer"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_speed_devils_record_viewer.vmi"
+  ],
+  "completion": "vm2_speed_devils_record_viewer (SPEEDDEV._VM): Speed Devils Record Viewer",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 32 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Street Race VMU",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Street_Race_VMU"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_street_race_vmu.vmi"
+  ],
+  "completion": "vm2_street_race_vmu (SRVMU): Street Race VMU",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 36 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Stuff",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Stuff"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_stuff.vmi"
+  ],
+  "completion": "vm2_stuff (GAME010U._VM): Stuff",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 102 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Tokyo Bus Guide",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Tokyo_Bus_Guide"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_tokyo_bus_guide.vmi"
+  ],
+  "completion": "vm2_tokyo_bus_guide (TOKYOBUS._VM): Tokyo Bus Guide",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 45 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: VM Business Card Exchange",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_VM_Business_Card_Exchange"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_vm_business_card_exchange.vmi"
+  ],
+  "completion": "vm2_vm_business_card_exchange (KOHKANKUN_V+): VM Business Card Exchange",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 68 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: VMChan 1",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_VMChan_1"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_vmchan_1.vmi"
+  ],
+  "completion": "vm2_vmchan_1 (VMC_SET1._VM): VMChan 1",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 49 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: VMChan 2",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_VMChan_2"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_vmchan_2.vmi"
+  ],
+  "completion": "vm2_vmchan_2 (VMC_SET2._VM): VMChan 2",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 49 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Yogurts Big Adventure",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Yogurts_Big_Adventure"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_yogurts_big_adventure.vmi"
+  ],
+  "completion": "vm2_yogurts_big_adventure (YOGURT_1._VM): Yogurts Big Adventure",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 106 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_vm2_minigames",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Zombie Player vs Monster",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "zz_MG_Zombie_Player_vs_Monster"
+  ],
+  "region": "-",
+  "files": [
+   "vm2_zombie_player_vs_monster.vmi"
+  ],
+  "completion": "vm2_zombie_player_vs_monster (ZOMBIE): Zombie - Player vs Monster",
+  "status": "ready",
+  "notes": "Collection minigame (Blue Swirl / VM2 pack), 46 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
   "dir": "arcdx",

@@ -22,21 +22,21 @@ const CAT={
  official:['POWERSTN','SCALIBU','4001','4004','4007','4008','GODZILLA','KITTYCAT','POPMUSI1','POPMUSI2','POPMUSI3','SOUL2ADV','VMFL_073','VMFL_081','VMFL_084','SOAMINI','PQ_NTSC','PQ_PAL','SCCBRK'],
 };
 const g=A.load('minigames');
-const gbs=process.env.NO_BLUESWIRL?null:A.load('disc_bs_minigames');
+const GBS=[...(process.env.NO_BLUESWIRL?[]:[A.load('disc_bs_minigames')]),A.load('disc_vm2_minigames')].filter(Boolean);
 const items=g.rows.map(r=>{const vmi=V.parseVmi(fs.readFileSync(A.ci(g.path,r.vmi)));const d=fs.readFileSync(A.ci(g.path,r.vms));
   const key=r.vmi.replace(/\.vmi$/i,'');
   const cat=CAT.homebrew.includes(key)?0:CAT.official.includes(key)?1:2;
   return {r,key,cat,blocks:Math.ceil(d.length/512),name:vmi.name};});
 // One card per game: a VMU runs the game stored at block 0 only, so several games on one card all launch the first one.
-const CN=['Homebrew & fan minigame','Official / publisher minigame','Animation / music video','Blue Swirl collection minigame'];
-if(gbs)for(const r of gbs.rows){const vmi=V.parseVmi(fs.readFileSync(A.ci(gbs.path,r.vmi)));const d=fs.readFileSync(A.ci(gbs.path,r.vms));
+const CN=['Homebrew & fan minigame','Official / publisher minigame','Animation / music video','Collection minigame (Blue Swirl / VM2 pack)'];
+for(const gbs of GBS)for(const r of gbs.rows){const vmi=V.parseVmi(fs.readFileSync(A.ci(gbs.path,r.vmi)));const d=fs.readFileSync(A.ci(gbs.path,r.vms));
   const m=r.desc.match(/^(.*?) \((\w+)\) \[source/);const title=m?m[1]:r.desc;const cat2=m?m[2]:'';
   const tc=/[a-z]/.test(title)?title:title.toLowerCase().replace(/\b([a-z])/g,m=>m.toUpperCase()).replace(/\b(Vmu|Cc|Qte|Psx|Pso|Gt|Fps|Soa)\b/g,m=>m.toUpperCase());
   let slug=tc.replace(/www\.\S+|by .*$/i,'').replace(/[^A-Za-z0-9]+/g,'_').replace(/^_+|_+$/g,'').slice(0,26);
   const base=r.vmi.replace(/\.vmi$/i,'');
   if(slug.length<3||/^(http|written|ooooo|vmufan)/i.test(slug))slug='Game_'+cat2.slice(0,5)+'_'+base.slice(-4);
   if(/^DC_Animation/.test(slug))slug='DCAnim_'+cat2.slice(0,5)+'_'+base.slice(-4);
-  items.push({r:{...r,desc:title},key:base,cat:3,blocks:Math.ceil(d.length/512),name:vmi.name,dir:'disc_bs_minigames',bsSlug:slug,restricted:'blueswirl'});}
+  items.push({r:{...r,desc:title},key:base,cat:3,blocks:Math.ceil(d.length/512),name:vmi.name,dir:gbs.dir,bsSlug:slug,restricted:/disc_bs_/.test(gbs.dir)?'blueswirl':undefined});}
 const SLUG={'4007':'Marvel_vs_Capcom_2','4008':'Power_Stone_2_JP','PQ_NTSC':'Skies_Arcadia_Pintas_Quest_NTSC','PQ_PAL':'Skies_Arcadia_Pintas_Quest_PAL','SOAMINI':'Skies_Arcadia_Pintas_Quest','SCCBRK':'Cardcaptor_Breakout','DANGELO':'DAngelo_Music_Video','E0':'Enemy_Zero_Training','FASTFURI':'Fast_and_Furious_Animation','GREY':'Greyscale_Photo_Demo'};
 const slugOf=(r,key,it)=>{if(it&&it.bsSlug)return it.bsSlug;if(SLUG[key])return SLUG[key];let t=r.desc.split(/:|\. /)[0].replace(/ mini ?game.*$/i,'').replace(/\(.*?\)/g,m=>m.replace(/[()]/g,'')).trim();
   t=t.replace(/[^A-Za-z0-9]+/g,'_').replace(/^_+|_+$/g,'');return (t||key).slice(0,26);};

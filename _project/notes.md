@@ -47,3 +47,4 @@ Not yet built: Virtua Tennis (virtuatennis -> 51054, virtuatennis2 -> 51186), th
 - Extras renamed with a ZZ_ prefix (ZZ_MG_<game>, ZZ_CHEAT*) so the VMU Browser's alphabetical list puts them last.
 - Minigame card names for the Blue Swirl set now come from the VMI description field (real names, e.g. METAL GEAR STEALTH) instead of the generic DC Animator header title.
 - Sort fix: the VMU Pro sorts case-sensitively (ASCII), so ZZ_ cards landed before 'Zero Gunner'/'Zusar Vasar'. Extras now use a lowercase zz_ prefix (zz_MG_<game>, zz_CHEAT*), which sorts last either way.
+- VM2: Standard.dat (product-ID DB; 366 of 374 of our card IDs are in it, so the IDs are independently confirmed; VM2 keeps the trailing 00 on Armada/Hoyle/Wild Metal) and GID.dat (GIDnnn per title+region). VM2 game pack = single-game .VMU images (VMUGAMES). Added 81 new minigames from it via tools/vm2_import.js. VM2 folder layout still unconfirmed: see VM2-TEST.zip results.
