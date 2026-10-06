@@ -1,7 +1,7 @@
 # Dreamcast VMU Pro saves
 
 Fully unlocked (or best-available) Dreamcast save data, one 128 KB `.vmu` card image per game, laid out for the
-8BitMods VMU Pro: `vmupro/Dreamcast/<GAMEID>/<GAMEID>-1.vmu`. **352 games, 358 game cards**, plus 67 VMU minigame
+8BitMods VMU Pro: `vmupro/Dreamcast/<GAMEID>/<GAMEID>-1.vmu`. **364 games, 370 game cards**, plus 136 VMU minigame
 cards (one game each, `MG_*`) and 9 cheat-device code cards. One game per title: US release preferred, else EU, else JP. Folder names are the disc-header **Product Number** (e.g. Sonic Adventure US is `MK-51000` -> `MK51000`), taken from the
 kevh182/Redump_GameID list, because that is the ID the VMU Pro's GameID matches. (Redump's own serial for that disc, `51000`,
 is different and would not match.) A disc with several header numbers (revisions) gets a card under each.
@@ -89,13 +89,15 @@ python3 -I _project/tools/check_cards.py   # from repo root; independent card ch
 Format and decision notes: `_project/notes.md`.
 
 ## Credits and licence
-Some saves (the 'upgrade' and new-game cards whose source folder starts with `disc_`) come from the **VMU Tool / Dream Explorer** (v0.8.5, by
-Speud) public-domain CD, which bundles community collections included with their webmasters' agreement: DC_KOOL (Joe Endy,
-fp.enter.net/~jkool/DCSaves.htm), HEEZY (hrb2k), JEFFMA (jeffma.51.net/dcgl) and PURHAZE (purhaze5). **Blue Swirl's collection
-on that disc is deliberately NOT included here**: its licence says it must not be released without VMU Tool. The same applies to the
-disc's Blue Swirl VMU games. The disc's Planetweb saves overlap almost entirely with the bucanero archive already used.
+Some saves (cards whose source folder in `_project/extra/` starts with `disc_`) come from the **VMU Tool / Dream Explorer**
+(v0.8.5, by Speud) community CD, which bundles saves and VMU games from: DC_KOOL (Joe Endy, fp.enter.net/~jkool/DCSaves.htm),
+HEEZY (hrb2k), JEFFMA (jeffma.51.net/dcgl), PURHAZE (geocities.com/purhaze5/vmu.html), Planetweb (Ken Soohoo), **Blue Swirl**
+(blueswirl.shorturl.com, (c) 2006 Blue Swirl) and The Rockin'-B (rockin-b.de). The disc image is preserved at
+<https://archive.org/details/dreamxplorer>.
 
-Save data comes from [bucanero/dreamcast-saves](https://github.com/bucanero/dreamcast-saves) (GPL-3.0), which collects
-saves shared by many community members. See `NOTICE.md`, `LICENSE-GPL-3.0.txt` and `_project/credits.csv`. Creator email
-addresses are deliberately not reproduced. Layout follows the 8BitMods VMU Pro docs
+Blue Swirl's note on the disc asked that its collection not be released without VMU Tool. That site is long gone and the VMU Pro did not
+exist then; the repo owner chose to include it for preservation, with credit. If Blue Swirl or anyone else objects, those cards are easy to
+remove: they are flagged `restricted` in `_project/selections_disc.json`, and `NO_BLUESWIRL=1 node tools/build.js` rebuilds without them.
+
+Layout follows the 8BitMods VMU Pro docs
 (<https://www.8bitmods.wiki/importing-saves>); check the current docs if the device firmware changes.

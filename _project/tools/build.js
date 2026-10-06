@@ -4,7 +4,7 @@ const A=require('./archive'),V=require('./vmu');
 const ROOT=path.join(__dirname,'..','..');
 const sel=require('../selections');
 const REPO='https://github.com/bucanero/dreamcast-saves/blob/master/';
-const csv=rows=>rows.map(r=>r.map(c=>{c=String(c??'');return /[",\n\r]/.test(c)?'"'+c.replace(/"/g,'""')+'"':c;}).join(',')).join('\r\n')+'\r\n';
+const csv=rows=>rows.map(r=>r.map(c=>{c=String(c??'').replace(/[^\s<>"']+@[^\s<>"']+\.[A-Za-z]{2,}/g,'[email removed]');return /[",\n\r]/.test(c)?'"'+c.replace(/"/g,'""')+'"':c;}).join(',')).join('\r\n')+'\r\n';
 const credits=[['game','product_id','region','source_path','source_url','creator','description','original_vmi','original_vms','format','archive_filename','vmi_vms_blocks']];
 const report=[['game','folder','product_id','region','save_chosen','completion','source','creator','status','notes']];
 const allSaves=[['game','archive_dir','vmi','vms','archive_filename','creator','description','chosen']];const seenSave=new Map();

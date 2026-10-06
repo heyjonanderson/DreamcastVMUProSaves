@@ -37,6 +37,56 @@
    "status": "ready",
    "notes": "US-labelled: all 1P puzzle stages completed with stars, all challenge stages and characters",
    "drop": []
+  },
+  "fightvip2": {
+   "srcdir": "disc_bs_fightvip2",
+   "files": [
+    "blue_swirl_fighting_v_SAVE0000.vmi"
+   ],
+   "status": "ready",
+   "notes": "Blue Swirl collection: \"everything unlocked\" (French uploader)",
+   "drop": [],
+   "restricted": "blueswirl"
+  },
+  "redlineracer": {
+   "srcdir": "disc_bs_redlineracer",
+   "files": [
+    "blue_swirl_redline_ra_SAVE0000.vmi"
+   ],
+   "status": "ready",
+   "notes": "Blue Swirl collection: all tracks free",
+   "drop": [],
+   "restricted": "blueswirl"
+  },
+  "sakura_card": {
+   "srcdir": "disc_bs_sakura_card",
+   "files": [
+    "blue_swirl_sakura_car_SAVE0000.vmi"
+   ],
+   "status": "ready",
+   "notes": "Blue Swirl collection (JP): nearly all stages open plus some extras",
+   "drop": [],
+   "restricted": "blueswirl"
+  },
+  "godzilla": {
+   "srcdir": "disc_bs_godzilla",
+   "files": [
+    "blue_swirl_godzilla_g_SAVE0000.vmi"
+   ],
+   "status": "ready",
+   "notes": "Blue Swirl collection: all characters unlocked",
+   "drop": [],
+   "restricted": "blueswirl"
+  },
+  "f1worldprix": {
+   "srcdir": "disc_bs_f1worldprix",
+   "files": [
+    "blue_swirl_f1_world_g_SAVE0000.vmi"
+   ],
+   "status": "ready",
+   "notes": "Blue Swirl collection: tournament at the last course",
+   "drop": [],
+   "restricted": "blueswirl"
   }
  },
  "new": [
@@ -280,6 +330,212 @@
    "completion": "See notes",
    "status": "needs review",
    "notes": "JEFFMA save has no description. From the VMU Tool Dream Explorer disc (JEFFMA)"
+  },
+  {
+   "dir": "disc_bs_aquagt",
+   "srcdir": "disc_bs_aquagt",
+   "title": "Aqua GT",
+   "rname": "Aqua GT (Europe) (En,Fr,De)",
+   "ids": [
+    "?"
+   ],
+   "region": "EU",
+   "files": [
+    "blue_swirl_aqua_gt_SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "All boats and tracks unlocked in arcade mode. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_cvspro",
+   "srcdir": "disc_bs_cvspro",
+   "title": "Capcom vs. SNK Millennium Fight 2000 Pro",
+   "rname": "Capcom vs. SNK - Millennium Fight 2000 Pro (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "blue_swirl_capcom_vs__SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "Everything open (\"tudo aberto\"). From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_ddr2nd",
+   "srcdir": "disc_bs_ddr2nd",
+   "title": "Dance Dance Revolution 2nd Mix",
+   "rname": "Dance Dance Revolution 2nd Mix - Dreamcast Edition (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "blue_swirl_dance_danc_SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "Just about everything unlocked. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_gunspike",
+   "srcdir": "disc_bs_gunspike",
+   "title": "Gunspike",
+   "rname": "Gunspike (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "blue_swirl_gunspike_SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "Game finished. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_nanatsu",
+   "srcdir": "disc_bs_nanatsu",
+   "title": "Nanatsu no Hikan (Seven Mansions)",
+   "rname": "Nanatsu no Hikan - Senritsu no Bishou (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "blue_swirl_seven_mans_SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "Complete. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_snowsurfers",
+   "srcdir": "disc_bs_snowsurfers",
+   "title": "Snow Surfers",
+   "rname": "Snow Surfers (Europe)",
+   "ids": [
+    "?"
+   ],
+   "region": "EU",
+   "files": [
+    "blue_swirl_snow_surfe_SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "All secrets unlocked. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_thc2",
+   "srcdir": "disc_bs_thc2",
+   "title": "Tokyo Highway Challenge 2",
+   "rname": "Tokyo Highway Challenge 2 (Europe)",
+   "ids": [
+    "?"
+   ],
+   "region": "EU",
+   "files": [
+    "blue_swirl_tokyo_high_SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "All tracks open, 258 rivals beaten. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_deadlyskies",
+   "srcdir": "disc_bs_deadlyskies",
+   "title": "Deadly Skies",
+   "rname": "Deadly Skies (Europe) (En,Fr,De,Es,It)",
+   "ids": [
+    "?"
+   ],
+   "region": "EU",
+   "files": [
+    "blue_swirl_deadly_ski_SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "needs review",
+   "notes": "19 missions cleared; no completed save. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_dragonsblood",
+   "srcdir": "disc_bs_dragonsblood",
+   "title": "Dragons Blood",
+   "rname": "Dragons Blood (Europe) (En,Fr,De)",
+   "ids": [
+    "?"
+   ],
+   "region": "EU",
+   "files": [
+    "blue_swirl_dragons_bl_SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "Final level (PAL). From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_runecast",
+   "srcdir": "disc_bs_runecast",
+   "title": "Rune Caster",
+   "rname": "Rune Caster (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "blue_swirl_runecast_SAVE0000.vmi",
+    "blue_swirl_runecast_SAVE0001.vmi",
+    "blue_swirl_runecast_SAVE0002.vmi"
+   ],
+   "completion": "See notes",
+   "status": "needs review",
+   "notes": "Three-file save set (SYS, DAT, CP2); no clear description. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_puyoda",
+   "srcdir": "disc_bs_puyoda",
+   "title": "Puyo Puyo Da!",
+   "rname": "Puyo Puyo Da! Featuring Ellena System (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "blue_swirl_puyo_puyo__SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "needs review",
+   "notes": "No description. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_vampirechron",
+   "srcdir": "disc_bs_vampirechron",
+   "title": "Vampire Chronicle",
+   "rname": "Vampire Chronicle for Matching Service (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "blue_swirl_vampire_ch_SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "needs review",
+   "notes": "No description. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
   }
  ]
 }

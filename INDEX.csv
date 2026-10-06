@@ -14,6 +14,7 @@ T40210N,Aero Wings 2: Air Strike,US,ready,AeroWings 2 - Airstrike (USA),aerowing
 T9501N,Air Force Delta,US,ready,AirForce Delta (USA),airforcedelta,v39495.vmi
 T15117N,Alone in the Dark: The New Nightmare,US,ready,Alone in the Dark - The New Nightmare (USA) (Disc 1) | Alone in the Dark - The New Nightmare (USA) (Disc 2),alonedark,v9840.vmi
 T20107M,Angel Present,JP,ready,Angel Present (Japan),angelpre,angelpre.VMI
+T40509D50,Aqua GT,EU,ready,"Aqua GT (Europe) (En,Fr,De)",disc_bs_aquagt,blue_swirl_aqua_gt_SAVE0000.vmi
 T40301N00,Armada,US,ready,Armada (USA),armada,v44206.vmi
 T9715N,Army Men: Sarge's Heroes,US,ready,Army Men - Sarge's Heroes (USA),armymen,v93695.vmi
 T15130N,Atari Anniversary Edition (VMU icon only),US,needs review,Atari Anniversary Edition (USA),atari,ATARI.VMI
@@ -31,6 +32,7 @@ T12504N,Caesar's Palace 2000,US,ready,Caesars Palace 2000 - Millennium Gold Edit
 T1215N,Cannon Spike,US,ready,Cannon Spike (USA),cannonspike,v25804.vmi+v50562.vmi
 T20108M,Canvas,JP,ready,Canvas - Sepia-iro no Motif (Japan),canvas,CANVAS.VMI
 T1249M,Capcom vs. SNK 2,JP,ready,Capcom vs. SNK 2,capcomsnk2,v7082.vmi+cvs2rep1.VMI+cvs2rep2.VMI+cvs2rep3.VMI+cvs2rep4.VMI+cvs2rep5.VMI+cvs2rep6.VMI
+T1247M,Capcom vs. SNK Millennium Fight 2000 Pro,JP,ready,Capcom vs. SNK - Millennium Fight 2000 Pro (Japan),disc_bs_cvspro,blue_swirl_capcom_vs__SAVE0000.vmi
 T1218N,Capcom vs. SNK: Millennium Fight 2000,US,ready,Capcom vs. SNK: Millennium Fight 2000,capcomsnk,dc_kool_00000022.vmi
 T5701N,Carrier,US,ready,Carrier (USA),carrier,CARRIER.VMI
 T46901M,Castle Fantasia,JP,ready,Castle Fantasia - Seima Taisen (Japan),castlefan,CASTLEFA.VMI
@@ -62,10 +64,12 @@ T46501M,D+Vine [Luv],JP,needs review,D+Vine [Luv] (Japan),disc_dvineluv,jeffma_D
 MK51036,D2,US,ready,D2 (USA) (Disc 1) | D2 (USA) (Disc 2) | D2 (USA) (Disc 3) | D2 (USA) (Disc 4),d2,v93751.vmi
 HDR0084,Dabitsuku 1,JP,ready,Dabitsuku - Derby-ba o Tsukurou! (Japan),dabi1,DABI1.VMI
 HDR0167,Dabitsuku 2,JP,ready,Dabitsuku 2 (Japan),dabi2,DABI2.VMI
+T9506M,Dance Dance Revolution 2nd Mix,JP,ready,Dance Dance Revolution 2nd Mix - Dreamcast Edition (Japan),disc_bs_ddr2nd,blue_swirl_dance_danc_SAVE0000.vmi
 T9508M,Dance Dance Revolution Club Mix,JP,ready,Dance Dance Revolution - Club Version - Dreamcast Edition (Japan),ddrclubmix,DDRCLUB.VMI
 T8120N,Dave Mirra Freestyle BMX,US,ready,Dave Mirra Freestyle BMX (USA),davemirra,v62106.vmi
 MK51037,Daytona USA,US,ready,Daytona USA (USA),daytona,v84127.vmi
 T3601N,Dead or Alive 2,US,ready,Dead or Alive 2,doa2,v53357.vmi
+T9501N50,Deadly Skies,EU,needs review,"Deadly Skies (Europe) (En,Fr,De,Es,It)",disc_bs_deadlyskies,blue_swirl_deadly_ski_SAVE0000.vmi
 T23202M,Death Crimson OX,JP,ready,Death Crimson OX (Japan),deathcrim,deathcox.VMI
 T17705N,Deep Fighter,US,ready,Deep Fighter (USA) (Disc 1) | Deep Fighter (USA) (Disc 2),deepfighter,v2644.vmi
 T15112N,Demolition Racer: No Exit,US,ready,Demolition Racer - No Exit (USA),demolitionrace,v21403.vmi
@@ -76,6 +80,7 @@ T36804N,Disney World Magical Racing Tour,US,ready,Walt Disney World Quest - Magi
 T17714D50,Donald Duck: Goin' Quackers,US,ready,Disney's Donald Duck - Goin' Quackers (USA),donaldduck,v2502.vmi
 T40203N,Draconus: Cult of the Wyrm,US,ready,Draconus - Cult of the Wyrm (USA),draconus,v59123.vmi
 T17720N,Dragon Riders: Chronicles of Pern,US,ready,Dragon Riders - Chronicles of Pern (USA),dragon,v68252.vmi
+T12503D50,Dragons Blood,EU,ready,"Dragons Blood (Europe) (En,Fr,De)",disc_bs_dragonsblood,blue_swirl_dragons_bl_SAVE0000.vmi
 T8113N,Ducati World Racing Challenge,US,ready,Ducati World - Racing Challenge (USA),ducati,v12887.vmi
 MK51013,Dynamite Cop,US,ready,Dynamite Cop! (USA),dynamitecop,v65817.vmi
 MK51033,Ecco the Dolphin: Defender of the Future,US,ready,"Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es)",ecco,v19532.vmi
@@ -95,11 +100,11 @@ T46605D80,Evil Twin,EU,ready,"Evil Twin - Cyprien's Chronicles (Europe) (En,Fr,D
 T17706N,Evolution,US,ready,Evolution - The World of Sacred Device (USA),evolution,v77140.vmi
 T1711N,Evolution 2: A Far Off Promise,US,ready,Evolution 2 - Far Off Promise (USA),evolution2,00000012.vmi
 T15104N,Expendable,US,ready,"Expendable (USA) (En,Fr,De,Es,It)",expendable,v91860.vmi
-T3001N,F1 World Grand Prix,US,needs review,"F1 World Grand Prix (USA) (En,Fr,De,Es)",f1worldprix,v75648.vmi
+T3001N,F1 World Grand Prix,US,ready,"F1 World Grand Prix (USA) (En,Fr,De,Es)",f1worldprix,blue_swirl_f1_world_g_SAVE0000.vmi
 HDR0100,F355 Challenge,JP,ready,F355 Challenge (Japan),f355challenge,v59007.vmi
 36801N,Fighting Force 2,US,needs review,Fighting Force 2 (USA) (Rev A) | Fighting Force 2 (USA),fightforce2,v94821.vmi
 T36801N,Fighting Force 2,US,needs review,Fighting Force 2 (USA) (Rev A) | Fighting Force 2 (USA),fightforce2,v94821.vmi
-MK5115450,Fighting Vipers 2,EU,needs review,Fighting Vipers 2,fightvip2,f_snake2.VMI
+MK5115450,Fighting Vipers 2,EU,ready,Fighting Vipers 2,fightvip2,blue_swirl_fighting_v_SAVE0000.vmi
 T18805M,Fire Pro Wrestling D,JP,ready,Fire Pro Wrestling D (Japan),fireprowd,SYS.VMI
 MK51007,Flag To Flag,US,ready,Flag to Flag (USA),flag2flag,v54673.vmi
 MK51114,Floigan Brothers,US,ready,Floigan Bros. - Episode 1 (USA),floiganbros,v46904.vmi+FBROSJ.VMI
@@ -114,7 +119,7 @@ HDR0101,Giant Gram 2000,JP,ready,Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no
 HDR0005,Giant Gram: Zen Nihon Pro Wres 2,JP,ready,Giant Gram - Zen Nihon Pro Wres 2 in Nippon Budoukan (Japan),disc_giantgram1,dc_kool_00000097.vmi
 T1209N,Giga Wing,US,ready,GigaWing (USA),gigawing,GIGAWING.VMI
 T1222N,Giga Wing 2,US,ready,GigaWing 2 (USA),gigawing2,v499.vmi
-HDR0004,Godzilla Generations,JP,ready,Godzilla Generations (Japan),godzilla,GODZILLA.VMI
+HDR0004,Godzilla Generations,JP,ready,Godzilla Generations (Japan),godzilla,blue_swirl_godzilla_g_SAVE0000.vmi
 T44501M,Golf Shiyouyo,JP,ready,Golf Shiyou yo 2 - Aratanaru Chousen (Japan),golfshiyo,SHIGOLF2.VMI
 T42102N,Grand Theft Auto 2,US,ready,Grand Theft Auto 2 (USA),gta2,v81958.vmi
 T17716N,Grandia 2,US,ready,Grandia II (USA),grandia2,v81729.vmi
@@ -123,6 +128,7 @@ T1214N,Gunbird 2,US,needs review,Gunbird 2 (USA),gunbird2,v33167.vmi
 T13304M,Gundam Battle Online,JP,ready,Gundam Battle Online (Japan),gundamol,GUNDAMO2.VMI
 T13301N,Gundam Side Story 0079,US,ready,Gundam Side Story 0079 - Rise from the Ashes (USA),gundam,v58359.vmi
 T13305M,Gundam: Blood Of Zeon,JP,ready,Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 1) (Earth Federation Disc) | Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 2) (Zeon Disc),gundambz,00000181.vmi
+T1219M,Gunspike,JP,ready,Gunspike (Japan),disc_bs_gunspike,blue_swirl_gunspike_SAVE0000.vmi
 MK5104150,Head Hunter,EU,ready,"Headhunter (Europe) (En,Fr,De,Es) (Disc 1) | Headhunter (Europe) (En,Fr,De,Es) (Disc 2)",headhunt,v86416.vmi
 T1223N,Heavy Metal: Geomatrix,US,ready,Heavy Metal - Geomatrix (USA),heavymetal,v99350.vmi
 T40502N,Hidden and Dangerous,US,ready,Hidden & Dangerous (USA),hiddendangerous,v45698.vmi
@@ -179,6 +185,7 @@ T10004N,MTV Sports: Skateboarding,US,ready,MTV Sports - Skateboarding featuring 
 T27901M,Nadesico The Mission,JP,ready,Kidou Senkan Nadesico - Nadesico the Mission (Japan),nadesico,NADESICO.VMI
 T44702M,NaKoRuRu,JP,ready,Nakoruru - Ano Hito kara no Okurimono (Japan),nakoruru,00000020.vmi
 T1403N,Namco Museum,US,ready,Namco Museum (USA),namcomuseum,v15212.vmi
+T7604M,Nanatsu no Hikan (Seven Mansions),JP,ready,Nanatsu no Hikan - Senritsu no Bishou (Japan),disc_bs_nanatsu,blue_swirl_seven_mans_SAVE0000.vmi
 T9709N,NBA Hoopz,US,ready,NBA Hoopz (USA),nbahoopz,v13529.vmi
 T9706N,NBA Showtime: NBA on NBC,US,ready,NBA Showtime - NBA on NBC (USA),nbashow,v14808.vmi
 MK51176,NCAA College Football 2K2: Road to the Rose Bowl,US,ready,NCAA College Football 2K2 - Road to the Rose Bowl (USA),ncaa,v26223.vmi
@@ -208,6 +215,7 @@ T1219N,Project Justice,US,ready,Project Justice,projectjustice,schoolus.VMI
 T31101N,Psychic Force 2012,US,ready,Psychic Force 2012,psychicforce,v27440.vmi
 HDR0216,Puyo Pop Fever,JP,ready,"Puyo Puyo Fever (Japan) (En,Ja)",puyofever,00001654.VMI
 HDR0014,Puyo Puyo 4,JP,ready,Puyo Puyoon (Japan),puyopuyo4,PUYOP4.VMI
+T6601M,Puyo Puyo Da!,JP,needs review,Puyo Puyo Da! Featuring Ellena System (Japan),disc_bs_puyoda,blue_swirl_puyo_puyo__SAVE0000.vmi
 MK51061,Quake 3 Arena,US,ready,Quake III - Arena (USA),quake3,v84042.vmi
 T41902N,Railroad Tycoon 2,US,ready,Railroad Tycoon II (USA),railroadtycoon2,v43042.vmi
 T9901M,Rainbow Cotton,JP,ready,Rainbow Cotton (Japan),rainbowcotton,RAINCOT.VMI
@@ -221,7 +229,7 @@ T9704N,Ready 2 Rumble Boxing,US,ready,Ready 2 Rumble Boxing (USA) (Rerelease) | 
 T9717N,Ready to Rumble Boxing 2,US,ready,"Ready 2 Rumble Boxing - Round 2 (USA) (En,Fr,De)",ready_rumble2,v36902.vmi
 T40218N,Record of Lodoss War,US,ready,Record of Lodoss War (USA),reclodoss,v68838.vmi
 T40215N,Red Dog: Superior Fire Power,US,ready,Red Dog - Superior Firepower (USA),reddog,v64962.vmi
-T15002M,Redline Racer,JP,needs review,Redline Racer (Japan),redlineracer,REDRACE.VMI
+T15002M,Redline Racer,JP,ready,Redline Racer (Japan),redlineracer,blue_swirl_redline_ra_SAVE0000.vmi
 T44303N,Reel Fishing Wild,US,ready,Reel Fishing + Wild (USA),reelfish,v60365.vmi
 HDR0074,Rent A Hero No. 1,JP,ready,Rent a Hero No. 1 (Japan),rentahero,v47039.vmi
 T1205N,Resident Evil 2,US,ready,Resident Evil 2 (USA) (Disc 1) | Resident Evil 2 (USA) (Disc 2),residentevil2,v68066.vmi
@@ -232,9 +240,10 @@ MK5119250,Rez,EU,ready,"Rez (Europe) (En,Ja,Fr,De,Es,It)",rez,rez9999.VMI
 MK51010,Rippin' Riders,US,ready,Rippin' Riders Snowboarding (USA),rippinriders,00000579.vmi
 T22901N,Roadsters,US,needs review,Roadsters (USA),roadsters,v96969.vmi
 T19502M,Roommate Novel,JP,ready,Roommate Novel - Satou Yuka (Japan),roommate,ROOMMATE.VMI
+T40001M,Rune Caster,JP,needs review,Rune Caster (Japan),disc_bs_runecast,blue_swirl_runecast_SAVE0000.vmi+blue_swirl_runecast_SAVE0001.vmi+blue_swirl_runecast_SAVE0002.vmi
 HDR0126,SaKaToKu 1,JP,ready,Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) | Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A),sakato1,TEDAH1_1.VMI
 HDR0183,SaKaToKu 2,JP,ready,Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan),sakato2,TEDAH2e1.VMI
-HDR0115,Sakura Card Captor: Tomoyo Video,JP,needs review,Cardcaptor Sakura - Tomoyo no Video Daisakusen (Japan),sakura_card,v14383.vmi
+HDR0115,Sakura Card Captor: Tomoyo Video,JP,ready,Cardcaptor Sakura - Tomoyo no Video Daisakusen (Japan),sakura_card,blue_swirl_sakura_car_SAVE0000.vmi
 HDR0072,Sakura Wars 1,JP,ready,Sakura Taisen (Japan) (Disc 1) | Sakura Taisen (Japan) (Disc 2) | Sakura Taisen (Japan) (Disc 2) (Rev A) | Sakura Taisen (Japan) (Disc 1) (Rev A),sakura1,sw1_sys.VMI
 HDR0082,Sakura Wars 2,JP,ready,"Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) | Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2) | Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) | Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Rev A) | Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2) (Rev A) | Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Rev A)",sakura2,sw2_sys.VMI
 HDR0152,Sakura Wars 3,JP,ready,Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Disc 1) | Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Disc 2) | Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Disc 3),sakura3,sw3_sys.VMI
@@ -270,6 +279,7 @@ T15108N,Silver,US,ready,Silver (USA),silver,v760.vmi
 MK51052,Skies of Arcadia,US,ready,Skies of Arcadia (USA) (Disc 1) | Skies of Arcadia (USA) (Disc 2),arcadia,v28902.vmi+sa_d01.vmi+sa_d02.vmi+sa_d03.vmi+v94208.vmi
 T15106N,Slave Zero,US,ready,Slave Zero (USA) | Slave Zero (USA) (Rev A),slave_zero,v31826.vmi
 T40207N,Sno-Cross Championship Racing,US,ready,SnoCross Championship Racing (USA),snocross,v78041.vmi
+MK5101050,Snow Surfers,EU,ready,Snow Surfers (Europe),disc_bs_snowsurfers,blue_swirl_snow_surfe_SAVE0000.vmi
 T40212N,Soldier of Fortune,US,ready,Soldier of Fortune (USA),soldierfortune,v71043.vmi
 MK51000,Sonic Adventure,US,ready,"Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A) | Sonic Adventure (USA) (En,Ja,Fr,De,Es)",sonic,v34162.vmi+v90593.vmi
 MK51117,Sonic Adventure 2,US,ready,"Sonic Adventure 2 (USA) (En,Ja,Fr,De,Es)",sonic2,v55288.vmi+v47754.vmi
@@ -330,6 +340,7 @@ MK51011,Time Stalkers,US,ready,Time Stalkers (USA),timestalkers,v67772.vmi
 T0000M,TNN Motorsports Hardcore Heat,US,ready,TNN Motorsports Hardcore Heat (USA),hardcore,v87901.vmi
 T13701N,TNN Motorsports Hardcore Heat,US,ready,TNN Motorsports Hardcore Heat (USA),hardcore,v87901.vmi
 T35402M,Tokyo Bus Guide,JP,ready,Tokyo Bus Guide (Japan) | Tokyo Bus Guide (Japan) (Rev A),tokyobus,TOKYOBUS.VMI
+T40210D50,Tokyo Highway Challenge 2,EU,ready,Tokyo Highway Challenge 2 (Europe),disc_bs_thc2,blue_swirl_tokyo_high_SAVE0000.vmi
 T40202N,Tokyo Xtreme Racer,US,ready,Tokyo Xtreme Racer (USA),tokyo,v81983.vmi
 T40211N,Tokyo Xtreme Racer 2,US,ready,Tokyo Xtreme Racer 2 (USA),tokyo2,v33171.vmi
 T36812N,Tomb Raider: Chronicles,US,ready,Tomb Raider Chronicles (USA),tombraider5,v49962.vmi
@@ -343,6 +354,7 @@ T9104M,Tricolore Crise,JP,ready,Tricolore Crise (Japan),tricolore,3jiao3.VMI
 T40204N,Ultimate Fighting Championship,US,ready,Ultimate Fighting Championship,ufc,dc_kool_00000345.vmi
 T15125N,Unreal Tournament,US,ready,"Unreal Tournament (USA) (En,Fr,De,Es,It)",unreal,v97099.vmi
 T36810N,Urban Chaos,US,ready,"Urban Chaos (USA) (En,Fr)",urbanchaos,v247.vmi
+T1235M,Vampire Chronicle,JP,needs review,Vampire Chronicle for Matching Service (Japan),disc_bs_vampirechron,blue_swirl_vampire_ch_SAVE0000.vmi
 T8110N,Vanishing Point,US,ready,Vanishing Point (USA),vanishpoint,v10038.vmi
 T5302M,Vermilion Desert,JP,ready,Vermilion Desert (Japan),vermilion,00001212.VMI
 T13002N,Vigilante 8: 2nd Offense,US,ready,Vigilante 8 - 2nd Offense (USA),vigilante8,v69901.vmi
@@ -354,6 +366,8 @@ MK51054,Virtua Tennis,US,ready,Virtua Tennis,virtuatennis,v6482.vmi
 MK51186,Virtua Tennis 2 (Tennis 2K2),US,ready,Virtua Tennis 2 (Tennis 2K2),virtuatennis2,TENN2K2.VMI
 T13004N,Virtual-On: Oratorio Tangram,US,needs review,Virtual-On: Oratorio Tangram,virtualon,v1971.vmi+v39368.vmi+v8748.vmi
 MG_4_Wins,VMU minigame: 4 Wins,-,ready,(not a disc: standalone VMU minigame),minigames,4WINS.VMI
+MG_4_Wins_0001,VMU minigame: 4 Wins 0001,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0001.vmi
+MG_A_simple_Calculator,VMU minigame: A simple Calculator,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_pcv09b.vmi
 MG_Alien_Fighter,VMU minigame: Alien Fighter,-,ready,(not a disc: standalone VMU minigame),minigames,ALNFIGHT.VMI
 MG_Alien_Shooter,VMU minigame: Alien Shooter,-,ready,(not a disc: standalone VMU minigame),minigames,00003831.VMI
 MG_Cardcaptor_Breakout,VMU minigame: Cardcaptor Breakout,-,ready,(not a disc: standalone VMU minigame),minigames,SCCBRK.VMI
@@ -363,6 +377,43 @@ MG_Chao_Editor_by_Tyro,VMU minigame: Chao Editor by Tyro,-,ready,(not a disc: st
 MG_circles,VMU minigame: circles,-,ready,(not a disc: standalone VMU minigame),minigames,CIRCLES.VMI
 MG_Climax_Landers,VMU minigame: Climax Landers,-,ready,(not a disc: standalone VMU minigame),minigames,VMFL_084.VMI
 MG_DAngelo_Music_Video,VMU minigame: DAngelo Music Video,-,ready,(not a disc: standalone VMU minigame),minigames,DANGELO.VMI
+MG_DCAnim_actio_0003,VMU minigame: DCAnim actio 0003,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0003.vmi
+MG_DCAnim_actio_0004,VMU minigame: DCAnim actio 0004,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0004.vmi
+MG_DCAnim_actio_0005,VMU minigame: DCAnim actio 0005,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0005.vmi
+MG_DCAnim_actio_0006,VMU minigame: DCAnim actio 0006,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0006.vmi
+MG_DCAnim_actio_0008,VMU minigame: DCAnim actio 0008,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0008.vmi
+MG_DCAnim_actio_0009,VMU minigame: DCAnim actio 0009,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0009.vmi
+MG_DCAnim_actio_0010,VMU minigame: DCAnim actio 0010,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0010.vmi
+MG_DCAnim_actio_0012,VMU minigame: DCAnim actio 0012,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0012.vmi
+MG_DCAnim_actio_0013,VMU minigame: DCAnim actio 0013,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0013.vmi
+MG_DCAnim_actio_0015,VMU minigame: DCAnim actio 0015,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0015.vmi
+MG_DCAnim_actio_0016,VMU minigame: DCAnim actio 0016,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0016.vmi
+MG_DCAnim_actio_0017,VMU minigame: DCAnim actio 0017,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0017.vmi
+MG_DCAnim_actio_0018,VMU minigame: DCAnim actio 0018,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0018.vmi
+MG_DCAnim_actio_0019,VMU minigame: DCAnim actio 0019,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0019.vmi
+MG_DCAnim_actio_0020,VMU minigame: DCAnim actio 0020,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0020.vmi
+MG_DCAnim_actio_0021,VMU minigame: DCAnim actio 0021,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0021.vmi
+MG_DCAnim_adven_0001,VMU minigame: DCAnim adven 0001,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_adventure_game0001.vmi
+MG_DCAnim_arcad_0003,VMU minigame: DCAnim arcad 0003,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0003.vmi
+MG_DCAnim_arcad_0009,VMU minigame: DCAnim arcad 0009,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0009.vmi
+MG_DCAnim_demo_0003,VMU minigame: DCAnim demo 0003,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0003.vmi
+MG_DCAnim_inter_0001,VMU minigame: DCAnim inter 0001,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0001.vmi
+MG_DCAnim_inter_0002,VMU minigame: DCAnim inter 0002,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0002.vmi
+MG_DCAnim_inter_0003,VMU minigame: DCAnim inter 0003,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0003.vmi
+MG_DCAnim_inter_0004,VMU minigame: DCAnim inter 0004,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0004.vmi
+MG_DCAnim_inter_0007,VMU minigame: DCAnim inter 0007,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0007.vmi
+MG_DCAnim_inter_0009,VMU minigame: DCAnim inter 0009,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0009.vmi
+MG_DCAnim_inter_0010,VMU minigame: DCAnim inter 0010,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0010.vmi
+MG_DCAnim_inter_0011,VMU minigame: DCAnim inter 0011,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0011.vmi
+MG_DCAnim_inter_0012,VMU minigame: DCAnim inter 0012,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0012.vmi
+MG_DCAnim_inter_0013,VMU minigame: DCAnim inter 0013,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0013.vmi
+MG_DCAnim_inter_0014,VMU minigame: DCAnim inter 0014,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0014.vmi
+MG_DCAnim_inter_0015,VMU minigame: DCAnim inter 0015,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0015.vmi
+MG_DCAnim_misc_0021,VMU minigame: DCAnim misc 0021,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0021.vmi
+MG_DCAnim_sport_0001,VMU minigame: DCAnim sport 0001,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_sport_game0001.vmi
+MG_DCAnim_sport_0002,VMU minigame: DCAnim sport 0002,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_sport_game0002.vmi
+MG_DCAnim_sport_0005,VMU minigame: DCAnim sport 0005,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_sport_game0005.vmi
+MG_DCAnim_strat_0004,VMU minigame: DCAnim strat 0004,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0004.vmi
 MG_Dragon_Ball_Z,VMU minigame: Dragon Ball Z,-,ready,(not a disc: standalone VMU minigame),minigames,00006003.VMI
 MG_Dream_Racer,VMU minigame: Dream Racer,-,ready,(not a disc: standalone VMU minigame),minigames,DRACER.VMI
 MG_Enemy_Zero_Training,VMU minigame: Enemy Zero Training,-,ready,(not a disc: standalone VMU minigame),minigames,E0.VMI
@@ -370,13 +421,29 @@ MG_Fast_and_Furious_Animation,VMU minigame: Fast and Furious Animation,-,ready,(
 MG_Fat_Rain,VMU minigame: Fat Rain,-,ready,(not a disc: standalone VMU minigame),minigames,FATRAIN.VMI
 MG_Freak_Skater,VMU minigame: Freak Skater,-,ready,(not a disc: standalone VMU minigame),minigames,FSKATER.VMI
 MG_Frog_in_a_blender,VMU minigame: Frog in a blender,-,ready,(not a disc: standalone VMU minigame),minigames,FROG.VMI
+MG_Game_arcad_0011,VMU minigame: Game arcad 0011,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0011.vmi
+MG_Game_arcad_0012,VMU minigame: Game arcad 0012,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0012.vmi
+MG_Game_clock_0001,VMU minigame: Game clock 0001,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0001.vmi
+MG_Game_clock_0002,VMU minigame: Game clock 0002,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0002.vmi
+MG_Game_demo_0001,VMU minigame: Game demo 0001,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0001.vmi
+MG_Game_demo_0004,VMU minigame: Game demo 0004,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0004.vmi
+MG_Game_demo_0007,VMU minigame: Game demo 0007,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0007.vmi
+MG_Game_misc_0006,VMU minigame: Game misc 0006,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0006.vmi
+MG_Game_rocki__sg2,VMU minigame: Game rocki  sg2,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_sg2.vmi
+MG_Game_rocki_b_3d,VMU minigame: Game rocki b 3d,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_3d.vmi
+MG_Game_strat_0002,VMU minigame: Game strat 0002,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0002.vmi
+MG_Game_strat_0003,VMU minigame: Game strat 0003,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0003.vmi
+MG_GAME0003,VMU minigame: GAME0003,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0003.vmi
+MG_GAME0004,VMU minigame: GAME0004,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0004.vmi
 MG_Glucky_Labyrinth,VMU minigame: Glucky Labyrinth,-,ready,(not a disc: standalone VMU minigame),minigames,GLUCKY.VMI
 MG_Godzilla,VMU minigame: Godzilla,-,ready,(not a disc: standalone VMU minigame),minigames,GODZILLA.VMI
 MG_Greyscale_Photo_Demo,VMU minigame: Greyscale Photo Demo,-,ready,(not a disc: standalone VMU minigame),minigames,GREY.VMI
 MG_Hello_Kitty,VMU minigame: Hello Kitty,-,ready,(not a disc: standalone VMU minigame),minigames,KITTYCAT.VMI
 MG_I_do_U_do,VMU minigame: I do U do,-,ready,(not a disc: standalone VMU minigame),minigames,IDOUDO.VMI
+MG_ID_Calculator,VMU minigame: ID Calculator,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0024.vmi
 MG_Jojo_s_Problem,VMU minigame: Jojo s Problem,-,ready,(not a disc: standalone VMU minigame),minigames,JOJO.VMI
 MG_Kill_Hyman,VMU minigame: Kill Hyman,-,ready,(not a disc: standalone VMU minigame),minigames,00003096.VMI
+MG_Lights_GAME_by,VMU minigame: Lights GAME by,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0006.vmi
 MG_Lightsabre_Battle,VMU minigame: Lightsabre Battle,-,ready,(not a disc: standalone VMU minigame),minigames,00003910.VMI
 MG_Linear_s_Watch,VMU minigame: Linear s Watch,-,ready,(not a disc: standalone VMU minigame),minigames,MINICLOC.VMI
 MG_Logic,VMU minigame: Logic,-,ready,(not a disc: standalone VMU minigame),minigames,LOGIC.VMI
@@ -390,11 +457,16 @@ MG_Pop_n_Music_Vol_1,VMU minigame: Pop n Music Vol 1,-,ready,(not a disc: standa
 MG_Pop_n_Music_Vol_2,VMU minigame: Pop n Music Vol 2,-,ready,(not a disc: standalone VMU minigame),minigames,POPMUSI2.VMI
 MG_Pop_n_Music_Vol_3,VMU minigame: Pop n Music Vol 3,-,ready,(not a disc: standalone VMU minigame),minigames,POPMUSI3.VMI
 MG_Power_Stone_2_JP,VMU minigame: Power Stone 2 JP,-,ready,(not a disc: standalone VMU minigame),minigames,4008.VMI
+MG_POWER_STONE_MINI,VMU minigame: POWER STONE MINI,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0015.vmi
 MG_Powerstone_mini_by_Capcom,VMU minigame: Powerstone mini by Capcom,-,ready,(not a disc: standalone VMU minigame),minigames,POWERSTN.VMI
 MG_promotion_video,VMU minigame: promotion video,-,ready,(not a disc: standalone VMU minigame),minigames,PROMO.VMI
 MG_PSO_ID_Calculator,VMU minigame: PSO ID Calculator,-,ready,(not a disc: standalone VMU minigame),minigames,PSOID.VMI
 MG_PSO_Slide_Puzzle,VMU minigame: PSO Slide Puzzle,-,ready,(not a disc: standalone VMU minigame),minigames,PSOPUZZL.VMI
+MG_Rotozoom,VMU minigame: Rotozoom,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0002.vmi
 MG_SEGA_GT,VMU minigame: SEGA GT,-,ready,(not a disc: standalone VMU minigame),minigames,4004.VMI
+MG_SegaGT_Mini_Game,VMU minigame: SegaGT Mini Game,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0012.vmi
+MG_SegaGT_Mini_Game_0013,VMU minigame: SegaGT Mini Game 0013,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0013.vmi
+MG_SegaGT_Mini_Game_0014,VMU minigame: SegaGT Mini Game 0014,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0014.vmi
 MG_Shenmue,VMU minigame: Shenmue,-,ready,(not a disc: standalone VMU minigame),minigames,4001.VMI
 MG_Simon_Bryan,VMU minigame: Simon Bryan,-,ready,(not a disc: standalone VMU minigame),minigames,00004276.VMI
 MG_Skies_Arcadia_Pintas_Quest,VMU minigame: Skies Arcadia Pintas Quest,-,ready,(not a disc: standalone VMU minigame),minigames,SOAMINI.VMI
@@ -402,9 +474,13 @@ MG_Skies_Arcadia_Pintas_Quest_NTSC,VMU minigame: Skies Arcadia Pintas Quest NTSC
 MG_Skies_Arcadia_Pintas_Quest_PAL,VMU minigame: Skies Arcadia Pintas Quest PAL,-,ready,(not a disc: standalone VMU minigame),minigames,PQ_PAL.VMI
 MG_Slidepuzzle,VMU minigame: Slidepuzzle,-,ready,(not a disc: standalone VMU minigame),minigames,SLIDEPUZ.VMI
 MG_Snaky,VMU minigame: Snaky,-,ready,(not a disc: standalone VMU minigame),minigames,SNAKY.VMI
+MG_SONIC_ADVENTURE_2_0003,VMU minigame: SONIC ADVENTURE 2 0003,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0003.vmi
+MG_SONIC_ADVENTURE_2_CHAO,VMU minigame: SONIC ADVENTURE 2 CHAO,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0002.vmi
 MG_Soul_Calibur_2_Adventure,VMU minigame: Soul Calibur 2 Adventure,-,ready,(not a disc: standalone VMU minigame),minigames,SOUL2ADV.VMI
 MG_SoulCalibur_by_Namco,VMU minigame: SoulCalibur by Namco,-,ready,(not a disc: standalone VMU minigame),minigames,SCALIBU.VMI
 MG_Sound_Demo_v1_0,VMU minigame: Sound Demo v1 0,-,ready,(not a disc: standalone VMU minigame),minigames,SOUND.VMI
+MG_Sound_rpging_simplenet,VMU minigame: Sound rpging simplenet,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0006.vmi
+MG_Soundengine_demo,VMU minigame: Soundengine demo,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0005.vmi
 MG_Space_Invaders,VMU minigame: Space Invaders,-,ready,(not a disc: standalone VMU minigame),minigames,SI.VMI
 MG_Star_Wars,VMU minigame: Star Wars,-,ready,(not a disc: standalone VMU minigame),minigames,00003291.VMI
 MG_sun_moon_rise,VMU minigame: sun moon rise,-,ready,(not a disc: standalone VMU minigame),minigames,RISE.VMI
@@ -413,13 +489,18 @@ MG_Swampy,VMU minigame: Swampy,-,ready,(not a disc: standalone VMU minigame),min
 MG_Tech_Romancer,VMU minigame: Tech Romancer,-,ready,(not a disc: standalone VMU minigame),minigames,VMFL_081.VMI
 MG_Tiny_Tetris,VMU minigame: Tiny Tetris,-,ready,(not a disc: standalone VMU minigame),minigames,TETRIS.VMI
 MG_Tokyo_Car_race,VMU minigame: Tokyo Car race,-,ready,(not a disc: standalone VMU minigame),minigames,TOKYOCAR.VMI
+MG_TRICKSTYLE_JR_VMU_GAME,VMU minigame: TRICKSTYLE JR VMU GAME,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0015.vmi
 MG_VM_a_Sketch,VMU minigame: VM a Sketch,-,ready,(not a disc: standalone VMU minigame),minigames,SKETCH.VMI
+MG_VMU_All_Stars_1,VMU minigame: VMU All Stars 1,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_allstars.vmi
 MG_VMU_Breakout_by_MJ,VMU minigame: VMU Breakout by MJ,-,ready,(not a disc: standalone VMU minigame),minigames,BREAKOUT.VMI
 MG_VMU_Fighter,VMU minigame: VMU Fighter,-,ready,(not a disc: standalone VMU minigame),minigames,00004271.VMI
 MG_VMU_Football,VMU minigame: VMU Football,-,ready,(not a disc: standalone VMU minigame),minigames,ZUQIU.VMI
+MG_VMU_Gong,VMU minigame: VMU Gong,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0017.vmi
 MG_VMU_Mini_Pacman,VMU minigame: VMU Mini Pacman,-,ready,(not a disc: standalone VMU minigame),minigames,PACMAN.VMI
+MG_VMU_Script,VMU minigame: VMU Script,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0007.vmi
 MG_VMU_Vision_by_Tyro,VMU minigame: VMU Vision by Tyro,-,ready,(not a disc: standalone VMU minigame),minigames,VISION1.VMI
 MG_Where_s_Bruce,VMU minigame: Where s Bruce,-,ready,(not a disc: standalone VMU minigame),minigames,VMWBP.VMI
+MG_ZOMBIE_REVENGE_TRAININ,VMU minigame: ZOMBIE REVENGE TRAININ,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0023.vmi
 T15113N,Wacky Races,US,ready,Wacky Races (USA),wackyraces,v76433.vmi
 T8111N,Wetrix+,US,ready,Wetrix+ (USA),wetrix,v39228.vmi
 T42101N00,Wild Metal,US,ready,"Wild Metal (USA) (En,Fr,De,Es,It,Pt)",wildmetal,v56159.vmi

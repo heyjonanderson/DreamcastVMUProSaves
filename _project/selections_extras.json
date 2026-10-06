@@ -1072,6 +1072,1179 @@
   "notes": "Animation / music video, 17 blocks. One game per card because a VMU launches the game at block 0 only"
  },
  {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0003",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0003"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0003.vmi"
+  ],
+  "completion": "bs_action_game0003 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 19 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0004",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0004"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0004.vmi"
+  ],
+  "completion": "bs_action_game0004 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 59 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0005",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0005"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0005.vmi"
+  ],
+  "completion": "bs_action_game0005 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 26 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0006",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0006"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0006.vmi"
+  ],
+  "completion": "bs_action_game0006 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 15 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0008",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0008"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0008.vmi"
+  ],
+  "completion": "bs_action_game0008 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 105 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0009",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0009"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0009.vmi"
+  ],
+  "completion": "bs_action_game0009 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 40 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0010",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0010"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0010.vmi"
+  ],
+  "completion": "bs_action_game0010 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 58 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0012",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0012"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0012.vmi"
+  ],
+  "completion": "bs_action_game0012 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 32 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0013",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0013"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0013.vmi"
+  ],
+  "completion": "bs_action_game0013 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 46 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0015",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0015"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0015.vmi"
+  ],
+  "completion": "bs_action_game0015 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 42 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0016",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0016"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0016.vmi"
+  ],
+  "completion": "bs_action_game0016 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 35 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0017",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0017"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0017.vmi"
+  ],
+  "completion": "bs_action_game0017 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 46 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0018",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0018"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0018.vmi"
+  ],
+  "completion": "bs_action_game0018 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 57 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0019",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0019"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0019.vmi"
+  ],
+  "completion": "bs_action_game0019 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 51 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0020",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0020"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0020.vmi"
+  ],
+  "completion": "bs_action_game0020 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 55 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim actio 0021",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_actio_0021"
+  ],
+  "region": "-",
+  "files": [
+   "bs_action_game0021.vmi"
+  ],
+  "completion": "bs_action_game0021 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 52 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim adven 0001",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_adven_0001"
+  ],
+  "region": "-",
+  "files": [
+   "bs_adventure_game0001.vmi"
+  ],
+  "completion": "bs_adventure_game0001 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 60 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim arcad 0003",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_arcad_0003"
+  ],
+  "region": "-",
+  "files": [
+   "bs_arcade_game0003.vmi"
+  ],
+  "completion": "bs_arcade_game0003 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 43 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim arcad 0009",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_arcad_0009"
+  ],
+  "region": "-",
+  "files": [
+   "bs_arcade_game0009.vmi"
+  ],
+  "completion": "bs_arcade_game0009 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 24 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game arcad 0011",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_arcad_0011"
+  ],
+  "region": "-",
+  "files": [
+   "bs_arcade_game0011.vmi"
+  ],
+  "completion": "bs_arcade_game0011 (SNAKE): written by",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 6 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game arcad 0012",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_arcad_0012"
+  ],
+  "region": "-",
+  "files": [
+   "bs_arcade_game0012.vmi"
+  ],
+  "completion": "bs_arcade_game0012 (SNAKY): http://www.dreamfiles.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 19 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: TRICKSTYLE JR VMU GAME",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_TRICKSTYLE_JR_VMU_GAME"
+  ],
+  "region": "-",
+  "files": [
+   "bs_arcade_game0015.vmi"
+  ],
+  "completion": "bs_arcade_game0015 (VMU_MINIGAME): TRICKSTYLE JR. VMU GAME.",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 7 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game clock 0001",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_clock_0001"
+  ],
+  "region": "-",
+  "files": [
+   "bs_clock_game0001.vmi"
+  ],
+  "completion": "bs_clock_game0001 (VMU_MINIGAME): P",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 9 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game clock 0002",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_clock_0002"
+  ],
+  "region": "-",
+  "files": [
+   "bs_clock_game0002.vmi"
+  ],
+  "completion": "bs_clock_game0002 (VMU_MINIGAME): [",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 9 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: GAME0003",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_GAME0003"
+  ],
+  "region": "-",
+  "files": [
+   "bs_clock_game0003.vmi"
+  ],
+  "completion": "bs_clock_game0003 (VMU_MINIGAME): GAME0003",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 9 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: GAME0004",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_GAME0004"
+  ],
+  "region": "-",
+  "files": [
+   "bs_clock_game0004.vmi"
+  ],
+  "completion": "bs_clock_game0004 (VMU_MINIGAME): GAME0004",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 9 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game demo 0001",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_demo_0001"
+  ],
+  "region": "-",
+  "files": [
+   "bs_demo_game0001.vmi"
+  ],
+  "completion": "bs_demo_game0001 (VMU_MINIGAME): http://www.jumpstation.co.uk",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 4 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Rotozoom",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Rotozoom"
+  ],
+  "region": "-",
+  "files": [
+   "bs_demo_game0002.vmi"
+  ],
+  "completion": "bs_demo_game0002 (VMU_MINIGAME): Rotozoom by MORB/CdBS Software",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 5 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim demo 0003",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_demo_0003"
+  ],
+  "region": "-",
+  "files": [
+   "bs_demo_game0003.vmi"
+  ],
+  "completion": "bs_demo_game0003 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 34 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game demo 0004",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_demo_0004"
+  ],
+  "region": "-",
+  "files": [
+   "bs_demo_game0004.vmi"
+  ],
+  "completion": "bs_demo_game0004 (VMU_MINIGAME): .....oooooooOOOOOO(huhuhu)",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 7 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Soundengine demo",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Soundengine_demo"
+  ],
+  "region": "-",
+  "files": [
+   "bs_demo_game0005.vmi"
+  ],
+  "completion": "bs_demo_game0005 (VMU_MINIGAME): Soundengine demo by Soeren Gust",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 4 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Sound rpging simplenet",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Sound_rpging_simplenet"
+  ],
+  "region": "-",
+  "files": [
+   "bs_demo_game0006.vmi"
+  ],
+  "completion": "bs_demo_game0006 (VMU_MINIGAME): Sound rpging.simplenet.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 4 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game demo 0007",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_demo_0007"
+  ],
+  "region": "-",
+  "files": [
+   "bs_demo_game0007.vmi"
+  ],
+  "completion": "bs_demo_game0007 (SOUND): by",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 8 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0001",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0001"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0001.vmi"
+  ],
+  "completion": "bs_interanim_game0001 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 52 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0002",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0002"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0002.vmi"
+  ],
+  "completion": "bs_interanim_game0002 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 25 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0003",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0003"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0003.vmi"
+  ],
+  "completion": "bs_interanim_game0003 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 41 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0004",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0004"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0004.vmi"
+  ],
+  "completion": "bs_interanim_game0004 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 20 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0007",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0007"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0007.vmi"
+  ],
+  "completion": "bs_interanim_game0007 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 36 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0009",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0009"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0009.vmi"
+  ],
+  "completion": "bs_interanim_game0009 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 24 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0010",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0010"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0010.vmi"
+  ],
+  "completion": "bs_interanim_game0010 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 63 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0011",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0011"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0011.vmi"
+  ],
+  "completion": "bs_interanim_game0011 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 35 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0012",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0012"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0012.vmi"
+  ],
+  "completion": "bs_interanim_game0012 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 29 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0013",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0013"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0013.vmi"
+  ],
+  "completion": "bs_interanim_game0013 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 12 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0014",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0014"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0014.vmi"
+  ],
+  "completion": "bs_interanim_game0014 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 23 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim inter 0015",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_inter_0015"
+  ],
+  "region": "-",
+  "files": [
+   "bs_interanim_game0015.vmi"
+  ],
+  "completion": "bs_interanim_game0015 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 12 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: SONIC ADVENTURE 2 CHAO",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_SONIC_ADVENTURE_2_CHAO"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0002.vmi"
+  ],
+  "completion": "bs_misc_game0002 (SONIC2____VM): SONIC ADVENTURE 2 / CHAO ADV 2",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: SONIC ADVENTURE 2 0003",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_SONIC_ADVENTURE_2_0003"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0003.vmi"
+  ],
+  "completion": "bs_misc_game0003 (SONIC2____VM): SONIC ADVENTURE 2 / CHAO ADV 2",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game misc 0006",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_misc_0006"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0006.vmi"
+  ],
+  "completion": "bs_misc_game0006 (GODZILLA): Edit by H.K.Chai`bW`",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: SegaGT Mini Game",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_SegaGT_Mini_Game"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0012.vmi"
+  ],
+  "completion": "bs_misc_game0012 (BS__MINIGAME): SegaGT Mini Game",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: SegaGT Mini Game 0013",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_SegaGT_Mini_Game_0013"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0013.vmi"
+  ],
+  "completion": "bs_misc_game0013 (VMU_MINIGAME): SegaGT Mini Game",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: SegaGT Mini Game 0014",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_SegaGT_Mini_Game_0014"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0014.vmi"
+  ],
+  "completion": "bs_misc_game0014 (VMU_MINIGAME): SegaGT Mini Game",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: POWER STONE MINI",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_POWER_STONE_MINI"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0015.vmi"
+  ],
+  "completion": "bs_misc_game0015 (POWERSTONE): POWER STONE MINI",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 128 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: VMU Gong",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_VMU_Gong"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0017.vmi"
+  ],
+  "completion": "bs_misc_game0017 (VMU_MINIGAME): VMU Gong by john maushammer",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 11 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim misc 0021",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_misc_0021"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0021.vmi"
+  ],
+  "completion": "bs_misc_game0021 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 14 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: ZOMBIE REVENGE TRAININ",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_ZOMBIE_REVENGE_TRAININ"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0023.vmi"
+  ],
+  "completion": "bs_misc_game0023 (ZOMBIE_U__VM): ZOMBIE REVENGE TRAINING GAME",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 110 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: ID Calculator",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_ID_Calculator"
+  ],
+  "region": "-",
+  "files": [
+   "bs_misc_game0024.vmi"
+  ],
+  "completion": "bs_misc_game0024 (PSO_ID_CALC): ID_Calculator",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 8 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game rocki b 3d",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_rocki_b_3d"
+  ],
+  "region": "-",
+  "files": [
+   "bs_rockin_b_3d.vmi"
+  ],
+  "completion": "bs_rockin_b_3d (TINY3DENGINE): by Rockin'-B, www.rockin-b.de",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 19 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: VMU All Stars 1",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_VMU_All_Stars_1"
+  ],
+  "region": "-",
+  "files": [
+   "bs_rockin_b_allstars.vmi"
+  ],
+  "completion": "bs_rockin_b_allstars (VMU_ALLSTARS): VMU All Stars #1 www.rockin-b.de",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 114 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: A simple Calculator",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_A_simple_Calculator"
+  ],
+  "region": "-",
+  "files": [
+   "bs_rockin_b_pcv09b.vmi"
+  ],
+  "completion": "bs_rockin_b_pcv09b (PCV09BETA): A simple Calculator by Butze",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 9 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game rocki  sg2",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_rocki__sg2"
+  ],
+  "region": "-",
+  "files": [
+   "bs_rockin_b_sg2.vmi"
+  ],
+  "completion": "bs_rockin_b_sg2 (SHENMUE2): by Rockin'-B, www.rockin-b.de",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 122 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim sport 0001",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_sport_0001"
+  ],
+  "region": "-",
+  "files": [
+   "bs_sport_game0001.vmi"
+  ],
+  "completion": "bs_sport_game0001 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 18 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim sport 0002",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_sport_0002"
+  ],
+  "region": "-",
+  "files": [
+   "bs_sport_game0002.vmi"
+  ],
+  "completion": "bs_sport_game0002 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 46 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim sport 0005",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_sport_0005"
+  ],
+  "region": "-",
+  "files": [
+   "bs_sport_game0005.vmi"
+  ],
+  "completion": "bs_sport_game0005 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 46 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: 4 Wins 0001",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_4_Wins_0001"
+  ],
+  "region": "-",
+  "files": [
+   "bs_strategy_game0001.vmi"
+  ],
+  "completion": "bs_strategy_game0001 (4_WINS): 4 Wins by Vincent Schoettke",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 27 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game strat 0002",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_strat_0002"
+  ],
+  "region": "-",
+  "files": [
+   "bs_strategy_game0002.vmi"
+  ],
+  "completion": "bs_strategy_game0002 (VMU_MINIGAME): n^[P",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 21 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Game strat 0003",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Game_strat_0003"
+  ],
+  "region": "-",
+  "files": [
+   "bs_strategy_game0003.vmi"
+  ],
+  "completion": "bs_strategy_game0003 (VMU_MINIGAME): P",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 24 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: DCAnim strat 0004",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_DCAnim_strat_0004"
+  ],
+  "region": "-",
+  "files": [
+   "bs_strategy_game0004.vmi"
+  ],
+  "completion": "bs_strategy_game0004 (DC_ANIM.EXE): DC Animation - www.booyaka.com",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 18 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: Lights GAME by",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_Lights_GAME_by"
+  ],
+  "region": "-",
+  "files": [
+   "bs_strategy_game0006.vmi"
+  ],
+  "completion": "bs_strategy_game0006 (LIGHT): Lights GAME by",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 8 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
+  "dir": "disc_bs_minigames",
+  "restricted": "blueswirl",
+  "outdir": "Dreamcast",
+  "title": "VMU minigame: VMU Script",
+  "rname": "(not a disc: standalone VMU minigame)",
+  "ids": [
+   "MG_VMU_Script"
+  ],
+  "region": "-",
+  "files": [
+   "bs_strategy_game0007.vmi"
+  ],
+  "completion": "bs_strategy_game0007 (LOGIC): VMU Script",
+  "status": "ready",
+  "notes": "Blue Swirl collection minigame, 7 blocks. One game per card because a VMU launches the game at block 0 only"
+ },
+ {
   "dir": "arcdx",
   "outdir": "Dreamcast",
   "title": "Cheat-device code save: Action Replay CDX code save (many codes loaded)",

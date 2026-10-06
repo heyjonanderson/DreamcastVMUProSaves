@@ -19,6 +19,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T9501N](T9501N) | Air Force Delta | US | ready |
 | [T15117N](T15117N) | Alone in the Dark: The New Nightmare | US | ready |
 | [T20107M](T20107M) | Angel Present | JP | ready |
+| [T40509D50](T40509D50) | Aqua GT | EU | ready |
 | [T40301N00](T40301N00) | Armada | US | ready |
 | [T9715N](T9715N) | Army Men: Sarge's Heroes | US | ready |
 | [T15130N](T15130N) | Atari Anniversary Edition (VMU icon only) | US | needs review |
@@ -36,6 +37,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T1215N](T1215N) | Cannon Spike | US | ready |
 | [T20108M](T20108M) | Canvas | JP | ready |
 | [T1249M](T1249M) | Capcom vs. SNK 2 | JP | ready |
+| [T1247M](T1247M) | Capcom vs. SNK Millennium Fight 2000 Pro | JP | ready |
 | [T1218N](T1218N) | Capcom vs. SNK: Millennium Fight 2000 | US | ready |
 | [T5701N](T5701N) | Carrier | US | ready |
 | [T46901M](T46901M) | Castle Fantasia | JP | ready |
@@ -67,10 +69,12 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MK51036](MK51036) | D2 | US | ready |
 | [HDR0084](HDR0084) | Dabitsuku 1 | JP | ready |
 | [HDR0167](HDR0167) | Dabitsuku 2 | JP | ready |
+| [T9506M](T9506M) | Dance Dance Revolution 2nd Mix | JP | ready |
 | [T9508M](T9508M) | Dance Dance Revolution Club Mix | JP | ready |
 | [T8120N](T8120N) | Dave Mirra Freestyle BMX | US | ready |
 | [MK51037](MK51037) | Daytona USA | US | ready |
 | [T3601N](T3601N) | Dead or Alive 2 | US | ready |
+| [T9501N50](T9501N50) | Deadly Skies | EU | needs review |
 | [T23202M](T23202M) | Death Crimson OX | JP | ready |
 | [T17705N](T17705N) | Deep Fighter | US | ready |
 | [T15112N](T15112N) | Demolition Racer: No Exit | US | ready |
@@ -81,6 +85,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T17714D50](T17714D50) | Donald Duck: Goin' Quackers | US | ready |
 | [T40203N](T40203N) | Draconus: Cult of the Wyrm | US | ready |
 | [T17720N](T17720N) | Dragon Riders: Chronicles of Pern | US | ready |
+| [T12503D50](T12503D50) | Dragons Blood | EU | ready |
 | [T8113N](T8113N) | Ducati World Racing Challenge | US | ready |
 | [MK51013](MK51013) | Dynamite Cop | US | ready |
 | [MK51033](MK51033) | Ecco the Dolphin: Defender of the Future | US | ready |
@@ -100,11 +105,11 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T17706N](T17706N) | Evolution | US | ready |
 | [T1711N](T1711N) | Evolution 2: A Far Off Promise | US | ready |
 | [T15104N](T15104N) | Expendable | US | ready |
-| [T3001N](T3001N) | F1 World Grand Prix | US | needs review |
+| [T3001N](T3001N) | F1 World Grand Prix | US | ready |
 | [HDR0100](HDR0100) | F355 Challenge | JP | ready |
 | [36801N](36801N) | Fighting Force 2 | US | needs review |
 | [T36801N](T36801N) | Fighting Force 2 | US | needs review |
-| [MK5115450](MK5115450) | Fighting Vipers 2 | EU | needs review |
+| [MK5115450](MK5115450) | Fighting Vipers 2 | EU | ready |
 | [T18805M](T18805M) | Fire Pro Wrestling D | JP | ready |
 | [MK51007](MK51007) | Flag To Flag | US | ready |
 | [MK51114](MK51114) | Floigan Brothers | US | ready |
@@ -128,6 +133,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T13304M](T13304M) | Gundam Battle Online | JP | ready |
 | [T13301N](T13301N) | Gundam Side Story 0079 | US | ready |
 | [T13305M](T13305M) | Gundam: Blood Of Zeon | JP | ready |
+| [T1219M](T1219M) | Gunspike | JP | ready |
 | [MK5104150](MK5104150) | Head Hunter | EU | ready |
 | [T1223N](T1223N) | Heavy Metal: Geomatrix | US | ready |
 | [T40502N](T40502N) | Hidden and Dangerous | US | ready |
@@ -184,6 +190,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T27901M](T27901M) | Nadesico The Mission | JP | ready |
 | [T44702M](T44702M) | NaKoRuRu | JP | ready |
 | [T1403N](T1403N) | Namco Museum | US | ready |
+| [T7604M](T7604M) | Nanatsu no Hikan (Seven Mansions) | JP | ready |
 | [T9709N](T9709N) | NBA Hoopz | US | ready |
 | [T9706N](T9706N) | NBA Showtime: NBA on NBC | US | ready |
 | [MK51176](MK51176) | NCAA College Football 2K2: Road to the Rose Bowl | US | ready |
@@ -213,6 +220,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T31101N](T31101N) | Psychic Force 2012 | US | ready |
 | [HDR0216](HDR0216) | Puyo Pop Fever | JP | ready |
 | [HDR0014](HDR0014) | Puyo Puyo 4 | JP | ready |
+| [T6601M](T6601M) | Puyo Puyo Da! | JP | needs review |
 | [MK51061](MK51061) | Quake 3 Arena | US | ready |
 | [T41902N](T41902N) | Railroad Tycoon 2 | US | ready |
 | [T9901M](T9901M) | Rainbow Cotton | JP | ready |
@@ -226,7 +234,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T9717N](T9717N) | Ready to Rumble Boxing 2 | US | ready |
 | [T40218N](T40218N) | Record of Lodoss War | US | ready |
 | [T40215N](T40215N) | Red Dog: Superior Fire Power | US | ready |
-| [T15002M](T15002M) | Redline Racer | JP | needs review |
+| [T15002M](T15002M) | Redline Racer | JP | ready |
 | [T44303N](T44303N) | Reel Fishing Wild | US | ready |
 | [HDR0074](HDR0074) | Rent A Hero No. 1 | JP | ready |
 | [T1205N](T1205N) | Resident Evil 2 | US | ready |
@@ -237,9 +245,10 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MK51010](MK51010) | Rippin' Riders | US | ready |
 | [T22901N](T22901N) | Roadsters | US | needs review |
 | [T19502M](T19502M) | Roommate Novel | JP | ready |
+| [T40001M](T40001M) | Rune Caster | JP | needs review |
 | [HDR0126](HDR0126) | SaKaToKu 1 | JP | ready |
 | [HDR0183](HDR0183) | SaKaToKu 2 | JP | ready |
-| [HDR0115](HDR0115) | Sakura Card Captor: Tomoyo Video | JP | needs review |
+| [HDR0115](HDR0115) | Sakura Card Captor: Tomoyo Video | JP | ready |
 | [HDR0072](HDR0072) | Sakura Wars 1 | JP | ready |
 | [HDR0082](HDR0082) | Sakura Wars 2 | JP | ready |
 | [HDR0152](HDR0152) | Sakura Wars 3 | JP | ready |
@@ -275,6 +284,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MK51052](MK51052) | Skies of Arcadia | US | ready |
 | [T15106N](T15106N) | Slave Zero | US | ready |
 | [T40207N](T40207N) | Sno-Cross Championship Racing | US | ready |
+| [MK5101050](MK5101050) | Snow Surfers | EU | ready |
 | [T40212N](T40212N) | Soldier of Fortune | US | ready |
 | [MK51000](MK51000) | Sonic Adventure | US | ready |
 | [MK51117](MK51117) | Sonic Adventure 2 | US | ready |
@@ -335,6 +345,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T0000M](T0000M) | TNN Motorsports Hardcore Heat | US | ready |
 | [T13701N](T13701N) | TNN Motorsports Hardcore Heat | US | ready |
 | [T35402M](T35402M) | Tokyo Bus Guide | JP | ready |
+| [T40210D50](T40210D50) | Tokyo Highway Challenge 2 | EU | ready |
 | [T40202N](T40202N) | Tokyo Xtreme Racer | US | ready |
 | [T40211N](T40211N) | Tokyo Xtreme Racer 2 | US | ready |
 | [T36812N](T36812N) | Tomb Raider: Chronicles | US | ready |
@@ -348,6 +359,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T40204N](T40204N) | Ultimate Fighting Championship | US | ready |
 | [T15125N](T15125N) | Unreal Tournament | US | ready |
 | [T36810N](T36810N) | Urban Chaos | US | ready |
+| [T1235M](T1235M) | Vampire Chronicle | JP | needs review |
 | [T8110N](T8110N) | Vanishing Point | US | ready |
 | [T5302M](T5302M) | Vermilion Desert | JP | ready |
 | [T13002N](T13002N) | Vigilante 8: 2nd Offense | US | ready |
@@ -359,6 +371,8 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MK51186](MK51186) | Virtua Tennis 2 (Tennis 2K2) | US | ready |
 | [T13004N](T13004N) | Virtual-On: Oratorio Tangram | US | needs review |
 | [MG_4_Wins](MG_4_Wins) | VMU minigame: 4 Wins | - | ready |
+| [MG_4_Wins_0001](MG_4_Wins_0001) | VMU minigame: 4 Wins 0001 | - | ready |
+| [MG_A_simple_Calculator](MG_A_simple_Calculator) | VMU minigame: A simple Calculator | - | ready |
 | [MG_Alien_Fighter](MG_Alien_Fighter) | VMU minigame: Alien Fighter | - | ready |
 | [MG_Alien_Shooter](MG_Alien_Shooter) | VMU minigame: Alien Shooter | - | ready |
 | [MG_Cardcaptor_Breakout](MG_Cardcaptor_Breakout) | VMU minigame: Cardcaptor Breakout | - | ready |
@@ -368,6 +382,43 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MG_circles](MG_circles) | VMU minigame: circles | - | ready |
 | [MG_Climax_Landers](MG_Climax_Landers) | VMU minigame: Climax Landers | - | ready |
 | [MG_DAngelo_Music_Video](MG_DAngelo_Music_Video) | VMU minigame: DAngelo Music Video | - | ready |
+| [MG_DCAnim_actio_0003](MG_DCAnim_actio_0003) | VMU minigame: DCAnim actio 0003 | - | ready |
+| [MG_DCAnim_actio_0004](MG_DCAnim_actio_0004) | VMU minigame: DCAnim actio 0004 | - | ready |
+| [MG_DCAnim_actio_0005](MG_DCAnim_actio_0005) | VMU minigame: DCAnim actio 0005 | - | ready |
+| [MG_DCAnim_actio_0006](MG_DCAnim_actio_0006) | VMU minigame: DCAnim actio 0006 | - | ready |
+| [MG_DCAnim_actio_0008](MG_DCAnim_actio_0008) | VMU minigame: DCAnim actio 0008 | - | ready |
+| [MG_DCAnim_actio_0009](MG_DCAnim_actio_0009) | VMU minigame: DCAnim actio 0009 | - | ready |
+| [MG_DCAnim_actio_0010](MG_DCAnim_actio_0010) | VMU minigame: DCAnim actio 0010 | - | ready |
+| [MG_DCAnim_actio_0012](MG_DCAnim_actio_0012) | VMU minigame: DCAnim actio 0012 | - | ready |
+| [MG_DCAnim_actio_0013](MG_DCAnim_actio_0013) | VMU minigame: DCAnim actio 0013 | - | ready |
+| [MG_DCAnim_actio_0015](MG_DCAnim_actio_0015) | VMU minigame: DCAnim actio 0015 | - | ready |
+| [MG_DCAnim_actio_0016](MG_DCAnim_actio_0016) | VMU minigame: DCAnim actio 0016 | - | ready |
+| [MG_DCAnim_actio_0017](MG_DCAnim_actio_0017) | VMU minigame: DCAnim actio 0017 | - | ready |
+| [MG_DCAnim_actio_0018](MG_DCAnim_actio_0018) | VMU minigame: DCAnim actio 0018 | - | ready |
+| [MG_DCAnim_actio_0019](MG_DCAnim_actio_0019) | VMU minigame: DCAnim actio 0019 | - | ready |
+| [MG_DCAnim_actio_0020](MG_DCAnim_actio_0020) | VMU minigame: DCAnim actio 0020 | - | ready |
+| [MG_DCAnim_actio_0021](MG_DCAnim_actio_0021) | VMU minigame: DCAnim actio 0021 | - | ready |
+| [MG_DCAnim_adven_0001](MG_DCAnim_adven_0001) | VMU minigame: DCAnim adven 0001 | - | ready |
+| [MG_DCAnim_arcad_0003](MG_DCAnim_arcad_0003) | VMU minigame: DCAnim arcad 0003 | - | ready |
+| [MG_DCAnim_arcad_0009](MG_DCAnim_arcad_0009) | VMU minigame: DCAnim arcad 0009 | - | ready |
+| [MG_DCAnim_demo_0003](MG_DCAnim_demo_0003) | VMU minigame: DCAnim demo 0003 | - | ready |
+| [MG_DCAnim_inter_0001](MG_DCAnim_inter_0001) | VMU minigame: DCAnim inter 0001 | - | ready |
+| [MG_DCAnim_inter_0002](MG_DCAnim_inter_0002) | VMU minigame: DCAnim inter 0002 | - | ready |
+| [MG_DCAnim_inter_0003](MG_DCAnim_inter_0003) | VMU minigame: DCAnim inter 0003 | - | ready |
+| [MG_DCAnim_inter_0004](MG_DCAnim_inter_0004) | VMU minigame: DCAnim inter 0004 | - | ready |
+| [MG_DCAnim_inter_0007](MG_DCAnim_inter_0007) | VMU minigame: DCAnim inter 0007 | - | ready |
+| [MG_DCAnim_inter_0009](MG_DCAnim_inter_0009) | VMU minigame: DCAnim inter 0009 | - | ready |
+| [MG_DCAnim_inter_0010](MG_DCAnim_inter_0010) | VMU minigame: DCAnim inter 0010 | - | ready |
+| [MG_DCAnim_inter_0011](MG_DCAnim_inter_0011) | VMU minigame: DCAnim inter 0011 | - | ready |
+| [MG_DCAnim_inter_0012](MG_DCAnim_inter_0012) | VMU minigame: DCAnim inter 0012 | - | ready |
+| [MG_DCAnim_inter_0013](MG_DCAnim_inter_0013) | VMU minigame: DCAnim inter 0013 | - | ready |
+| [MG_DCAnim_inter_0014](MG_DCAnim_inter_0014) | VMU minigame: DCAnim inter 0014 | - | ready |
+| [MG_DCAnim_inter_0015](MG_DCAnim_inter_0015) | VMU minigame: DCAnim inter 0015 | - | ready |
+| [MG_DCAnim_misc_0021](MG_DCAnim_misc_0021) | VMU minigame: DCAnim misc 0021 | - | ready |
+| [MG_DCAnim_sport_0001](MG_DCAnim_sport_0001) | VMU minigame: DCAnim sport 0001 | - | ready |
+| [MG_DCAnim_sport_0002](MG_DCAnim_sport_0002) | VMU minigame: DCAnim sport 0002 | - | ready |
+| [MG_DCAnim_sport_0005](MG_DCAnim_sport_0005) | VMU minigame: DCAnim sport 0005 | - | ready |
+| [MG_DCAnim_strat_0004](MG_DCAnim_strat_0004) | VMU minigame: DCAnim strat 0004 | - | ready |
 | [MG_Dragon_Ball_Z](MG_Dragon_Ball_Z) | VMU minigame: Dragon Ball Z | - | ready |
 | [MG_Dream_Racer](MG_Dream_Racer) | VMU minigame: Dream Racer | - | ready |
 | [MG_Enemy_Zero_Training](MG_Enemy_Zero_Training) | VMU minigame: Enemy Zero Training | - | ready |
@@ -375,13 +426,29 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MG_Fat_Rain](MG_Fat_Rain) | VMU minigame: Fat Rain | - | ready |
 | [MG_Freak_Skater](MG_Freak_Skater) | VMU minigame: Freak Skater | - | ready |
 | [MG_Frog_in_a_blender](MG_Frog_in_a_blender) | VMU minigame: Frog in a blender | - | ready |
+| [MG_Game_arcad_0011](MG_Game_arcad_0011) | VMU minigame: Game arcad 0011 | - | ready |
+| [MG_Game_arcad_0012](MG_Game_arcad_0012) | VMU minigame: Game arcad 0012 | - | ready |
+| [MG_Game_clock_0001](MG_Game_clock_0001) | VMU minigame: Game clock 0001 | - | ready |
+| [MG_Game_clock_0002](MG_Game_clock_0002) | VMU minigame: Game clock 0002 | - | ready |
+| [MG_Game_demo_0001](MG_Game_demo_0001) | VMU minigame: Game demo 0001 | - | ready |
+| [MG_Game_demo_0004](MG_Game_demo_0004) | VMU minigame: Game demo 0004 | - | ready |
+| [MG_Game_demo_0007](MG_Game_demo_0007) | VMU minigame: Game demo 0007 | - | ready |
+| [MG_Game_misc_0006](MG_Game_misc_0006) | VMU minigame: Game misc 0006 | - | ready |
+| [MG_Game_rocki__sg2](MG_Game_rocki__sg2) | VMU minigame: Game rocki  sg2 | - | ready |
+| [MG_Game_rocki_b_3d](MG_Game_rocki_b_3d) | VMU minigame: Game rocki b 3d | - | ready |
+| [MG_Game_strat_0002](MG_Game_strat_0002) | VMU minigame: Game strat 0002 | - | ready |
+| [MG_Game_strat_0003](MG_Game_strat_0003) | VMU minigame: Game strat 0003 | - | ready |
+| [MG_GAME0003](MG_GAME0003) | VMU minigame: GAME0003 | - | ready |
+| [MG_GAME0004](MG_GAME0004) | VMU minigame: GAME0004 | - | ready |
 | [MG_Glucky_Labyrinth](MG_Glucky_Labyrinth) | VMU minigame: Glucky Labyrinth | - | ready |
 | [MG_Godzilla](MG_Godzilla) | VMU minigame: Godzilla | - | ready |
 | [MG_Greyscale_Photo_Demo](MG_Greyscale_Photo_Demo) | VMU minigame: Greyscale Photo Demo | - | ready |
 | [MG_Hello_Kitty](MG_Hello_Kitty) | VMU minigame: Hello Kitty | - | ready |
 | [MG_I_do_U_do](MG_I_do_U_do) | VMU minigame: I do U do | - | ready |
+| [MG_ID_Calculator](MG_ID_Calculator) | VMU minigame: ID Calculator | - | ready |
 | [MG_Jojo_s_Problem](MG_Jojo_s_Problem) | VMU minigame: Jojo s Problem | - | ready |
 | [MG_Kill_Hyman](MG_Kill_Hyman) | VMU minigame: Kill Hyman | - | ready |
+| [MG_Lights_GAME_by](MG_Lights_GAME_by) | VMU minigame: Lights GAME by | - | ready |
 | [MG_Lightsabre_Battle](MG_Lightsabre_Battle) | VMU minigame: Lightsabre Battle | - | ready |
 | [MG_Linear_s_Watch](MG_Linear_s_Watch) | VMU minigame: Linear s Watch | - | ready |
 | [MG_Logic](MG_Logic) | VMU minigame: Logic | - | ready |
@@ -395,11 +462,16 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MG_Pop_n_Music_Vol_2](MG_Pop_n_Music_Vol_2) | VMU minigame: Pop n Music Vol 2 | - | ready |
 | [MG_Pop_n_Music_Vol_3](MG_Pop_n_Music_Vol_3) | VMU minigame: Pop n Music Vol 3 | - | ready |
 | [MG_Power_Stone_2_JP](MG_Power_Stone_2_JP) | VMU minigame: Power Stone 2 JP | - | ready |
+| [MG_POWER_STONE_MINI](MG_POWER_STONE_MINI) | VMU minigame: POWER STONE MINI | - | ready |
 | [MG_Powerstone_mini_by_Capcom](MG_Powerstone_mini_by_Capcom) | VMU minigame: Powerstone mini by Capcom | - | ready |
 | [MG_promotion_video](MG_promotion_video) | VMU minigame: promotion video | - | ready |
 | [MG_PSO_ID_Calculator](MG_PSO_ID_Calculator) | VMU minigame: PSO ID Calculator | - | ready |
 | [MG_PSO_Slide_Puzzle](MG_PSO_Slide_Puzzle) | VMU minigame: PSO Slide Puzzle | - | ready |
+| [MG_Rotozoom](MG_Rotozoom) | VMU minigame: Rotozoom | - | ready |
 | [MG_SEGA_GT](MG_SEGA_GT) | VMU minigame: SEGA GT | - | ready |
+| [MG_SegaGT_Mini_Game](MG_SegaGT_Mini_Game) | VMU minigame: SegaGT Mini Game | - | ready |
+| [MG_SegaGT_Mini_Game_0013](MG_SegaGT_Mini_Game_0013) | VMU minigame: SegaGT Mini Game 0013 | - | ready |
+| [MG_SegaGT_Mini_Game_0014](MG_SegaGT_Mini_Game_0014) | VMU minigame: SegaGT Mini Game 0014 | - | ready |
 | [MG_Shenmue](MG_Shenmue) | VMU minigame: Shenmue | - | ready |
 | [MG_Simon_Bryan](MG_Simon_Bryan) | VMU minigame: Simon Bryan | - | ready |
 | [MG_Skies_Arcadia_Pintas_Quest](MG_Skies_Arcadia_Pintas_Quest) | VMU minigame: Skies Arcadia Pintas Quest | - | ready |
@@ -407,9 +479,13 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MG_Skies_Arcadia_Pintas_Quest_PAL](MG_Skies_Arcadia_Pintas_Quest_PAL) | VMU minigame: Skies Arcadia Pintas Quest PAL | - | ready |
 | [MG_Slidepuzzle](MG_Slidepuzzle) | VMU minigame: Slidepuzzle | - | ready |
 | [MG_Snaky](MG_Snaky) | VMU minigame: Snaky | - | ready |
+| [MG_SONIC_ADVENTURE_2_0003](MG_SONIC_ADVENTURE_2_0003) | VMU minigame: SONIC ADVENTURE 2 0003 | - | ready |
+| [MG_SONIC_ADVENTURE_2_CHAO](MG_SONIC_ADVENTURE_2_CHAO) | VMU minigame: SONIC ADVENTURE 2 CHAO | - | ready |
 | [MG_Soul_Calibur_2_Adventure](MG_Soul_Calibur_2_Adventure) | VMU minigame: Soul Calibur 2 Adventure | - | ready |
 | [MG_SoulCalibur_by_Namco](MG_SoulCalibur_by_Namco) | VMU minigame: SoulCalibur by Namco | - | ready |
 | [MG_Sound_Demo_v1_0](MG_Sound_Demo_v1_0) | VMU minigame: Sound Demo v1 0 | - | ready |
+| [MG_Sound_rpging_simplenet](MG_Sound_rpging_simplenet) | VMU minigame: Sound rpging simplenet | - | ready |
+| [MG_Soundengine_demo](MG_Soundengine_demo) | VMU minigame: Soundengine demo | - | ready |
 | [MG_Space_Invaders](MG_Space_Invaders) | VMU minigame: Space Invaders | - | ready |
 | [MG_Star_Wars](MG_Star_Wars) | VMU minigame: Star Wars | - | ready |
 | [MG_sun_moon_rise](MG_sun_moon_rise) | VMU minigame: sun moon rise | - | ready |
@@ -418,13 +494,18 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MG_Tech_Romancer](MG_Tech_Romancer) | VMU minigame: Tech Romancer | - | ready |
 | [MG_Tiny_Tetris](MG_Tiny_Tetris) | VMU minigame: Tiny Tetris | - | ready |
 | [MG_Tokyo_Car_race](MG_Tokyo_Car_race) | VMU minigame: Tokyo Car race | - | ready |
+| [MG_TRICKSTYLE_JR_VMU_GAME](MG_TRICKSTYLE_JR_VMU_GAME) | VMU minigame: TRICKSTYLE JR VMU GAME | - | ready |
 | [MG_VM_a_Sketch](MG_VM_a_Sketch) | VMU minigame: VM a Sketch | - | ready |
+| [MG_VMU_All_Stars_1](MG_VMU_All_Stars_1) | VMU minigame: VMU All Stars 1 | - | ready |
 | [MG_VMU_Breakout_by_MJ](MG_VMU_Breakout_by_MJ) | VMU minigame: VMU Breakout by MJ | - | ready |
 | [MG_VMU_Fighter](MG_VMU_Fighter) | VMU minigame: VMU Fighter | - | ready |
 | [MG_VMU_Football](MG_VMU_Football) | VMU minigame: VMU Football | - | ready |
+| [MG_VMU_Gong](MG_VMU_Gong) | VMU minigame: VMU Gong | - | ready |
 | [MG_VMU_Mini_Pacman](MG_VMU_Mini_Pacman) | VMU minigame: VMU Mini Pacman | - | ready |
+| [MG_VMU_Script](MG_VMU_Script) | VMU minigame: VMU Script | - | ready |
 | [MG_VMU_Vision_by_Tyro](MG_VMU_Vision_by_Tyro) | VMU minigame: VMU Vision by Tyro | - | ready |
 | [MG_Where_s_Bruce](MG_Where_s_Bruce) | VMU minigame: Where s Bruce | - | ready |
+| [MG_ZOMBIE_REVENGE_TRAININ](MG_ZOMBIE_REVENGE_TRAININ) | VMU minigame: ZOMBIE REVENGE TRAININ | - | ready |
 | [T15113N](T15113N) | Wacky Races | US | ready |
 | [T8111N](T8111N) | Wetrix+ | US | ready |
 | [T42101N00](T42101N00) | Wild Metal | US | ready |
