@@ -42,7 +42,7 @@ for(const s of sel){
   const files=used.map(u=>({name:u.vmi.name,data:u.data,type:(u.vmi.mode&2)?0xcc:0x33,protect:!!(u.vmi.mode&1),time:u.vmi.time}));
   const img=V.build(files);
   for(const id of s.ids){
-    const folder=id.replace(/[-\s]/g,'');
+    const folder=id.replace(/[-\s]/g,'').toLowerCase();
     const dir=path.join(ROOT,'vmupro',...(s.outdir||'dreamcast').split('/'),folder);fs.mkdirSync(dir,{recursive:true});
     const out=path.join(dir,folder+'_1.vmu');fs.writeFileSync(out,img);
     credits.push([]);credits.pop();
@@ -67,7 +67,7 @@ const merge=(f,rows)=>{ // keep rows of other games on partial runs
 // human-readable index: folder -> game title (also written to repo root)
 const index=[['folder','game','region','status','redump_title','archive_dir','save_chosen']];
 for(const s of sel){if(only.length&&!only.includes(s.dir))continue;
-  for(const id of s.ids){const folder=id.replace(/[-\s]/g,'');const r=report.find(x=>x[1]===folder&&x[0]===s.title);
+  for(const id of s.ids){const folder=id.replace(/[-\s]/g,'').toLowerCase();const r=report.find(x=>x[1]===folder&&x[0]===s.title);
     if(r)index.push([folder,s.title,s.region,r[8],s.rname||s.title,s.dir,r[4]]);}}
 index.slice(1).sort((a,b)=>a[1].localeCompare(b[1]));
 const idxRows=[index[0],...index.slice(1).sort((a,b)=>a[1].localeCompare(b[1])||a[0].localeCompare(b[0]))];
@@ -84,7 +84,7 @@ if(!only.length){
     if(/^MINIGAMES|^CHEAT/.test(s.ids[0]))name='_Extras/'+safe(s.title.replace(/^VMU minigames (\d+)/,'Minigames $1'))+' ('+s.ids[0]+')';
     if(used.has(name.toLowerCase()))name+=' ('+s.ids[0]+')';used.add(name.toLowerCase());
     const d=path.join(bt,...name.split('/'));fs.mkdirSync(d,{recursive:true});
-    for(const id of s.ids){const f=id.replace(/[-\s]/g,'');const src=path.join(ROOT,'vmupro',...(s.outdir||'dreamcast').split('/'),f,f+'_1.vmu');if(fs.existsSync(src))fs.copyFileSync(src,path.join(d,f+'_1.vmu'));}
+    for(const id of s.ids){const f=id.replace(/[-\s]/g,'').toLowerCase();const src=path.join(ROOT,'vmupro',...(s.outdir||'dreamcast').split('/'),f,f+'_1.vmu');if(fs.existsSync(src))fs.copyFileSync(src,path.join(d,f+'_1.vmu'));}
   }
   const rd=['# vmupro/dreamcast: folder -> game','','Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to the disc ID), so they are not readable. This is the lookup; the same table with more detail is in [INDEX.md](../../INDEX.md), and a browsable copy named by title is in [by-title/](../../by-title).','','| Folder | Game | Region | Status |','|---|---|---|---|',...idxRows.slice(1).map(r=>`| [${r[0]}](${r[0]}) | ${r[1].replace(/\|/g,'/')} | ${r[2]} | ${r[3]} |`),''];
   fs.writeFileSync(path.join(ROOT,'vmupro','dreamcast','README.md'),rd.join('\n'));
