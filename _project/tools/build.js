@@ -81,7 +81,7 @@ if(!only.length){
   const used=new Set();
   for(const s of sel){
     let name=safe(s.title)+(s.region&&s.region!=='-'?' ['+s.region+']':'');
-    if(/^MINIGAMES|^CHEAT/.test(s.ids[0]))name='_Extras/'+safe(s.title.replace(/^VMU minigames (\d+)/,'Minigames $1'))+' ('+s.ids[0]+')';
+    if(/^ZZ_/.test(s.ids[0]))name='_Extras/'+safe(s.title.replace(/^VMU minigames (\d+)/,'Minigames $1'))+' ('+s.ids[0]+')';
     if(used.has(name.toLowerCase()))name+=' ('+s.ids[0]+')';used.add(name.toLowerCase());
     const d=path.join(bt,...name.split('/'));fs.mkdirSync(d,{recursive:true});
     for(const id of s.ids){const f=id.replace(/[-\s]/g,'');const src=path.join(ROOT,'vmupro',...(s.outdir||'Dreamcast').split('/'),f,f+'-1.vmu');if(fs.existsSync(src))fs.copyFileSync(src,path.join(d,f+'-1.vmu'));}

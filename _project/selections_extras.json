@@ -5,7 +5,7 @@
   "title": "VMU minigame: 4 Wins",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_4_Wins"
+   "ZZ_MG_4_Wins"
   ],
   "region": "-",
   "files": [
@@ -21,7 +21,7 @@
   "title": "VMU minigame: Alien Fighter",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Alien_Fighter"
+   "ZZ_MG_Alien_Fighter"
   ],
   "region": "-",
   "files": [
@@ -37,7 +37,7 @@
   "title": "VMU minigame: VMU Breakout by MJ",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_VMU_Breakout_by_MJ"
+   "ZZ_MG_VMU_Breakout_by_MJ"
   ],
   "region": "-",
   "files": [
@@ -53,7 +53,7 @@
   "title": "VMU minigame: Chao Editor 2 by Tyro",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Chao_Editor_2_by_Tyro"
+   "ZZ_MG_Chao_Editor_2_by_Tyro"
   ],
   "region": "-",
   "files": [
@@ -69,7 +69,7 @@
   "title": "VMU minigame: Chao Editor by Tyro",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Chao_Editor_by_Tyro"
+   "ZZ_MG_Chao_Editor_by_Tyro"
   ],
   "region": "-",
   "files": [
@@ -85,7 +85,7 @@
   "title": "VMU minigame: Dream Racer",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Dream_Racer"
+   "ZZ_MG_Dream_Racer"
   ],
   "region": "-",
   "files": [
@@ -101,7 +101,7 @@
   "title": "VMU minigame: Fat Rain",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Fat_Rain"
+   "ZZ_MG_Fat_Rain"
   ],
   "region": "-",
   "files": [
@@ -117,7 +117,7 @@
   "title": "VMU minigame: Frog in a blender",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Frog_in_a_blender"
+   "ZZ_MG_Frog_in_a_blender"
   ],
   "region": "-",
   "files": [
@@ -133,7 +133,7 @@
   "title": "VMU minigame: Freak Skater",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Freak_Skater"
+   "ZZ_MG_Freak_Skater"
   ],
   "region": "-",
   "files": [
@@ -149,7 +149,7 @@
   "title": "VMU minigame: Glucky Labyrinth",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Glucky_Labyrinth"
+   "ZZ_MG_Glucky_Labyrinth"
   ],
   "region": "-",
   "files": [
@@ -165,7 +165,7 @@
   "title": "VMU minigame: I do U do",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_I_do_U_do"
+   "ZZ_MG_I_do_U_do"
   ],
   "region": "-",
   "files": [
@@ -181,7 +181,7 @@
   "title": "VMU minigame: Jojo s Problem",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Jojo_s_Problem"
+   "ZZ_MG_Jojo_s_Problem"
   ],
   "region": "-",
   "files": [
@@ -197,7 +197,7 @@
   "title": "VMU minigame: Logic",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Logic"
+   "ZZ_MG_Logic"
   ],
   "region": "-",
   "files": [
@@ -213,7 +213,7 @@
   "title": "VMU minigame: Minesweeper",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Minesweeper"
+   "ZZ_MG_Minesweeper"
   ],
   "region": "-",
   "files": [
@@ -229,7 +229,7 @@
   "title": "VMU minigame: Linear s Watch",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Linear_s_Watch"
+   "ZZ_MG_Linear_s_Watch"
   ],
   "region": "-",
   "files": [
@@ -245,7 +245,7 @@
   "title": "VMU minigame: VMU Mini Pacman",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_VMU_Mini_Pacman"
+   "ZZ_MG_VMU_Mini_Pacman"
   ],
   "region": "-",
   "files": [
@@ -261,7 +261,7 @@
   "title": "VMU minigame: Paper Attack",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Paper_Attack"
+   "ZZ_MG_Paper_Attack"
   ],
   "region": "-",
   "files": [
@@ -277,7 +277,7 @@
   "title": "VMU minigame: PSO ID Calculator",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_PSO_ID_Calculator"
+   "ZZ_MG_PSO_ID_Calculator"
   ],
   "region": "-",
   "files": [
@@ -293,7 +293,7 @@
   "title": "VMU minigame: PSO Slide Puzzle",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_PSO_Slide_Puzzle"
+   "ZZ_MG_PSO_Slide_Puzzle"
   ],
   "region": "-",
   "files": [
@@ -309,7 +309,7 @@
   "title": "VMU minigame: Space Invaders",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Space_Invaders"
+   "ZZ_MG_Space_Invaders"
   ],
   "region": "-",
   "files": [
@@ -325,7 +325,7 @@
   "title": "VMU minigame: VM a Sketch",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_VM_a_Sketch"
+   "ZZ_MG_VM_a_Sketch"
   ],
   "region": "-",
   "files": [
@@ -341,7 +341,7 @@
   "title": "VMU minigame: Slidepuzzle",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Slidepuzzle"
+   "ZZ_MG_Slidepuzzle"
   ],
   "region": "-",
   "files": [
@@ -357,7 +357,7 @@
   "title": "VMU minigame: Snaky",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Snaky"
+   "ZZ_MG_Snaky"
   ],
   "region": "-",
   "files": [
@@ -373,7 +373,7 @@
   "title": "VMU minigame: Sound Demo v1 0",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Sound_Demo_v1_0"
+   "ZZ_MG_Sound_Demo_v1_0"
   ],
   "region": "-",
   "files": [
@@ -389,7 +389,7 @@
   "title": "VMU minigame: Swampy",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Swampy"
+   "ZZ_MG_Swampy"
   ],
   "region": "-",
   "files": [
@@ -405,7 +405,7 @@
   "title": "VMU minigame: Tiny Tetris",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Tiny_Tetris"
+   "ZZ_MG_Tiny_Tetris"
   ],
   "region": "-",
   "files": [
@@ -421,7 +421,7 @@
   "title": "VMU minigame: Tokyo Car race",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Tokyo_Car_race"
+   "ZZ_MG_Tokyo_Car_race"
   ],
   "region": "-",
   "files": [
@@ -437,7 +437,7 @@
   "title": "VMU minigame: VMU Vision by Tyro",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_VMU_Vision_by_Tyro"
+   "ZZ_MG_VMU_Vision_by_Tyro"
   ],
   "region": "-",
   "files": [
@@ -453,7 +453,7 @@
   "title": "VMU minigame: VMU Football",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_VMU_Football"
+   "ZZ_MG_VMU_Football"
   ],
   "region": "-",
   "files": [
@@ -469,7 +469,7 @@
   "title": "VMU minigame: Shenmue",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Shenmue"
+   "ZZ_MG_Shenmue"
   ],
   "region": "-",
   "files": [
@@ -485,7 +485,7 @@
   "title": "VMU minigame: SEGA GT",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_SEGA_GT"
+   "ZZ_MG_SEGA_GT"
   ],
   "region": "-",
   "files": [
@@ -501,7 +501,7 @@
   "title": "VMU minigame: Marvel vs Capcom 2",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Marvel_vs_Capcom_2"
+   "ZZ_MG_Marvel_vs_Capcom_2"
   ],
   "region": "-",
   "files": [
@@ -517,7 +517,7 @@
   "title": "VMU minigame: Power Stone 2 JP",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Power_Stone_2_JP"
+   "ZZ_MG_Power_Stone_2_JP"
   ],
   "region": "-",
   "files": [
@@ -533,7 +533,7 @@
   "title": "VMU minigame: Godzilla",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Godzilla"
+   "ZZ_MG_Godzilla"
   ],
   "region": "-",
   "files": [
@@ -549,7 +549,7 @@
   "title": "VMU minigame: Hello Kitty",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Hello_Kitty"
+   "ZZ_MG_Hello_Kitty"
   ],
   "region": "-",
   "files": [
@@ -565,7 +565,7 @@
   "title": "VMU minigame: Pop n Music Vol 1",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Pop_n_Music_Vol_1"
+   "ZZ_MG_Pop_n_Music_Vol_1"
   ],
   "region": "-",
   "files": [
@@ -581,7 +581,7 @@
   "title": "VMU minigame: Pop n Music Vol 2",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Pop_n_Music_Vol_2"
+   "ZZ_MG_Pop_n_Music_Vol_2"
   ],
   "region": "-",
   "files": [
@@ -597,7 +597,7 @@
   "title": "VMU minigame: Pop n Music Vol 3",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Pop_n_Music_Vol_3"
+   "ZZ_MG_Pop_n_Music_Vol_3"
   ],
   "region": "-",
   "files": [
@@ -613,7 +613,7 @@
   "title": "VMU minigame: Powerstone mini by Capcom",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Powerstone_mini_by_Capcom"
+   "ZZ_MG_Powerstone_mini_by_Capcom"
   ],
   "region": "-",
   "files": [
@@ -629,7 +629,7 @@
   "title": "VMU minigame: Skies Arcadia Pintas Quest NTSC",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Skies_Arcadia_Pintas_Quest_NTSC"
+   "ZZ_MG_Skies_Arcadia_Pintas_Quest_NTSC"
   ],
   "region": "-",
   "files": [
@@ -645,7 +645,7 @@
   "title": "VMU minigame: Skies Arcadia Pintas Quest PAL",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Skies_Arcadia_Pintas_Quest_PAL"
+   "ZZ_MG_Skies_Arcadia_Pintas_Quest_PAL"
   ],
   "region": "-",
   "files": [
@@ -661,7 +661,7 @@
   "title": "VMU minigame: SoulCalibur by Namco",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_SoulCalibur_by_Namco"
+   "ZZ_MG_SoulCalibur_by_Namco"
   ],
   "region": "-",
   "files": [
@@ -677,7 +677,7 @@
   "title": "VMU minigame: Cardcaptor Breakout",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Cardcaptor_Breakout"
+   "ZZ_MG_Cardcaptor_Breakout"
   ],
   "region": "-",
   "files": [
@@ -693,7 +693,7 @@
   "title": "VMU minigame: Skies Arcadia Pintas Quest",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Skies_Arcadia_Pintas_Quest"
+   "ZZ_MG_Skies_Arcadia_Pintas_Quest"
   ],
   "region": "-",
   "files": [
@@ -709,7 +709,7 @@
   "title": "VMU minigame: Soul Calibur 2 Adventure",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Soul_Calibur_2_Adventure"
+   "ZZ_MG_Soul_Calibur_2_Adventure"
   ],
   "region": "-",
   "files": [
@@ -725,7 +725,7 @@
   "title": "VMU minigame: Chao Adventure by SEGA",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Chao_Adventure_by_SEGA"
+   "ZZ_MG_Chao_Adventure_by_SEGA"
   ],
   "region": "-",
   "files": [
@@ -741,7 +741,7 @@
   "title": "VMU minigame: Tech Romancer",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Tech_Romancer"
+   "ZZ_MG_Tech_Romancer"
   ],
   "region": "-",
   "files": [
@@ -757,7 +757,7 @@
   "title": "VMU minigame: Climax Landers",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Climax_Landers"
+   "ZZ_MG_Climax_Landers"
   ],
   "region": "-",
   "files": [
@@ -773,7 +773,7 @@
   "title": "VMU minigame: Supercross VMU",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Supercross_VMU"
+   "ZZ_MG_Supercross_VMU"
   ],
   "region": "-",
   "files": [
@@ -789,7 +789,7 @@
   "title": "VMU minigame: Kill Hyman",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Kill_Hyman"
+   "ZZ_MG_Kill_Hyman"
   ],
   "region": "-",
   "files": [
@@ -805,7 +805,7 @@
   "title": "VMU minigame: Star Wars",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Star_Wars"
+   "ZZ_MG_Star_Wars"
   ],
   "region": "-",
   "files": [
@@ -821,7 +821,7 @@
   "title": "VMU minigame: Alien Shooter",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Alien_Shooter"
+   "ZZ_MG_Alien_Shooter"
   ],
   "region": "-",
   "files": [
@@ -837,7 +837,7 @@
   "title": "VMU minigame: Lightsabre Battle",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Lightsabre_Battle"
+   "ZZ_MG_Lightsabre_Battle"
   ],
   "region": "-",
   "files": [
@@ -853,7 +853,7 @@
   "title": "VMU minigame: VMU Fighter",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_VMU_Fighter"
+   "ZZ_MG_VMU_Fighter"
   ],
   "region": "-",
   "files": [
@@ -869,7 +869,7 @@
   "title": "VMU minigame: Simon Bryan",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Simon_Bryan"
+   "ZZ_MG_Simon_Bryan"
   ],
   "region": "-",
   "files": [
@@ -885,7 +885,7 @@
   "title": "VMU minigame: Neko 2 2",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Neko_2_2"
+   "ZZ_MG_Neko_2_2"
   ],
   "region": "-",
   "files": [
@@ -901,7 +901,7 @@
   "title": "VMU minigame: Dragon Ball Z",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Dragon_Ball_Z"
+   "ZZ_MG_Dragon_Ball_Z"
   ],
   "region": "-",
   "files": [
@@ -917,7 +917,7 @@
   "title": "VMU minigame: circles",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_circles"
+   "ZZ_MG_circles"
   ],
   "region": "-",
   "files": [
@@ -933,7 +933,7 @@
   "title": "VMU minigame: DAngelo Music Video",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DAngelo_Music_Video"
+   "ZZ_MG_DAngelo_Music_Video"
   ],
   "region": "-",
   "files": [
@@ -949,7 +949,7 @@
   "title": "VMU minigame: Enemy Zero Training",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Enemy_Zero_Training"
+   "ZZ_MG_Enemy_Zero_Training"
   ],
   "region": "-",
   "files": [
@@ -965,7 +965,7 @@
   "title": "VMU minigame: Fast and Furious Animation",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Fast_and_Furious_Animation"
+   "ZZ_MG_Fast_and_Furious_Animation"
   ],
   "region": "-",
   "files": [
@@ -981,7 +981,7 @@
   "title": "VMU minigame: Greyscale Photo Demo",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Greyscale_Photo_Demo"
+   "ZZ_MG_Greyscale_Photo_Demo"
   ],
   "region": "-",
   "files": [
@@ -997,7 +997,7 @@
   "title": "VMU minigame: Matrix Reloaded vmu animat",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Matrix_Reloaded_vmu_animat"
+   "ZZ_MG_Matrix_Reloaded_vmu_animat"
   ],
   "region": "-",
   "files": [
@@ -1013,7 +1013,7 @@
   "title": "VMU minigame: Michael Jackson music vide",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Michael_Jackson_music_vide"
+   "ZZ_MG_Michael_Jackson_music_vide"
   ],
   "region": "-",
   "files": [
@@ -1029,7 +1029,7 @@
   "title": "VMU minigame: promotion video",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_promotion_video"
+   "ZZ_MG_promotion_video"
   ],
   "region": "-",
   "files": [
@@ -1045,7 +1045,7 @@
   "title": "VMU minigame: sun moon rise",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_sun_moon_rise"
+   "ZZ_MG_sun_moon_rise"
   ],
   "region": "-",
   "files": [
@@ -1061,7 +1061,7 @@
   "title": "VMU minigame: Where s Bruce",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Where_s_Bruce"
+   "ZZ_MG_Where_s_Bruce"
   ],
   "region": "-",
   "files": [
@@ -1078,7 +1078,7 @@
   "title": "VMU minigame: DCAnim actio 0003",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0003"
+   "ZZ_MG_DCAnim_actio_0003"
   ],
   "region": "-",
   "files": [
@@ -1095,7 +1095,7 @@
   "title": "VMU minigame: DCAnim actio 0004",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0004"
+   "ZZ_MG_DCAnim_actio_0004"
   ],
   "region": "-",
   "files": [
@@ -1112,7 +1112,7 @@
   "title": "VMU minigame: DCAnim actio 0005",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0005"
+   "ZZ_MG_DCAnim_actio_0005"
   ],
   "region": "-",
   "files": [
@@ -1129,7 +1129,7 @@
   "title": "VMU minigame: DCAnim actio 0006",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0006"
+   "ZZ_MG_DCAnim_actio_0006"
   ],
   "region": "-",
   "files": [
@@ -1146,7 +1146,7 @@
   "title": "VMU minigame: DCAnim actio 0008",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0008"
+   "ZZ_MG_DCAnim_actio_0008"
   ],
   "region": "-",
   "files": [
@@ -1163,7 +1163,7 @@
   "title": "VMU minigame: DCAnim actio 0009",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0009"
+   "ZZ_MG_DCAnim_actio_0009"
   ],
   "region": "-",
   "files": [
@@ -1180,7 +1180,7 @@
   "title": "VMU minigame: DCAnim actio 0010",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0010"
+   "ZZ_MG_DCAnim_actio_0010"
   ],
   "region": "-",
   "files": [
@@ -1197,7 +1197,7 @@
   "title": "VMU minigame: DCAnim actio 0012",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0012"
+   "ZZ_MG_DCAnim_actio_0012"
   ],
   "region": "-",
   "files": [
@@ -1214,7 +1214,7 @@
   "title": "VMU minigame: DCAnim actio 0013",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0013"
+   "ZZ_MG_DCAnim_actio_0013"
   ],
   "region": "-",
   "files": [
@@ -1231,7 +1231,7 @@
   "title": "VMU minigame: DCAnim actio 0015",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0015"
+   "ZZ_MG_DCAnim_actio_0015"
   ],
   "region": "-",
   "files": [
@@ -1248,7 +1248,7 @@
   "title": "VMU minigame: DCAnim actio 0016",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0016"
+   "ZZ_MG_DCAnim_actio_0016"
   ],
   "region": "-",
   "files": [
@@ -1265,7 +1265,7 @@
   "title": "VMU minigame: DCAnim actio 0017",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0017"
+   "ZZ_MG_DCAnim_actio_0017"
   ],
   "region": "-",
   "files": [
@@ -1282,7 +1282,7 @@
   "title": "VMU minigame: DCAnim actio 0018",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0018"
+   "ZZ_MG_DCAnim_actio_0018"
   ],
   "region": "-",
   "files": [
@@ -1299,7 +1299,7 @@
   "title": "VMU minigame: DCAnim actio 0019",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0019"
+   "ZZ_MG_DCAnim_actio_0019"
   ],
   "region": "-",
   "files": [
@@ -1316,7 +1316,7 @@
   "title": "VMU minigame: DCAnim actio 0020",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0020"
+   "ZZ_MG_DCAnim_actio_0020"
   ],
   "region": "-",
   "files": [
@@ -1333,7 +1333,7 @@
   "title": "VMU minigame: DCAnim actio 0021",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_actio_0021"
+   "ZZ_MG_DCAnim_actio_0021"
   ],
   "region": "-",
   "files": [
@@ -1350,7 +1350,7 @@
   "title": "VMU minigame: DCAnim adven 0001",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_adven_0001"
+   "ZZ_MG_DCAnim_adven_0001"
   ],
   "region": "-",
   "files": [
@@ -1367,7 +1367,7 @@
   "title": "VMU minigame: DCAnim arcad 0003",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_arcad_0003"
+   "ZZ_MG_DCAnim_arcad_0003"
   ],
   "region": "-",
   "files": [
@@ -1384,7 +1384,7 @@
   "title": "VMU minigame: DCAnim arcad 0009",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_arcad_0009"
+   "ZZ_MG_DCAnim_arcad_0009"
   ],
   "region": "-",
   "files": [
@@ -1401,7 +1401,7 @@
   "title": "VMU minigame: Game arcad 0011",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_arcad_0011"
+   "ZZ_MG_Game_arcad_0011"
   ],
   "region": "-",
   "files": [
@@ -1418,7 +1418,7 @@
   "title": "VMU minigame: Game arcad 0012",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_arcad_0012"
+   "ZZ_MG_Game_arcad_0012"
   ],
   "region": "-",
   "files": [
@@ -1435,7 +1435,7 @@
   "title": "VMU minigame: TRICKSTYLE JR VMU GAME",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_TRICKSTYLE_JR_VMU_GAME"
+   "ZZ_MG_TRICKSTYLE_JR_VMU_GAME"
   ],
   "region": "-",
   "files": [
@@ -1452,7 +1452,7 @@
   "title": "VMU minigame: Game clock 0001",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_clock_0001"
+   "ZZ_MG_Game_clock_0001"
   ],
   "region": "-",
   "files": [
@@ -1469,7 +1469,7 @@
   "title": "VMU minigame: Game clock 0002",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_clock_0002"
+   "ZZ_MG_Game_clock_0002"
   ],
   "region": "-",
   "files": [
@@ -1486,7 +1486,7 @@
   "title": "VMU minigame: GAME0003",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_GAME0003"
+   "ZZ_MG_GAME0003"
   ],
   "region": "-",
   "files": [
@@ -1503,7 +1503,7 @@
   "title": "VMU minigame: GAME0004",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_GAME0004"
+   "ZZ_MG_GAME0004"
   ],
   "region": "-",
   "files": [
@@ -1520,7 +1520,7 @@
   "title": "VMU minigame: Game demo 0001",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_demo_0001"
+   "ZZ_MG_Game_demo_0001"
   ],
   "region": "-",
   "files": [
@@ -1537,7 +1537,7 @@
   "title": "VMU minigame: Rotozoom",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Rotozoom"
+   "ZZ_MG_Rotozoom"
   ],
   "region": "-",
   "files": [
@@ -1554,7 +1554,7 @@
   "title": "VMU minigame: DCAnim demo 0003",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_demo_0003"
+   "ZZ_MG_DCAnim_demo_0003"
   ],
   "region": "-",
   "files": [
@@ -1571,7 +1571,7 @@
   "title": "VMU minigame: Game demo 0004",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_demo_0004"
+   "ZZ_MG_Game_demo_0004"
   ],
   "region": "-",
   "files": [
@@ -1588,7 +1588,7 @@
   "title": "VMU minigame: Soundengine demo",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Soundengine_demo"
+   "ZZ_MG_Soundengine_demo"
   ],
   "region": "-",
   "files": [
@@ -1605,7 +1605,7 @@
   "title": "VMU minigame: Sound rpging simplenet",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Sound_rpging_simplenet"
+   "ZZ_MG_Sound_rpging_simplenet"
   ],
   "region": "-",
   "files": [
@@ -1622,7 +1622,7 @@
   "title": "VMU minigame: Game demo 0007",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_demo_0007"
+   "ZZ_MG_Game_demo_0007"
   ],
   "region": "-",
   "files": [
@@ -1639,7 +1639,7 @@
   "title": "VMU minigame: DCAnim inter 0001",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0001"
+   "ZZ_MG_DCAnim_inter_0001"
   ],
   "region": "-",
   "files": [
@@ -1656,7 +1656,7 @@
   "title": "VMU minigame: DCAnim inter 0002",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0002"
+   "ZZ_MG_DCAnim_inter_0002"
   ],
   "region": "-",
   "files": [
@@ -1673,7 +1673,7 @@
   "title": "VMU minigame: DCAnim inter 0003",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0003"
+   "ZZ_MG_DCAnim_inter_0003"
   ],
   "region": "-",
   "files": [
@@ -1690,7 +1690,7 @@
   "title": "VMU minigame: DCAnim inter 0004",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0004"
+   "ZZ_MG_DCAnim_inter_0004"
   ],
   "region": "-",
   "files": [
@@ -1707,7 +1707,7 @@
   "title": "VMU minigame: DCAnim inter 0007",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0007"
+   "ZZ_MG_DCAnim_inter_0007"
   ],
   "region": "-",
   "files": [
@@ -1724,7 +1724,7 @@
   "title": "VMU minigame: DCAnim inter 0009",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0009"
+   "ZZ_MG_DCAnim_inter_0009"
   ],
   "region": "-",
   "files": [
@@ -1741,7 +1741,7 @@
   "title": "VMU minigame: DCAnim inter 0010",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0010"
+   "ZZ_MG_DCAnim_inter_0010"
   ],
   "region": "-",
   "files": [
@@ -1758,7 +1758,7 @@
   "title": "VMU minigame: DCAnim inter 0011",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0011"
+   "ZZ_MG_DCAnim_inter_0011"
   ],
   "region": "-",
   "files": [
@@ -1775,7 +1775,7 @@
   "title": "VMU minigame: DCAnim inter 0012",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0012"
+   "ZZ_MG_DCAnim_inter_0012"
   ],
   "region": "-",
   "files": [
@@ -1792,7 +1792,7 @@
   "title": "VMU minigame: DCAnim inter 0013",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0013"
+   "ZZ_MG_DCAnim_inter_0013"
   ],
   "region": "-",
   "files": [
@@ -1809,7 +1809,7 @@
   "title": "VMU minigame: DCAnim inter 0014",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0014"
+   "ZZ_MG_DCAnim_inter_0014"
   ],
   "region": "-",
   "files": [
@@ -1826,7 +1826,7 @@
   "title": "VMU minigame: DCAnim inter 0015",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_inter_0015"
+   "ZZ_MG_DCAnim_inter_0015"
   ],
   "region": "-",
   "files": [
@@ -1843,7 +1843,7 @@
   "title": "VMU minigame: SONIC ADVENTURE 2 CHAO",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_SONIC_ADVENTURE_2_CHAO"
+   "ZZ_MG_SONIC_ADVENTURE_2_CHAO"
   ],
   "region": "-",
   "files": [
@@ -1857,10 +1857,10 @@
   "dir": "disc_bs_minigames",
   "restricted": "blueswirl",
   "outdir": "Dreamcast",
-  "title": "VMU minigame: SONIC ADVENTURE 2 0003",
+  "title": "VMU minigame: SONIC ADVENTUR 0003",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_SONIC_ADVENTURE_2_0003"
+   "ZZ_MG_SONIC_ADVENTUR_0003"
   ],
   "region": "-",
   "files": [
@@ -1877,7 +1877,7 @@
   "title": "VMU minigame: Game misc 0006",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_misc_0006"
+   "ZZ_MG_Game_misc_0006"
   ],
   "region": "-",
   "files": [
@@ -1894,7 +1894,7 @@
   "title": "VMU minigame: SegaGT Mini Game",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_SegaGT_Mini_Game"
+   "ZZ_MG_SegaGT_Mini_Game"
   ],
   "region": "-",
   "files": [
@@ -1908,10 +1908,10 @@
   "dir": "disc_bs_minigames",
   "restricted": "blueswirl",
   "outdir": "Dreamcast",
-  "title": "VMU minigame: SegaGT Mini Game 0013",
+  "title": "VMU minigame: SegaGT Mini Ga 0013",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_SegaGT_Mini_Game_0013"
+   "ZZ_MG_SegaGT_Mini_Ga_0013"
   ],
   "region": "-",
   "files": [
@@ -1925,10 +1925,10 @@
   "dir": "disc_bs_minigames",
   "restricted": "blueswirl",
   "outdir": "Dreamcast",
-  "title": "VMU minigame: SegaGT Mini Game 0014",
+  "title": "VMU minigame: SegaGT Mini Ga 0014",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_SegaGT_Mini_Game_0014"
+   "ZZ_MG_SegaGT_Mini_Ga_0014"
   ],
   "region": "-",
   "files": [
@@ -1945,7 +1945,7 @@
   "title": "VMU minigame: POWER STONE MINI",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_POWER_STONE_MINI"
+   "ZZ_MG_POWER_STONE_MINI"
   ],
   "region": "-",
   "files": [
@@ -1962,7 +1962,7 @@
   "title": "VMU minigame: VMU Gong",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_VMU_Gong"
+   "ZZ_MG_VMU_Gong"
   ],
   "region": "-",
   "files": [
@@ -1979,7 +1979,7 @@
   "title": "VMU minigame: DCAnim misc 0021",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_misc_0021"
+   "ZZ_MG_DCAnim_misc_0021"
   ],
   "region": "-",
   "files": [
@@ -1996,7 +1996,7 @@
   "title": "VMU minigame: ZOMBIE REVENGE TRAININ",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_ZOMBIE_REVENGE_TRAININ"
+   "ZZ_MG_ZOMBIE_REVENGE_TRAININ"
   ],
   "region": "-",
   "files": [
@@ -2013,7 +2013,7 @@
   "title": "VMU minigame: ID Calculator",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_ID_Calculator"
+   "ZZ_MG_ID_Calculator"
   ],
   "region": "-",
   "files": [
@@ -2030,7 +2030,7 @@
   "title": "VMU minigame: Game rocki b 3d",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_rocki_b_3d"
+   "ZZ_MG_Game_rocki_b_3d"
   ],
   "region": "-",
   "files": [
@@ -2047,7 +2047,7 @@
   "title": "VMU minigame: VMU All Stars 1",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_VMU_All_Stars_1"
+   "ZZ_MG_VMU_All_Stars_1"
   ],
   "region": "-",
   "files": [
@@ -2064,7 +2064,7 @@
   "title": "VMU minigame: A simple Calculator",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_A_simple_Calculator"
+   "ZZ_MG_A_simple_Calculator"
   ],
   "region": "-",
   "files": [
@@ -2081,7 +2081,7 @@
   "title": "VMU minigame: Game rocki  sg2",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_rocki__sg2"
+   "ZZ_MG_Game_rocki__sg2"
   ],
   "region": "-",
   "files": [
@@ -2098,7 +2098,7 @@
   "title": "VMU minigame: DCAnim sport 0001",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_sport_0001"
+   "ZZ_MG_DCAnim_sport_0001"
   ],
   "region": "-",
   "files": [
@@ -2115,7 +2115,7 @@
   "title": "VMU minigame: DCAnim sport 0002",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_sport_0002"
+   "ZZ_MG_DCAnim_sport_0002"
   ],
   "region": "-",
   "files": [
@@ -2132,7 +2132,7 @@
   "title": "VMU minigame: DCAnim sport 0005",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_sport_0005"
+   "ZZ_MG_DCAnim_sport_0005"
   ],
   "region": "-",
   "files": [
@@ -2149,7 +2149,7 @@
   "title": "VMU minigame: 4 Wins 0001",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_4_Wins_0001"
+   "ZZ_MG_4_Wins_0001"
   ],
   "region": "-",
   "files": [
@@ -2166,7 +2166,7 @@
   "title": "VMU minigame: Game strat 0002",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_strat_0002"
+   "ZZ_MG_Game_strat_0002"
   ],
   "region": "-",
   "files": [
@@ -2183,7 +2183,7 @@
   "title": "VMU minigame: Game strat 0003",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Game_strat_0003"
+   "ZZ_MG_Game_strat_0003"
   ],
   "region": "-",
   "files": [
@@ -2200,7 +2200,7 @@
   "title": "VMU minigame: DCAnim strat 0004",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_DCAnim_strat_0004"
+   "ZZ_MG_DCAnim_strat_0004"
   ],
   "region": "-",
   "files": [
@@ -2217,7 +2217,7 @@
   "title": "VMU minigame: Lights GAME by",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_Lights_GAME_by"
+   "ZZ_MG_Lights_GAME_by"
   ],
   "region": "-",
   "files": [
@@ -2234,7 +2234,7 @@
   "title": "VMU minigame: VMU Script",
   "rname": "(not a disc: standalone VMU minigame)",
   "ids": [
-   "MG_VMU_Script"
+   "ZZ_MG_VMU_Script"
   ],
   "region": "-",
   "files": [
@@ -2250,7 +2250,7 @@
   "title": "Cheat-device code save: Action Replay CDX code save (many codes loaded)",
   "rname": "(cheat device data, not a disc)",
   "ids": [
-   "CHEATARCDX01"
+   "ZZ_CHEATARCDX01"
   ],
   "region": "-",
   "files": [
@@ -2266,7 +2266,7 @@
   "title": "Cheat-device code save: Action Replay CDX code save: 423 games, all regions",
   "rname": "(cheat device data, not a disc)",
   "ids": [
-   "CHEATARCDX02"
+   "ZZ_CHEATARCDX02"
   ],
   "region": "-",
   "files": [
@@ -2282,7 +2282,7 @@
   "title": "Cheat-device code save: GameShark CDX code save",
   "rname": "(cheat device data, not a disc)",
   "ids": [
-   "CHEATGSCDX01"
+   "ZZ_CHEATGSCDX01"
   ],
   "region": "-",
   "files": [
@@ -2298,7 +2298,7 @@
   "title": "Cheat-device code save: GameShark CDX code save",
   "rname": "(cheat device data, not a disc)",
   "ids": [
-   "CHEATGSCDX02"
+   "ZZ_CHEATGSCDX02"
   ],
   "region": "-",
   "files": [
@@ -2314,7 +2314,7 @@
   "title": "Cheat-device code save: Code Breaker / Xploder DC code save (30 games)",
   "rname": "(cheat device data, not a disc)",
   "ids": [
-   "CHEATXPLODER30"
+   "ZZ_CHEATXPLODER30"
   ],
   "region": "-",
   "files": [
@@ -2330,7 +2330,7 @@
   "title": "Cheat-device code save: GameShark CDX codes for Phantasy Star Online (JP & US)",
   "rname": "(cheat device data, not a disc)",
   "ids": [
-   "CHEATPSOGS"
+   "ZZ_CHEATPSOGS"
   ],
   "region": "-",
   "files": [
@@ -2346,7 +2346,7 @@
   "title": "Cheat-device code save: Xploder codes for Phantasy Star Online Ver. 2",
   "rname": "(cheat device data, not a disc)",
   "ids": [
-   "CHEATPSO2XP"
+   "ZZ_CHEATPSO2XP"
   ],
   "region": "-",
   "files": [
@@ -2362,7 +2362,7 @@
   "title": "Cheat-device code save: GameShark codes for Phantasy Star Online Ver. 2",
   "rname": "(cheat device data, not a disc)",
   "ids": [
-   "CHEATPSO2GS"
+   "ZZ_CHEATPSO2GS"
   ],
   "region": "-",
   "files": [
@@ -2378,7 +2378,7 @@
   "title": "Cheat-device code save: GameShark codes for Soldier of Fortune (unlimited armor/ammo)",
   "rname": "(cheat device data, not a disc)",
   "ids": [
-   "CHEATSOFGS"
+   "ZZ_CHEATSOFGS"
   ],
   "region": "-",
   "files": [

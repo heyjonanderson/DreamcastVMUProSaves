@@ -44,3 +44,4 @@ Not yet built: Virtua Tennis (virtuatennis -> 51054, virtuatennis2 -> 51186), th
 
 - ID cross-check (tools/verify_ids.py with K3zter save-db.csv) found 3 wrong-game saves, fixed: Xtreme Sports (XTREMESP vs EXTREMES = Sega Extreme Sports), F1 World Grand Prix (F1WGP4DC_ vs F1WGP4DC2 = II), Silent Scope (SSCOPE01 US vs SILENT01 JP). Added cards: Sega Extreme Sports (EU, JP), F1 World Grand Prix II (JP). Alias IDs kept where sources disagree (nightcreature2 T9504N).
 - GameID quirk found on device: three US discs have header numbers with a trailing ' 00' (Hoyle Casino 'T-11008N 00', Armada 'T-40301N 00', Wild Metal 'T-42101N 00'); the VMU Pro did not name those cards. Folders are now T11008N, T40301N, T42101N (drop the trailing 00; VMU Pro partial-match rule).
+- Extras renamed with a ZZ_ prefix (ZZ_MG_<game>, ZZ_CHEAT*) so the VMU Browser's alphabetical list puts them last.

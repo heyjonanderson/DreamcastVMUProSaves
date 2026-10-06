@@ -2,7 +2,7 @@
 const fs=require('fs');
 function parse(t){const rows=[];let r=[],c='',q=false;for(let i=0;i<t.length;i++){const ch=t[i];if(q){if(ch=='"'){if(t[i+1]=='"'){c+='"';i++}else q=false}else c+=ch}else if(ch=='"')q=true;else if(ch==',')r.push(c),c='';else if(ch=='\n'){r.push(c.replace(/\r$/,''));rows.push(r);r=[];c=''}else c+=ch}return rows}
 const rep=parse(fs.readFileSync('_project/report.csv','utf8')).slice(1).filter(r=>r.length>5);
-const isExtra=r=>/^(MG_|MINIGAMES|CHEAT)/.test(r[1]);
+const isExtra=r=>/^ZZ_/.test(r[1]);
 const games={};for(const r of rep.filter(r=>!isExtra(r)))(games[r[0]]=games[r[0]]||[]).push(r);
 const ex=rep.filter(isExtra);
 const ready=[],nr=[];for(const [t,rs] of Object.entries(games))(rs.every(r=>r[8]==='ready')?ready:nr).push([t,rs]);
