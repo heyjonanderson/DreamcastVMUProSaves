@@ -1,7 +1,7 @@
 # Card index
 
 Find a game, open its folder or download the single card. **Folder names are disc IDs** (that is how the VMU Pro finds the card).
-Prefer search and a build-your-own SD zip? Use the catalog website: **https://heyjonanderson.github.io/DreamcastVMUProSaves/** (or open `docs/index.html` from a download).
+Prefer search and a build-your-own SD zip? Use the catalog website: **https://heyjonanderson.github.io/DreamcastVMUProSaves/**
 
 | Legend | |
 |---|---|

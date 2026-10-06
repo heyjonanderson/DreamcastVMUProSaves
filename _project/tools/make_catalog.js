@@ -20,7 +20,7 @@ const enc=p=>p.split('/').map(encodeURIComponent).join('/');
 const raw=id=>`https://github.com/${USER}/raw/${BR}/vmupro/Dreamcast/${id}/${id}-1.vmu`;
 // ---- INDEX.md
 const L=['# Card index','','Find a game, open its folder or download the single card. **Folder names are disc IDs** (that is how the VMU Pro finds the card).',
- `Prefer search and a build-your-own SD zip? Use the catalog website: **https://heyjonanderson.github.io/DreamcastVMUProSaves/** (or open \`docs/index.html\` from a download).`,'',
+ `Prefer search and a build-your-own SD zip? Use the catalog website: **https://heyjonanderson.github.io/DreamcastVMUProSaves/**`,'',
  '| Legend | |','|---|---|','| ✅ | save judged complete or best available |','| ⚠️ | needs review (reason in `_project/report.csv` and [STEP3_REPORT.md](STEP3_REPORT.md)) |','',
  `${items.filter(i=>i.k==='game').length} games · ${items.filter(i=>i.k==='minigame').length} VMU minigames · ${items.filter(i=>i.k==='cheat').length} cheat-device cards`,''];
 const games=items.filter(i=>i.k==='game'),letters=[...new Set(games.map(i=>/^[A-Za-z]/.test(i.t)?i.t[0].toUpperCase():'#'))];
