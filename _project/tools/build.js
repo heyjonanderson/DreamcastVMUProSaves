@@ -73,5 +73,22 @@ index.slice(1).sort((a,b)=>a[1].localeCompare(b[1]));
 const idxRows=[index[0],...index.slice(1).sort((a,b)=>a[1].localeCompare(b[1])||a[0].localeCompare(b[0]))];
 fs.writeFileSync(path.join(ROOT,'INDEX.csv'),csv(idxRows));
 fs.writeFileSync(path.join(ROOT,'INDEX.md'),'# Card index (SD card path /dreamcast/<folder>/<folder>_1.vmu -> game)\n\n| Folder | Game | Region | Status | Save |\n|---|---|---|---|---|\n'+idxRows.slice(1).map(r=>`| ${r[0]} | ${r[1]} | ${r[2]} | ${r[3]} | ${r[6]} |`).join('\n')+'\n');
+
+// Human-readable browse tree: by-title/<Game title> [REGION]/<ID>_1.vmu (copies of the cards), plus a README in vmupro/dreamcast that GitHub renders under the folder list.
+if(!only.length){
+  const bt=path.join(ROOT,'by-title');fs.rmSync(bt,{recursive:true,force:true});
+  const safe=t=>t.replace(/[<>:"\/\\|?*]/g,' -').replace(/\s+/g,' ').replace(/[. ]+$/,'').trim();
+  const used=new Set();
+  for(const s of sel){
+    let name=safe(s.title)+(s.region&&s.region!=='-'?' ['+s.region+']':'');
+    if(/^MINIGAMES|^CHEAT/.test(s.ids[0]))name='_Extras/'+safe(s.title.replace(/^VMU minigames (\d+)/,'Minigames $1'))+' ('+s.ids[0]+')';
+    if(used.has(name.toLowerCase()))name+=' ('+s.ids[0]+')';used.add(name.toLowerCase());
+    const d=path.join(bt,...name.split('/'));fs.mkdirSync(d,{recursive:true});
+    for(const id of s.ids){const f=id.replace(/[-\s]/g,'');const src=path.join(ROOT,'vmupro',...(s.outdir||'dreamcast').split('/'),f,f+'_1.vmu');if(fs.existsSync(src))fs.copyFileSync(src,path.join(d,f+'_1.vmu'));}
+  }
+  const rd=['# vmupro/dreamcast: folder -> game','','Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to the disc ID), so they are not readable. This is the lookup; the same table with more detail is in [INDEX.md](../../INDEX.md), and a browsable copy named by title is in [by-title/](../../by-title).','','| Folder | Game | Region | Status |','|---|---|---|---|',...idxRows.slice(1).map(r=>`| [${r[0]}](${r[0]}) | ${r[1].replace(/\|/g,'/')} | ${r[2]} | ${r[3]} |`),''];
+  fs.writeFileSync(path.join(ROOT,'vmupro','dreamcast','README.md'),rd.join('\n'));
+  fs.writeFileSync(path.join(bt,'README.md'),'# by-title\n\nSame cards as `vmupro/dreamcast/`, in folders named by game title for browsing. These are **not** laid out for the VMU Pro: to use a card, copy it from `vmupro/dreamcast/<ID>/` (folder name must be the product ID) or rename the folder to the ID shown in the card filename. See the top-level README and INDEX.md.\n');
+}
 w('credits.csv',credits);w('report.csv',report);w('saves_all.csv',allSaves);
 console.log('cards built; problems:',problems.length);problems.forEach(x=>console.log(' -',x));

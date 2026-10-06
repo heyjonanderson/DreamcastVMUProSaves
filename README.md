@@ -14,7 +14,10 @@ Redump Dreamcast database; discs with several IDs get the same card under each I
    `/dreamcast/T1201N/T1201N_1.vmu`, etc. You can copy only the games you want.
 3. Put the card in the VMU Pro, boot a game. If the folder name matches the game's ID the VMU Pro loads that card
    automatically (the card is channel 1; this repo supplies channel 1 only).
-4. Find a game's folder in **[INDEX.md](INDEX.md)** (Ctrl-F the title). `INDEX.csv` is the same table for spreadsheets.
+4. Folder names on the SD card must be product IDs (that is how the VMU Pro finds the right card), so they are not readable.
+   To find a game: browse **[by-title/](by-title)** (folders named by game title), open **[INDEX.md](INDEX.md)** and Ctrl-F the title,
+   or see the table GitHub shows under `vmupro/dreamcast/` (`INDEX.csv` is the same data for spreadsheets). Always copy cards
+   from `vmupro/dreamcast/`, not `by-title/`. (`vmupro/dreamcast/README.md` is just a lookup file; the VMU Pro ignores it.)
 
 ### Try one first
 Copy a single folder such as `T1201N` (Marvel vs. Capcom) or `51000` (Sonic Adventure), boot that game, check the save
@@ -42,6 +45,7 @@ and saving. The original `.VMI`/`.VMS` files are in `originals/minigames/`.
 | Path | Contents |
 |---|---|
 | `vmupro/dreamcast/<ID>/<ID>_1.vmu` | The cards. Game cards use the product ID; extras are `MINIGAMES01-26`, `CHEAT*` |
+| `by-title/<Game title> [REGION]/` | Browsable copy of every card in folders named by title (not SD layout) |
 | `INDEX.md`, `INDEX.csv` | Folder -> game title, region, status, Redump title, save used |
 | `STEP3_REPORT.md` | Overall status and the list of cards still needing review |
 | `originals/<game>/` | All original `.VMI`/`.VMS` files and descriptions from the source archive |
