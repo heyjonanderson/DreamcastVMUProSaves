@@ -20,7 +20,7 @@ const enc=p=>p.split('/').map(encodeURIComponent).join('/');
 const raw=id=>`https://github.com/${USER}/raw/${BR}/vmupro/Dreamcast/${id}/${id}-1.vmu`;
 // ---- INDEX.md
 const L=['# Card index','','Find a game, open its folder or download the single card. **Folder names are disc IDs** (that is how the VMU Pro finds the card).',
- `Prefer search and a build-your-own SD zip? Use the catalog page: **[docs/index.html](docs/index.html)** (open it from a download, or enable GitHub Pages on \`/docs\`).`,'',
+ `Prefer search and a build-your-own SD zip? Open the catalog page: **[hosted copy](https://raw.githack.com/${USER}/${BR}/docs/index.html)** (third-party viewer for GitHub files) or download the repo and open \`docs/index.html\` in your browser.`,'',
  '| Legend | |','|---|---|','| ✅ | save judged complete or best available |','| ⚠️ | needs review (reason in `_project/report.csv` and [STEP3_REPORT.md](STEP3_REPORT.md)) |','',
  `${items.filter(i=>i.k==='game').length} games · ${items.filter(i=>i.k==='minigame').length} VMU minigames · ${items.filter(i=>i.k==='cheat').length} cheat-device cards`,''];
 const games=items.filter(i=>i.k==='game'),letters=[...new Set(games.map(i=>/^[A-Za-z]/.test(i.t)?i.t[0].toUpperCase():'#'))];
@@ -50,7 +50,7 @@ Folder names are disc IDs. <a href="https://github.com/${USER}#readme">README</a
 <div class="bar" style="position:static"><button id="all">Select visible</button><button id="none">Clear</button><button id="zip" class="p">Build SD zip (<span id="n">0</span>)</button><span id="msg" class="sm"></span></div>
 <table><thead><tr><th></th><th>Game</th><th class="hm">Folder</th><th>Region</th><th></th><th>Card</th></tr></thead><tbody id="t"></tbody></table>
 <p class="sm" id="cnt"></p></main>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script>${fs.readFileSync(path.join(__dirname,"vendor","jszip.min.js"),"utf8")}</script>
 <script>const D=${JSON.stringify(items)};const U='${USER}',B='${BR}';const sel=new Set();
 const $=id=>document.getElementById(id);const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function vis(){const q=$('q').value.toLowerCase(),r=$('r').value,k=$('k').value,s=$('s').value;return D.filter(i=>(!q||i.t.toLowerCase().includes(q)||i.id.toLowerCase().includes(q))&&(!r||i.r===r)&&(!k||i.k===k)&&(!s||i.s===s));}
@@ -60,7 +60,7 @@ document.addEventListener('change',e=>{if(e.target.dataset&&e.target.dataset.id)
 $('all').onclick=()=>{vis().forEach(i=>sel.add(i.id));render()};$('none').onclick=()=>{sel.clear();render()};
 $('zip').onclick=async()=>{if(!sel.size){$('msg').textContent='Tick some games first.';return}const z=new JSZip();let n=0;
  for(const id of sel){$('msg').textContent='Fetching '+(++n)+' of '+sel.size+'…';try{const r=await fetch('https://raw.githubusercontent.com/'+U+'/'+B+'/vmupro/Dreamcast/'+id+'/'+id+'-1.vmu');if(!r.ok)throw 0;z.file('Dreamcast/'+id+'/'+id+'-1.vmu',await r.arrayBuffer());}catch(e){$('msg').textContent='Failed on '+id;return}}
- const b=await z.generateAsync({type:'blob'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='VMUPro-SD-card-custom.zip';a.click();$('msg').textContent='Done. Extract to the root of the SD card.';};
+ const b=await z.generateAsync({type:'blob',compression:'DEFLATE',compressionOptions:{level:9}});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='VMUPro-SD-card-custom.zip';a.click();$('msg').textContent='Done. Extract to the root of the SD card.';};
 render();</script></body></html>`;
 fs.mkdirSync(path.join(ROOT,'docs'),{recursive:true});fs.writeFileSync(path.join(ROOT,'docs','index.html'),html);
 console.log(items.length,'catalog entries; INDEX.md',L.join('\n').length,'bytes; docs/index.html',html.length,'bytes');
