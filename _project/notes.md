@@ -32,3 +32,5 @@ Not yet built: Virtua Tennis (virtuatennis -> 51054, virtuatennis2 -> 51186), th
 - `tools/check_cards.py`: independent card checker (run from repo root).
 
 - Layout fix: VMU Pro convention is /dreamcast/<GAMEID>/<GAMEID>_1.vmu (underscore, lowercase root), per 8BitMods docs (via search summaries; the wiki itself was not fetchable from here). Earlier commits used `Dreamcast/<ID>/<ID>-1.vmu`. Extras are plain folders (MINIGAMES01-26, CHEAT*) in the same dir; the old `_EXTRAS` subfolder was dropped.
+
+- CORRECTION (supersedes the layout note above): official 8BitMods docs (Importing Saves page, read from the saved HTML) say `Dreamcast\<name>\<name>-1.vmu`, HYPHEN, and GameID folder = ID with dashes/spaces stripped, partial match by dropping last 2 digits. A search-summary had suggested underscore/lowercase, which was wrong and made cards not appear in the VMU Browser. Layout restored to Dreamcast/<ID>/<ID>-1.vmu with uppercase IDs (as in the docs example). K3zter/vmu-save-splitter uses the same form.

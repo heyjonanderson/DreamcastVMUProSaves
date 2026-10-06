@@ -1,7 +1,7 @@
 [
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 01: Homebrew & fan minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -18,7 +18,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 02: Homebrew & fan minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -37,7 +37,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 03: Homebrew & fan minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -57,7 +57,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 04: Homebrew & fan minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -84,7 +84,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 05: Homebrew & fan minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -105,7 +105,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 06: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -122,7 +122,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 07: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -139,7 +139,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 08: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -156,7 +156,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 09: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -173,7 +173,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 10: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -190,7 +190,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 11: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -207,7 +207,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 12: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -223,7 +223,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 13: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -240,7 +240,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 14: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -257,7 +257,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 15: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -273,7 +273,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 16: Official / publisher minigames",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -289,7 +289,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 17: Animations & music videos",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -307,7 +307,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 18: Animations & music videos",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -325,7 +325,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 19: Animations & music videos",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -342,7 +342,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 20: Animations & music videos",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -360,7 +360,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 21: Animations & music videos",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -377,7 +377,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 22: Animations & music videos",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -394,7 +394,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 23: Animations & music videos",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -410,7 +410,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 24: Animations & music videos",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -426,7 +426,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 25: Animations & music videos",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -442,7 +442,7 @@
  },
  {
   "dir": "minigames",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "VMU minigames 26: Animations & music videos",
   "rname": "(not a disc: standalone VMU minigame collection)",
   "ids": [
@@ -458,7 +458,7 @@
  },
  {
   "dir": "arcdx",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "Cheat-device code save: Action Replay CDX code save (many codes loaded)",
   "rname": "(cheat device data, not a disc)",
   "ids": [
@@ -474,7 +474,7 @@
  },
  {
   "dir": "arcdx",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "Cheat-device code save: Action Replay CDX code save: 423 games, all regions",
   "rname": "(cheat device data, not a disc)",
   "ids": [
@@ -490,7 +490,7 @@
  },
  {
   "dir": "gscdx",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "Cheat-device code save: GameShark CDX code save",
   "rname": "(cheat device data, not a disc)",
   "ids": [
@@ -506,7 +506,7 @@
  },
  {
   "dir": "gscdx",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "Cheat-device code save: GameShark CDX code save",
   "rname": "(cheat device data, not a disc)",
   "ids": [
@@ -522,7 +522,7 @@
  },
  {
   "dir": "xploder",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "Cheat-device code save: Code Breaker / Xploder DC code save (30 games)",
   "rname": "(cheat device data, not a disc)",
   "ids": [
@@ -538,7 +538,7 @@
  },
  {
   "dir": "pso",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "Cheat-device code save: GameShark CDX codes for Phantasy Star Online (JP & US)",
   "rname": "(cheat device data, not a disc)",
   "ids": [
@@ -554,7 +554,7 @@
  },
  {
   "dir": "pso2",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "Cheat-device code save: Xploder codes for Phantasy Star Online Ver. 2",
   "rname": "(cheat device data, not a disc)",
   "ids": [
@@ -570,7 +570,7 @@
  },
  {
   "dir": "pso2",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "Cheat-device code save: GameShark codes for Phantasy Star Online Ver. 2",
   "rname": "(cheat device data, not a disc)",
   "ids": [
@@ -586,7 +586,7 @@
  },
  {
   "dir": "soldierfortune",
-  "outdir": "dreamcast",
+  "outdir": "Dreamcast",
   "title": "Cheat-device code save: GameShark codes for Soldier of Fortune (unlimited armor/ammo)",
   "rname": "(cheat device data, not a disc)",
   "ids": [

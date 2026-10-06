@@ -3,7 +3,7 @@ import sys,os,struct
 bad=0;n=0
 def bcd_ok(b): return all(((x>>4)<10 and (x&15)<10) for x in b)
 import glob
-for p in sorted(glob.glob('vmupro/**/*.vmu',recursive=True)):
+for p in sorted(glob.glob("vmupro/**/*.vmu",recursive=True)):
     if True:
         b=open(p,'rb').read();n+=1;errs=[]
         if len(b)!=131072: errs.append('size')

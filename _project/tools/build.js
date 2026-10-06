@@ -42,9 +42,9 @@ for(const s of sel){
   const files=used.map(u=>({name:u.vmi.name,data:u.data,type:(u.vmi.mode&2)?0xcc:0x33,protect:!!(u.vmi.mode&1),time:u.vmi.time}));
   const img=V.build(files);
   for(const id of s.ids){
-    const folder=id.replace(/[-\s]/g,'').toLowerCase();
-    const dir=path.join(ROOT,'vmupro',...(s.outdir||'dreamcast').split('/'),folder);fs.mkdirSync(dir,{recursive:true});
-    const out=path.join(dir,folder+'_1.vmu');fs.writeFileSync(out,img);
+    const folder=id.replace(/[-\s]/g,'');
+    const dir=path.join(ROOT,'vmupro',...(s.outdir||'Dreamcast').split('/'),folder);fs.mkdirSync(dir,{recursive:true});
+    const out=path.join(dir,folder+'-1.vmu');fs.writeFileSync(out,img);
     credits.push([]);credits.pop();
     used.forEach(u=>credits.push([s.title,id,s.region,`src/${s.dir}/${u.row.vmi}`,REPO+s.dir+'/'+path.basename(u.vmsP),u.row.creator,u.row.desc,path.basename(u.vmiP),path.basename(u.vmsP),'VMI+VMS (single save, wrapped into 128KB card)',u.row.fname,Math.ceil(u.data.length/512)]));
     // validate by parsing back from disk
@@ -67,14 +67,14 @@ const merge=(f,rows)=>{ // keep rows of other games on partial runs
 // human-readable index: folder -> game title (also written to repo root)
 const index=[['folder','game','region','status','redump_title','archive_dir','save_chosen']];
 for(const s of sel){if(only.length&&!only.includes(s.dir))continue;
-  for(const id of s.ids){const folder=id.replace(/[-\s]/g,'').toLowerCase();const r=report.find(x=>x[1]===folder&&x[0]===s.title);
+  for(const id of s.ids){const folder=id.replace(/[-\s]/g,'');const r=report.find(x=>x[1]===folder&&x[0]===s.title);
     if(r)index.push([folder,s.title,s.region,r[8],s.rname||s.title,s.dir,r[4]]);}}
 index.slice(1).sort((a,b)=>a[1].localeCompare(b[1]));
 const idxRows=[index[0],...index.slice(1).sort((a,b)=>a[1].localeCompare(b[1])||a[0].localeCompare(b[0]))];
 fs.writeFileSync(path.join(ROOT,'INDEX.csv'),csv(idxRows));
-fs.writeFileSync(path.join(ROOT,'INDEX.md'),'# Card index (SD card path /dreamcast/<folder>/<folder>_1.vmu -> game)\n\n| Folder | Game | Region | Status | Save |\n|---|---|---|---|---|\n'+idxRows.slice(1).map(r=>`| ${r[0]} | ${r[1]} | ${r[2]} | ${r[3]} | ${r[6]} |`).join('\n')+'\n');
+fs.writeFileSync(path.join(ROOT,'INDEX.md'),'# Card index (SD card path /Dreamcast/<folder>/<folder>-1.vmu -> game)\n\n| Folder | Game | Region | Status | Save |\n|---|---|---|---|---|\n'+idxRows.slice(1).map(r=>`| ${r[0]} | ${r[1]} | ${r[2]} | ${r[3]} | ${r[6]} |`).join('\n')+'\n');
 
-// Human-readable browse tree: by-title/<Game title> [REGION]/<ID>_1.vmu (copies of the cards), plus a README in vmupro/dreamcast that GitHub renders under the folder list.
+// Human-readable browse tree: by-title/<Game title> [REGION]/<ID>-1.vmu (copies of the cards), plus a README in vmupro/Dreamcast that GitHub renders under the folder list.
 if(!only.length){
   const bt=path.join(ROOT,'by-title');fs.rmSync(bt,{recursive:true,force:true});
   const safe=t=>t.replace(/[<>:"\/\\|?*]/g,' -').replace(/\s+/g,' ').replace(/[. ]+$/,'').trim();
@@ -84,11 +84,11 @@ if(!only.length){
     if(/^MINIGAMES|^CHEAT/.test(s.ids[0]))name='_Extras/'+safe(s.title.replace(/^VMU minigames (\d+)/,'Minigames $1'))+' ('+s.ids[0]+')';
     if(used.has(name.toLowerCase()))name+=' ('+s.ids[0]+')';used.add(name.toLowerCase());
     const d=path.join(bt,...name.split('/'));fs.mkdirSync(d,{recursive:true});
-    for(const id of s.ids){const f=id.replace(/[-\s]/g,'').toLowerCase();const src=path.join(ROOT,'vmupro',...(s.outdir||'dreamcast').split('/'),f,f+'_1.vmu');if(fs.existsSync(src))fs.copyFileSync(src,path.join(d,f+'_1.vmu'));}
+    for(const id of s.ids){const f=id.replace(/[-\s]/g,'');const src=path.join(ROOT,'vmupro',...(s.outdir||'Dreamcast').split('/'),f,f+'-1.vmu');if(fs.existsSync(src))fs.copyFileSync(src,path.join(d,f+'-1.vmu'));}
   }
-  const rd=['# vmupro/dreamcast: folder -> game','','Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to the disc ID), so they are not readable. This is the lookup; the same table with more detail is in [INDEX.md](../../INDEX.md), and a browsable copy named by title is in [by-title/](../../by-title).','','| Folder | Game | Region | Status |','|---|---|---|---|',...idxRows.slice(1).map(r=>`| [${r[0]}](${r[0]}) | ${r[1].replace(/\|/g,'/')} | ${r[2]} | ${r[3]} |`),''];
-  fs.writeFileSync(path.join(ROOT,'vmupro','dreamcast','README.md'),rd.join('\n'));
-  fs.writeFileSync(path.join(bt,'README.md'),'# by-title\n\nSame cards as `vmupro/dreamcast/`, in folders named by game title for browsing. These are **not** laid out for the VMU Pro: to use a card, copy it from `vmupro/dreamcast/<ID>/` (folder name must be the product ID) or rename the folder to the ID shown in the card filename. See the top-level README and INDEX.md.\n');
+  const rd=['# vmupro/Dreamcast: folder -> game','','Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to the disc ID), so they are not readable. This is the lookup; the same table with more detail is in [INDEX.md](../../INDEX.md), and a browsable copy named by title is in [by-title/](../../by-title).','','| Folder | Game | Region | Status |','|---|---|---|---|',...idxRows.slice(1).map(r=>`| [${r[0]}](${r[0]}) | ${r[1].replace(/\|/g,'/')} | ${r[2]} | ${r[3]} |`),''];
+  fs.writeFileSync(path.join(ROOT,'vmupro','Dreamcast','README.md'),rd.join('\n'));
+  fs.writeFileSync(path.join(bt,'README.md'),'# by-title\n\nSame cards as `vmupro/Dreamcast/`, in folders named by game title for browsing. These are **not** laid out for the VMU Pro: to use a card, copy it from `vmupro/Dreamcast/<ID>/` (folder name must be the product ID) or rename the folder to the ID shown in the card filename. See the top-level README and INDEX.md.\n');
 }
 w('credits.csv',credits);w('report.csv',report);w('saves_all.csv',allSaves);
 console.log('cards built; problems:',problems.length);problems.forEach(x=>console.log(' -',x));
