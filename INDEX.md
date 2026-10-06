@@ -17,6 +17,7 @@
 | T20107M | Angel Present | JP | ready | angelpre.VMI |
 | T40301N | Armada | US | needs review | v51270.vmi |
 | T9715N | Army Men: Sarge's Heroes | US | ready | v93695.vmi |
+| T15130N | Atari Anniversary Edition (VMU icon only) | US | needs review | ATARI.VMI |
 | T44102N | Bang! Gunship Elite | US | ready | v73147.vmi |
 | T40217N | Bangai-O | US | needs review | v95185.vmi |
 | T20101M | Black Matrix Advanced | JP | ready | blackad1.VMI |
@@ -27,25 +28,34 @@
 | T8117N | Bust A Move 4 | US | ready | pb4us.VMI |
 | T13007N | Buzz Lightyear of Star Command | US | ready | v74825.vmi |
 | T12504N | Caesar's Palace 2000 | US | needs review | v7771.vmi |
-| T1215N | Cannon Spike | US | ready | v25804.vmi |
+| T1215N | Cannon Spike | US | ready | v25804.vmi+v50562.vmi |
 | T20108M | Canvas | JP | ready | CANVAS.VMI |
-| T1249M | Capcom vs. SNK 2 | JP | ready | v7082.vmi |
-| T1218N | Capcom vs. SNK: Millennium Fight 2000 | US | needs review | v47663.vmi |
+| T1249M | Capcom vs. SNK 2 | JP | ready | v7082.vmi+cvs2rep1.VMI+cvs2rep2.VMI+cvs2rep3.VMI+cvs2rep4.VMI+cvs2rep5.VMI+cvs2rep6.VMI |
+| T1218N | Capcom vs. SNK: Millennium Fight 2000 | US | needs review | v47663.vmi+v56329.vmi |
 | T5701N | Carrier | US | ready | CARRIER.VMI |
 | T46901M | Castle Fantasia | JP | ready | CASTLEFA.VMI |
 | T40602N | Centipede | US | ready | v72205.vmi |
 | T41403N | Championship Surfer | US | needs review | v86604.vmi |
 | T15127N | Charge 'N Blast | US | ready | v23820.vmi |
+| _EXTRAS/CHEATARCDX01 | Cheat-device code save: Action Replay CDX code save (many codes loaded) | - | needs review | arcdx1.VMI |
+| _EXTRAS/CHEATARCDX02 | Cheat-device code save: Action Replay CDX code save: 423 games, all regions | - | needs review | AR423.VMI |
+| _EXTRAS/CHEATXPLODER30 | Cheat-device code save: Code Breaker / Xploder DC code save (30 games) | - | needs review | XPLODER.VMI |
+| _EXTRAS/CHEATGSCDX01 | Cheat-device code save: GameShark CDX code save | - | needs review | gscdx1.VMI |
+| _EXTRAS/CHEATGSCDX02 | Cheat-device code save: GameShark CDX code save | - | needs review | GSCDX.vmi |
+| _EXTRAS/CHEATPSOGS | Cheat-device code save: GameShark CDX codes for Phantasy Star Online (JP & US) | - | needs review | psocodes.VMI |
+| _EXTRAS/CHEATPSO2GS | Cheat-device code save: GameShark codes for Phantasy Star Online Ver. 2 | - | needs review | FCDCHEAT.VMI |
+| _EXTRAS/CHEATSOFGS | Cheat-device code save: GameShark codes for Soldier of Fortune (unlimited armor/ammo) | - | needs review | v64385.vmi |
+| _EXTRAS/CHEATPSO2XP | Cheat-device code save: Xploder codes for Phantasy Star Online Ver. 2 | - | needs review | v45276.vmi |
 | T36811N | Chicken Run | US | ready | v7111.vmi |
-| 51049 | Chu Chu Rocket | US | ready | v38939.vmi |
+| 51049 | Chu Chu Rocket | US | ready | v38939.vmi+v7640.vmi |
 | T15128N | Coaster Works | US | ready | v14850.vmi |
 | T38301M | Comic Party | JP | ready | comicpar.VMI |
 | T38302M | Comic Party | JP | ready | comicpar.VMI |
 | 51160 | Confidential Mission | US | ready | v23841.vmi |
 | T17721N | Conflict Zone | US | ready | v30142.vmi |
 | T3106M | Cool Cool Toon | JP | ready | COOLCT.VMI |
-| 51035 | Crazy Taxi | US | ready | v81909.vmi |
-| 51136 | Crazy Taxi 2 | US | ready | v51513.vmi |
+| 51035 | Crazy Taxi | US | ready | v81909.vmi+CRAZYT.VMI |
+| 51136 | Crazy Taxi 2 | US | ready | v51513.vmi+v43160.vmi |
 | 51036 | D2 | US | needs review | v93751.vmi |
 | HDR0084 | Dabitsuku 1 | JP | needs review | DABI1.VMI |
 | HDR0167 | Dabitsuku 2 | JP | needs review | DABI2.VMI |
@@ -89,7 +99,7 @@
 | MK5115450 | Fighting Vipers 2 | EU | needs review | f_snake2.VMI |
 | T18804M | Fire Pro Wrestling D | JP | needs review | SYS.VMI |
 | 51007 | Flag To Flag | US | needs review | v59453.vmi |
-| 51114 | Floigan Brothers | US | ready | v46904.vmi |
+| 51114 | Floigan Brothers | US | ready | v46904.vmi+FBROSJ.VMI |
 | T34201M | Frame Gride | JP | needs review | FRAMEGR.VMI |
 | T40604N | Frogger 2: Swampy's Revenge | US | ready | v54472.vmi |
 | T8107N | Fur Fighters | US | ready | v35224.vmi |
@@ -119,13 +129,13 @@
 | HDR0127 | Hundred Swords | JP | needs review | 100sword.VMI |
 | T9702N | Hydro Thunder | US | ready | v17911.vmi |
 | T38706M | Ikaruga | JP | ready | IKARUGA.VMI |
-| T46001N | Illbleed | US | needs review | v76597.vmi |
+| T46001N | Illbleed | US | needs review | v76597.vmi+v85416.vmi |
 | T12503N | Incoming | US | ready | v30743.vmi |
 | T41302N | Industrial Spy: Operation Espionage | US | ready | v8391.vmi |
 | T15129N | Iron Aces | US | ready | v91038.vmi |
 | T8104N | Jeremy McGrath Supercross 2000 | US | needs review | v85569.vmi |
-| 51058 | Jet Grind Radio | US | needs review | v63649.vmi |
-| 51084 | Jet Grind Radio | US | needs review | v63649.vmi |
+| 51058 | Jet Grind Radio | US | needs review | v63649.vmi+v4596.vmi |
+| 51084 | Jet Grind Radio | US | needs review | v63649.vmi+v4596.vmi |
 | HDR0128 | Jet Set Radio DX | JP | needs review | jetsetdx.VMI |
 | HDR0186 | Jet Set Radio DX | JP | needs review | jetsetdx.VMI |
 | T1206N | JoJo's Bizarre Adventure | US | ready | v11766.vmi |
@@ -205,7 +215,7 @@
 | T9901M | Rainbow Cotton | JP | ready | RAINCOT.VMI |
 | T40401N | Rainbow Six | US | needs review | RAINBOW6.VMI |
 | T40402N | Rainbow Six: Rogue Spear | US | ready | v95448.vmi |
-| T17704N | Rayman 2: The Great Escape | US | ready | v17571.vmi |
+| T17704N | Rayman 2: The Great Escape | US | ready | v17571.vmi+v5124.vmi |
 | T40219N | Razor Freestyle Scooter | US | ready | v47428.vmi |
 | T8109N | Re-Volt | US | ready | v63092.vmi |
 | T9704N | Ready 2 Rumble Boxing | US | ready | v83017.vmi |
@@ -249,11 +259,11 @@
 | 51019 | Sega Rally Championship 2 | US | needs review | v26643.vmi |
 | 51146 | Sega Smash Pack Vol. 1 | US | needs review | v55779.vmi |
 | 51004 | Sega Sports NBA 2K | US | needs review | v90157.vmi |
-| 51063 | Sega Sports NBA 2K1 | US | ready | v77819.vmi |
+| 51063 | Sega Sports NBA 2K1 | US | ready | v77819.vmi+v23656.vmi |
 | 51178 | Sega Sports NBA 2K2 | US | ready | v37129.vmi |
 | 51003 | Sega Sports NFL 2K | US | needs review | v40814.vmi |
-| 51062 | Sega Sports NFL 2K1 | US | ready | v92764.vmi |
-| 51069 | Sega Sports NFL 2K1 | US | ready | v92764.vmi |
+| 51062 | Sega Sports NFL 2K1 | US | ready | v92764.vmi+v45179.vmi |
+| 51069 | Sega Sports NFL 2K1 | US | ready | v92764.vmi+v45179.vmi |
 | 51168 | Sega Sports NFL 2K2 | US | ready | v76050.vmi |
 | 51025 | Sega Sports NHL 2K | US | ready | v62214.vmi |
 | 51124 | Sega Sports NHL 2K | US | ready | v62214.vmi |
@@ -262,18 +272,18 @@
 | HDR0171 | SeGaGaGa | JP | needs review | SEGAGAGA.VMI |
 | T42201M | Seirei Hata Ray Blade | JP | needs review | SHENGLJ1.VMI |
 | T41301N | Seventh Cross Evolution | US | needs review | 00000176.vmi |
-| T8106N | Shadow Man | US | ready | v92438.vmi |
+| T8106N | Shadow Man | US | ready | v92438.vmi+v8737.vmi |
 | 51059 | Shenmue Chapter 1: Yokosuka | US | ready | v98269.vmi |
 | 51131 | Shenmue Chapter 1: Yokosuka | US | ready | v98269.vmi |
 | MK5118450 | Shenmue II | EU | ready | v91835.vmi |
 | T9507N | Silent Scope | US | ready | v91000.vmi |
 | T15108N | Silver | US | needs review | v760.vmi |
-| 51052 | Skies of Arcadia | US | needs review | v28902.vmi |
+| 51052 | Skies of Arcadia | US | needs review | v28902.vmi+sa_d01.vmi+sa_d02.vmi+sa_d03.vmi+v94208.vmi |
 | T15106N | Slave Zero | US | needs review | v33117.vmi |
 | T40207N | Sno-Cross Championship Racing | US | needs review | v78041.vmi |
 | T40212N | Soldier of Fortune | US | ready | v71043.vmi |
-| 51000 | Sonic Adventure | US | ready | v34162.vmi |
-| 51117 | Sonic Adventure 2 | US | ready | v55288.vmi |
+| 51000 | Sonic Adventure | US | ready | v34162.vmi+v90593.vmi |
+| 51117 | Sonic Adventure 2 | US | ready | v55288.vmi+v47754.vmi |
 | 51060 | Sonic Shuffle | US | needs review | v58859.vmi |
 | T9102M | Sorcerian | JP | needs review | 7XING.VMI |
 | T9103M | Sorcerian | JP | needs review | 7XING.VMI |
@@ -293,7 +303,7 @@
 | T23003N | Star Wars Demolition | US | ready | v28784.vmi |
 | T23002N | Star Wars Episode 1: Jedi Power Battles | US | ready | v56151.vmi |
 | T23001N | Star Wars Episode 1: Racer | US | ready | v19047.vmi |
-| T1203N | Street Fighter Alpha 3 | US | needs review | v77348.vmi+v32793.vmi |
+| T1203N | Street Fighter Alpha 3 | US | needs review | v77348.vmi+v32793.vmi+v20786.vmi |
 | T1213N | Street Fighter III: 3rd Strike | US | ready | v37955.vmi |
 | T1210N | Street Fighter III: Double Impact | US | ready | v50554.vmi |
 | T15111N | Striker Pro 2000 | US | ready | v3240.vmi |
@@ -353,7 +363,33 @@
 | 51028 | Virtua Striker 2 | US | ready | v21388.vmi |
 | 51054 | Virtua Tennis | US | needs review | v6482.vmi |
 | 51186 | Virtua Tennis 2 (Tennis 2K2) | US | ready | TENN2K2.VMI |
-| T13004N | Virtual-On: Oratorio Tangram | US | needs review | v1971.vmi |
+| T13004N | Virtual-On: Oratorio Tangram | US | needs review | v1971.vmi+v39368.vmi+v8748.vmi |
+| _EXTRAS/MINIGAMES01 | VMU minigames 01: Homebrew & fan minigames | - | ready | ZUQIU.VMI+ALNFIGHT.VMI |
+| _EXTRAS/MINIGAMES02 | VMU minigames 02: Homebrew & fan minigames | - | ready | PACMAN.VMI+GLUCKY.VMI+TOKYOCAR.VMI+BREAKOUT.VMI |
+| _EXTRAS/MINIGAMES03 | VMU minigames 03: Homebrew & fan minigames | - | ready | FSKATER.VMI+CHAO2.VMI+DRACER.VMI+FROG.VMI+FATRAIN.VMI |
+| _EXTRAS/MINIGAMES04 | VMU minigames 04: Homebrew & fan minigames | - | ready | MINICLOC.VMI+4WINS.VMI+PAPER.VMI+SNAKY.VMI+CHAOEDIT.VMI+SWAMPY.VMI+JOJO.VMI+VISION1.VMI+IDOUDO.VMI+MINE.VMI+SI.VMI+SKETCH.VMI |
+| _EXTRAS/MINIGAMES05 | VMU minigames 05: Homebrew & fan minigames | - | ready | SOUND.VMI+PSOID.VMI+LOGIC.VMI+SLIDEPUZ.VMI+TETRIS.VMI+PSOPUZZL.VMI |
+| _EXTRAS/MINIGAMES06 | VMU minigames 06: Official / publisher minigames | - | ready | POWERSTN.VMI+4007.VMI |
+| _EXTRAS/MINIGAMES07 | VMU minigames 07: Official / publisher minigames | - | ready | 4004.VMI+POPMUSI2.VMI |
+| _EXTRAS/MINIGAMES08 | VMU minigames 08: Official / publisher minigames | - | ready | 4008.VMI+POPMUSI3.VMI |
+| _EXTRAS/MINIGAMES09 | VMU minigames 09: Official / publisher minigames | - | ready | GODZILLA.VMI+POPMUSI1.VMI |
+| _EXTRAS/MINIGAMES10 | VMU minigames 10: Official / publisher minigames | - | ready | VMFL_073.VMI+4001.VMI |
+| _EXTRAS/MINIGAMES11 | VMU minigames 11: Official / publisher minigames | - | ready | VMFL_081.VMI+SCCBRK.VMI |
+| _EXTRAS/MINIGAMES12 | VMU minigames 12: Official / publisher minigames | - | ready | VMFL_084.VMI |
+| _EXTRAS/MINIGAMES13 | VMU minigames 13: Official / publisher minigames | - | ready | KITTYCAT.VMI+PQ_NTSC.VMI |
+| _EXTRAS/MINIGAMES14 | VMU minigames 14: Official / publisher minigames | - | ready | SOUL2ADV.VMI+SCALIBU.VMI |
+| _EXTRAS/MINIGAMES15 | VMU minigames 15: Official / publisher minigames | - | ready | PQ_PAL.VMI |
+| _EXTRAS/MINIGAMES16 | VMU minigames 16: Official / publisher minigames | - | ready | SOAMINI.VMI |
+| _EXTRAS/MINIGAMES17 | VMU minigames 17: Animations & music videos | - | ready | DANGELO.VMI+00006003.VMI+VMWBP.VMI |
+| _EXTRAS/MINIGAMES18 | VMU minigames 18: Animations & music videos | - | ready | PROMO.VMI+00003831.VMI+GREY.VMI |
+| _EXTRAS/MINIGAMES19 | VMU minigames 19: Animations & music videos | - | ready | FASTFURI.VMI+E0.VMI |
+| _EXTRAS/MINIGAMES20 | VMU minigames 20: Animations & music videos | - | ready | MATRXRLD.VMI+CIRCLES.VMI+00001870.VMI |
+| _EXTRAS/MINIGAMES21 | VMU minigames 21: Animations & music videos | - | ready | RISE.VMI+00004276.VMI |
+| _EXTRAS/MINIGAMES22 | VMU minigames 22: Animations & music videos | - | ready | 00003096.VMI+MICHAEL.VMI |
+| _EXTRAS/MINIGAMES23 | VMU minigames 23: Animations & music videos | - | ready | 00004271.VMI |
+| _EXTRAS/MINIGAMES24 | VMU minigames 24: Animations & music videos | - | ready | 00003910.VMI |
+| _EXTRAS/MINIGAMES25 | VMU minigames 25: Animations & music videos | - | ready | 00003291.VMI |
+| _EXTRAS/MINIGAMES26 | VMU minigames 26: Animations & music videos | - | ready | 00004662.VMI |
 | T15113N | Wacky Races | US | ready | v76433.vmi |
 | T8111N | Wetrix+ | US | needs review | v39228.vmi |
 | T42101N | Wild Metal | US | ready | v56159.vmi |

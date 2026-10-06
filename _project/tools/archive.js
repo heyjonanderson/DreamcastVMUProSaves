@@ -10,7 +10,7 @@ function load(d){
   const rows=[];
   for(const l of fs.readFileSync(rd,'utf8').split(/\r?\n/)){
     const m=l.match(/^\|\s*!\[[^\]]*\]\([^)]*\)\s*\|\s*`([^`]*)`\s*\|\s*\[([^\]]+)\]\([^)]*\)\s*\|\s*\[([^\]]+)\]\([^)]*\)\s*\|(.*)\|\s*$/);
-    if(m)rows.push({fname:m[1],vmi:m[2],vms:m[3],desc:m[4].trim()});
+    if(m)rows.push({fname:m[1].replace(/[\x00-\x1f]/g,''),vmi:m[2],vms:m[3],desc:m[4].trim()});
   }
   // other sections (minigames / downloads)
   const other=fs.readFileSync(rd,'utf8').split(/\r?\n/).filter(l=>/^##\s/.test(l)).map(l=>l.replace(/^##\s*/,''));

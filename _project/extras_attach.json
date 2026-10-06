@@ -1,0 +1,66 @@
+{
+ "arcadia": [
+  "sa_d01.vmi",
+  "sa_d02.vmi",
+  "sa_d03.vmi",
+  "v94208.vmi"
+ ],
+ "streetfighter3": [
+  "v20786.vmi"
+ ],
+ "capcomsnk2": [
+  "cvs2rep1.VMI",
+  "cvs2rep2.VMI",
+  "cvs2rep3.VMI",
+  "cvs2rep4.VMI",
+  "cvs2rep5.VMI",
+  "cvs2rep6.VMI",
+  "cvs2rex1.VMI"
+ ],
+ "virtualon": [
+  "v39368.vmi",
+  "v8748.vmi"
+ ],
+ "sonic2": [
+  "v47754.vmi"
+ ],
+ "sonic": [
+  "v90593.vmi"
+ ],
+ "floiganbros": [
+  "FBROSJ.VMI"
+ ],
+ "illbleed": [
+  "v85416.vmi"
+ ],
+ "rayman2": [
+  "v5124.vmi"
+ ],
+ "crazytaxi": [
+  "CRAZYT.VMI"
+ ],
+ "crazytaxi2": [
+  "v43160.vmi"
+ ],
+ "nba2k1": [
+  "v23656.vmi"
+ ],
+ "nfl2k1": [
+  "v45179.vmi"
+ ],
+ "cannonspike": [
+  "v50562.vmi"
+ ],
+ "capcomsnk": [
+  "v56329.vmi"
+ ],
+ "chuchu": [
+  "v7640.vmi"
+ ],
+ "jetgrindradio": [
+  "v4596.vmi"
+ ],
+ "shadowman": [
+  "v8737.vmi"
+ ]
+}

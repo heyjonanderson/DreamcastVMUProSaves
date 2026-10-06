@@ -7,15 +7,17 @@ const REPO='https://github.com/bucanero/dreamcast-saves/blob/master/';
 const csv=rows=>rows.map(r=>r.map(c=>{c=String(c??'');return /[",\n\r]/.test(c)?'"'+c.replace(/"/g,'""')+'"':c;}).join(',')).join('\r\n')+'\r\n';
 const credits=[['game','product_id','region','source_path','source_url','creator','description','original_vmi','original_vms','format','archive_filename','vmi_vms_blocks']];
 const report=[['game','folder','product_id','region','save_chosen','completion','source','creator','status','notes']];
-const allSaves=[['game','archive_dir','vmi','vms','archive_filename','creator','description','chosen']];
+const allSaves=[['game','archive_dir','vmi','vms','archive_filename','creator','description','chosen']];const seenSave=new Map();
 const problems=[];
 const only=process.argv.slice(2);
 for(const s of sel){
   if(only.length&&!only.includes(s.dir))continue;
   const g=A.load(s.dir);
   if(!g){problems.push(s.dir+': no README');continue;}
-  const used=[];
-  for(const v of s.files){
+  const used=[];const skippedExtras=[];
+  let blocksUsed=0;
+  for(const v of [...s.files,...(s.extras||[])]){
+    const isExtra=!s.files.includes(v);
     const row=g.rows.find(r=>r.vmi.toLowerCase()===v.toLowerCase());
     if(!row){problems.push(`${s.dir}: ${v} not in README`);continue;}
     const vmiP=A.ci(g.path,row.vmi),vmsP=A.ci(g.path,row.vms);
@@ -23,11 +25,16 @@ for(const s of sel){
     const vmi=V.parseVmi(fs.readFileSync(vmiP)),data=fs.readFileSync(vmsP);
     if(vmi.name!==row.fname)problems.push(`${s.dir}/${v}: VMI name "${vmi.name}" != README "${row.fname}"`);
     if(vmi.size!==data.length)problems.push(`${s.dir}/${v}: VMI size ${vmi.size} != VMS ${data.length}`);
-    used.push({row,vmi,data,vmiP,vmsP});
+    const nb=Math.ceil(data.length/512);
+    if(isExtra&&(blocksUsed+nb>200||used.some(u=>u.vmi.name===vmi.name))){skippedExtras.push(row.vmi+' ('+vmi.name+')');continue;}
+    blocksUsed+=nb;
+    used.push({row,vmi,data,vmiP,vmsP,isExtra});
   }
-  if(used.length!==s.files.length)continue;
+  if(used.filter(u=>!u.isExtra).length!==s.files.length)continue;
   // allSaves
-  for(const r of g.rows)allSaves.push([s.title,s.dir,r.vmi,r.vms,r.fname,r.creator,r.desc,s.files.some(f=>f.toLowerCase()===r.vmi.toLowerCase())?'yes':'']);
+  for(const r of g.rows){const k=s.dir+'/'+r.vmi;const ch=[...s.files,...(s.extras||[])].some(f=>f.toLowerCase()===r.vmi.toLowerCase())?'yes':'';
+    if(seenSave.has(k)){if(ch)seenSave.get(k)[7]='yes';continue;}
+    const row=[s.dir==='minigames'?'VMU Mini Games':g.title,s.dir,r.vmi,r.vms,r.fname,r.creator,r.desc,ch];seenSave.set(k,row);allSaves.push(row);}
   // originals: everything downloaded for the game (VMI/VMS + description text)
   const od=path.join(ROOT,'originals',s.dir);fs.mkdirSync(od,{recursive:true});
   for(const f of fs.readdirSync(g.path)){if(/\.(gif|png)$/i.test(f))continue;fs.copyFileSync(path.join(g.path,f),path.join(od,f));}
@@ -36,7 +43,7 @@ for(const s of sel){
   const img=V.build(files);
   for(const id of s.ids){
     const folder=id.replace(/[-\s]/g,'');
-    const dir=path.join(ROOT,'vmupro','Dreamcast',folder);fs.mkdirSync(dir,{recursive:true});
+    const dir=path.join(ROOT,'vmupro',...(s.outdir||'Dreamcast').split('/'),folder);fs.mkdirSync(dir,{recursive:true});
     const out=path.join(dir,folder+'-1.vmu');fs.writeFileSync(out,img);
     credits.push([]);credits.pop();
     used.forEach(u=>credits.push([s.title,id,s.region,`src/${s.dir}/${u.row.vmi}`,REPO+s.dir+'/'+path.basename(u.vmsP),u.row.creator,u.row.desc,path.basename(u.vmiP),path.basename(u.vmsP),'VMI+VMS (single save, wrapped into 128KB card)',u.row.fname,Math.ceil(u.data.length/512)]));
@@ -47,6 +54,8 @@ for(const s of sel){
     used.forEach((u,i)=>{const f=p.files.find(x=>x.name===u.vmi.name);if(!f)errs.push('missing '+u.vmi.name);else if(!f.data.subarray(0,u.data.length).equals(u.data))errs.push('data mismatch '+u.vmi.name);});
     const contents=p.files.map(f=>`${f.name}(${f.blocks}blk)`).join('+');
     let status=s.status,notes=s.notes;
+    const ex=used.filter(u=>u.isExtra).map(u=>u.row.vmi);if(ex.length)notes+=` | extras on card: ${ex.join(',')}`;
+    if(skippedExtras.length)notes+=` | extras not fitted (card full or name clash): ${skippedExtras.join(',')}`;
     if(errs.length){status='needs review';notes+=' | VALIDATION: '+errs.join('; ');problems.push(`${s.dir}/${folder}: ${errs.join('; ')}`);}
     const idNote=s.ids.length>1?` (alt ID ${s.ids.filter(x=>x!==id).join(',')})`:'';
     report.push([s.title,folder,id,s.region,used.map(u=>u.row.vmi).join('+'),s.completion,`bucanero/dreamcast-saves/${s.dir}`,[...new Set(used.map(u=>u.row.creator).filter(Boolean))].join('; ')||'(unnamed)',status,`${notes}${idNote} | card: ${contents}, ${p.freeUser} blocks free, ${back.length} bytes`]);
@@ -59,7 +68,7 @@ const merge=(f,rows)=>{ // keep rows of other games on partial runs
 const index=[['folder','game','region','status','redump_title','archive_dir','save_chosen']];
 for(const s of sel){if(only.length&&!only.includes(s.dir))continue;
   for(const id of s.ids){const folder=id.replace(/[-\s]/g,'');const r=report.find(x=>x[1]===folder&&x[0]===s.title);
-    if(r)index.push([folder,s.title,s.region,r[8],s.rname||s.title,s.dir,r[4]]);}}
+    if(r)index.push([(s.outdir&&s.outdir!=='Dreamcast'?s.outdir.replace(/^Dreamcast\//,'')+'/':'')+folder,s.title,s.region,r[8],s.rname||s.title,s.dir,r[4]]);}}
 index.slice(1).sort((a,b)=>a[1].localeCompare(b[1]));
 const idxRows=[index[0],...index.slice(1).sort((a,b)=>a[1].localeCompare(b[1])||a[0].localeCompare(b[0]))];
 fs.writeFileSync(path.join(ROOT,'INDEX.csv'),csv(idxRows));

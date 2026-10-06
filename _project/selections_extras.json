@@ -1,0 +1,618 @@
+[
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 01: Homebrew & fan minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES01"
+  ],
+  "region": "-",
+  "files": [
+   "ZUQIU.VMI",
+   "ALNFIGHT.VMI"
+  ],
+  "completion": "ZUQIU (FOOTBALL), ALNFIGHT (ALIENFIGHTER)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 198 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 02: Homebrew & fan minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES02"
+  ],
+  "region": "-",
+  "files": [
+   "PACMAN.VMI",
+   "GLUCKY.VMI",
+   "TOKYOCAR.VMI",
+   "BREAKOUT.VMI"
+  ],
+  "completion": "PACMAN (PACMAN), GLUCKY (GLUCKYLABY), TOKYOCAR (TOKYOCAR), BREAKOUT (BREAKOUT)",
+  "status": "ready",
+  "notes": "4 VMU game/animation files, 200 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 03: Homebrew & fan minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES03"
+  ],
+  "region": "-",
+  "files": [
+   "FSKATER.VMI",
+   "CHAO2.VMI",
+   "DRACER.VMI",
+   "FROG.VMI",
+   "FATRAIN.VMI"
+  ],
+  "completion": "FSKATER (FREAKSKATE), CHAO2 (CHAOEDIT2), DRACER (D_RACER), FROG (FROG), FATRAIN (FATRAIN)",
+  "status": "ready",
+  "notes": "5 VMU game/animation files, 200 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 04: Homebrew & fan minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES04"
+  ],
+  "region": "-",
+  "files": [
+   "MINICLOC.VMI",
+   "4WINS.VMI",
+   "PAPER.VMI",
+   "SNAKY.VMI",
+   "CHAOEDIT.VMI",
+   "SWAMPY.VMI",
+   "JOJO.VMI",
+   "VISION1.VMI",
+   "IDOUDO.VMI",
+   "MINE.VMI",
+   "SI.VMI",
+   "SKETCH.VMI"
+  ],
+  "completion": "MINICLOC (LIN_WATCH), 4WINS (GAME_4WINS), PAPER (PAPER), SNAKY (SNAKY), CHAOEDIT (CHAOEDIT), SWAMPY (SWAMPY), JOJO (JOJOPROB), VISION1 (VMUVISION), IDOUDO (IDO), MINE (MINESWEEPER), SI (SPACEINV), SKETCH (SKETCH)",
+  "status": "ready",
+  "notes": "12 VMU game/animation files, 200 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 05: Homebrew & fan minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES05"
+  ],
+  "region": "-",
+  "files": [
+   "SOUND.VMI",
+   "PSOID.VMI",
+   "LOGIC.VMI",
+   "SLIDEPUZ.VMI",
+   "TETRIS.VMI",
+   "PSOPUZZL.VMI"
+  ],
+  "completion": "SOUND (SOUND_DEMO_1), PSOID (PSOIDCALC), LOGIC (LOGIC), SLIDEPUZ (SLIDEPUZZLE), TETRIS (TETRIS), PSOPUZZL (SPUZZLE)",
+  "status": "ready",
+  "notes": "6 VMU game/animation files, 46 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 06: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES06"
+  ],
+  "region": "-",
+  "files": [
+   "POWERSTN.VMI",
+   "4007.VMI"
+  ],
+  "completion": "POWERSTN (POWERSTONE), 4007 (M_VS_C2)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 192 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 07: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES07"
+  ],
+  "region": "-",
+  "files": [
+   "4004.VMI",
+   "POPMUSI2.VMI"
+  ],
+  "completion": "4004 (SEGA_GT), POPMUSI2 (POPMUSIC2)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 188 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 08: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES08"
+  ],
+  "region": "-",
+  "files": [
+   "4008.VMI",
+   "POPMUSI3.VMI"
+  ],
+  "completion": "4008 (POWSTONE2JP), POPMUSI3 (POPMUSIC3)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 188 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 09: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES09"
+  ],
+  "region": "-",
+  "files": [
+   "GODZILLA.VMI",
+   "POPMUSI1.VMI"
+  ],
+  "completion": "GODZILLA (GODZILLA), POPMUSI1 (POPMUSIC1)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 184 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 10: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES10"
+  ],
+  "region": "-",
+  "files": [
+   "VMFL_073.VMI",
+   "4001.VMI"
+  ],
+  "completion": "VMFL_073 (CHAO_ADV), 4001 (SHENMUE)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 178 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 11: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES11"
+  ],
+  "region": "-",
+  "files": [
+   "VMFL_081.VMI",
+   "SCCBRK.VMI"
+  ],
+  "completion": "VMFL_081 (TECHROMANCER), SCCBRK (CARDCAPTOR)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 168 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 12: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES12"
+  ],
+  "region": "-",
+  "files": [
+   "VMFL_084.VMI"
+  ],
+  "completion": "VMFL_084 (CLIMAX)",
+  "status": "ready",
+  "notes": "1 VMU game/animation files, 128 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 13: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES13"
+  ],
+  "region": "-",
+  "files": [
+   "KITTYCAT.VMI",
+   "PQ_NTSC.VMI"
+  ],
+  "completion": "KITTYCAT (HELLO_KITTY), PQ_NTSC (S.ARCADIA_VM)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 187 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 14: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES14"
+  ],
+  "region": "-",
+  "files": [
+   "SOUL2ADV.VMI",
+   "SCALIBU.VMI"
+  ],
+  "completion": "SOUL2ADV (SOULC2ADV), SCALIBU (SOULCALIBUR)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 197 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 15: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES15"
+  ],
+  "region": "-",
+  "files": [
+   "PQ_PAL.VMI"
+  ],
+  "completion": "PQ_PAL (S.ARCADIA_VM)",
+  "status": "ready",
+  "notes": "1 VMU game/animation files, 83 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 16: Official / publisher minigames",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES16"
+  ],
+  "region": "-",
+  "files": [
+   "SOAMINI.VMI"
+  ],
+  "completion": "SOAMINI (S.ARCADIA_VM)",
+  "status": "ready",
+  "notes": "1 VMU game/animation files, 83 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 17: Animations & music videos",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES17"
+  ],
+  "region": "-",
+  "files": [
+   "DANGELO.VMI",
+   "00006003.VMI",
+   "VMWBP.VMI"
+  ],
+  "completion": "DANGELO (DEMOMOVIE), 00006003 (DC_ANIM.EXE), VMWBP (WHEREBRUCE)",
+  "status": "ready",
+  "notes": "3 VMU game/animation files, 197 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 18: Animations & music videos",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES18"
+  ],
+  "region": "-",
+  "files": [
+   "PROMO.VMI",
+   "00003831.VMI",
+   "GREY.VMI"
+  ],
+  "completion": "PROMO (DEMOMOVIE), 00003831 (DC_ANIM.EXE), GREY (GREYSCALE)",
+  "status": "ready",
+  "notes": "3 VMU game/animation files, 200 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 19: Animations & music videos",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES19"
+  ],
+  "region": "-",
+  "files": [
+   "FASTFURI.VMI",
+   "E0.VMI"
+  ],
+  "completion": "FASTFURI (FASTNFURIOUS), E0 (DEMOMOVIE)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 184 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 20: Animations & music videos",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES20"
+  ],
+  "region": "-",
+  "files": [
+   "MATRXRLD.VMI",
+   "CIRCLES.VMI",
+   "00001870.VMI"
+  ],
+  "completion": "MATRXRLD (MATRIXRELOAD), CIRCLES (DEMOMOVIE), 00001870 (DC_ANIM.EXE)",
+  "status": "ready",
+  "notes": "3 VMU game/animation files, 198 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 21: Animations & music videos",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES21"
+  ],
+  "region": "-",
+  "files": [
+   "RISE.VMI",
+   "00004276.VMI"
+  ],
+  "completion": "RISE (DEMOMOVIE), 00004276 (DC_ANIM.EXE)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 98 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 22: Animations & music videos",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES22"
+  ],
+  "region": "-",
+  "files": [
+   "00003096.VMI",
+   "MICHAEL.VMI"
+  ],
+  "completion": "00003096 (DC_ANIM.EXE), MICHAEL (DEMOMOVIE)",
+  "status": "ready",
+  "notes": "2 VMU game/animation files, 71 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 23: Animations & music videos",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES23"
+  ],
+  "region": "-",
+  "files": [
+   "00004271.VMI"
+  ],
+  "completion": "00004271 (DC_ANIM.EXE)",
+  "status": "ready",
+  "notes": "1 VMU game/animation files, 35 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 24: Animations & music videos",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES24"
+  ],
+  "region": "-",
+  "files": [
+   "00003910.VMI"
+  ],
+  "completion": "00003910 (DC_ANIM.EXE)",
+  "status": "ready",
+  "notes": "1 VMU game/animation files, 26 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 25: Animations & music videos",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES25"
+  ],
+  "region": "-",
+  "files": [
+   "00003291.VMI"
+  ],
+  "completion": "00003291 (DC_ANIM.EXE)",
+  "status": "ready",
+  "notes": "1 VMU game/animation files, 26 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "minigames",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "VMU minigames 26: Animations & music videos",
+  "rname": "(not a disc: standalone VMU minigame collection)",
+  "ids": [
+   "MINIGAMES26"
+  ],
+  "region": "-",
+  "files": [
+   "00004662.VMI"
+  ],
+  "completion": "00004662 (DC_ANIM.EXE)",
+  "status": "ready",
+  "notes": "1 VMU game/animation files, 22 blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames"
+ },
+ {
+  "dir": "arcdx",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "Cheat-device code save: Action Replay CDX code save (many codes loaded)",
+  "rname": "(cheat device data, not a disc)",
+  "ids": [
+   "CHEATARCDX01"
+  ],
+  "region": "-",
+  "files": [
+   "arcdx1.VMI"
+  ],
+  "completion": "Action Replay CDX code save (many codes loaded)",
+  "status": "needs review",
+  "notes": "Only useful with the matching cheat device disc; not tested"
+ },
+ {
+  "dir": "arcdx",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "Cheat-device code save: Action Replay CDX code save: 423 games, all regions",
+  "rname": "(cheat device data, not a disc)",
+  "ids": [
+   "CHEATARCDX02"
+  ],
+  "region": "-",
+  "files": [
+   "AR423.VMI"
+  ],
+  "completion": "Action Replay CDX code save: 423 games, all regions",
+  "status": "needs review",
+  "notes": "Only useful with the matching cheat device disc; not tested"
+ },
+ {
+  "dir": "gscdx",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "Cheat-device code save: GameShark CDX code save",
+  "rname": "(cheat device data, not a disc)",
+  "ids": [
+   "CHEATGSCDX01"
+  ],
+  "region": "-",
+  "files": [
+   "gscdx1.VMI"
+  ],
+  "completion": "GameShark CDX code save",
+  "status": "needs review",
+  "notes": "Only useful with the matching cheat device disc; not tested"
+ },
+ {
+  "dir": "gscdx",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "Cheat-device code save: GameShark CDX code save",
+  "rname": "(cheat device data, not a disc)",
+  "ids": [
+   "CHEATGSCDX02"
+  ],
+  "region": "-",
+  "files": [
+   "GSCDX.vmi"
+  ],
+  "completion": "GameShark CDX code save",
+  "status": "needs review",
+  "notes": "Only useful with the matching cheat device disc; not tested"
+ },
+ {
+  "dir": "xploder",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "Cheat-device code save: Code Breaker / Xploder DC code save (30 games)",
+  "rname": "(cheat device data, not a disc)",
+  "ids": [
+   "CHEATXPLODER30"
+  ],
+  "region": "-",
+  "files": [
+   "XPLODER.VMI"
+  ],
+  "completion": "Code Breaker / Xploder DC code save (30 games)",
+  "status": "needs review",
+  "notes": "Only useful with the matching cheat device disc; not tested"
+ },
+ {
+  "dir": "pso",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "Cheat-device code save: GameShark CDX codes for Phantasy Star Online (JP & US)",
+  "rname": "(cheat device data, not a disc)",
+  "ids": [
+   "CHEATPSOGS"
+  ],
+  "region": "-",
+  "files": [
+   "psocodes.VMI"
+  ],
+  "completion": "GameShark CDX codes for Phantasy Star Online (JP & US)",
+  "status": "needs review",
+  "notes": "Only useful with the matching cheat device disc; not tested"
+ },
+ {
+  "dir": "pso2",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "Cheat-device code save: Xploder codes for Phantasy Star Online Ver. 2",
+  "rname": "(cheat device data, not a disc)",
+  "ids": [
+   "CHEATPSO2XP"
+  ],
+  "region": "-",
+  "files": [
+   "v45276.vmi"
+  ],
+  "completion": "Xploder codes for Phantasy Star Online Ver. 2",
+  "status": "needs review",
+  "notes": "Only useful with the matching cheat device disc; not tested"
+ },
+ {
+  "dir": "pso2",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "Cheat-device code save: GameShark codes for Phantasy Star Online Ver. 2",
+  "rname": "(cheat device data, not a disc)",
+  "ids": [
+   "CHEATPSO2GS"
+  ],
+  "region": "-",
+  "files": [
+   "FCDCHEAT.VMI"
+  ],
+  "completion": "GameShark codes for Phantasy Star Online Ver. 2",
+  "status": "needs review",
+  "notes": "Only useful with the matching cheat device disc; not tested"
+ },
+ {
+  "dir": "soldierfortune",
+  "outdir": "Dreamcast/_EXTRAS",
+  "title": "Cheat-device code save: GameShark codes for Soldier of Fortune (unlimited armor/ammo)",
+  "rname": "(cheat device data, not a disc)",
+  "ids": [
+   "CHEATSOFGS"
+  ],
+  "region": "-",
+  "files": [
+   "v64385.vmi"
+  ],
+  "completion": "GameShark codes for Soldier of Fortune (unlimited armor/ammo)",
+  "status": "needs review",
+  "notes": "Only useful with the matching cheat device disc; not tested"
+ },
+ {
+  "dir": "atari",
+  "title": "Atari Anniversary Edition (VMU icon only)",
+  "rname": "Atari Anniversary Edition (USA)",
+  "ids": [
+   "T-15130N"
+  ],
+  "region": "US",
+  "files": [
+   "ATARI.VMI"
+  ],
+  "completion": "VMU icon file only; archive has no game save",
+  "status": "needs review",
+  "notes": "Icon-only card; no game progress to save in this title"
+ }
+]
