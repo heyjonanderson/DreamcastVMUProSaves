@@ -17,11 +17,10 @@ is different and would not match.) A disc with several header numbers (revisions
    `/Dreamcast/T1201N/T1201N-1.vmu`, etc. You can copy only the games you want.
 3. Put the card in the VMU Pro, boot a game. If the folder name matches the game's ID the VMU Pro loads that card
    automatically (the card is channel 1; this repo supplies channel 1 only).
-4. **Easiest:** use the catalog page (search, filter, tick the games you own, download a ready-made SD zip). No GitHub settings needed:
-   - hosted copy: https://raw.githack.com/heyjonanderson/DreamcastVMUProSaves/main/docs/index.html (third-party viewer for files on GitHub), or
-   - download the repo (or `DreamcastVMUProSaves-full.zip`) and open `docs/index.html` in your browser. It is one self-contained file and builds the zip by fetching cards from GitHub, so it needs an internet connection.
+4. **Easiest:** use the catalog website: **https://heyjonanderson.github.io/DreamcastVMUProSaves/** (search, filter, tick the games you own, download a ready-made SD zip).
+   It is also a single self-contained file, `docs/index.html`, that you can download and open in a browser. It builds the zip by fetching cards from GitHub, so it needs an internet connection.
 
-   `INDEX.md` is the same list with direct links. (If you later enable GitHub Pages on `main` / `/docs`, the page also appears at https://heyjonanderson.github.io/DreamcastVMUProSaves/ .)
+   `INDEX.md` is the same list with direct links.
 5. Folder names on the SD card must be product IDs (that is how the VMU Pro finds the right card), so they are not readable.
    To find a game: browse **[by-title/](by-title)** (folders named by game title), open **[INDEX.md](INDEX.md)** and Ctrl-F the title,
    or see the table GitHub shows under `vmupro/Dreamcast/` (`INDEX.csv` is the same data for spreadsheets). Always copy cards
