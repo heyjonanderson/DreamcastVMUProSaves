@@ -36,20 +36,28 @@ const html=`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta nam
 <style>:root{--bg:#fff;--fg:#1b1f24;--mut:#59636e;--line:#d1d9e0;--acc:#0969da;--ok:#1a7f37;--warn:#9a6700;--card:#f6f8fa}
 @media(prefers-color-scheme:dark){:root{--bg:#0d1117;--fg:#e6edf3;--mut:#8d96a0;--line:#30363d;--acc:#4493f8;--ok:#3fb950;--warn:#d29922;--card:#161b22}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 system-ui,sans-serif}main{max-width:1000px;margin:0 auto;padding:16px}
-h1{font-size:1.4rem;margin:.2rem 0}p{color:var(--mut);margin:.3rem 0}.bar{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:2}
+h1{font-size:1.5rem;margin:.2rem 0 .4rem}h2{font-size:1.05rem;margin:0 0 .6rem}p{color:var(--mut);margin:.5rem 0}.lead{font-size:1.05rem;color:var(--fg);margin:.4rem 0 1rem}.help{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 18px;margin:0 0 6px}.help ol{margin:0;padding-left:1.3rem}.help li{margin:0 0 .85rem;line-height:1.55}.help li:last-child{margin-bottom:.3rem}.help p{margin:.9rem 0 0;line-height:1.55}.bar{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:2}
 input,select,button{font:inherit;padding:7px 10px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg)}input[type=search]{flex:1;min-width:180px}button{cursor:pointer}button.p{background:var(--acc);border-color:var(--acc);color:#fff}
 table{width:100%;border-collapse:collapse}th,td{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{font-size:.8rem;color:var(--mut)}tr:hover td{background:var(--card)}
 .ok{color:var(--ok)}.wn{color:var(--warn)}code{background:var(--card);padding:1px 5px;border-radius:4px}a{color:var(--acc)}.sm{font-size:.82rem;color:var(--mut)}
 @media(max-width:640px){.hm{display:none}}</style></head><body><main>
 <h1>Dreamcast VMU Pro saves</h1>
-<p>${items.filter(i=>i.k==='game').length} games, ${items.filter(i=>i.k==='minigame').length} VMU minigames, ${items.filter(i=>i.k==='cheat').length} cheat cards. Tick the games you own, then build an SD-card zip with the right folder layout.
-Folder names are disc IDs. <a href="https://github.com/${USER}#readme">README</a> · <a href="https://github.com/${USER}/blob/${BR}/TESTING.md">testing</a> · <span class="sm">not hardware-tested for every game</span></p>
+<p class="lead">Save files for your Dreamcast games, ready to drop onto a VMU Pro. Pick the games you own and download them as one zip.</p>
+<section class="help"><h2>How to use this</h2>
+<ol>
+<li><b>Find your games.</b> Search by title, or filter by region. Tick the box next to each game you own, or press <i>Select visible</i> to tick everything in the current list.</li>
+<li><b>Download.</b> Press <i>Build SD zip</i>. Your browser builds a zip of the games you ticked. This takes a few seconds and needs an internet connection.</li>
+<li><b>Unzip it.</b> Extract the zip. Inside is a folder called <code>Dreamcast</code>.</li>
+<li><b>Copy to the SD card.</b> Put the <code>Dreamcast</code> folder in the top level of the VMU Pro's microSD card, so you end up with paths like <code>Dreamcast/T1201N/T1201N-1.vmu</code>. If the card already has a <code>Dreamcast</code> folder, merge them. Back up your own saves first, because a folder with the same name will be overwritten.</li>
+<li><b>Play.</b> Put the card back in the VMU Pro and start a game. When the folder name matches the disc, the VMU Pro loads that save automatically. You can also browse every card in the VMU Browser. Minigames and cheat cards are named <code>ZZ_</code> so they sit at the end of the list.</li>
+</ol>
+<p class="sm">Folder names are disc IDs (that is how the VMU Pro finds the right card), so the zip looks cryptic but is correct. Games marked ⚠️ have a weaker or unconfirmed save; the note under the title says why. Not every game has been tested on a real device. Full details are in the <a href="https://github.com/${USER}#readme">README</a>.</p></section>
 <div class="bar"><input id="q" type="search" placeholder="Search title or ID…"><select id="r"><option value="">All regions</option><option>US</option><option>EU</option><option>JP</option></select>
 <select id="k"><option value="game">Games</option><option value="minigame">Minigames</option><option value="cheat">Cheat cards</option><option value="">Everything</option></select>
 <select id="s"><option value="">Any status</option><option value="ready">✅ ready</option><option value="review">⚠️ needs review</option></select></div>
 <div class="bar" style="position:static"><button id="all">Select visible</button><button id="none">Clear</button><button id="zip" class="p">Build SD zip (<span id="n">0</span>)</button><span id="msg" class="sm"></span></div>
 <table><thead><tr><th></th><th>Game</th><th class="hm">Folder</th><th>Region</th><th></th><th>Card</th></tr></thead><tbody id="t"></tbody></table>
-<p class="sm" id="cnt"></p></main>
+<p class="sm" id="cnt"></p><p class="sm">${items.filter(i=>i.k==='game').length} games, ${items.filter(i=>i.k==='minigame').length} VMU minigames and ${items.filter(i=>i.k==='cheat').length} cheat-device cards in total.</p></main>
 <script>${fs.readFileSync(path.join(__dirname,"vendor","jszip.min.js"),"utf8")}</script>
 <script>const D=${JSON.stringify(items)};const U='${USER}',B='${BR}';const sel=new Set();
 const $=id=>document.getElementById(id);const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
