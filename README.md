@@ -9,7 +9,7 @@ Redump Dreamcast database; discs with several IDs get the same card under each I
 > a Dreamcast, or a VMU Pro. Try one first (see "Try one first" below) and tell me what happens.
 
 ## Quick start
-**Nothing showing in the VMU Browser?** Check the card holds exactly `/dreamcast/<name>/<name>_1.vmu` at the root (not `/dreamcast/dreamcast/...` or inside an extra folder from unzipping), then try `VMUPro-TEST-3-cards.zip`-style minimal setup: only three cards first.
+**Nothing showing in the VMU Browser?** Check the card holds exactly `/dreamcast/<name>/<name>_1.vmu` at the root (not `/dreamcast/dreamcast/...` or inside an extra folder from unzipping), then test with just a few cards first (for example `t1201n`, `51000`, `minigames01`) to rule out a card-count limit.
 
 1. **Back up your microSD card** (and any existing `/dreamcast` folder). Nothing here writes to a device for you.
 2. Copy the **contents of `vmupro/`** (the `dreamcast` folder) to the root of the VMU Pro's microSD card, so you end up with
