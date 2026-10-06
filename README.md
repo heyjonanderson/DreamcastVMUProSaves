@@ -2,7 +2,7 @@
 
 Fully unlocked (or best-available) Dreamcast save data, one 128 KB `.vmu` card image per game, laid out for the
 8BitMods VMU Pro: `vmupro/Dreamcast/<GAMEID>/<GAMEID>-1.vmu`. **364 games, 370 game cards**, plus 136 VMU minigame
-cards (one game each, `ZZ_MG_*`) and 9 cheat-device code cards. One game per title: US release preferred, else EU, else JP. Folder names are the disc-header **Product Number** (e.g. Sonic Adventure US is `MK-51000` -> `MK51000`), taken from the
+cards (one game each, `zz_MG_*`) and 9 cheat-device code cards. One game per title: US release preferred, else EU, else JP. Folder names are the disc-header **Product Number** (e.g. Sonic Adventure US is `MK-51000` -> `MK51000`), taken from the
 kevh182/Redump_GameID list, because that is the ID the VMU Pro's GameID matches. (Redump's own serial for that disc, `51000`,
 is different and would not match.) A disc with several header numbers (revisions) gets a card under each.
 
@@ -38,11 +38,11 @@ A folder you already have with the same name will conflict. Do not overwrite it:
 Each card here holds just that game's chosen save (plus downloads/icons that fit), not a full memory card.
 
 ### Minigames and cheat cards
-Each VMU minigame is its own card, named `ZZ_MG_<game>` (for example `ZZ_MG_VMU_Football`). A VMU only launches the game stored
+Each VMU minigame is its own card, named `zz_MG_<game>` (for example `zz_MG_VMU_Football`). A VMU only launches the game stored
 at the start of the card, so putting several games on one card made them all launch the first one. Open the card in the
-VMU Browser, pick the game, and choose "Play Game in VMU". The `ZZ_` prefix puts them (and the cheat cards, `ZZ_CHEAT*`) at the end of the VMU Browser's alphabetical list.
+VMU Browser, pick the game, and choose "Play Game in VMU". The `zz_` prefix puts them (and the cheat cards, `zz_CHEAT*`) at the end of the VMU Browser's alphabetical list.
 The minigames come from the archive's homebrew/fan collection plus official Sega/Capcom/Namco ones; the original `.VMI`/`.VMS`
-files are in `originals/minigames/`. `ZZ_CHEAT*` cards are Action Replay / GameShark / Xploder code saves and only work with the
+files are in `originals/minigames/`. `zz_CHEAT*` cards are Action Replay / GameShark / Xploder code saves and only work with the
 matching cheat disc.
 
 ## Testing
@@ -57,7 +57,7 @@ An earlier revision of this repo wrongly used an underscore; if you downloaded t
 ## What is in here
 | Path | Contents |
 |---|---|
-| `vmupro/Dreamcast/<ID>/<ID>-1.vmu` | The cards. Game cards use the product ID; extras are `ZZ_MG_*` (minigames), `CHEAT*` |
+| `vmupro/Dreamcast/<ID>/<ID>-1.vmu` | The cards. Game cards use the product ID; extras are `zz_MG_*` (minigames), `CHEAT*` |
 | `by-title/<Game title> [REGION]/` | Browsable copy of every card in folders named by title (not SD layout) |
 | `INDEX.md`, `INDEX.csv` | Folder -> game title, region, status, Redump title, save used |
 | `STEP3_REPORT.md` | Overall status and the list of cards still needing review |

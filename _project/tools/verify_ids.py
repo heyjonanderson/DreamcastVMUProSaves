@@ -31,7 +31,7 @@ def main():
     for folder in sorted(os.listdir(root)):
         p = os.path.join(root, folder, folder + '-1.vmu')
         if not os.path.isfile(p): continue
-        if folder.startswith(('ZZ_',)): cnt['SKIP'] += 1; continue
+        if folder.startswith(('zz_',)): cnt['SKIP'] += 1; continue
         names = card_files(p) or []
         f = folder.upper(); cands = []; ok = False
         for n in names:

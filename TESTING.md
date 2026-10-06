@@ -22,7 +22,7 @@ entry for the save (new games, mostly). This check already caught three wrong-ga
 ## 3. On the VMU Pro (about 5 minutes)
 Copy `vmupro/Dreamcast` to the SD card, open the VMU Browser and scroll the list. A card that shows a **game name** has an ID the
 VMU Pro knows. A card that shows only its raw ID has an ID the VMU Pro does not recognise: note those, they are the ones to look at.
-For minigame cards (`ZZ_MG_*`) pick the game and choose "Play Game in VMU".
+For minigame cards (`zz_MG_*`) pick the game and choose "Play Game in VMU".
 
 ## 4. In a real game (manual, per game)
 The only test that proves a save loads. With an emulator such as Flycast (a VMU there is a 128 KB image, the same format as these

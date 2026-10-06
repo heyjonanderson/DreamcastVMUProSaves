@@ -12,7 +12,7 @@ const bt=[];const walk=(d,p)=>{for(const e of fs.readdirSync(d,{withFileTypes:tr
 walk(path.join(ROOT,'by-title'),'');
 const byFile={};for(const f of bt)byFile[path.basename(f)]=(byFile[path.basename(f)]||[]).concat(path.dirname(f));
 const items=idx.map(r=>{const [folder,game,region,status,redump,dir,save]=r;
-  const type=/^ZZ_MG_/.test(folder)?'minigame':/^ZZ_CHEAT/.test(folder)?'cheat':'game';
+  const type=/^zz_MG_/.test(folder)?'minigame':/^zz_CHEAT/.test(folder)?'cheat':'game';
   const dirs=(byFile[folder+'-1.vmu']||[]);const gdir=dirs.find(d=>d.toLowerCase().includes(game.toLowerCase().replace(/[<>:"\/\\|?*]/g,' -').slice(0,12)))||dirs[0]||'';
   return {id:folder,t:game,r:region==='-'?'':region,s:status==='ready'?'ready':'review',k:type,w:(status==='ready'?'':(why[folder+'|'+game]||'')).slice(0,220),bt:gdir};});
 items.sort((a,b)=>a.t.localeCompare(b.t,'en',{sensitivity:'base'})||a.id.localeCompare(b.id));
@@ -49,7 +49,7 @@ td:last-child{white-space:nowrap}.tw{overflow-x:auto}@media(max-width:640px){.hm
 <li><b>Download.</b> Press <i>Build SD zip</i>. Your browser builds a zip of the games you ticked. This takes a few seconds and needs an internet connection.</li>
 <li><b>Unzip it.</b> Extract the zip. Inside is a folder called <code>Dreamcast</code>.</li>
 <li><b>Copy to the SD card.</b> Put the <code>Dreamcast</code> folder in the top level of the VMU Pro's microSD card, so you end up with paths like <code>Dreamcast/T1201N/T1201N-1.vmu</code>. If the card already has a <code>Dreamcast</code> folder, merge them. Back up your own saves first, because a folder with the same name will be overwritten.</li>
-<li><b>Play.</b> Put the card back in the VMU Pro and start a game. When the folder name matches the disc, the VMU Pro loads that save automatically. You can also browse every card in the VMU Browser. Minigames and cheat cards are named <code>ZZ_</code> so they sit at the end of the list.</li>
+<li><b>Play.</b> Put the card back in the VMU Pro and start a game. When the folder name matches the disc, the VMU Pro loads that save automatically. You can also browse every card in the VMU Browser. Minigames and cheat cards are named <code>zz_</code> so they sit at the end of the list.</li>
 </ol>
 <p class="sm">Folder names are disc IDs (that is how the VMU Pro finds the right card), so the zip looks cryptic but is correct. Games marked ⚠️ have a weaker or unconfirmed save; the note under the title says why. Not every game has been tested on a real device. Full details are in the <a href="https://github.com/${USER}#readme">README</a>.</p></section>
 <div class="stick"><div class="bar"><input id="q" type="search" placeholder="Search title or ID…"><select id="r"><option value="">All regions</option><option>US</option><option>EU</option><option>JP</option></select>

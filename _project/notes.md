@@ -46,3 +46,4 @@ Not yet built: Virtua Tennis (virtuatennis -> 51054, virtuatennis2 -> 51186), th
 - GameID quirk found on device: three US discs have header numbers with a trailing ' 00' (Hoyle Casino 'T-11008N 00', Armada 'T-40301N 00', Wild Metal 'T-42101N 00'); the VMU Pro did not name those cards. Folders are now T11008N, T40301N, T42101N (drop the trailing 00; VMU Pro partial-match rule).
 - Extras renamed with a ZZ_ prefix (ZZ_MG_<game>, ZZ_CHEAT*) so the VMU Browser's alphabetical list puts them last.
 - Minigame card names for the Blue Swirl set now come from the VMI description field (real names, e.g. METAL GEAR STEALTH) instead of the generic DC Animator header title.
+- Sort fix: the VMU Pro sorts case-sensitively (ASCII), so ZZ_ cards landed before 'Zero Gunner'/'Zusar Vasar'. Extras now use a lowercase zz_ prefix (zz_MG_<game>, zz_CHEAT*), which sorts last either way.

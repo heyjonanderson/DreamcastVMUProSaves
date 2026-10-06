@@ -39,15 +39,15 @@ T46901M,Castle Fantasia,JP,ready,Castle Fantasia - Seima Taisen (Japan),castlefa
 T40602N,Centipede,US,ready,Centipede (USA),centipede,v72205.vmi
 T41403N,Championship Surfer,US,ready,Championship Surfer (USA),champsurfer,v86604.vmi
 T15127N,Charge 'N Blast,US,ready,Charge 'N Blast (USA),chargeblast,v23820.vmi
-ZZ_CHEATARCDX01,Cheat-device code save: Action Replay CDX code save (many codes loaded),-,needs review,"(cheat device data, not a disc)",arcdx,arcdx1.VMI
-ZZ_CHEATARCDX02,"Cheat-device code save: Action Replay CDX code save: 423 games, all regions",-,needs review,"(cheat device data, not a disc)",arcdx,AR423.VMI
-ZZ_CHEATXPLODER30,Cheat-device code save: Code Breaker / Xploder DC code save (30 games),-,needs review,"(cheat device data, not a disc)",xploder,XPLODER.VMI
-ZZ_CHEATGSCDX01,Cheat-device code save: GameShark CDX code save,-,needs review,"(cheat device data, not a disc)",gscdx,gscdx1.VMI
-ZZ_CHEATGSCDX02,Cheat-device code save: GameShark CDX code save,-,needs review,"(cheat device data, not a disc)",gscdx,GSCDX.vmi
-ZZ_CHEATPSOGS,Cheat-device code save: GameShark CDX codes for Phantasy Star Online (JP & US),-,needs review,"(cheat device data, not a disc)",pso,psocodes.VMI
-ZZ_CHEATPSO2GS,Cheat-device code save: GameShark codes for Phantasy Star Online Ver. 2,-,needs review,"(cheat device data, not a disc)",pso2,FCDCHEAT.VMI
-ZZ_CHEATSOFGS,Cheat-device code save: GameShark codes for Soldier of Fortune (unlimited armor/ammo),-,needs review,"(cheat device data, not a disc)",soldierfortune,v64385.vmi
-ZZ_CHEATPSO2XP,Cheat-device code save: Xploder codes for Phantasy Star Online Ver. 2,-,needs review,"(cheat device data, not a disc)",pso2,v45276.vmi
+zz_CHEATARCDX01,Cheat-device code save: Action Replay CDX code save (many codes loaded),-,needs review,"(cheat device data, not a disc)",arcdx,arcdx1.VMI
+zz_CHEATARCDX02,"Cheat-device code save: Action Replay CDX code save: 423 games, all regions",-,needs review,"(cheat device data, not a disc)",arcdx,AR423.VMI
+zz_CHEATXPLODER30,Cheat-device code save: Code Breaker / Xploder DC code save (30 games),-,needs review,"(cheat device data, not a disc)",xploder,XPLODER.VMI
+zz_CHEATGSCDX01,Cheat-device code save: GameShark CDX code save,-,needs review,"(cheat device data, not a disc)",gscdx,gscdx1.VMI
+zz_CHEATGSCDX02,Cheat-device code save: GameShark CDX code save,-,needs review,"(cheat device data, not a disc)",gscdx,GSCDX.vmi
+zz_CHEATPSOGS,Cheat-device code save: GameShark CDX codes for Phantasy Star Online (JP & US),-,needs review,"(cheat device data, not a disc)",pso,psocodes.VMI
+zz_CHEATPSO2GS,Cheat-device code save: GameShark codes for Phantasy Star Online Ver. 2,-,needs review,"(cheat device data, not a disc)",pso2,FCDCHEAT.VMI
+zz_CHEATSOFGS,Cheat-device code save: GameShark codes for Soldier of Fortune (unlimited armor/ammo),-,needs review,"(cheat device data, not a disc)",soldierfortune,v64385.vmi
+zz_CHEATPSO2XP,Cheat-device code save: Xploder codes for Phantasy Star Online Ver. 2,-,needs review,"(cheat device data, not a disc)",pso2,v45276.vmi
 T36811N,Chicken Run,US,ready,Chicken Run (USA),chickenrun,v7111.vmi
 T1206M,Choukou Senki Kikaioh (Tech Romancer JP),JP,ready,Choukou Senki Kikaioh (Japan),disc_kikaioh,dc_kool_00000325.vmi
 MK51049,Chu Chu Rocket,US,ready,"ChuChu Rocket! (USA) (En,Ja,Fr,De,Es)",chuchu,dc_kool_00000031.vmi
@@ -369,142 +369,142 @@ MK51028,Virtua Striker 2,US,ready,"Virtua Striker 2 (USA) (En,Ja,De,Es)",virtuas
 MK51054,Virtua Tennis,US,ready,Virtua Tennis,virtuatennis,v6482.vmi
 MK51186,Virtua Tennis 2 (Tennis 2K2),US,ready,Virtua Tennis 2 (Tennis 2K2),virtuatennis2,TENN2K2.VMI
 T13004N,Virtual-On: Oratorio Tangram,US,needs review,Virtual-On: Oratorio Tangram,virtualon,v1971.vmi+v39368.vmi+v8748.vmi
-ZZ_MG_3d_FPS,VMU minigame: 3d FPS,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0001.vmi
-ZZ_MG_4_Wins,VMU minigame: 4 Wins,-,ready,(not a disc: standalone VMU minigame),minigames,4WINS.VMI
-ZZ_MG_4_Wins_0001,VMU minigame: 4 Wins 0001,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0001.vmi
-ZZ_MG_Air_Disaster,VMU minigame: Air Disaster,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0002.vmi
-ZZ_MG_Alien_Fighter,VMU minigame: Alien Fighter,-,ready,(not a disc: standalone VMU minigame),minigames,ALNFIGHT.VMI
-ZZ_MG_Alien_Shooter,VMU minigame: Alien Shooter,-,ready,(not a disc: standalone VMU minigame),minigames,00003831.VMI
-ZZ_MG_Arrow,VMU minigame: Arrow,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0001.vmi
-ZZ_MG_Basketball,VMU minigame: Basketball,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_sport_game0001.vmi
-ZZ_MG_Boxing,VMU minigame: Boxing,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_sport_game0002.vmi
-ZZ_MG_Buffy,VMU minigame: Buffy,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0003.vmi
-ZZ_MG_Cardcaptor_Breakout,VMU minigame: Cardcaptor Breakout,-,ready,(not a disc: standalone VMU minigame),minigames,SCCBRK.VMI
-ZZ_MG_CC_Sakura_Kero,VMU minigame: CC Sakura Kero,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0001.vmi
-ZZ_MG_CC_Sakura_Li,VMU minigame: CC Sakura Li,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0002.vmi
-ZZ_MG_CC_Sakura_Oyatu,VMU minigame: CC Sakura Oyatu,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0002.vmi
-ZZ_MG_CC_Sakura_Sakura,VMU minigame: CC Sakura Sakura,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0003.vmi
-ZZ_MG_CC_Sakura_Tobakero,VMU minigame: CC Sakura Tobakero,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0003.vmi
-ZZ_MG_CC_Sakura_Tomoyo,VMU minigame: CC Sakura Tomoyo,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0004.vmi
-ZZ_MG_Chao_Adventure_2_En,VMU minigame: Chao Adventure 2 En,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0002.vmi
-ZZ_MG_Chao_Adventure_2_Fr,VMU minigame: Chao Adventure 2 Fr,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0003.vmi
-ZZ_MG_Chao_Adventure_by_SEGA,VMU minigame: Chao Adventure by SEGA,-,ready,(not a disc: standalone VMU minigame),minigames,VMFL_073.VMI
-ZZ_MG_Chao_Editor_2_by_Tyro,VMU minigame: Chao Editor 2 by Tyro,-,ready,(not a disc: standalone VMU minigame),minigames,CHAO2.VMI
-ZZ_MG_Chao_Editor_by_Tyro,VMU minigame: Chao Editor by Tyro,-,ready,(not a disc: standalone VMU minigame),minigames,CHAOEDIT.VMI
-ZZ_MG_Chuchu,VMU minigame: Chuchu,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0004.vmi
-ZZ_MG_circles,VMU minigame: circles,-,ready,(not a disc: standalone VMU minigame),minigames,CIRCLES.VMI
-ZZ_MG_Climax_Landers,VMU minigame: Climax Landers,-,ready,(not a disc: standalone VMU minigame),minigames,VMFL_084.VMI
-ZZ_MG_Dance_Dance,VMU minigame: Dance Dance,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0003.vmi
-ZZ_MG_DAngelo_Music_Video,VMU minigame: DAngelo Music Video,-,ready,(not a disc: standalone VMU minigame),minigames,DANGELO.VMI
-ZZ_MG_Dragon_Ball_Z,VMU minigame: Dragon Ball Z,-,ready,(not a disc: standalone VMU minigame),minigames,00006003.VMI
-ZZ_MG_Dream_Monsters,VMU minigame: Dream Monsters,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0003.vmi
-ZZ_MG_Dream_Racer,VMU minigame: Dream Racer,-,ready,(not a disc: standalone VMU minigame),minigames,DRACER.VMI
-ZZ_MG_Dunar_Fighter,VMU minigame: Dunar Fighter,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0004.vmi
-ZZ_MG_Enemy_Zero_Training,VMU minigame: Enemy Zero Training,-,ready,(not a disc: standalone VMU minigame),minigames,E0.VMI
-ZZ_MG_Fast_and_Furious_Animation,VMU minigame: Fast and Furious Animation,-,ready,(not a disc: standalone VMU minigame),minigames,FASTFURI.VMI
-ZZ_MG_Fat_Rain,VMU minigame: Fat Rain,-,ready,(not a disc: standalone VMU minigame),minigames,FATRAIN.VMI
-ZZ_MG_Forever_Legend_Pocket,VMU minigame: Forever Legend Pocket,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_adventure_game0001.vmi
-ZZ_MG_Freak_Skater,VMU minigame: Freak Skater,-,ready,(not a disc: standalone VMU minigame),minigames,FSKATER.VMI
-ZZ_MG_Frog_in_a_blender,VMU minigame: Frog in a blender,-,ready,(not a disc: standalone VMU minigame),minigames,FROG.VMI
-ZZ_MG_Glucky_Labyrinth,VMU minigame: Glucky Labyrinth,-,ready,(not a disc: standalone VMU minigame),minigames,GLUCKY.VMI
-ZZ_MG_Godzilla,VMU minigame: Godzilla,-,ready,(not a disc: standalone VMU minigame),minigames,GODZILLA.VMI
-ZZ_MG_Godzilla_0006,VMU minigame: Godzilla 0006,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0006.vmi
-ZZ_MG_Greyscale_Photo_Demo,VMU minigame: Greyscale Photo Demo,-,ready,(not a disc: standalone VMU minigame),minigames,GREY.VMI
-ZZ_MG_Guess_That_Square,VMU minigame: Guess That Square,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0004.vmi
-ZZ_MG_Hello_Kitty,VMU minigame: Hello Kitty,-,ready,(not a disc: standalone VMU minigame),minigames,KITTYCAT.VMI
-ZZ_MG_I_do_U_do,VMU minigame: I do U do,-,ready,(not a disc: standalone VMU minigame),minigames,IDOUDO.VMI
-ZZ_MG_James_Bond,VMU minigame: James Bond,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0005.vmi
-ZZ_MG_Jim_Bowl,VMU minigame: Jim Bowl,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_sport_game0005.vmi
-ZZ_MG_Jim_Light,VMU minigame: Jim Light,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0007.vmi
-ZZ_MG_Jojo_s_Problem,VMU minigame: Jojo s Problem,-,ready,(not a disc: standalone VMU minigame),minigames,JOJO.VMI
-ZZ_MG_Kill_Em_All,VMU minigame: Kill Em All,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0006.vmi
-ZZ_MG_Kill_Hyman,VMU minigame: Kill Hyman,-,ready,(not a disc: standalone VMU minigame),minigames,00003096.VMI
-ZZ_MG_Light,VMU minigame: Light,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0006.vmi
-ZZ_MG_Lightsabre_Battle,VMU minigame: Lightsabre Battle,-,ready,(not a disc: standalone VMU minigame),minigames,00003910.VMI
-ZZ_MG_Linear_s_Watch,VMU minigame: Linear s Watch,-,ready,(not a disc: standalone VMU minigame),minigames,MINICLOC.VMI
-ZZ_MG_Logic,VMU minigame: Logic,-,ready,(not a disc: standalone VMU minigame),minigames,LOGIC.VMI
-ZZ_MG_Logic_0007,VMU minigame: Logic 0007,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0007.vmi
-ZZ_MG_Marvel_vs_Capcom_2,VMU minigame: Marvel vs Capcom 2,-,ready,(not a disc: standalone VMU minigame),minigames,4007.VMI
-ZZ_MG_Matrix_Reloaded_vmu_animat,VMU minigame: Matrix Reloaded vmu animat,-,ready,(not a disc: standalone VMU minigame),minigames,MATRXRLD.VMI
-ZZ_MG_Megaman_VMU_Battle,VMU minigame: Megaman VMU Battle,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0008.vmi
-ZZ_MG_Metal_Gear_Stealth,VMU minigame: Metal Gear Stealth,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0009.vmi
-ZZ_MG_Metroid,VMU minigame: Metroid,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0010.vmi
-ZZ_MG_Michael_Jackson_music_vide,VMU minigame: Michael Jackson music vide,-,ready,(not a disc: standalone VMU minigame),minigames,MICHAEL.VMI
-ZZ_MG_Minesweeper,VMU minigame: Minesweeper,-,ready,(not a disc: standalone VMU minigame),minigames,MINE.VMI
-ZZ_MG_Muddy_Says,VMU minigame: Muddy Says,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0009.vmi
-ZZ_MG_Neko_2_2,VMU minigame: Neko 2 2,-,ready,(not a disc: standalone VMU minigame),minigames,00004662.VMI
-ZZ_MG_Outrun,VMU minigame: Outrun,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0010.vmi
-ZZ_MG_Paper_Attack,VMU minigame: Paper Attack,-,ready,(not a disc: standalone VMU minigame),minigames,PAPER.VMI
-ZZ_MG_Pocket_Calculator,VMU minigame: Pocket Calculator,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_pcv09b.vmi
-ZZ_MG_Pocket_GT_Eu,VMU minigame: Pocket GT Eu,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0012.vmi
-ZZ_MG_Pocket_GT_Jap,VMU minigame: Pocket GT Jap,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0013.vmi
-ZZ_MG_Pocket_GT_Usa,VMU minigame: Pocket GT Usa,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0014.vmi
-ZZ_MG_Pop_n_Music_Vol_1,VMU minigame: Pop n Music Vol 1,-,ready,(not a disc: standalone VMU minigame),minigames,POPMUSI1.VMI
-ZZ_MG_Pop_n_Music_Vol_2,VMU minigame: Pop n Music Vol 2,-,ready,(not a disc: standalone VMU minigame),minigames,POPMUSI2.VMI
-ZZ_MG_Pop_n_Music_Vol_3,VMU minigame: Pop n Music Vol 3,-,ready,(not a disc: standalone VMU minigame),minigames,POPMUSI3.VMI
-ZZ_MG_Power_Stone_2_JP,VMU minigame: Power Stone 2 JP,-,ready,(not a disc: standalone VMU minigame),minigames,4008.VMI
-ZZ_MG_Powerstone_Mini,VMU minigame: Powerstone Mini,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0015.vmi
-ZZ_MG_Powerstone_mini_by_Capcom,VMU minigame: Powerstone mini by Capcom,-,ready,(not a disc: standalone VMU minigame),minigames,POWERSTN.VMI
-ZZ_MG_promotion_video,VMU minigame: promotion video,-,ready,(not a disc: standalone VMU minigame),minigames,PROMO.VMI
-ZZ_MG_PSO_ID_Calculator,VMU minigame: PSO ID Calculator,-,ready,(not a disc: standalone VMU minigame),minigames,PSOID.VMI
-ZZ_MG_PSO_Slide_Puzzle,VMU minigame: PSO Slide Puzzle,-,ready,(not a disc: standalone VMU minigame),minigames,PSOPUZZL.VMI
-ZZ_MG_PSO_VMU_ID_Calculator_Beta,VMU minigame: PSO VMU ID Calculator Beta,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0024.vmi
-ZZ_MG_QTE,VMU minigame: QTE,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0009.vmi
-ZZ_MG_Rainbow_Six,VMU minigame: Rainbow Six,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0012.vmi
-ZZ_MG_Revenge,VMU minigame: Revenge,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0013.vmi
-ZZ_MG_Road_Kill,VMU minigame: Road Kill,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0017.vmi
-ZZ_MG_Rotozoom,VMU minigame: Rotozoom,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0002.vmi
-ZZ_MG_Sample,VMU minigame: Sample,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0003.vmi
-ZZ_MG_Scroll,VMU minigame: Scroll,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0004.vmi
-ZZ_MG_SEGA_GT,VMU minigame: SEGA GT,-,ready,(not a disc: standalone VMU minigame),minigames,4004.VMI
-ZZ_MG_Shell,VMU minigame: Shell,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0011.vmi
-ZZ_MG_Shenmue,VMU minigame: Shenmue,-,ready,(not a disc: standalone VMU minigame),minigames,4001.VMI
-ZZ_MG_Shenmue_Goodies_2,VMU minigame: Shenmue Goodies 2,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_sg2.vmi
-ZZ_MG_Simon_Bryan,VMU minigame: Simon Bryan,-,ready,(not a disc: standalone VMU minigame),minigames,00004276.VMI
-ZZ_MG_Skies_Arcadia_Pintas_Quest,VMU minigame: Skies Arcadia Pintas Quest,-,ready,(not a disc: standalone VMU minigame),minigames,SOAMINI.VMI
-ZZ_MG_Skies_Arcadia_Pintas_Quest_NTSC,VMU minigame: Skies Arcadia Pintas Quest NTSC,-,ready,(not a disc: standalone VMU minigame),minigames,PQ_NTSC.VMI
-ZZ_MG_Skies_Arcadia_Pintas_Quest_PAL,VMU minigame: Skies Arcadia Pintas Quest PAL,-,ready,(not a disc: standalone VMU minigame),minigames,PQ_PAL.VMI
-ZZ_MG_Slidepuzzle,VMU minigame: Slidepuzzle,-,ready,(not a disc: standalone VMU minigame),minigames,SLIDEPUZ.VMI
-ZZ_MG_Snake,VMU minigame: Snake,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0011.vmi
-ZZ_MG_Snaky,VMU minigame: Snaky,-,ready,(not a disc: standalone VMU minigame),minigames,SNAKY.VMI
-ZZ_MG_Snaky_0012,VMU minigame: Snaky 0012,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0012.vmi
-ZZ_MG_Sniper,VMU minigame: Sniper,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0012.vmi
-ZZ_MG_Soul_Calibur_2_Adventure,VMU minigame: Soul Calibur 2 Adventure,-,ready,(not a disc: standalone VMU minigame),minigames,SOUL2ADV.VMI
-ZZ_MG_SoulCalibur_by_Namco,VMU minigame: SoulCalibur by Namco,-,ready,(not a disc: standalone VMU minigame),minigames,SCALIBU.VMI
-ZZ_MG_Sound_1,VMU minigame: Sound 1,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0005.vmi
-ZZ_MG_Sound_2,VMU minigame: Sound 2,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0006.vmi
-ZZ_MG_Sound_3,VMU minigame: Sound 3,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0007.vmi
-ZZ_MG_Sound_Demo_v1_0,VMU minigame: Sound Demo v1 0,-,ready,(not a disc: standalone VMU minigame),minigames,SOUND.VMI
-ZZ_MG_Space_Invaders,VMU minigame: Space Invaders,-,ready,(not a disc: standalone VMU minigame),minigames,SI.VMI
-ZZ_MG_Star_Wars,VMU minigame: Star Wars,-,ready,(not a disc: standalone VMU minigame),minigames,00003291.VMI
-ZZ_MG_sun_moon_rise,VMU minigame: sun moon rise,-,ready,(not a disc: standalone VMU minigame),minigames,RISE.VMI
-ZZ_MG_Supercross_VMU,VMU minigame: Supercross VMU,-,ready,(not a disc: standalone VMU minigame),minigames,00001870.VMI
-ZZ_MG_Swampy,VMU minigame: Swampy,-,ready,(not a disc: standalone VMU minigame),minigames,SWAMPY.VMI
-ZZ_MG_Tech_Romancer,VMU minigame: Tech Romancer,-,ready,(not a disc: standalone VMU minigame),minigames,VMFL_081.VMI
-ZZ_MG_Tera,VMU minigame: Tera,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0015.vmi
-ZZ_MG_Time_Crisis,VMU minigame: Time Crisis,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0016.vmi
-ZZ_MG_Time_Shooter,VMU minigame: Time Shooter,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0017.vmi
-ZZ_MG_Tiny_3D_Engine,VMU minigame: Tiny 3D Engine,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_3d.vmi
-ZZ_MG_Tiny_Tetris,VMU minigame: Tiny Tetris,-,ready,(not a disc: standalone VMU minigame),minigames,TETRIS.VMI
-ZZ_MG_Tokyo_Car_race,VMU minigame: Tokyo Car race,-,ready,(not a disc: standalone VMU minigame),minigames,TOKYOCAR.VMI
-ZZ_MG_Trickstyle_Jr_VMU_Game,VMU minigame: Trickstyle Jr VMU Game,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0015.vmi
-ZZ_MG_Trigger_Front_1,VMU minigame: Trigger Front 1,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0018.vmi
-ZZ_MG_Trigger_Front_2,VMU minigame: Trigger Front 2,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0019.vmi
-ZZ_MG_Trigger_Front_3_4,VMU minigame: Trigger Front 3 4,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0020.vmi
-ZZ_MG_Virtua_Cop,VMU minigame: Virtua Cop,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0021.vmi
-ZZ_MG_Virtual_Teacher,VMU minigame: Virtual Teacher,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0021.vmi
-ZZ_MG_VM_a_Sketch,VMU minigame: VM a Sketch,-,ready,(not a disc: standalone VMU minigame),minigames,SKETCH.VMI
-ZZ_MG_VMU_8_Ball,VMU minigame: VMU 8 Ball,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0013.vmi
-ZZ_MG_VMU_Adventure,VMU minigame: VMU Adventure,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0014.vmi
-ZZ_MG_VMU_All_Stars_1,VMU minigame: VMU All Stars 1,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_allstars.vmi
-ZZ_MG_VMU_Breakout_by_MJ,VMU minigame: VMU Breakout by MJ,-,ready,(not a disc: standalone VMU minigame),minigames,BREAKOUT.VMI
-ZZ_MG_VMU_Dice,VMU minigame: VMU Dice,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0015.vmi
-ZZ_MG_VMU_Fighter,VMU minigame: VMU Fighter,-,ready,(not a disc: standalone VMU minigame),minigames,00004271.VMI
-ZZ_MG_VMU_Football,VMU minigame: VMU Football,-,ready,(not a disc: standalone VMU minigame),minigames,ZUQIU.VMI
-ZZ_MG_VMU_Mini_Pacman,VMU minigame: VMU Mini Pacman,-,ready,(not a disc: standalone VMU minigame),minigames,PACMAN.VMI
-ZZ_MG_VMU_Vision_by_Tyro,VMU minigame: VMU Vision by Tyro,-,ready,(not a disc: standalone VMU minigame),minigames,VISION1.VMI
-ZZ_MG_Where_s_Bruce,VMU minigame: Where s Bruce,-,ready,(not a disc: standalone VMU minigame),minigames,VMWBP.VMI
-ZZ_MG_Zombie_Revenge,VMU minigame: Zombie Revenge,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0023.vmi
+zz_MG_3d_FPS,VMU minigame: 3d FPS,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0001.vmi
+zz_MG_4_Wins,VMU minigame: 4 Wins,-,ready,(not a disc: standalone VMU minigame),minigames,4WINS.VMI
+zz_MG_4_Wins_0001,VMU minigame: 4 Wins 0001,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0001.vmi
+zz_MG_Air_Disaster,VMU minigame: Air Disaster,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0002.vmi
+zz_MG_Alien_Fighter,VMU minigame: Alien Fighter,-,ready,(not a disc: standalone VMU minigame),minigames,ALNFIGHT.VMI
+zz_MG_Alien_Shooter,VMU minigame: Alien Shooter,-,ready,(not a disc: standalone VMU minigame),minigames,00003831.VMI
+zz_MG_Arrow,VMU minigame: Arrow,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0001.vmi
+zz_MG_Basketball,VMU minigame: Basketball,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_sport_game0001.vmi
+zz_MG_Boxing,VMU minigame: Boxing,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_sport_game0002.vmi
+zz_MG_Buffy,VMU minigame: Buffy,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0003.vmi
+zz_MG_Cardcaptor_Breakout,VMU minigame: Cardcaptor Breakout,-,ready,(not a disc: standalone VMU minigame),minigames,SCCBRK.VMI
+zz_MG_CC_Sakura_Kero,VMU minigame: CC Sakura Kero,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0001.vmi
+zz_MG_CC_Sakura_Li,VMU minigame: CC Sakura Li,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0002.vmi
+zz_MG_CC_Sakura_Oyatu,VMU minigame: CC Sakura Oyatu,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0002.vmi
+zz_MG_CC_Sakura_Sakura,VMU minigame: CC Sakura Sakura,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0003.vmi
+zz_MG_CC_Sakura_Tobakero,VMU minigame: CC Sakura Tobakero,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0003.vmi
+zz_MG_CC_Sakura_Tomoyo,VMU minigame: CC Sakura Tomoyo,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_clock_game0004.vmi
+zz_MG_Chao_Adventure_2_En,VMU minigame: Chao Adventure 2 En,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0002.vmi
+zz_MG_Chao_Adventure_2_Fr,VMU minigame: Chao Adventure 2 Fr,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0003.vmi
+zz_MG_Chao_Adventure_by_SEGA,VMU minigame: Chao Adventure by SEGA,-,ready,(not a disc: standalone VMU minigame),minigames,VMFL_073.VMI
+zz_MG_Chao_Editor_2_by_Tyro,VMU minigame: Chao Editor 2 by Tyro,-,ready,(not a disc: standalone VMU minigame),minigames,CHAO2.VMI
+zz_MG_Chao_Editor_by_Tyro,VMU minigame: Chao Editor by Tyro,-,ready,(not a disc: standalone VMU minigame),minigames,CHAOEDIT.VMI
+zz_MG_Chuchu,VMU minigame: Chuchu,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0004.vmi
+zz_MG_circles,VMU minigame: circles,-,ready,(not a disc: standalone VMU minigame),minigames,CIRCLES.VMI
+zz_MG_Climax_Landers,VMU minigame: Climax Landers,-,ready,(not a disc: standalone VMU minigame),minigames,VMFL_084.VMI
+zz_MG_Dance_Dance,VMU minigame: Dance Dance,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0003.vmi
+zz_MG_DAngelo_Music_Video,VMU minigame: DAngelo Music Video,-,ready,(not a disc: standalone VMU minigame),minigames,DANGELO.VMI
+zz_MG_Dragon_Ball_Z,VMU minigame: Dragon Ball Z,-,ready,(not a disc: standalone VMU minigame),minigames,00006003.VMI
+zz_MG_Dream_Monsters,VMU minigame: Dream Monsters,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0003.vmi
+zz_MG_Dream_Racer,VMU minigame: Dream Racer,-,ready,(not a disc: standalone VMU minigame),minigames,DRACER.VMI
+zz_MG_Dunar_Fighter,VMU minigame: Dunar Fighter,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0004.vmi
+zz_MG_Enemy_Zero_Training,VMU minigame: Enemy Zero Training,-,ready,(not a disc: standalone VMU minigame),minigames,E0.VMI
+zz_MG_Fast_and_Furious_Animation,VMU minigame: Fast and Furious Animation,-,ready,(not a disc: standalone VMU minigame),minigames,FASTFURI.VMI
+zz_MG_Fat_Rain,VMU minigame: Fat Rain,-,ready,(not a disc: standalone VMU minigame),minigames,FATRAIN.VMI
+zz_MG_Forever_Legend_Pocket,VMU minigame: Forever Legend Pocket,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_adventure_game0001.vmi
+zz_MG_Freak_Skater,VMU minigame: Freak Skater,-,ready,(not a disc: standalone VMU minigame),minigames,FSKATER.VMI
+zz_MG_Frog_in_a_blender,VMU minigame: Frog in a blender,-,ready,(not a disc: standalone VMU minigame),minigames,FROG.VMI
+zz_MG_Glucky_Labyrinth,VMU minigame: Glucky Labyrinth,-,ready,(not a disc: standalone VMU minigame),minigames,GLUCKY.VMI
+zz_MG_Godzilla,VMU minigame: Godzilla,-,ready,(not a disc: standalone VMU minigame),minigames,GODZILLA.VMI
+zz_MG_Godzilla_0006,VMU minigame: Godzilla 0006,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0006.vmi
+zz_MG_Greyscale_Photo_Demo,VMU minigame: Greyscale Photo Demo,-,ready,(not a disc: standalone VMU minigame),minigames,GREY.VMI
+zz_MG_Guess_That_Square,VMU minigame: Guess That Square,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0004.vmi
+zz_MG_Hello_Kitty,VMU minigame: Hello Kitty,-,ready,(not a disc: standalone VMU minigame),minigames,KITTYCAT.VMI
+zz_MG_I_do_U_do,VMU minigame: I do U do,-,ready,(not a disc: standalone VMU minigame),minigames,IDOUDO.VMI
+zz_MG_James_Bond,VMU minigame: James Bond,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0005.vmi
+zz_MG_Jim_Bowl,VMU minigame: Jim Bowl,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_sport_game0005.vmi
+zz_MG_Jim_Light,VMU minigame: Jim Light,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0007.vmi
+zz_MG_Jojo_s_Problem,VMU minigame: Jojo s Problem,-,ready,(not a disc: standalone VMU minigame),minigames,JOJO.VMI
+zz_MG_Kill_Em_All,VMU minigame: Kill Em All,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0006.vmi
+zz_MG_Kill_Hyman,VMU minigame: Kill Hyman,-,ready,(not a disc: standalone VMU minigame),minigames,00003096.VMI
+zz_MG_Light,VMU minigame: Light,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0006.vmi
+zz_MG_Lightsabre_Battle,VMU minigame: Lightsabre Battle,-,ready,(not a disc: standalone VMU minigame),minigames,00003910.VMI
+zz_MG_Linear_s_Watch,VMU minigame: Linear s Watch,-,ready,(not a disc: standalone VMU minigame),minigames,MINICLOC.VMI
+zz_MG_Logic,VMU minigame: Logic,-,ready,(not a disc: standalone VMU minigame),minigames,LOGIC.VMI
+zz_MG_Logic_0007,VMU minigame: Logic 0007,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_strategy_game0007.vmi
+zz_MG_Marvel_vs_Capcom_2,VMU minigame: Marvel vs Capcom 2,-,ready,(not a disc: standalone VMU minigame),minigames,4007.VMI
+zz_MG_Matrix_Reloaded_vmu_animat,VMU minigame: Matrix Reloaded vmu animat,-,ready,(not a disc: standalone VMU minigame),minigames,MATRXRLD.VMI
+zz_MG_Megaman_VMU_Battle,VMU minigame: Megaman VMU Battle,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0008.vmi
+zz_MG_Metal_Gear_Stealth,VMU minigame: Metal Gear Stealth,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0009.vmi
+zz_MG_Metroid,VMU minigame: Metroid,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0010.vmi
+zz_MG_Michael_Jackson_music_vide,VMU minigame: Michael Jackson music vide,-,ready,(not a disc: standalone VMU minigame),minigames,MICHAEL.VMI
+zz_MG_Minesweeper,VMU minigame: Minesweeper,-,ready,(not a disc: standalone VMU minigame),minigames,MINE.VMI
+zz_MG_Muddy_Says,VMU minigame: Muddy Says,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0009.vmi
+zz_MG_Neko_2_2,VMU minigame: Neko 2 2,-,ready,(not a disc: standalone VMU minigame),minigames,00004662.VMI
+zz_MG_Outrun,VMU minigame: Outrun,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0010.vmi
+zz_MG_Paper_Attack,VMU minigame: Paper Attack,-,ready,(not a disc: standalone VMU minigame),minigames,PAPER.VMI
+zz_MG_Pocket_Calculator,VMU minigame: Pocket Calculator,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_pcv09b.vmi
+zz_MG_Pocket_GT_Eu,VMU minigame: Pocket GT Eu,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0012.vmi
+zz_MG_Pocket_GT_Jap,VMU minigame: Pocket GT Jap,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0013.vmi
+zz_MG_Pocket_GT_Usa,VMU minigame: Pocket GT Usa,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0014.vmi
+zz_MG_Pop_n_Music_Vol_1,VMU minigame: Pop n Music Vol 1,-,ready,(not a disc: standalone VMU minigame),minigames,POPMUSI1.VMI
+zz_MG_Pop_n_Music_Vol_2,VMU minigame: Pop n Music Vol 2,-,ready,(not a disc: standalone VMU minigame),minigames,POPMUSI2.VMI
+zz_MG_Pop_n_Music_Vol_3,VMU minigame: Pop n Music Vol 3,-,ready,(not a disc: standalone VMU minigame),minigames,POPMUSI3.VMI
+zz_MG_Power_Stone_2_JP,VMU minigame: Power Stone 2 JP,-,ready,(not a disc: standalone VMU minigame),minigames,4008.VMI
+zz_MG_Powerstone_Mini,VMU minigame: Powerstone Mini,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0015.vmi
+zz_MG_Powerstone_mini_by_Capcom,VMU minigame: Powerstone mini by Capcom,-,ready,(not a disc: standalone VMU minigame),minigames,POWERSTN.VMI
+zz_MG_promotion_video,VMU minigame: promotion video,-,ready,(not a disc: standalone VMU minigame),minigames,PROMO.VMI
+zz_MG_PSO_ID_Calculator,VMU minigame: PSO ID Calculator,-,ready,(not a disc: standalone VMU minigame),minigames,PSOID.VMI
+zz_MG_PSO_Slide_Puzzle,VMU minigame: PSO Slide Puzzle,-,ready,(not a disc: standalone VMU minigame),minigames,PSOPUZZL.VMI
+zz_MG_PSO_VMU_ID_Calculator_Beta,VMU minigame: PSO VMU ID Calculator Beta,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0024.vmi
+zz_MG_QTE,VMU minigame: QTE,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0009.vmi
+zz_MG_Rainbow_Six,VMU minigame: Rainbow Six,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0012.vmi
+zz_MG_Revenge,VMU minigame: Revenge,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0013.vmi
+zz_MG_Road_Kill,VMU minigame: Road Kill,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0017.vmi
+zz_MG_Rotozoom,VMU minigame: Rotozoom,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0002.vmi
+zz_MG_Sample,VMU minigame: Sample,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0003.vmi
+zz_MG_Scroll,VMU minigame: Scroll,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0004.vmi
+zz_MG_SEGA_GT,VMU minigame: SEGA GT,-,ready,(not a disc: standalone VMU minigame),minigames,4004.VMI
+zz_MG_Shell,VMU minigame: Shell,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0011.vmi
+zz_MG_Shenmue,VMU minigame: Shenmue,-,ready,(not a disc: standalone VMU minigame),minigames,4001.VMI
+zz_MG_Shenmue_Goodies_2,VMU minigame: Shenmue Goodies 2,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_sg2.vmi
+zz_MG_Simon_Bryan,VMU minigame: Simon Bryan,-,ready,(not a disc: standalone VMU minigame),minigames,00004276.VMI
+zz_MG_Skies_Arcadia_Pintas_Quest,VMU minigame: Skies Arcadia Pintas Quest,-,ready,(not a disc: standalone VMU minigame),minigames,SOAMINI.VMI
+zz_MG_Skies_Arcadia_Pintas_Quest_NTSC,VMU minigame: Skies Arcadia Pintas Quest NTSC,-,ready,(not a disc: standalone VMU minigame),minigames,PQ_NTSC.VMI
+zz_MG_Skies_Arcadia_Pintas_Quest_PAL,VMU minigame: Skies Arcadia Pintas Quest PAL,-,ready,(not a disc: standalone VMU minigame),minigames,PQ_PAL.VMI
+zz_MG_Slidepuzzle,VMU minigame: Slidepuzzle,-,ready,(not a disc: standalone VMU minigame),minigames,SLIDEPUZ.VMI
+zz_MG_Snake,VMU minigame: Snake,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0011.vmi
+zz_MG_Snaky,VMU minigame: Snaky,-,ready,(not a disc: standalone VMU minigame),minigames,SNAKY.VMI
+zz_MG_Snaky_0012,VMU minigame: Snaky 0012,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0012.vmi
+zz_MG_Sniper,VMU minigame: Sniper,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0012.vmi
+zz_MG_Soul_Calibur_2_Adventure,VMU minigame: Soul Calibur 2 Adventure,-,ready,(not a disc: standalone VMU minigame),minigames,SOUL2ADV.VMI
+zz_MG_SoulCalibur_by_Namco,VMU minigame: SoulCalibur by Namco,-,ready,(not a disc: standalone VMU minigame),minigames,SCALIBU.VMI
+zz_MG_Sound_1,VMU minigame: Sound 1,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0005.vmi
+zz_MG_Sound_2,VMU minigame: Sound 2,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0006.vmi
+zz_MG_Sound_3,VMU minigame: Sound 3,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_demo_game0007.vmi
+zz_MG_Sound_Demo_v1_0,VMU minigame: Sound Demo v1 0,-,ready,(not a disc: standalone VMU minigame),minigames,SOUND.VMI
+zz_MG_Space_Invaders,VMU minigame: Space Invaders,-,ready,(not a disc: standalone VMU minigame),minigames,SI.VMI
+zz_MG_Star_Wars,VMU minigame: Star Wars,-,ready,(not a disc: standalone VMU minigame),minigames,00003291.VMI
+zz_MG_sun_moon_rise,VMU minigame: sun moon rise,-,ready,(not a disc: standalone VMU minigame),minigames,RISE.VMI
+zz_MG_Supercross_VMU,VMU minigame: Supercross VMU,-,ready,(not a disc: standalone VMU minigame),minigames,00001870.VMI
+zz_MG_Swampy,VMU minigame: Swampy,-,ready,(not a disc: standalone VMU minigame),minigames,SWAMPY.VMI
+zz_MG_Tech_Romancer,VMU minigame: Tech Romancer,-,ready,(not a disc: standalone VMU minigame),minigames,VMFL_081.VMI
+zz_MG_Tera,VMU minigame: Tera,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0015.vmi
+zz_MG_Time_Crisis,VMU minigame: Time Crisis,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0016.vmi
+zz_MG_Time_Shooter,VMU minigame: Time Shooter,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0017.vmi
+zz_MG_Tiny_3D_Engine,VMU minigame: Tiny 3D Engine,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_3d.vmi
+zz_MG_Tiny_Tetris,VMU minigame: Tiny Tetris,-,ready,(not a disc: standalone VMU minigame),minigames,TETRIS.VMI
+zz_MG_Tokyo_Car_race,VMU minigame: Tokyo Car race,-,ready,(not a disc: standalone VMU minigame),minigames,TOKYOCAR.VMI
+zz_MG_Trickstyle_Jr_VMU_Game,VMU minigame: Trickstyle Jr VMU Game,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_arcade_game0015.vmi
+zz_MG_Trigger_Front_1,VMU minigame: Trigger Front 1,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0018.vmi
+zz_MG_Trigger_Front_2,VMU minigame: Trigger Front 2,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0019.vmi
+zz_MG_Trigger_Front_3_4,VMU minigame: Trigger Front 3 4,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0020.vmi
+zz_MG_Virtua_Cop,VMU minigame: Virtua Cop,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_action_game0021.vmi
+zz_MG_Virtual_Teacher,VMU minigame: Virtual Teacher,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0021.vmi
+zz_MG_VM_a_Sketch,VMU minigame: VM a Sketch,-,ready,(not a disc: standalone VMU minigame),minigames,SKETCH.VMI
+zz_MG_VMU_8_Ball,VMU minigame: VMU 8 Ball,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0013.vmi
+zz_MG_VMU_Adventure,VMU minigame: VMU Adventure,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0014.vmi
+zz_MG_VMU_All_Stars_1,VMU minigame: VMU All Stars 1,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_rockin_b_allstars.vmi
+zz_MG_VMU_Breakout_by_MJ,VMU minigame: VMU Breakout by MJ,-,ready,(not a disc: standalone VMU minigame),minigames,BREAKOUT.VMI
+zz_MG_VMU_Dice,VMU minigame: VMU Dice,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_interanim_game0015.vmi
+zz_MG_VMU_Fighter,VMU minigame: VMU Fighter,-,ready,(not a disc: standalone VMU minigame),minigames,00004271.VMI
+zz_MG_VMU_Football,VMU minigame: VMU Football,-,ready,(not a disc: standalone VMU minigame),minigames,ZUQIU.VMI
+zz_MG_VMU_Mini_Pacman,VMU minigame: VMU Mini Pacman,-,ready,(not a disc: standalone VMU minigame),minigames,PACMAN.VMI
+zz_MG_VMU_Vision_by_Tyro,VMU minigame: VMU Vision by Tyro,-,ready,(not a disc: standalone VMU minigame),minigames,VISION1.VMI
+zz_MG_Where_s_Bruce,VMU minigame: Where s Bruce,-,ready,(not a disc: standalone VMU minigame),minigames,VMWBP.VMI
+zz_MG_Zombie_Revenge,VMU minigame: Zombie Revenge,-,ready,(not a disc: standalone VMU minigame),disc_bs_minigames,bs_misc_game0023.vmi
 T15113N,Wacky Races,US,ready,Wacky Races (USA),wackyraces,v76433.vmi
 T8111N,Wetrix+,US,ready,Wetrix+ (USA),wetrix,v39228.vmi
 T42101N,Wild Metal,US,ready,"Wild Metal (USA) (En,Fr,De,Es,It,Pt)",wildmetal,v56159.vmi
