@@ -1140,7 +1140,7 @@
   ],
   "completion": "nivel 11",
   "status": "needs review",
-  "notes": "F1WGP4DC_ = F1 World Grand Prix (US). F1WGP4DC2 saves belong to F1 World Grand Prix II (JP/EU), which was wrongly used before; this US save is mid-season, no completed US save in archive"
+  "notes": "F1WGP4DC_ = F1 World Grand Prix (US). Mid-season save; no completed US save found. F1WGP4DC2 saves belong to F1 World Grand Prix II (JP/EU)"
  },
  {
   "dir": "f355challenge",
@@ -4530,7 +4530,7 @@
   ],
   "completion": "I have all the levels and sports in this save.",
   "status": "ready",
-  "notes": "XTREMESP = Xtreme Sports (US). EXTREMES.SYS is the different game Sega Extreme Sports (EU/JP) and was wrongly used before; confirmed by K3zter save-db"
+  "notes": "XTREMESP = Xtreme Sports (US); EXTREMES.SYS saves belong to the different game Sega Extreme Sports (EU/JP). Confirmed by K3zter save-db"
  },
  {
   "dir": "zerogun2",

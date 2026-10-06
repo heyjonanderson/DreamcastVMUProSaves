@@ -17,7 +17,8 @@ is different and would not match.) A disc with several header numbers (revisions
    `/Dreamcast/T1201N/T1201N-1.vmu`, etc. You can copy only the games you want.
 3. Put the card in the VMU Pro, boot a game. If the folder name matches the game's ID the VMU Pro loads that card
    automatically (the card is channel 1; this repo supplies channel 1 only).
-4. Folder names on the SD card must be product IDs (that is how the VMU Pro finds the right card), so they are not readable.
+4. **Easiest:** use the catalog page `docs/index.html` (search, filter, tick the games you own and download a ready-made SD zip). On GitHub, turn on Pages (Settings > Pages > Deploy from branch `main`, folder `/docs`) to get it as a website: https://heyjonanderson.github.io/DreamcastVMUProSaves/ . `INDEX.md` is the same list with direct links.
+5. Folder names on the SD card must be product IDs (that is how the VMU Pro finds the right card), so they are not readable.
    To find a game: browse **[by-title/](by-title)** (folders named by game title), open **[INDEX.md](INDEX.md)** and Ctrl-F the title,
    or see the table GitHub shows under `vmupro/Dreamcast/` (`INDEX.csv` is the same data for spreadsheets). Always copy cards
    from `vmupro/Dreamcast/`, not `by-title/`. (`vmupro/Dreamcast/README.md` is just a lookup file; the VMU Pro ignores it.)
@@ -85,7 +86,7 @@ added or changed a game. `INDEX.csv` is the quickest lookup.
 Needs Node. Clone the source archive (gitignored), then from `_project/`:
 ```
 git clone --depth 1 https://github.com/bucanero/dreamcast-saves src
-node tools/step3.js && node tools/extras.js && node tools/build.js && node tools/skiplist.js
+node tools/step3.js && node tools/extras.js && node tools/build.js && node tools/make_catalog.js && node tools/skiplist.js
 node tools/report.js                 # from repo root
 python3 -I _project/tools/check_cards.py   # from repo root; independent card checker
 ```

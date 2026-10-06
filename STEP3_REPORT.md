@@ -20,7 +20,7 @@ Every card parses back cleanly (checked by tools/vmu.js and by an independent Py
 | Aero Dancing | T6807M | JP | Redump mapping inferred from filename/title, not confirmed |
 | Aero Dancing Fan Disc | T6809M | JP | Redump mapping inferred from filename/title, not confirmed |
 | ESPN NBA 2 Night | T9505N | US | Only save: early in a season, not a completed state |
-| F1 World Grand Prix | T3001N | US | F1WGP4DC_ = F1 World Grand Prix (US). F1WGP4DC2 saves belong to F1 World Grand Prix II (JP/EU), which was wrongly used before; this US save is mid-season, no completed US save in archive |
+| F1 World Grand Prix | T3001N | US | F1WGP4DC_ = F1 World Grand Prix (US). Mid-season save; no completed US save found. F1WGP4DC2 saves belong to F1 World Grand Prix II (JP/EU) |
 | Fighting Force 2 | 36801N, T36801N | US | Level 8 save; archive has no completed save; also released: other/EU (alt ID T36801N) |
 | Gunbird 2 | T1214N | US | Only save; description gives no unlock info; also released: JP/EU |
 | Jet Set Radio DX | HDR0128 | JP | Redump mapping inferred from filename/title, not confirmed |
