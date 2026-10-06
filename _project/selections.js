@@ -35,4 +35,7 @@ module.exports=[
 {dir:'spawn',       title:"Spawn: In the Demon's Hand",  ids:['T-1216N'],region:'US',files:['v13340.vmi'],completion:'Full: everything unlocked (tagged USA)',status:'ready',notes:''},
 {dir:'virtualon',   title:'Virtual-On: Oratorio Tangram',ids:['T-13004N'],region:'US',files:['v1971.vmi'],completion:'Full: everything unlocked',status:'needs review',notes:'Save region unlabelled; unsure US filename matches'},
 {dir:'gundamrvz',   title:'Kidou Senshi Gundam: Renpou vs. Zeon & DX',ids:['T-13306M'],region:'JP',files:['gundadx1.VMI','gundadx2.VMI'],completion:'Disc1 cleared once; Disc2 all MS',status:'needs review',notes:'JP-only, 2 discs share serial T-13306M. Partial save, creator unnamed'},
+// ---- Step 2: Virtua Tennis ----
+{dir:'virtuatennis', title:'Virtua Tennis',ids:['51054'],region:'US',files:['v6482.vmi'],completion:'Full: everything completed (uploader states unmodified)',status:'needs review',notes:'In-VMS name VIRTUATENNIS (JP Power Smash saves use POWER_SMASH.); region of save not explicitly labelled, US/EU share name. Alts: v36332 (grand master, all clothing), v60789 (100%)'},
+{dir:'virtuatennis2',title:'Virtua Tennis 2 (Tennis 2K2)',ids:['51186'],region:'US',files:['TENN2K2.vmi'],completion:'All unlocked (labelled USA)',status:'ready',notes:'In-VMS name TENNIS_2K2__ = US. EU save VTENNIS2 (V_TENNIS2___) and JP psmash02 not used. Archive saves tagged "Perfect Save" 2k2jonny also US name'},
 ];
