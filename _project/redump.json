@@ -1,0 +1,7582 @@
+[
+ {
+  "name": "Mortal Kombat Gold (Europe)",
+  "serial": "T-9701D-50, T-9701D-61",
+  "region": "Europe"
+ },
+ {
+  "name": "Sonic Adventure (Europe) (En,Ja,Fr,De,Es)",
+  "serial": "MK-51000-53",
+  "region": "Europe"
+ },
+ {
+  "name": "Tomb Raider - The Last Revelation (Europe)",
+  "serial": "T-36804D-05, T-36804D-47",
+  "region": "Europe"
+ },
+ {
+  "name": "Tomb Raider Chronicles (Europe)",
+  "serial": "T-36815D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Star Wars - Episode I - Racer (USA)",
+  "serial": "T-23001N",
+  "region": "USA"
+ },
+ {
+  "name": "Sword of the Berserk - Guts' Rage (USA)",
+  "serial": "T-36805N",
+  "region": "USA"
+ },
+ {
+  "name": "Soulcalibur (USA)",
+  "serial": "T-1401N",
+  "region": "USA"
+ },
+ {
+  "name": "Sega Rally 2 (USA)",
+  "serial": "51019",
+  "region": "USA"
+ },
+ {
+  "name": "Slave Zero (USA)",
+  "serial": "T-15106N",
+  "region": "USA"
+ },
+ {
+  "name": "Sega GT (USA)",
+  "serial": "MK-51053",
+  "region": "USA"
+ },
+ {
+  "name": "Who Wants to Be a Millionaire (Europe)",
+  "serial": "T-36811D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (USA) (Disc 1)",
+  "serial": "T-1204N",
+  "region": "USA"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (USA) (Disc 2)",
+  "serial": "T-1204N",
+  "region": "USA"
+ },
+ {
+  "name": "Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A)",
+  "serial": "51000",
+  "region": "USA"
+ },
+ {
+  "name": "Dino Crisis (USA)",
+  "serial": "T-1217N",
+  "region": "USA"
+ },
+ {
+  "name": "Tomb Raider - The Last Revelation (USA)",
+  "serial": "T-36806N",
+  "region": "USA"
+ },
+ {
+  "name": "Phantasy Star Online Ver. 2 (USA) (En,Ja,Fr,De,Es)",
+  "serial": "51193",
+  "region": "USA"
+ },
+ {
+  "name": "Phantasy Star Online (USA) (En,Ja,Fr,De,Es)",
+  "serial": "51100",
+  "region": "USA"
+ },
+ {
+  "name": "Nightmare Creatures II (USA)",
+  "serial": "T-9504N",
+  "region": "USA"
+ },
+ {
+  "name": "Shenmue (USA) (Disc 1)",
+  "serial": "51059, 51131",
+  "region": "USA"
+ },
+ {
+  "name": "Shenmue (USA) (Disc 2)",
+  "serial": "51059, 51131",
+  "region": "USA"
+ },
+ {
+  "name": "Shenmue (USA) (Disc 3)",
+  "serial": "51059, 51131",
+  "region": "USA"
+ },
+ {
+  "name": "Shenmue (USA) (Shenmue Passport)",
+  "serial": "51059, 51131",
+  "region": "USA"
+ },
+ {
+  "name": "Vigilante 8 - 2nd Offense (Europe)",
+  "serial": "T-13002D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sydney 2000 (Japan)",
+  "serial": "T-1237M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eisei Meijin III - Game Creator Yoshimura Nobuhiro no Zunou (Japan)",
+  "serial": "T-9503M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamkey (Europe) (Rev B)",
+  "serial": "832-0002-05, 833-0003-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 1 (Europe) (En,Fr,De,Es)",
+  "serial": "833-0002-50",
+  "region": "Europe"
+ },
+ {
+  "name": "ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es)",
+  "serial": "952-0044-50, MK-51049-50, MK-51049-B5",
+  "region": "Europe"
+ },
+ {
+  "name": "UEFA Dream Soccer (France) (En,Fr,De,Es)",
+  "serial": "MK-51095-09",
+  "region": "France"
+ },
+ {
+  "name": "Super Runabout - San Francisco Edition (Europe)",
+  "serial": "952-0121-50, T-7014D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Toy Racer (Europe) (En,Fr,De,Es)",
+  "serial": "MK-51149-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Tomb Raider IV - The Last Revelation (Germany)",
+  "serial": "T-36804D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Resident Evil 3 - Nemesis (Europe)",
+  "serial": "T-7021D-05, T-7021D-56",
+  "region": "Europe"
+ },
+ {
+  "name": "Resident Evil 3 - Nemesis (Germany)",
+  "serial": "T-7021D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Dreamkey (Europe)",
+  "serial": "833-0003-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamkey Version 2.0 (Europe) (En,Fr,De,Es,It)",
+  "serial": "832-0053-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Kaen Seibo - The Virgin on Megiddo (Japan) (Disc 1)",
+  "serial": "T-42802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kaen Seibo - The Virgin on Megiddo (Japan) (Disc 2)",
+  "serial": "T-42802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen Online - Paris no Yuuga na Hibi (Japan)",
+  "serial": "HDR-0185, HDR-0189",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 4 - Koi seyo Otome - Preview Disc (Japan)",
+  "serial": "HDR-0184, HDR-0189",
+  "region": "Japan"
+ },
+ {
+  "name": "Climax Landers (Japan)",
+  "serial": "HDR-0009",
+  "region": "Japan"
+ },
+ {
+  "name": "Tokyo Xtreme Racer (USA)",
+  "serial": "T-40202N",
+  "region": "USA"
+ },
+ {
+  "name": "Super Runabout (Japan)",
+  "serial": "T-22101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Monaco Grand Prix Racing Simulation 2 (Japan)",
+  "serial": "T-17701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Berserk - Millennium Falcon-hen - Wasurebana no Shou (Japan)",
+  "serial": "T-2101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Crazy Taxi (Japan)",
+  "serial": "HDR-0053",
+  "region": "Japan"
+ },
+ {
+  "name": "Blue Stinger (Japan)",
+  "serial": "HDR-0003",
+  "region": "Japan"
+ },
+ {
+  "name": "Cool Boarders Burrrn! (Japan)",
+  "serial": "T-36901M, T-36902M",
+  "region": "Japan"
+ },
+ {
+  "name": "Death Crimson 2 (Japan)",
+  "serial": "T-23201M",
+  "region": "Japan"
+ },
+ {
+  "name": "Buggy Heat (Japan)",
+  "serial": "T-6801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Gundam Battle Online (Japan)",
+  "serial": "T-13304M",
+  "region": "Japan"
+ },
+ {
+  "name": "F355 Challenge (Japan)",
+  "serial": "HDR-0100",
+  "region": "Japan"
+ },
+ {
+  "name": "Redline Racer (Japan)",
+  "serial": "T-15002M",
+  "region": "Japan"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing - Uchikome Warai no Megaton Punch!! (Japan) (En,Ja,Fr,De)",
+  "serial": "HDR-0051",
+  "region": "Japan"
+ },
+ {
+  "name": "Psychic Force 2012 (Japan)",
+  "serial": "T-1101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Happy Lesson - First Lesson (Japan)",
+  "serial": "T-19504M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sega GT - Homologation Special (Japan)",
+  "serial": "HDR-0054",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamon Collection 2 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0021-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Hydro Thunder (USA) (Rev 1)",
+  "serial": "T-9702N",
+  "region": "USA"
+ },
+ {
+  "name": "Expendable (USA) (En,Fr,De,Es,It)",
+  "serial": "T-15104N",
+  "region": "USA"
+ },
+ {
+  "name": "Conflict Zone (Europe) (En,Fr,De)",
+  "serial": "952-0179-50, T-46603D-50, T-46603D-71",
+  "region": "Europe"
+ },
+ {
+  "name": "Shutokou Battle (Japan)",
+  "serial": "T-30801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sega Rally 2 (Japan)",
+  "serial": "HDR-0010",
+  "region": "Japan"
+ },
+ {
+  "name": "Shutokou Battle 2 (Japan)",
+  "serial": "T-30803M",
+  "region": "Japan"
+ },
+ {
+  "name": "Star Gladiator 2 - Nightmare of Bilstein (Japan)",
+  "serial": "T-1204M",
+  "region": "Japan"
+ },
+ {
+  "name": "Super Speed Racing (Japan)",
+  "serial": "HDR-0013",
+  "region": "Japan"
+ },
+ {
+  "name": "Virtua Athlete 2K (Japan)",
+  "serial": "HDR-0081",
+  "region": "Japan"
+ },
+ {
+  "name": "Yume Baken '99 - Internet (Japan)",
+  "serial": "T-40101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Virtua Striker 2 Ver. 2000.1 (Japan) (En,Ja,Fr,De,Es)",
+  "serial": "HDR-0045",
+  "region": "Japan"
+ },
+ {
+  "name": "Zombie Revenge (Japan) (Rev A)",
+  "serial": "HDR-0026",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen Online - Teito no Nagai Hibi (Japan)",
+  "serial": "HDR-0184",
+  "region": "Japan"
+ },
+ {
+  "name": "ECW Anarchy Rulz (Europe)",
+  "serial": "952-0140-50, T-8119D-05, T-8119D-18, T-8119D-59",
+  "region": "Europe"
+ },
+ {
+  "name": "ECW Hardcore Revolution (Europe)",
+  "serial": "T-8116D-05, T-8116D-13, T-8116D-59",
+  "region": "Europe"
+ },
+ {
+  "name": "Freestyle Scooter (Europe)",
+  "serial": "952-0181-50, T-40214D-50, T-46604D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Floigan Bros. - Episode 1 (Europe)",
+  "serial": "MK-51114-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Heavy Metal - Geomatrix (Europe) (En,Fr,De,Es)",
+  "serial": "T-46602D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Virtua Fighter 3tb (Europe)",
+  "serial": "950-0005-50, MK-51001-53",
+  "region": "Europe"
+ },
+ {
+  "name": "Phantasy Star Online (Europe) (En,Ja,Fr,De,Es)",
+  "serial": "952-0126-50, MK-51100-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-17707D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Quake III - Arena (Europe) (En,Fr,De,Es)",
+  "serial": "952-0106-50, MK-51061-50",
+  "region": "Europe"
+ },
+ {
+  "name": "WWF Attitude (Europe)",
+  "serial": "T-8103D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Virtua Tennis - Sega Professional Tennis (Europe) (En,Fr,De,Es)",
+  "serial": "MK-51054-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Ja,Fr,De,Es)",
+  "serial": "952-0168-50, MK-51186-50",
+  "region": "Europe"
+ },
+ {
+  "name": "NBA 2K (Europe) (En,Fr,De,Es)",
+  "serial": "952-0036-50, MK-51004-53",
+  "region": "Europe"
+ },
+ {
+  "name": "F1 World Grand Prix for Dreamcast (Europe) (En,Fr,De,Es)",
+  "serial": "950-0017-50, T-3001D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "GK - Giant Killers (Europe)",
+  "serial": "T-45401D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Planet Ring (Europe) (En,Fr,De,Es,It)",
+  "serial": "952-0109-50, MK-51125-50, MK-51225-50",
+  "region": "Europe"
+ },
+ {
+  "name": "MSR - Metropolis Street Racer (Europe) (En,Fr,De,Es) (Rev B)",
+  "serial": "MK-51022-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Blue Stinger (Europe)",
+  "serial": "T-13001D-05, T-13001D-58",
+  "region": "Europe"
+ },
+ {
+  "name": "European Super League (Europe) (En,Fr,De,Es,It,Pt)",
+  "serial": "952-0149-50, T-7015D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "House of the Dead 2, The (Europe)",
+  "serial": "MK-51002-50, MK-55045-50",
+  "region": "Europe"
+ },
+ {
+  "name": "90 Minutes - Sega Championship Football (Europe) (En,Fr,De,Es,It)",
+  "serial": "MK-51190-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sonic Adventure 2 - The Trial (Europe) (En,Ja)",
+  "serial": "610-7994-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It)",
+  "serial": "MK-51154-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Rez (Europe) (En,Ja,Fr,De,Es,It)",
+  "serial": "MK-51192-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Tech Romancer (Europe)",
+  "serial": "T-7009D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Grandia II (Europe)",
+  "serial": "952-0133-50, T-17715D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Under Defeat (Japan)",
+  "serial": "T-46704M, T-46705M",
+  "region": "Japan"
+ },
+ {
+  "name": "Super Robot Taisen Alpha (Japan)",
+  "serial": "T-20602M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamkey Version 1.5 (Europe)",
+  "serial": "832-0022-05",
+  "region": "Europe"
+ },
+ {
+  "name": "King of Fighters, The - Dream Match 1999 (Japan) (En,Ja,Es,Pt)",
+  "serial": "T-3101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Street Fighter Alpha 3 (Europe)",
+  "serial": "T-7005D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "F355 Challenge - Passione Rossa (Europe)",
+  "serial": "T-8118D-05, T-8118D-18",
+  "region": "Europe"
+ },
+ {
+  "name": "ChuChu Rocket! (USA) (En,Ja,Fr,De,Es)",
+  "serial": "51049",
+  "region": "USA"
+ },
+ {
+  "name": "South Park - Chef's Luv Shack (USA)",
+  "serial": "T-8105N",
+  "region": "USA"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing (USA) (Rerelease)",
+  "serial": "T-9704N",
+  "region": "USA"
+ },
+ {
+  "name": "Coaster Works (USA)",
+  "serial": "T-15128N",
+  "region": "USA"
+ },
+ {
+  "name": "TrickStyle (USA)",
+  "serial": "T-8102N",
+  "region": "USA"
+ },
+ {
+  "name": "WWF Royal Rumble (USA)",
+  "serial": "T-10005N",
+  "region": "USA"
+ },
+ {
+  "name": "Aero Dancing featuring Blue Impulse (Japan)",
+  "serial": "T-6802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sonic Adventure (Japan)",
+  "serial": "HDR-0001",
+  "region": "Japan"
+ },
+ {
+  "name": "NBA 2K2 (USA)",
+  "serial": "51178",
+  "region": "USA"
+ },
+ {
+  "name": "Virtua Fighter 3tb (Japan) (Rev 1)",
+  "serial": "HDR-0017",
+  "region": "Japan"
+ },
+ {
+  "name": "Project Berkley (Japan)",
+  "serial": "HDR-0002",
+  "region": "Japan"
+ },
+ {
+  "name": "Sentimental Graffiti 2 (Japan) (Disc 1)",
+  "serial": "T-20104M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sentimental Graffiti 2 (Japan) (Disc 2)",
+  "serial": "T-20104M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dynamite Deka 2 (Japan)",
+  "serial": "HDR-0020",
+  "region": "Japan"
+ },
+ {
+  "name": "Zombie Revenge (Japan)",
+  "serial": "HDR-0026",
+  "region": "Japan"
+ },
+ {
+  "name": "Shenmue - Isshou Yokosuka (Japan) (Disc 1)",
+  "serial": "HDR-0016, HDR-0031",
+  "region": "Japan"
+ },
+ {
+  "name": "Shenmue - Isshou Yokosuka (Japan) (Disc 2)",
+  "serial": "HDR-0016, HDR-0031",
+  "region": "Japan"
+ },
+ {
+  "name": "Shenmue - Isshou Yokosuka (Japan) (Disc 3)",
+  "serial": "HDR-0016, HDR-0031",
+  "region": "Japan"
+ },
+ {
+  "name": "Shenmue - Isshou Yokosuka (Japan) (Shenmue Passport) (Rev D)",
+  "serial": "HDR-0016, HDR-0031",
+  "region": "Japan"
+ },
+ {
+  "name": "Chu-Chu Rocket! (Japan)",
+  "serial": "HDR-0039, HDR-0048",
+  "region": "Japan"
+ },
+ {
+  "name": "Dennou Senki - Virtual-On - Oratorio Tangram (Japan)",
+  "serial": "HDR-0040",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen - Hanagumi Taisen Columns 2 (Japan)",
+  "serial": "HDR-0046",
+  "region": "Japan"
+ },
+ {
+  "name": "Power Stone (Japan)",
+  "serial": "T-1201M",
+  "region": "Japan"
+ },
+ {
+  "name": "NFL Quarterback Club 2000 (USA)",
+  "serial": "T-8101N",
+  "region": "USA"
+ },
+ {
+  "name": "Sega Bass Fishing (USA)",
+  "serial": "51006",
+  "region": "USA"
+ },
+ {
+  "name": "Space Channel 5 (USA)",
+  "serial": "51051",
+  "region": "USA"
+ },
+ {
+  "name": "Tennis 2K2 (USA) (En,Ja,Fr,De,Es) (Rev A)",
+  "serial": "51186",
+  "region": "USA"
+ },
+ {
+  "name": "Rent a Hero No. 1 (Japan)",
+  "serial": "HDR-0074",
+  "region": "Japan"
+ },
+ {
+  "name": "Jet Set Radio (Japan)",
+  "serial": "HDR-0078",
+  "region": "Japan"
+ },
+ {
+  "name": "18 Wheeler - American Pro Trucker (Japan)",
+  "serial": "HDR-0080",
+  "region": "Japan"
+ },
+ {
+  "name": "Daytona USA 2001 (Japan)",
+  "serial": "HDR-0106",
+  "region": "Japan"
+ },
+ {
+  "name": "Caesars Palace 2000 - Millennium Gold Edition (Europe)",
+  "serial": "T-12502D-61, T-12502D-83",
+  "region": "Europe"
+ },
+ {
+  "name": "MSR - Metropolis Street Racer (Europe) (En,Fr,De,Es)",
+  "serial": "952-0042-50, MK-51022-50",
+  "region": "Europe"
+ },
+ {
+  "name": "UEFA Dream Soccer (Germany) (En,Fr,De,Es)",
+  "serial": "MK-51095-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Dave Mirra Freestyle BMX (Europe)",
+  "serial": "952-0122-50, T-8120D-18",
+  "region": "Europe"
+ },
+ {
+  "name": "NFL Quarterback Club 2000 (Europe)",
+  "serial": "T-8102D-18, T-8102D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sega Worldwide Soccer 2000 - Euro Edition (Europe) (En,Fr,De,Es)",
+  "serial": "952-0056-50, MK-51083-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Suzuki Alstare - Extreme Racing (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-17703D-74",
+  "region": "Europe"
+ },
+ {
+  "name": "Capcom vs. SNK - Millennium Fight 2000 (Japan)",
+  "serial": "T-1217M",
+  "region": "Japan"
+ },
+ {
+  "name": "UEFA Striker (Europe) (En,Fr,De,Es,It,Nl)",
+  "serial": "T-15102D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Power Smash - Sega Professional Tennis (Japan)",
+  "serial": "HDR-0113",
+  "region": "Japan"
+ },
+ {
+  "name": "Phantasy Star Online (Japan) (En,Ja,Fr,De,Es)",
+  "serial": "HDR-0129",
+  "region": "Japan"
+ },
+ {
+  "name": "Sonic Adventure 2 - The Trial (USA, Japan) (En,Ja)",
+  "serial": "51100, HDR-0129",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Fighting Vipers 2 (Japan) (En,Ja)",
+  "serial": "HDR-0133",
+  "region": "Japan"
+ },
+ {
+  "name": "Crazy Taxi 2 (Japan) (En,Ja)",
+  "serial": "HDR-0159",
+  "region": "Japan"
+ },
+ {
+  "name": "Phantasy Star Online Ver. 2 (Japan) (En,Ja,Fr,De,Es)",
+  "serial": "HDR-0163",
+  "region": "Japan"
+ },
+ {
+  "name": "Shenmue II (Japan) (Disc 1)",
+  "serial": "HDR-0164, HDR-0179",
+  "region": "Japan"
+ },
+ {
+  "name": "Shenmue II (Japan) (Disc 2)",
+  "serial": "HDR-0164, HDR-0179",
+  "region": "Japan"
+ },
+ {
+  "name": "Shenmue II (Japan) (Disc 3)",
+  "serial": "HDR-0164, HDR-0179",
+  "region": "Japan"
+ },
+ {
+  "name": "Shenmue II (Japan) (Disc 4)",
+  "serial": "HDR-0164, HDR-0179",
+  "region": "Japan"
+ },
+ {
+  "name": "Power Smash 2 - Sega Professional Tennis (Japan)",
+  "serial": "HDR-0177",
+  "region": "Japan"
+ },
+ {
+  "name": "De La Jet Set Radio (Japan) (En,Ja,Fr,De,Es)",
+  "serial": "HDR-0128, HDR-0186",
+  "region": "Japan"
+ },
+ {
+  "name": "Sonic Adventure 2 (Japan) (En,Ja,Fr,De,Es)",
+  "serial": "HDR-0165",
+  "region": "Japan"
+ },
+ {
+  "name": "Alien Front Online (USA)",
+  "serial": "51171",
+  "region": "USA"
+ },
+ {
+  "name": "Jimmy White's 2 - Cueball (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-7001D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Soulcalibur (Europe) (En,Fr,De,Es)",
+  "serial": "950-0019-50, T-1401D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "King of Fighters 2000, The (Japan)",
+  "serial": "T-47303M",
+  "region": "Japan"
+ },
+ {
+  "name": "Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan)",
+  "serial": "HDR-0187",
+  "region": "Japan"
+ },
+ {
+  "name": "Jet Set Radio (Europe) (En,Fr,De,Es)",
+  "serial": "952-0101-50, MK-51058-50",
+  "region": "Europe"
+ },
+ {
+  "name": "MSR - Metropolis Street Racer (Europe) (En,Fr,De,Es) (Rev A)",
+  "serial": "MK-51022-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Virtua Athlete 2K (Europe) (En,Fr,De,Es)",
+  "serial": "952-0076-50, MK-51094-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Collection 4 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0040-50, 833-0030-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Power Stone 2 (Europe)",
+  "serial": "T-36812D-61, T-36812D-64",
+  "region": "Europe"
+ },
+ {
+  "name": "Shikigami no Shiro II (Japan)",
+  "serial": "T-47701M, T-47702M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamkey Version 1.5 (France)",
+  "serial": "832-0022-09, 833-0018-09",
+  "region": "France"
+ },
+ {
+  "name": "Sega GT (Europe) (En,Fr,De,Es)",
+  "serial": "950-0103-50, MK-51053-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 17 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0054-50, 833-0041-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Nightmare Creatures II (Europe) (En,Fr,De,Es)",
+  "serial": "T-9502D-76",
+  "region": "Europe"
+ },
+ {
+  "name": "Shadow Man (Germany)",
+  "serial": "T-8104D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Shenmue II (Europe) (En,Fr,De,Es) (Disc 1)",
+  "serial": "952-0170-50, MK-51184-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Shenmue II (Europe) (En,Fr,De,Es) (Disc 2)",
+  "serial": "952-0170-50, MK-51184-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Shenmue II (Europe) (En,Fr,De,Es) (Disc 3)",
+  "serial": "952-0170-50, MK-51184-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Shenmue II (Europe) (En,Fr,De,Es) (Disc 4)",
+  "serial": "952-0170-50, MK-51184-50",
+  "region": "Europe"
+ },
+ {
+  "name": "TrickStyle (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-8101D-05, T-8101D-06, T-8101D-13, T-8101D-18, T-8101D-59",
+  "region": "Europe"
+ },
+ {
+  "name": "Vanishing Point (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-8110D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Legacy of Kain - Soul Reaver (Germany)",
+  "serial": "T-36803D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "NHL 2K (Europe)",
+  "serial": "MK-51025-06, MK-51025-89",
+  "region": "Europe"
+ },
+ {
+  "name": "Biohazard - Code - Veronica (Japan) (Disc 1) (Genteiban)",
+  "serial": "T-1210M",
+  "region": "Japan"
+ },
+ {
+  "name": "Biohazard - Code - Veronica (Japan) (Disc 2) (Genteiban)",
+  "serial": "T-1210M",
+  "region": "Japan"
+ },
+ {
+  "name": "Hydro Thunder (Europe)",
+  "serial": "T-9702D-51",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 4 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0011-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 6 (Europe) (En,Fr,De,Es)",
+  "serial": "833-0012-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 7 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0017-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 8 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0019-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 10 (Germany) (En,Fr,De,Es)",
+  "serial": "832-0027-50",
+  "region": "Germany"
+ },
+ {
+  "name": "Dreamon Volume 11 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0032-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 5 (Europe) (En,Fr,De,Es)",
+  "serial": "830-0011-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 9 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0023-50",
+  "region": "Europe"
+ },
+ {
+  "name": "GigaWing 2 (Japan)",
+  "serial": "T-1239M",
+  "region": "Japan"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (Europe) (Disc 1)",
+  "serial": "T-36806D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (Europe) (Disc 2)",
+  "serial": "T-36806D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Crazy Taxi (Europe) (En,Ja)",
+  "serial": "952-0031-50, MK-51035-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dead or Alive 2 (Europe)",
+  "serial": "T-8116D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "MagForce Racing (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-40207D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "MDK2 (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-12501D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Marvel vs. Capcom - Clash of Super Heroes (Europe)",
+  "serial": "T-7002D-51, T-7002D-61",
+  "region": "Europe"
+ },
+ {
+  "name": "Psychic Force 2012 (Europe)",
+  "serial": "T-8106D-05, T-8106D-18",
+  "region": "Europe"
+ },
+ {
+  "name": "Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)",
+  "serial": "T-1240M",
+  "region": "Japan"
+ },
+ {
+  "name": "Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)",
+  "serial": "T-1240M",
+  "region": "Japan"
+ },
+ {
+  "name": "Biohazard - Code - Veronica - Trial Edition (Japan)",
+  "serial": "T-1214M",
+  "region": "Japan"
+ },
+ {
+  "name": "Worms World Party (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+  "serial": "T-7016D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dino Crisis (Europe)",
+  "serial": "T-7019D",
+  "region": "Europe"
+ },
+ {
+  "name": "Dino Crisis (Japan)",
+  "serial": "T-1220M",
+  "region": "Japan"
+ },
+ {
+  "name": "Resident Evil 2 (USA) (Disc 1)",
+  "serial": "T-1205N",
+  "region": "USA"
+ },
+ {
+  "name": "Resident Evil 2 (USA) (Disc 2)",
+  "serial": "T-1205N",
+  "region": "USA"
+ },
+ {
+  "name": "Resident Evil 2 (Europe) (En,Fr) (Disc 1)",
+  "serial": "T-7004D-09, T-7004D-61, T-7004D-82",
+  "region": "Europe"
+ },
+ {
+  "name": "Resident Evil 2 (Europe) (En,Fr) (Disc 2)",
+  "serial": "T-7004D-09, T-7004D-61, T-7004D-82",
+  "region": "Europe"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (Germany) (Disc 1)",
+  "serial": "T-36806D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (Germany) (Disc 2)",
+  "serial": "T-36806D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Resident Evil 3 - Nemesis (USA)",
+  "serial": "T-1220N",
+  "region": "USA"
+ },
+ {
+  "name": "Biohazard 2 - Value Plus (Japan) (Disc 1)",
+  "serial": "T-1214M",
+  "region": "Japan"
+ },
+ {
+  "name": "Biohazard 2 - Value Plus (Japan) (Disc 2)",
+  "serial": "T-1214M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamon Collection 3 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0026-50, 833-0022-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Biohazard 3 - Last Escape (Japan)",
+  "serial": "T-1222M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamon Volume 2 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0001-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 16 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0051-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 15 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0047-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 19 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0060-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 13 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0038-50, 833-0029-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 20 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0062-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Web Browser (USA) (Rev A)",
+  "serial": "51027",
+  "region": "USA"
+ },
+ {
+  "name": "Generator Vol. 1 (USA)",
+  "serial": "51034, SDC-00000",
+  "region": "USA"
+ },
+ {
+  "name": "Official Sega Dreamcast Magazine Vol. 2 - November 1999 (USA)",
+  "serial": "IGN1",
+  "region": "USA"
+ },
+ {
+  "name": "Official Sega Dreamcast Magazine Vol. 9 - December 2000 (USA)",
+  "serial": "IGN9",
+  "region": "USA"
+ },
+ {
+  "name": "Dreamon Volume 10 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0028-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 3 (Europe) (En,Fr,De,Es)",
+  "serial": "833-0008-71",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 12 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0035-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 14 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0043-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 18 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0056-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 21 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0064-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Resident Evil 3 - Nemesis (Europe) (Fr,Es)",
+  "serial": "T-7021D-72",
+  "region": "Europe"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (France) (Disc 1)",
+  "serial": "T-36806D-09",
+  "region": "France"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (France) (Disc 2)",
+  "serial": "950-0064-09, T-36806D-09",
+  "region": "France"
+ },
+ {
+  "name": "Tom Clancy's Rainbow Six incl. Eagle Watch Missions (Germany)",
+  "serial": "T-45001D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Quake III - Arena (USA)",
+  "serial": "51061",
+  "region": "USA"
+ },
+ {
+  "name": "Mortal Kombat Gold (USA) (Rev 1)",
+  "serial": "T-9701N",
+  "region": "USA"
+ },
+ {
+  "name": "Shinki Sekai Evolution (Japan)",
+  "serial": "T-38701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Passport (Japan)",
+  "serial": "610-7000",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen (Japan) (Disc 1)",
+  "serial": "HDR-0089",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen (Japan) (Disc 2)",
+  "serial": "HDR-0089",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen (Japan) (Omake Disc)",
+  "serial": "HDR-0089",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1)",
+  "serial": "HDR-0082, HDR-0108",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2)",
+  "serial": "HDR-0082, HDR-0108",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3)",
+  "serial": "HDR-0082, HDR-0108",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 3 - Paris wa Moeteiru ka - Preview Disc (Japan)",
+  "serial": "HDR-0082, HDR-0108",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Disc 1)",
+  "serial": "HDR-0147, HDR-0148, HDR-0152, HDR-0194, HDR-0201",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Disc 2)",
+  "serial": "HDR-0147, HDR-0148, HDR-0152, HDR-0194, HDR-0201",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Disc 3)",
+  "serial": "HDR-0147, HDR-0148, HDR-0152, HDR-0194, HDR-0201",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 4 - Koi seyo Otome (Japan)",
+  "serial": "HDR-0191, HDR-0201, HDR-0202",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 3 - Paris wa Moeteiru ka - Drama Download Disc (Japan)",
+  "serial": "HDR-0191, HDR-0201, HDR-0202",
+  "region": "Japan"
+ },
+ {
+  "name": "GigaWing (Japan)",
+  "serial": "T-1208M",
+  "region": "Japan"
+ },
+ {
+  "name": "Jojo no Kimyou na Bouken - Mirai e no Isan (Japan)",
+  "serial": "T-1205M",
+  "region": "Japan"
+ },
+ {
+  "name": "Marvel vs. Capcom - Clash of Super Heroes (Japan)",
+  "serial": "T-1202M",
+  "region": "Japan"
+ },
+ {
+  "name": "Street Fighter III - 3rd Strike - Fight for the Future (Japan)",
+  "serial": "T-1209M",
+  "region": "Japan"
+ },
+ {
+  "name": "Street Fighter III - W Impact (Japan)",
+  "serial": "T-1211M",
+  "region": "Japan"
+ },
+ {
+  "name": "Street Fighter Zero 3 - Saikyo-ryu Dojo (Japan)",
+  "serial": "T-1203M",
+  "region": "Japan"
+ },
+ {
+  "name": "Virtua Fighter History-VF4 (Japan)",
+  "serial": "610-8087",
+  "region": "Japan"
+ },
+ {
+  "name": "Triggerheart Exelica (Japan)",
+  "serial": "T-29101M, T-29102M",
+  "region": "Japan"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (Spain) (Disc 2)",
+  "serial": "T-36806D-06",
+  "region": "Spain"
+ },
+ {
+  "name": "Soul Fighter (USA)",
+  "serial": "T-41401N",
+  "region": "USA"
+ },
+ {
+  "name": "Official Sega Dreamcast Magazine Vol. 3 - January 2000 (USA)",
+  "serial": "IGN2",
+  "region": "USA"
+ },
+ {
+  "name": "Official Sega Dreamcast Magazine Vol. 4 - March 2000 (USA)",
+  "serial": "IGN3",
+  "region": "USA"
+ },
+ {
+  "name": "Official Sega Dreamcast Magazine Vol. 10 - January 2001 (USA)",
+  "serial": "IGN10",
+  "region": "USA"
+ },
+ {
+  "name": "Official Sega Dreamcast Magazine Vol. 6 - July 2000 (USA)",
+  "serial": "IGN6",
+  "region": "USA"
+ },
+ {
+  "name": "Official Sega Dreamcast Magazine Vol. 8 - November 2000 (USA)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Official Sega Dreamcast Magazine Vol. 7 - September 2000 (USA)",
+  "serial": "IGN7",
+  "region": "USA"
+ },
+ {
+  "name": "Dino Crisis (Germany)",
+  "serial": "T-7019D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Sega Extreme Sports (Europe) (En,Fr,De,Es)",
+  "serial": "952-0089-50, MK-51081-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Red Dog - Superior Firepower (Europe) (En,Fr,De,Es)",
+  "serial": "952-0032-50, MK-51021-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Record of Lodoss War (Germany)",
+  "serial": "T-7012D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Puyo Puyoon (Japan)",
+  "serial": "HDR-0014",
+  "region": "Japan"
+ },
+ {
+  "name": "Space Channel 5 (Japan)",
+  "serial": "HDR-0029, HDR-0140",
+  "region": "Japan"
+ },
+ {
+  "name": "Space Channel 5 Part 2 (Japan)",
+  "serial": "HDR-0190",
+  "region": "Japan"
+ },
+ {
+  "name": "Sega Rally 2 (Europe) (Rev 1)",
+  "serial": "950-0013-50, MK-51019-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Rez (Japan) (En,Ja,Fr,De,Es,It)",
+  "serial": "HDR-0178",
+  "region": "Japan"
+ },
+ {
+  "name": "Samba de Amigo (Japan)",
+  "serial": "HDR-0063",
+  "region": "Japan"
+ },
+ {
+  "name": "Maken X (Japan)",
+  "serial": "T-14401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eternal Arcadia (Japan) (Disc 1)",
+  "serial": "HDR-0076, HDR-0109",
+  "region": "Japan"
+ },
+ {
+  "name": "Eternal Arcadia (Japan) (Disc 2)",
+  "serial": "HDR-0076, HDR-0109",
+  "region": "Japan"
+ },
+ {
+  "name": "NFL Blitz 2000 (Europe)",
+  "serial": "830-0052-50, T-9703D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Tokyo Xtreme Racer 2 (USA)",
+  "serial": "T-40211N",
+  "region": "USA"
+ },
+ {
+  "name": "Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es)",
+  "serial": "51033",
+  "region": "USA"
+ },
+ {
+  "name": "Street Fighter III - Double Impact (USA)",
+  "serial": "T-1210N",
+  "region": "USA"
+ },
+ {
+  "name": "Street Fighter III - 3rd Strike (USA)",
+  "serial": "T-1213N",
+  "region": "USA"
+ },
+ {
+  "name": "Roadsters (USA)",
+  "serial": "T-22901N",
+  "region": "USA"
+ },
+ {
+  "name": "Armada (USA)",
+  "serial": "T-40301N",
+  "region": "USA"
+ },
+ {
+  "name": "Walt Disney World Quest - Magical Racing Tour (USA)",
+  "serial": "T-36804N",
+  "region": "USA"
+ },
+ {
+  "name": "Sega Smash Pack - Volume 1 (USA)",
+  "serial": "51146",
+  "region": "USA"
+ },
+ {
+  "name": "Q-bert (USA)",
+  "serial": "T-40403N",
+  "region": "USA"
+ },
+ {
+  "name": "NFL 2K (USA)",
+  "serial": "51003",
+  "region": "USA"
+ },
+ {
+  "name": "Legacy of Kain - Soul Reaver (USA)",
+  "serial": "T-36802N",
+  "region": "USA"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing (USA)",
+  "serial": "T-9704N",
+  "region": "USA"
+ },
+ {
+  "name": "Championship Surfer (USA)",
+  "serial": "T-41403N",
+  "region": "USA"
+ },
+ {
+  "name": "Cannon Spike (USA)",
+  "serial": "T-1215N",
+  "region": "USA"
+ },
+ {
+  "name": "NHL 2K2 (USA)",
+  "serial": "51182",
+  "region": "USA"
+ },
+ {
+  "name": "World Series Baseball 2K2 (USA)",
+  "serial": "51152",
+  "region": "USA"
+ },
+ {
+  "name": "Sydney 2000 (USA)",
+  "serial": "T-36808N",
+  "region": "USA"
+ },
+ {
+  "name": "Wetrix+ (USA)",
+  "serial": "T-8111N",
+  "region": "USA"
+ },
+ {
+  "name": "Record of Lodoss War (USA)",
+  "serial": "T-40218N",
+  "region": "USA"
+ },
+ {
+  "name": "Omikron - The Nomad Soul (USA) (En,Fr,De,Es,It)",
+  "serial": "T-36807N",
+  "region": "USA"
+ },
+ {
+  "name": "Street Fighter Alpha 3 (USA)",
+  "serial": "T-1203N",
+  "region": "USA"
+ },
+ {
+  "name": "Silent Scope (USA)",
+  "serial": "T-9507N",
+  "region": "USA"
+ },
+ {
+  "name": "StarLancer (USA)",
+  "serial": "T-40209N",
+  "region": "USA"
+ },
+ {
+  "name": "Urban Chaos (USA) (En,Fr)",
+  "serial": "T-36810N",
+  "region": "USA"
+ },
+ {
+  "name": "Skies of Arcadia (USA) (Disc 1)",
+  "serial": "51052",
+  "region": "USA"
+ },
+ {
+  "name": "Skies of Arcadia (USA) (Disc 2)",
+  "serial": "51052",
+  "region": "USA"
+ },
+ {
+  "name": "Rippin' Riders Snowboarding (USA)",
+  "serial": "51010",
+  "region": "USA"
+ },
+ {
+  "name": "Dynamite Cop! (USA)",
+  "serial": "51013",
+  "region": "USA"
+ },
+ {
+  "name": "ECW Anarchy Rulz (USA)",
+  "serial": "T-8114N",
+  "region": "USA"
+ },
+ {
+  "name": "Blue Stinger (Germany)",
+  "serial": "T-13001D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing (Europe) (En,Fr,De)",
+  "serial": "T-9704D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamkey 3.0 (Europe) (En,Fr,De,It)",
+  "serial": "832-0068-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Web Browser 2.0 with SegaNet (USA)",
+  "serial": "51128",
+  "region": "USA"
+ },
+ {
+  "name": "Internet Browser V3.0 for Dreamcast (USA)",
+  "serial": "T-31901N",
+  "region": "USA"
+ },
+ {
+  "name": "Tee Off (USA)",
+  "serial": "T-8108N",
+  "region": "USA"
+ },
+ {
+  "name": "NHL 2K (USA, Canada)",
+  "serial": "51025, 51124",
+  "region": "USA, Canada"
+ },
+ {
+  "name": "Prince of Persia - Arabian Nights (USA)",
+  "serial": "T-41405N",
+  "region": "USA"
+ },
+ {
+  "name": "Worms Armageddon (USA) (En,Fr,De,Nl,Sv,No,Da)",
+  "serial": "T-40601N",
+  "region": "USA"
+ },
+ {
+  "name": "Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",
+  "serial": "T-22904N",
+  "region": "USA"
+ },
+ {
+  "name": "Spawn - In the Demon's Hand (USA)",
+  "serial": "T-1216N",
+  "region": "USA"
+ },
+ {
+  "name": "Time Stalkers (USA)",
+  "serial": "51011",
+  "region": "USA"
+ },
+ {
+  "name": "Fatal Fury - Mark of the Wolves (USA)",
+  "serial": "T-44306N",
+  "region": "USA"
+ },
+ {
+  "name": "Namco Museum (USA)",
+  "serial": "T-1403N",
+  "region": "USA"
+ },
+ {
+  "name": "Midway's Greatest Arcade Hits - Volume 1 (USA)",
+  "serial": "T-9713N",
+  "region": "USA"
+ },
+ {
+  "name": "Disney's 102 Dalmatians - Puppies to the Rescue (USA)",
+  "serial": "T-36803N",
+  "region": "USA"
+ },
+ {
+  "name": "AeroWings (USA)",
+  "serial": "T-40201N",
+  "region": "USA"
+ },
+ {
+  "name": "Ms. Pac-Man Maze Madness (USA)",
+  "serial": "T-1404N",
+  "region": "USA"
+ },
+ {
+  "name": "NBA Showtime - NBA on NBC (USA)",
+  "serial": "T-9706N",
+  "region": "USA"
+ },
+ {
+  "name": "Mars Matrix (USA)",
+  "serial": "T-1221N",
+  "region": "USA"
+ },
+ {
+  "name": "Crazy Taxi (USA) (En,Ja)",
+  "serial": "51035",
+  "region": "USA"
+ },
+ {
+  "name": "Crazy Taxi 2 (USA)",
+  "serial": "51136",
+  "region": "USA"
+ },
+ {
+  "name": "Toy Commander (USA) (En,Fr,De,Es)",
+  "serial": "51020",
+  "region": "USA"
+ },
+ {
+  "name": "Tony Hawk's Pro Skater (USA)",
+  "serial": "T-40205N",
+  "region": "USA"
+ },
+ {
+  "name": "Virtua Athlete 2000 (USA) (En,Fr,De,Es)",
+  "serial": "T-44301N",
+  "region": "USA"
+ },
+ {
+  "name": "Shadow Man (USA)",
+  "serial": "T-8106N",
+  "region": "USA"
+ },
+ {
+  "name": "ECW Hardcore Revolution (USA)",
+  "serial": "T-8112N",
+  "region": "USA"
+ },
+ {
+  "name": "Psychic Force 2012 (USA)",
+  "serial": "T-31101N",
+  "region": "USA"
+ },
+ {
+  "name": "NFL 2K2 (USA)",
+  "serial": "51168",
+  "region": "USA"
+ },
+ {
+  "name": "Last Blade 2, The - Heart of the Samurai (USA)",
+  "serial": "T-44305N",
+  "region": "USA"
+ },
+ {
+  "name": "King of Fighters, The - Evolution (USA) (En,Ja,Es,Pt)",
+  "serial": "T-44302N",
+  "region": "USA"
+ },
+ {
+  "name": "King of Fighters, The - Dream Match 1999 (USA) (En,Ja,Es,Pt)",
+  "serial": "T-3101N",
+  "region": "USA"
+ },
+ {
+  "name": "D2 (USA) (Disc 1)",
+  "serial": "51036",
+  "region": "USA"
+ },
+ {
+  "name": "D2 (USA) (Disc 2)",
+  "serial": "51036",
+  "region": "USA"
+ },
+ {
+  "name": "D2 (USA) (Disc 3)",
+  "serial": "51036",
+  "region": "USA"
+ },
+ {
+  "name": "D2 (USA) (Disc 4)",
+  "serial": "51036",
+  "region": "USA"
+ },
+ {
+  "name": "Seaman (USA)",
+  "serial": "51048",
+  "region": "USA"
+ },
+ {
+  "name": "House of the Dead 2, The (USA)",
+  "serial": "51002",
+  "region": "USA"
+ },
+ {
+  "name": "Hydro Thunder (USA)",
+  "serial": "T-9702N",
+  "region": "USA"
+ },
+ {
+  "name": "Who Wants to Beat Up a Millionaire (USA)",
+  "serial": "T-11011N",
+  "region": "USA"
+ },
+ {
+  "name": "Virtua Fighter 3tb (USA)",
+  "serial": "51001",
+  "region": "USA"
+ },
+ {
+  "name": "Jeremy McGrath Supercross 2000 (Europe) (En,Fr,De)",
+  "serial": "T-8114D-05, T-8114D-18, T-8114D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Caesars Palace 2000 - Millennium Gold Edition (USA)",
+  "serial": "T-12504N",
+  "region": "USA"
+ },
+ {
+  "name": "Re-Volt (USA)",
+  "serial": "T-8109N",
+  "region": "USA"
+ },
+ {
+  "name": "NBA 2K (USA)",
+  "serial": "51004",
+  "region": "USA"
+ },
+ {
+  "name": "Speed Devils (USA)",
+  "serial": "T-17702N",
+  "region": "USA"
+ },
+ {
+  "name": "Silver (France) (Fr,It,Pt)",
+  "serial": "T-15109D-92",
+  "region": "France"
+ },
+ {
+  "name": "MTV Sports - Skateboarding featuring Andy Macdonald (Europe)",
+  "serial": "T-10001D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Disney's Dinosaur (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-17718D-84, T-17718D-99",
+  "region": "Europe"
+ },
+ {
+  "name": "Ultimate Fighting Championship (Europe)",
+  "serial": "952-0112-50, T-40203D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "18 Wheeler - American Pro Trucker (USA)",
+  "serial": "51064",
+  "region": "USA"
+ },
+ {
+  "name": "Dead or Alive 2 (USA)",
+  "serial": "T-3601N",
+  "region": "USA"
+ },
+ {
+  "name": "Marvel vs. Capcom - Clash of Super Heroes (USA)",
+  "serial": "T-1202N",
+  "region": "USA"
+ },
+ {
+  "name": "Power Stone 2 (Japan)",
+  "serial": "T-1218M",
+  "region": "Japan"
+ },
+ {
+  "name": "Bakuretsu Muteki Bangaioh (Japan)",
+  "serial": "T-38702M",
+  "region": "Japan"
+ },
+ {
+  "name": "Jet Grind Radio (USA)",
+  "serial": "51058, 51084",
+  "region": "USA"
+ },
+ {
+  "name": "Record of Lodoss War (Europe)",
+  "serial": "T-7012D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Chicken Run (Europe) (Fr,De,Es,It)",
+  "serial": "T-36814D-87",
+  "region": "Europe"
+ },
+ {
+  "name": "House of the Dead 2, The (Japan)",
+  "serial": "HDR-0007, HDR-0011",
+  "region": "Japan"
+ },
+ {
+  "name": "Ikaruga (Japan)",
+  "serial": "T-38706M",
+  "region": "Japan"
+ },
+ {
+  "name": "NBA Showtime - NBA on NBC (Europe)",
+  "serial": "T-9705D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Broadband Passport (Japan)",
+  "serial": "610-7883",
+  "region": "Japan"
+ },
+ {
+  "name": "Virtua Cop 2 (Japan)",
+  "serial": "HDR-0061",
+  "region": "Japan"
+ },
+ {
+  "name": "Tomb Raider - Die Chronik (Germany)",
+  "serial": "T-36815D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Snow Surfers (Europe)",
+  "serial": "950-0018-50, MK-51010-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Wetrix+ (Europe) (En,Fr,De)",
+  "serial": "T-40504D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Draconus - Cult of the Wyrm (USA)",
+  "serial": "T-40203N",
+  "region": "USA"
+ },
+ {
+  "name": "Mr. Driller (USA)",
+  "serial": "T-1402N",
+  "region": "USA"
+ },
+ {
+  "name": "Grinch, The (USA) (En,Fr,Es)",
+  "serial": "T-9512N",
+  "region": "USA"
+ },
+ {
+  "name": "Gundam Side Story 0079 - Rise from the Ashes (USA)",
+  "serial": "T-13301N",
+  "region": "USA"
+ },
+ {
+  "name": "Fur Fighters (USA) (En,Fr,De,Es)",
+  "serial": "T-8107N",
+  "region": "USA"
+ },
+ {
+  "name": "Unreal Tournament (USA) (En,Fr,De,Es,It)",
+  "serial": "T-15125N",
+  "region": "USA"
+ },
+ {
+  "name": "WWF Royal Rumble (Europe)",
+  "serial": "952-0086-50, T-10003D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Ducati World (Europe) (En,Fr,De,It)",
+  "serial": "T-8121D-05, T-8121D-18, T-8121D-59",
+  "region": "Europe"
+ },
+ {
+  "name": "Speed Devils (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-17702D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamon Volume 22 (Europe) (En,Fr,De,Es)",
+  "serial": "832-0066-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Get Bass (Japan)",
+  "serial": "610-7114, HDR-0012",
+  "region": "Japan"
+ },
+ {
+  "name": "Hello Kitty no Garden Panic (Japan)",
+  "serial": "610-7381",
+  "region": "Japan"
+ },
+ {
+  "name": "4 Wheel Thunder (USA)",
+  "serial": "T-9708N",
+  "region": "USA"
+ },
+ {
+  "name": "Power Stone (USA)",
+  "serial": "T-1201N",
+  "region": "USA"
+ },
+ {
+  "name": "Surf Rocket Racers (USA)",
+  "serial": "T-40216N",
+  "region": "USA"
+ },
+ {
+  "name": "AeroWings (Europe) (En,Fr,De)",
+  "serial": "T-40202D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Racing Simulation - Monaco Grand Prix (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-17701D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "BikkuriMan 2000 - Viva! Festiva! (Japan)",
+  "serial": "T-41801M",
+  "region": "Japan"
+ },
+ {
+  "name": "V-Rally 2 - Expert Edition (Europe) (En,Fr,De)",
+  "serial": "952-0066-50, T-15105D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "4 Wheel Thunder (Europe) (En,Fr)",
+  "serial": "952-0063-50, T-9706D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Fighting Force 2 (Germany)",
+  "serial": "T-36802D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Plasma Sword - Nightmare of Bilstein (Europe)",
+  "serial": "T-7003D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Tee Off (Europe)",
+  "serial": "T-8108D-05, T-8108D-18, T-8108D-59",
+  "region": "Europe"
+ },
+ {
+  "name": "Mr. Driller (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-7020D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "ESPN International Track & Field (Europe) (En,Fr,De)",
+  "serial": "T-9504D-76",
+  "region": "Europe"
+ },
+ {
+  "name": "Spec Ops II - Omega Squad (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-45004D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Evolution - The World of Sacred Device (Europe)",
+  "serial": "T-17705D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-17706D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (Germany)",
+  "serial": "PT-45002D-18, T-45002D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es)",
+  "serial": "952-0041-50, MK-51033-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Deadly Skies (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-9501D-76",
+  "region": "Europe"
+ },
+ {
+  "name": "Grand Theft Auto 2 (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-40502D-18, T-40502D-61",
+  "region": "Europe"
+ },
+ {
+  "name": "Tony Hawk's Pro Skater 2 (Germany)",
+  "serial": "T-13008D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Power Stone (Europe)",
+  "serial": "T-36801D-61, T-36801D-64",
+  "region": "Europe"
+ },
+ {
+  "name": "Millennium Soldier - Expendable (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-15101D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Shenmue (Europe) (En,Fr,De,Es) (Disc 2)",
+  "serial": "952-0102-50, MK-51059-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Shenmue (Europe) (En,Fr,De,Es) (Disc 3)",
+  "serial": "952-0102-50, MK-51059-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Simple 2000 Series DC Vol. 01 - Bittersweet Fools - The Ren'ai Adventure (Japan)",
+  "serial": "T-47401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Ultimate Fighting Championship (Japan)",
+  "serial": "T-1241M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dragons Blood (Europe) (En,Fr,De)",
+  "serial": "T-12503D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 1)",
+  "serial": "MK-51052-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Shenmue (Europe) (En,Fr,De,Es) (Shenmue Passport)",
+  "serial": "952-0102-50, MK-51059-50",
+  "region": "Europe"
+ },
+ {
+  "name": "AirForce Delta (USA)",
+  "serial": "T-9501N",
+  "region": "USA"
+ },
+ {
+  "name": "Bangai-O (USA)",
+  "serial": "T-40217N",
+  "region": "USA"
+ },
+ {
+  "name": "Bust-A-Move 4 (USA)",
+  "serial": "T-8117N",
+  "region": "USA"
+ },
+ {
+  "name": "Chicken Run (USA)",
+  "serial": "T-36811N",
+  "region": "USA"
+ },
+ {
+  "name": "Dave Mirra Freestyle BMX (USA)",
+  "serial": "T-8120N",
+  "region": "USA"
+ },
+ {
+  "name": "Daytona USA (USA)",
+  "serial": "51037",
+  "region": "USA"
+ },
+ {
+  "name": "Death Crimson OX (USA)",
+  "serial": "T-2401N",
+  "region": "USA"
+ },
+ {
+  "name": "Ducati World - Racing Challenge (USA)",
+  "serial": "T-8113N",
+  "region": "USA"
+ },
+ {
+  "name": "ESPN International Track & Field (USA)",
+  "serial": "T-9509N",
+  "region": "USA"
+ },
+ {
+  "name": "ESPN NBA 2Night (USA)",
+  "serial": "T-9503N",
+  "region": "USA"
+ },
+ {
+  "name": "F355 Challenge - Passione Rossa (USA)",
+  "serial": "T-8119N",
+  "region": "USA"
+ },
+ {
+  "name": "Fighting Force 2 (USA) (Rev A)",
+  "serial": "T-36801N",
+  "region": "USA"
+ },
+ {
+  "name": "Flag to Flag (USA)",
+  "serial": "51007",
+  "region": "USA"
+ },
+ {
+  "name": "Frogger 2 - Swampy's Revenge (USA)",
+  "serial": "T-40604N",
+  "region": "USA"
+ },
+ {
+  "name": "Gauntlet Legends (USA)",
+  "serial": "T-9710N",
+  "region": "USA"
+ },
+ {
+  "name": "GigaWing (USA)",
+  "serial": "T-1209N",
+  "region": "USA"
+ },
+ {
+  "name": "GigaWing 2 (USA)",
+  "serial": "T-1222N",
+  "region": "USA"
+ },
+ {
+  "name": "Grand Theft Auto 2 (USA)",
+  "serial": "T-42102N",
+  "region": "USA"
+ },
+ {
+  "name": "Gunbird 2 (USA)",
+  "serial": "T-1214N",
+  "region": "USA"
+ },
+ {
+  "name": "Heavy Metal - Geomatrix (USA)",
+  "serial": "T-1223N",
+  "region": "USA"
+ },
+ {
+  "name": "JoJo's Bizarre Adventure (USA)",
+  "serial": "T-1206N",
+  "region": "USA"
+ },
+ {
+  "name": "Kao the Kangaroo (USA) (En,Es)",
+  "serial": "T-22903N",
+  "region": "USA"
+ },
+ {
+  "name": "MagForce Racing (USA) (En,Fr,De,Es,It)",
+  "serial": "T-40208N",
+  "region": "USA"
+ },
+ {
+  "name": "Maken X (USA)",
+  "serial": "51050",
+  "region": "USA"
+ },
+ {
+  "name": "Max Steel - Covert Missions (USA)",
+  "serial": "T-41402N",
+  "region": "USA"
+ },
+ {
+  "name": "Maximum Pool (USA)",
+  "serial": "T-11002N",
+  "region": "USA"
+ },
+ {
+  "name": "MDK2 (USA)",
+  "serial": "T-12502N",
+  "region": "USA"
+ },
+ {
+  "name": "Midway's Greatest Arcade Hits - Volume 2 (USA)",
+  "serial": "T-9714N",
+  "region": "USA"
+ },
+ {
+  "name": "MSR - Metropolis Street Racer (USA)",
+  "serial": "51012",
+  "region": "USA"
+ },
+ {
+  "name": "MTV Sports - Skateboarding featuring Andy Macdonald (USA)",
+  "serial": "T-10004N",
+  "region": "USA"
+ },
+ {
+  "name": "NBA 2K1 (USA)",
+  "serial": "51063",
+  "region": "USA"
+ },
+ {
+  "name": "NBA Hoopz (USA)",
+  "serial": "T-9709N",
+  "region": "USA"
+ },
+ {
+  "name": "NFL 2K1 (USA, Canada)",
+  "serial": "51062, 51069",
+  "region": "USA, Canada"
+ },
+ {
+  "name": "Plasma Sword - Nightmare of Bilstein (USA)",
+  "serial": "T-1207N",
+  "region": "USA"
+ },
+ {
+  "name": "Power Stone 2 (USA)",
+  "serial": "T-1211N",
+  "region": "USA"
+ },
+ {
+  "name": "Project Justice (USA)",
+  "serial": "T-1219N",
+  "region": "USA"
+ },
+ {
+  "name": "Reel Fishing + Wild (USA)",
+  "serial": "T-44303N",
+  "region": "USA"
+ },
+ {
+  "name": "NBA 2K2 (Europe)",
+  "serial": "MK-51178-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Guilty Gear X (Japan)",
+  "serial": "T-2401M, T-2402M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kuon no Kizuna - Sairinshou (Japan) (Rev A)",
+  "serial": "T-36701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Konohana - True Report (Japan)",
+  "serial": "T-9905M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamon Volume 10 (France)",
+  "serial": "832-0031-09, 833-0026-09",
+  "region": "France"
+ },
+ {
+  "name": "Legacy of Kain - Soul Reaver (France)",
+  "serial": "T-36803D-09",
+  "region": "France"
+ },
+ {
+  "name": "Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 2)",
+  "serial": "MK-51052-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Buggy Heat (Europe) (En,Fr,De,Es)",
+  "serial": "MK-54040-50",
+  "region": "Europe"
+ },
+ {
+  "name": "18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)",
+  "serial": "952-0158-50, MK-51064-50",
+  "region": "Europe"
+ },
+ {
+  "name": "4x4 Evo (USA)",
+  "serial": "T-41903N",
+  "region": "USA"
+ },
+ {
+  "name": "AeroWings 2 - Airstrike (USA)",
+  "serial": "T-40210N",
+  "region": "USA"
+ },
+ {
+  "name": "Dead or Alive 2 (Japan) (Shokai Genteiban)",
+  "serial": "T-3601M",
+  "region": "Japan"
+ },
+ {
+  "name": "Soulcalibur (Japan)",
+  "serial": "T-1401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Alone in the Dark - The New Nightmare (USA) (Disc 1)",
+  "serial": "T-15117N",
+  "region": "USA"
+ },
+ {
+  "name": "Alone in the Dark - The New Nightmare (USA) (Disc 2)",
+  "serial": "T-15117N",
+  "region": "USA"
+ },
+ {
+  "name": "Army Men - Sarge's Heroes (USA)",
+  "serial": "T-9715N",
+  "region": "USA"
+ },
+ {
+  "name": "Atari Anniversary Edition (USA)",
+  "serial": "T-15130N",
+  "region": "USA"
+ },
+ {
+  "name": "Bang! Gunship Elite (USA) (En,Fr,De)",
+  "serial": "T-44102N",
+  "region": "USA"
+ },
+ {
+  "name": "Blue Stinger (USA)",
+  "serial": "T-13001N",
+  "region": "USA"
+ },
+ {
+  "name": "Bomberman Online (USA)",
+  "serial": "51065",
+  "region": "USA"
+ },
+ {
+  "name": "Capcom vs. SNK (USA)",
+  "serial": "T-1218N",
+  "region": "USA"
+ },
+ {
+  "name": "Urban Chaos (Europe) (En,Fr)",
+  "serial": "T-36810D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "J.League Pro Soccer Club o Tsukurou! (Japan)",
+  "serial": "HDR-0028",
+  "region": "Japan"
+ },
+ {
+  "name": "Tantei Shinshi Dash! (Japan)",
+  "serial": "T-44403M",
+  "region": "Japan"
+ },
+ {
+  "name": "NCAA College Football 2K2 - Road to the Rose Bowl (USA)",
+  "serial": "51176",
+  "region": "USA"
+ },
+ {
+  "name": "Sonic Adventure International (Japan) (En,Ja,Fr,De,Es)",
+  "serial": "HDR-0043",
+  "region": "Japan"
+ },
+ {
+  "name": "Aero Dancing F (Japan) (Taikenban)",
+  "serial": "610-7740",
+  "region": "Japan"
+ },
+ {
+  "name": "Record of Lodoss War - The Advent of Cardice (Japan)",
+  "serial": "T-27903M",
+  "region": "Japan"
+ },
+ {
+  "name": "Silver (Europe) (En,Nl)",
+  "serial": "T-15109D-91",
+  "region": "Europe"
+ },
+ {
+  "name": "Canary - Kono Omoi o Uta ni Nosete (Japan)",
+  "serial": "T-20111M",
+  "region": "Japan"
+ },
+ {
+  "name": "Snow (Japan)",
+  "serial": "T-20132M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kita e. White Illumination (Japan)",
+  "serial": "T-14301M",
+  "region": "Japan"
+ },
+ {
+  "name": "Missing Parts - The Tantei Stories (Japan)",
+  "serial": "T-36702M",
+  "region": "Japan"
+ },
+ {
+  "name": "Missing Parts 3 - The Tantei Stories (Japan)",
+  "serial": "T-36704M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eve Zero Kanzenban - Ark of the Matter (Japan) (Disc 1)",
+  "serial": "T-39802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eve Zero Kanzenban - Ark of the Matter (Japan) (Disc 2)",
+  "serial": "T-39802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)",
+  "serial": "HDR-0183",
+  "region": "Japan"
+ },
+ {
+  "name": "DreamFlyer (Japan)",
+  "serial": "HDR-0042",
+  "region": "Japan"
+ },
+ {
+  "name": "Golf Shiyou yo - Course Data-shuu - Adventure-hen (Japan)",
+  "serial": "T-40904M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kiteretsu Boy's Gangagan (Japan)",
+  "serial": "HDR-0064",
+  "region": "Japan"
+ },
+ {
+  "name": "NBA 2K (Japan)",
+  "serial": "HDR-0069",
+  "region": "Japan"
+ },
+ {
+  "name": "Neppachi II - CR Harenchi Gakuen (Japan)",
+  "serial": "T-41003M",
+  "region": "Japan"
+ },
+ {
+  "name": "Neppachi V - CR Monster House (Japan)",
+  "serial": "T-41006M",
+  "region": "Japan"
+ },
+ {
+  "name": "Net de Para (Japan)",
+  "serial": "T-37903M",
+  "region": "Japan"
+ },
+ {
+  "name": "Run=Dim as Black Soul (Japan)",
+  "serial": "T-46202M",
+  "region": "Japan"
+ },
+ {
+  "name": "Seventh Cross (Japan)",
+  "serial": "T-38802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Mr. Driller (Japan)",
+  "serial": "T-1402M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sorcerian - Shichisei Mahou no Shito (Japan)",
+  "serial": "T-9102M, T-9103M",
+  "region": "Japan"
+ },
+ {
+  "name": "Fighting Force 2 (Europe) (En,Fr)",
+  "serial": "T-36802D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Gauntlet Legends (Europe) (En,Fr,De)",
+  "serial": "T-9707D-61",
+  "region": "Europe"
+ },
+ {
+  "name": "Grinch, The (Europe) (En,Fr,De,Es,It)",
+  "serial": "830-0151-50, T-9503D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Legacy of Kain - Soul Reaver (Europe)",
+  "serial": "952-0038-05, T-36803D-05, T-36803D-47",
+  "region": "Europe"
+ },
+ {
+  "name": "Midway's Greatest Arcade Hits - Volume 1 (Europe)",
+  "serial": "T-9710D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Shenmue (Europe) (En,Fr,De,Es) (Disc 1)",
+  "serial": "952-0102-50, MK-51059-50",
+  "region": "Europe"
+ },
+ {
+  "name": "SnoCross Championship Racing (Europe) (En,Fr,De)",
+  "serial": "830-0223-50, T-17722D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sonic Adventure 2 (Europe) (En,Ja,Fr,De,Es)",
+  "serial": "952-0161-50, MK-51117-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Soul Fighter (Europe)",
+  "serial": "T-41401D-18, T-41401D-61",
+  "region": "Europe"
+ },
+ {
+  "name": "Star Wars - Demolition (Europe)",
+  "serial": "T-13010D-18, T-13010D-60",
+  "region": "Europe"
+ },
+ {
+  "name": "Virtua Striker 2 Ver. 2000.1 (Europe) (En,Ja,Fr,De,Es)",
+  "serial": "MK-51028-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Worms Armageddon (Europe) (En,Fr,De,Nl,Sv,No,Da)",
+  "serial": "T-40601D-05, T-40601D-79",
+  "region": "Europe"
+ },
+ {
+  "name": "Deep Fighter (Europe) (En,It) (Disc 1)",
+  "serial": "T-17704D-61A",
+  "region": "Europe"
+ },
+ {
+  "name": "Deep Fighter (Europe) (En,It) (Disc 2)",
+  "serial": "T-17704D-61B",
+  "region": "Europe"
+ },
+ {
+  "name": "Harusame Youbi (Japan)",
+  "serial": "T-20106M",
+  "region": "Japan"
+ },
+ {
+  "name": "Iron Aces (Europe)",
+  "serial": "T-44904D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Kao the Kangaroo (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-22902D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)",
+  "serial": "T-9709D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Evil Dead - Hail to the King (France)",
+  "serial": "T-10005D-80",
+  "region": "France"
+ },
+ {
+  "name": "Love Hina - Smile Again (Japan)",
+  "serial": "HDR-0139",
+  "region": "Japan"
+ },
+ {
+  "name": "Sega Rally 2 (Europe)",
+  "serial": "MK-51019-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)",
+  "serial": "T-13003D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Hidden & Dangerous (Europe) (En,Fr,De,Es)",
+  "serial": "T-40503D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "POD 2 - Multiplayer Online (Europe)",
+  "serial": "T-17710D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Roadsters (Europe) (En,Fr,De,Es,It,Nl)",
+  "serial": "T-22901D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Shadow Man (Europe) (En,Fr,Es,It)",
+  "serial": "T-8104D-05, T-8104D-13",
+  "region": "Europe"
+ },
+ {
+  "name": "Spirit of Speed 1937 (Europe) (En,Fr,De,Es)",
+  "serial": "952-0067-50, T-8117D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Super Magnetic Neo (Europe) (En,Fr,De)",
+  "serial": "T-40206D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Tony Hawk's Pro Skater 2 (Europe)",
+  "serial": "T-13008D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "UEFA Dream Soccer (Europe) (En,Fr,De,Es)",
+  "serial": "952-0105-05, MK-51095-05",
+  "region": "Europe"
+ },
+ {
+  "name": "AirForce Delta (Japan)",
+  "serial": "T-9502M",
+  "region": "Japan"
+ },
+ {
+  "name": "Confidential Mission (Japan) (En,Ja,Fr,De,Es)",
+  "serial": "HDR-0160",
+  "region": "Japan"
+ },
+ {
+  "name": "D2 Shock (Japan)",
+  "serial": "T-30001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Grandia II (Japan)",
+  "serial": "T-4502M, T-4503M",
+  "region": "Japan"
+ },
+ {
+  "name": "PenPen TriIcelon (Japan) (Rev A)",
+  "serial": "T-17001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Real Sound - Kaze no Regret (Japan) (Disc 1) (Rev A)",
+  "serial": "T-30001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Real Sound - Kaze no Regret (Japan) (Disc 2)",
+  "serial": "T-30001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Seitai Heiki Expendable (Japan)",
+  "serial": "T-15003M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tetris 4D (Japan)",
+  "serial": "T-20801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Virtua Fighter 3tb (Japan)",
+  "serial": "HDR-0002",
+  "region": "Japan"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De)",
+  "serial": "T-9711D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Nomad Soul, The (France) (En,Fr,De,Es,It)",
+  "serial": "T-36805D-09",
+  "region": "France"
+ },
+ {
+  "name": "Dorimaga GD Vol. 3 (Japan)",
+  "serial": "610-7164-04",
+  "region": "Japan"
+ },
+ {
+  "name": "Street Fighter Zero 3 - Saikyo-ryu Dojo for Matching Service (Japan)",
+  "serial": "T-1230M",
+  "region": "Japan"
+ },
+ {
+  "name": "Exodus Guilty Neos (Japan)",
+  "serial": "T-44404M",
+  "region": "Japan"
+ },
+ {
+  "name": "Konohana 2 - Todokanai Requiem (Japan)",
+  "serial": "T-9906M",
+  "region": "Japan"
+ },
+ {
+  "name": "Missing Parts 2 - The Tantei Stories (Japan)",
+  "serial": "T-36703M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tokyo Highway Challenge (Europe)",
+  "serial": "T-40201D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Speed Devils (Japan)",
+  "serial": "T-17702M",
+  "region": "Japan"
+ },
+ {
+  "name": "Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Fr,De,Es,It)",
+  "serial": "T-36813D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Confidential Mission (Europe) (En,Ja,Fr,De,Es)",
+  "serial": "952-0152-50, MK-51160-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Railroad Tycoon II (Europe) (En,Fr,De)",
+  "serial": "T-40505D-05, T-40505D-09",
+  "region": "Europe"
+ },
+ {
+  "name": "Vigilante 8 - 2nd Offense (USA)",
+  "serial": "T-13002N",
+  "region": "USA"
+ },
+ {
+  "name": "Tony Hawk's Pro Skater 2 (USA)",
+  "serial": "T-13006N",
+  "region": "USA"
+ },
+ {
+  "name": "Samba de Amigo Ver. 2000 (Japan)",
+  "serial": "HDR-0131",
+  "region": "Japan"
+ },
+ {
+  "name": "Dabitsuku - Derby-ba o Tsukurou! (Japan)",
+  "serial": "HDR-0084",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Passport 3 (Japan)",
+  "serial": "610-7819, 610-7851",
+  "region": "Japan"
+ },
+ {
+  "name": "Espion-Age-nts (Japan)",
+  "serial": "T-38804M",
+  "region": "Japan"
+ },
+ {
+  "name": "Virtua Fighter 4 Passport - VF.NET (Japan)",
+  "serial": "610-8088",
+  "region": "Japan"
+ },
+ {
+  "name": "Ganbare! Nippon! Olympic 2000 (Japan)",
+  "serial": "T-9511M",
+  "region": "Japan"
+ },
+ {
+  "name": "Jissen Pachi-Slot Hisshouhou! @ VP@CHI - Kongdom (Japan)",
+  "serial": "T-18801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Magic - The Gathering (Japan)",
+  "serial": "HDR-0116",
+  "region": "Japan"
+ },
+ {
+  "name": "Nettou Golf (Japan)",
+  "serial": "HDR-0006",
+  "region": "Japan"
+ },
+ {
+  "name": "Ring, The (Japan)",
+  "serial": "T-27902M",
+  "region": "Japan"
+ },
+ {
+  "name": "July (Japan) (Rev A)",
+  "serial": "T-35401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Coaster Works (Europe) (En,Fr,De,Es)",
+  "serial": "T-44903D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Comic Party (Japan) (Disc 1) (Rev A)",
+  "serial": "T-38301M, T-38302M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sister Princess - Premium Edition (Japan) (Disc 1)",
+  "serial": "T-27802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sonic Shuffle (Japan)",
+  "serial": "HDR-0125",
+  "region": "Japan"
+ },
+ {
+  "name": "Hundred Swords (Japan)",
+  "serial": "HDR-0124",
+  "region": "Japan"
+ },
+ {
+  "name": "Air (Japan) (Rev A)",
+  "serial": "T-20112M",
+  "region": "Japan"
+ },
+ {
+  "name": "Close To - Inori no Oka (Japan)",
+  "serial": "T-19704M",
+  "region": "Japan"
+ },
+ {
+  "name": "Jikkyou Powerful Pro Yakyuu - Dreamcast Edition (Japan)",
+  "serial": "T-9507M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pro Yakyuu Team de Asobou Net! (Japan)",
+  "serial": "HDR-0091",
+  "region": "Japan"
+ },
+ {
+  "name": "Pro Yakyuu Team de Asobou! (Japan)",
+  "serial": "HDR-0027",
+  "region": "Japan"
+ },
+ {
+  "name": "Comic Party (Japan) (Disc 2)",
+  "serial": "T-38301M, T-38302M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pro Yakyuu Team o Tsukurou! (Japan) (Rev B)",
+  "serial": "HDR-0022",
+  "region": "Japan"
+ },
+ {
+  "name": "Spawn - In the Demon's Hand (Japan)",
+  "serial": "T-1216M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sister Princess - Premium Edition (Japan) (Disc 2)",
+  "serial": "T-27802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Cardcaptor Sakura - Tomoyo no Video Daisakusen (Japan)",
+  "serial": "HDR-0115, HDR-0132",
+  "region": "Japan"
+ },
+ {
+  "name": "Fire Pro Wrestling D (Japan)",
+  "serial": "T-18804M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kuon no Kizuna - Sairinshou (Japan)",
+  "serial": "T-36701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Revive... - Sosei (Japan)",
+  "serial": "T-1301M",
+  "region": "Japan"
+ },
+ {
+  "name": "Roommania 203 (Japan)",
+  "serial": "HDR-0044",
+  "region": "Japan"
+ },
+ {
+  "name": "Tokyo Bus Guide (Japan)",
+  "serial": "T-35402M",
+  "region": "Japan"
+ },
+ {
+  "name": "Yuukyuu Gensoukyoku 3 - Perpetual Blue (Japan)",
+  "serial": "T-27801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Silent Scope (Japan)",
+  "serial": "T-9513M",
+  "region": "Japan"
+ },
+ {
+  "name": "Hello Kitty no Otonaru Mail (Japan)",
+  "serial": "HDR-0065",
+  "region": "Japan"
+ },
+ {
+  "name": "Dousoukai 2 - Again & Refrain (Japan)",
+  "serial": "T-20113M",
+  "region": "Japan"
+ },
+ {
+  "name": "Memories Off 2nd (Japan)",
+  "serial": "T-19707M, T-19708M",
+  "region": "Japan"
+ },
+ {
+  "name": "Memories Off 2nd - Making Disc (Japan)",
+  "serial": "T-19708M",
+  "region": "Japan"
+ },
+ {
+  "name": "Guru Guru Onsen 3 (Japan)",
+  "serial": "HDR-0195",
+  "region": "Japan"
+ },
+ {
+  "name": "Mahjong Taikai II Special (Japan)",
+  "serial": "T-7601M",
+  "region": "Japan"
+ },
+ {
+  "name": "Net Versus - Shougi (Japan)",
+  "serial": "T-45702M",
+  "region": "Japan"
+ },
+ {
+  "name": "Quiz Aa Megami-sama - Tatakau Tsubasa to Tomoni (Japan)",
+  "serial": "HDR-0105, HDR-0123",
+  "region": "Japan"
+ },
+ {
+  "name": "Golf Shiyou yo (Japan) (Rev A)",
+  "serial": "T-40901M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dance Dance Revolution 2nd Mix - Dreamcast Edition (Japan)",
+  "serial": "T-9506M",
+  "region": "Japan"
+ },
+ {
+  "name": "Ouka Houshin - Ouka Sakishi Toki (Japan)",
+  "serial": "T-38704M",
+  "region": "Japan"
+ },
+ {
+  "name": "Idol Janshi o Tsukutchaou (Japan)",
+  "serial": "T-5703M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 1) (Earth Federation Disc)",
+  "serial": "T-13305M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 2) (Zeon Disc)",
+  "serial": "T-13305M",
+  "region": "Japan"
+ },
+ {
+  "name": "Atsumare! Guru Guru Onsen (Japan)",
+  "serial": "HDR-0015",
+  "region": "Japan"
+ },
+ {
+  "name": "D2 - D no Shokutaku 2 (Japan) (Disc 1)",
+  "serial": "T-30004M, T-30005M",
+  "region": "Japan"
+ },
+ {
+  "name": "D2 - D no Shokutaku 2 (Japan) (Disc 2)",
+  "serial": "T-30004M, T-30005M",
+  "region": "Japan"
+ },
+ {
+  "name": "D2 - D no Shokutaku 2 (Japan) (Disc 3)",
+  "serial": "T-30004M, T-30005M",
+  "region": "Japan"
+ },
+ {
+  "name": "D2 - D no Shokutaku 2 (Japan) (Disc 4)",
+  "serial": "T-30004M, T-30005M",
+  "region": "Japan"
+ },
+ {
+  "name": "Es (Japan) (Disc 1)",
+  "serial": "T-45501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Es (Japan) (Disc 2)",
+  "serial": "T-45501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Es (Japan) (Disc 3)",
+  "serial": "T-45501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tomb Raider IV - The Last Revelation (Japan)",
+  "serial": "T-1233M",
+  "region": "Japan"
+ },
+ {
+  "name": "Jet Coaster Dream (Japan)",
+  "serial": "T-40902M",
+  "region": "Japan"
+ },
+ {
+  "name": "Maboroshi Tsukiyo (Japan)",
+  "serial": "T-4401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Rune Caster (Japan)",
+  "serial": "T-40001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Super Producers - Mezase Show Biz Kai (Japan)",
+  "serial": "T-14303M",
+  "region": "Japan"
+ },
+ {
+  "name": "F1 World Grand Prix for Dreamcast (Japan)",
+  "serial": "T-3001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan)",
+  "serial": "HDR-0126",
+  "region": "Japan"
+ },
+ {
+  "name": "Net Versus - Mahjong (Japan)",
+  "serial": "T-45701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Shin Nihon Pro Wrestling - Toukon Retsuden 4 (Japan)",
+  "serial": "T-28202M",
+  "region": "Japan"
+ },
+ {
+  "name": "Elysion - Eien no Sanctuary (Japan)",
+  "serial": "T-20116M",
+  "region": "Japan"
+ },
+ {
+  "name": "Nobunaga no Yabou - Shouseiroku with Power-Up Kit (Japan)",
+  "serial": "T-7602M",
+  "region": "Japan"
+ },
+ {
+  "name": "Chou Hatsumei Boy Kanipan - Bousou Robot no Nazo! (Japan)",
+  "serial": "HDR-0021",
+  "region": "Japan"
+ },
+ {
+  "name": "Pia Carrot e Youkoso!! 2.5 (Japan) (Disc 1) (Pia Carrot e Youkoso!! 2)",
+  "serial": "T-20109M, T-20121M",
+  "region": "Japan"
+ },
+ {
+  "name": "CR Hissatsu Shigotonin - Pachitte Chonmage @ VP@CHI (Japan)",
+  "serial": "T-45801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Net Versus - Chess (Japan)",
+  "serial": "T-45706M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pia Carrot e Youkoso!! 2.5 (Japan) (Disc 2) (Pia Carrot e Youkoso!! 2.2)",
+  "serial": "T-20109M",
+  "region": "Japan"
+ },
+ {
+  "name": "Marionette Handler 2 (Japan)",
+  "serial": "T-2204M",
+  "region": "Japan"
+ },
+ {
+  "name": "Marionette Company (Japan)",
+  "serial": "T-5201M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pop'n Music 2 (Japan)",
+  "serial": "T-9590M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pop'n Music 3 - Append Disc (Japan)",
+  "serial": "T-9591M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pop'n Music (Japan)",
+  "serial": "T-9501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eldorado Gate Dai-2-kan (Japan)",
+  "serial": "T-1224M",
+  "region": "Japan"
+ },
+ {
+  "name": "First Kiss Story (Japan) (Disc 1)",
+  "serial": "T-46304M",
+  "region": "Japan"
+ },
+ {
+  "name": "First Kiss Story (Japan) (Disc 2)",
+  "serial": "T-46304M",
+  "region": "Japan"
+ },
+ {
+  "name": "First Kiss Story II - Anata ga Iru kara (Japan) (Disc 1)",
+  "serial": "T-46304M, T-46305M",
+  "region": "Japan"
+ },
+ {
+  "name": "First Kiss Story II - Anata ga Iru kara (Japan) (Disc 2)",
+  "serial": "T-46304M, T-46305M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen Kinematron Hanagumi Mail (Japan)",
+  "serial": "HDR-0136",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc (Japan)",
+  "serial": "HDR-0136",
+  "region": "Japan"
+ },
+ {
+  "name": "Incoming - Jinrui Saishuu Kessen (Japan) (Rev A)",
+  "serial": "T-15001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1)",
+  "serial": "HDR-0057",
+  "region": "Japan"
+ },
+ {
+  "name": "Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2)",
+  "serial": "HDR-0057",
+  "region": "Japan"
+ },
+ {
+  "name": "For Symphony - With All One's Heart (Japan)",
+  "serial": "T-37908M",
+  "region": "Japan"
+ },
+ {
+  "name": "Shinri Game, The (Japan)",
+  "serial": "T-43403M",
+  "region": "Japan"
+ },
+ {
+  "name": "Gakkyuu-ou Yamazaki - Yamazaki Oukoku Daifunsou! (Japan)",
+  "serial": "HDR-0050",
+  "region": "Japan"
+ },
+ {
+  "name": "Canvas - Sepia-iro no Motif (Japan)",
+  "serial": "T-20108M",
+  "region": "Japan"
+ },
+ {
+  "name": "Suika (Japan)",
+  "serial": "T-46508M, T-46509M",
+  "region": "Japan"
+ },
+ {
+  "name": "World Neverland Plus - The Olerud Kingdom Stories (Japan)",
+  "serial": "T-5301M",
+  "region": "Japan"
+ },
+ {
+  "name": "Mizuiro (Japan)",
+  "serial": "T-20114M, T-20115M",
+  "region": "Japan"
+ },
+ {
+  "name": "Culdcept II (Japan)",
+  "serial": "T-43903M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tsuushin Taisen Logic Battle - Daisessen (Japan)",
+  "serial": "T-35403M",
+  "region": "Japan"
+ },
+ {
+  "name": "Digital Keiba Shinbun - My Trackman (Japan)",
+  "serial": "T-37001M",
+  "region": "Japan"
+ },
+ {
+  "name": "NFL 2K (Japan)",
+  "serial": "HDR-0058, HDR-0141",
+  "region": "Japan"
+ },
+ {
+  "name": "Neppachi III - CR Dokonjou Gaeru 2 - CR Dokonjou Gaeru H (Japan)",
+  "serial": "T-41004M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eldorado Gate Dai-1-kan (Japan)",
+  "serial": "T-1223M",
+  "region": "Japan"
+ },
+ {
+  "name": "UnderCover AD2025 Kei (Japan)",
+  "serial": "T-39001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dabitsuku 2 (Japan)",
+  "serial": "HDR-0167",
+  "region": "Japan"
+ },
+ {
+  "name": "Frame Gride (Japan)",
+  "serial": "T-34201M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kanon (Japan)",
+  "serial": "T-20105M",
+  "region": "Japan"
+ },
+ {
+  "name": "Boku to, Bokura no Natsu (Japan)",
+  "serial": "T-19717M",
+  "region": "Japan"
+ },
+ {
+  "name": "Omoide ni Kawaru Kimi - Memories Off (Japan)",
+  "serial": "T-19718M",
+  "region": "Japan"
+ },
+ {
+  "name": "Milky Season (Japan)",
+  "serial": "T-19713M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tentama - 1st Sunny Side (Japan)",
+  "serial": "T-19710M",
+  "region": "Japan"
+ },
+ {
+  "name": "Marionette Handler (Japan)",
+  "serial": "T-2201M",
+  "region": "Japan"
+ },
+ {
+  "name": "Bounty Hunter Sara - Holy Mountain no Teiou (Japan)",
+  "serial": "T-1243M",
+  "region": "Japan"
+ },
+ {
+  "name": "Morita no Saikyou Reversi (Japan)",
+  "serial": "T-39102M",
+  "region": "Japan"
+ },
+ {
+  "name": "Miss Moonlight (Japan)",
+  "serial": "T-18702M",
+  "region": "Japan"
+ },
+ {
+  "name": "Akihabara Dennou-gumi Pata Pies! (Japan)",
+  "serial": "HDR-0019",
+  "region": "Japan"
+ },
+ {
+  "name": "F1 World Grand Prix II for Dreamcast (Japan)",
+  "serial": "T-3002M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eternal Arcadia - Kuuzokuban (Japan)",
+  "serial": "610-7810",
+  "region": "Japan"
+ },
+ {
+  "name": "Eternal Arcadia (Japan) (Disc 1) (@barai)",
+  "serial": "HDR-0119",
+  "region": "Japan"
+ },
+ {
+  "name": "Eternal Arcadia (Japan) (Disc 2) (@barai)",
+  "serial": "HDR-0119",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 1 (Japan)",
+  "serial": "610-7164",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 2 (Japan) (Disc 1)",
+  "serial": "610-7164-02",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 2 (Japan) (Disc 2)",
+  "serial": "610-7164-03",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 4 (Japan)",
+  "serial": "610-7164-05",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 7 (Japan)",
+  "serial": "610-7164-08",
+  "region": "Japan"
+ },
+ {
+  "name": "Happy Lesson (Japan)",
+  "serial": "T-19503M",
+  "region": "Japan"
+ },
+ {
+  "name": "Prism Heart (Japan)",
+  "serial": "T-19711M",
+  "region": "Japan"
+ },
+ {
+  "name": "Prism Heart - Gaiden Disc - Ken ni Kometa Omoi (Japan)",
+  "serial": "T-19711M",
+  "region": "Japan"
+ },
+ {
+  "name": "Mercurius Pretty - End of the Century (Japan)",
+  "serial": "T-20103M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sangokushi VI (Japan)",
+  "serial": "T-7603M",
+  "region": "Japan"
+ },
+ {
+  "name": "Candy Stripe - Minarai Tenshi (Japan)",
+  "serial": "HDR-0172",
+  "region": "Japan"
+ },
+ {
+  "name": "Golf Shiyou yo 2 - Aratanaru Chousen (Japan)",
+  "serial": "T-44501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Rev A)",
+  "serial": "T-41002M",
+  "region": "Japan"
+ },
+ {
+  "name": "Imperial no Taka - Fighter of Zero (Japan)",
+  "serial": "T-43501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sega Extreme Sports (Japan)",
+  "serial": "HDR-0146",
+  "region": "Japan"
+ },
+ {
+  "name": "Get!! Colonies (Japan)",
+  "serial": "HDR-0071",
+  "region": "Japan"
+ },
+ {
+  "name": "Carrier (Japan)",
+  "serial": "T-5701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Vermilion Desert (Japan)",
+  "serial": "T-5302M",
+  "region": "Japan"
+ },
+ {
+  "name": "WWF Royal Rumble (Japan)",
+  "serial": "T-45101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Nihon Pro Mahjong Renmei Kounin - Tetsuman Menkyokaiden (Japan)",
+  "serial": "T-18701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Godzilla Generations (Japan)",
+  "serial": "HDR-0004",
+  "region": "Japan"
+ },
+ {
+  "name": "Soukou no Kihei - Space Griffon (Japan)",
+  "serial": "T-39601M",
+  "region": "Japan"
+ },
+ {
+  "name": "Angel Present (Japan)",
+  "serial": "T-20107M",
+  "region": "Japan"
+ },
+ {
+  "name": "Typing of the Dead, The (Japan)",
+  "serial": "HDR-0067, HDR-0085",
+  "region": "Japan"
+ },
+ {
+  "name": "Super Euro Soccer 2000 (Japan)",
+  "serial": "T-15006M",
+  "region": "Japan"
+ },
+ {
+  "name": "Hello Kitty no Lovely Fruit Park (Japan)",
+  "serial": "HDR-0055",
+  "region": "Japan"
+ },
+ {
+  "name": "King of Fighters '99, The - Evolution (Japan)",
+  "serial": "T-3102M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kidou Senkan Nadesico - Nadesico the Mission (Japan)",
+  "serial": "T-27901M",
+  "region": "Japan"
+ },
+ {
+  "name": "Giant Gram - Zen Nihon Pro Wres 2 in Nippon Budoukan (Japan)",
+  "serial": "HDR-0005",
+  "region": "Japan"
+ },
+ {
+  "name": "Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuushatachi (Japan)",
+  "serial": "HDR-0101",
+  "region": "Japan"
+ },
+ {
+  "name": "Black-Matrix Advanced (Japan) (Disc 1)",
+  "serial": "T-20101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Black-Matrix Advanced (Japan) (Disc 2)",
+  "serial": "T-20101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Zusar Vasar (Japan) (En,Ja)",
+  "serial": "T-43301M",
+  "region": "Japan"
+ },
+ {
+  "name": "Yukawa Moto Senmu no Otakara Sagashi (Japan)",
+  "serial": "HDR-0024, HDR-0025",
+  "region": "Japan"
+ },
+ {
+  "name": "Pocke-Kano - Yumi, Shizuka, Fumio (Japan)",
+  "serial": "T-19501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Iris (Japan)",
+  "serial": "T-19722M",
+  "region": "Japan"
+ },
+ {
+  "name": "Never 7 - The End of Infinity (Japan)",
+  "serial": "T-19703M",
+  "region": "Japan"
+ },
+ {
+  "name": "World Series Baseball 2K1 (Japan)",
+  "serial": "HDR-0157",
+  "region": "Japan"
+ },
+ {
+  "name": "Kimi ga Nozomu Eien (Japan)",
+  "serial": "T-47102M",
+  "region": "Japan"
+ },
+ {
+  "name": "Castle Fantasia - Seima Taisen (Japan)",
+  "serial": "T-46901M",
+  "region": "Japan"
+ },
+ {
+  "name": "Puyo Puyo Da! Featuring Ellena System (Japan)",
+  "serial": "T-6601M",
+  "region": "Japan"
+ },
+ {
+  "name": "Treasure Strike (Japan)",
+  "serial": "T-19701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Himitsu - Yui ga Ita Natsu (Japan)",
+  "serial": "T-46101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Jahmong (Japan)",
+  "serial": "T-43401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pandora no Yume (Japan)",
+  "serial": "T-20119M, T-20120M",
+  "region": "Japan"
+ },
+ {
+  "name": "Winning Post 4 - Program 2000 (Japan)",
+  "serial": "T-7606M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (Rev A)",
+  "serial": "T-39401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Advanced Daisenryaku - Sturm ueber Europa - Der Deutsche Blitzkrieg (Japan)",
+  "serial": "HDR-0066",
+  "region": "Japan"
+ },
+ {
+  "name": "Shin Seiki Evangelion - Typing E Keikaku (Japan)",
+  "serial": "T-35101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Neo Golden Logres (Japan) (En,Ja)",
+  "serial": "T-9904M",
+  "region": "Japan"
+ },
+ {
+  "name": "Aikagi - Hidamari to Kanojo no Heyagi (Japan)",
+  "serial": "T-20130M, T-20131M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamstud!o (Japan)",
+  "serial": "HDR-0114",
+  "region": "Japan"
+ },
+ {
+  "name": "Simple 2000 Series DC Vol. 03 - Fureai - The Ren'ai Simulation (Japan)",
+  "serial": "T-47402M",
+  "region": "Japan"
+ },
+ {
+  "name": "Yukigatari (Japan)",
+  "serial": "T-37907M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kaitou Apricot (Japan)",
+  "serial": "T-37910M",
+  "region": "Japan"
+ },
+ {
+  "name": "Net Versus - Hanafuda (Japan)",
+  "serial": "T-45704M",
+  "region": "Japan"
+ },
+ {
+  "name": "Guru Guru Onsen 2 (Japan)",
+  "serial": "HDR-0168",
+  "region": "Japan"
+ },
+ {
+  "name": "Heisei Mahjong-sou (Japan)",
+  "serial": "T-2202M, T-2203M",
+  "region": "Japan"
+ },
+ {
+  "name": "Love Hina - Totsuzen no Engage Happening (Japan)",
+  "serial": "HDR-0102, HDR-0112",
+  "region": "Japan"
+ },
+ {
+  "name": "Gundam Side Story 0079 - Rise from the Ashes (Japan)",
+  "serial": "T-13301M",
+  "region": "Japan"
+ },
+ {
+  "name": "Wind - A Breath of Heart (Japan)",
+  "serial": "T-47103M",
+  "region": "Japan"
+ },
+ {
+  "name": "Animastar (Japan)",
+  "serial": "T-34101M",
+  "region": "Japan"
+ },
+ {
+  "name": "My Merry May (Japan)",
+  "serial": "T-19714M",
+  "region": "Japan"
+ },
+ {
+  "name": "J.League Spectacle Soccer (Japan)",
+  "serial": "HDR-0154",
+  "region": "Japan"
+ },
+ {
+  "name": "O-to-i-re - Dreamcast Sequencer (Japan) (En,Ja)",
+  "serial": "T-32801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Neppachi IV - CR Aa!! Hana no Ouendan 3 (Japan)",
+  "serial": "T-41005M",
+  "region": "Japan"
+ },
+ {
+  "name": "Shanghai - Dynasty (Japan)",
+  "serial": "T-9902M",
+  "region": "Japan"
+ },
+ {
+  "name": "Marionette Company 2 Chu! (Japan)",
+  "serial": "T-5203M",
+  "region": "Japan"
+ },
+ {
+  "name": "Happy Breeding (Japan)",
+  "serial": "T-46512M",
+  "region": "Japan"
+ },
+ {
+  "name": "Nijuuei (Japan)",
+  "serial": "T-46505M",
+  "region": "Japan"
+ },
+ {
+  "name": "Shin Seiki Evangelion - Ayanami Ikusei Keikaku (Japan)",
+  "serial": "T-46303M",
+  "region": "Japan"
+ },
+ {
+  "name": "Princess Holiday - Korogaru Ringo Tei Sen'ya Ichiya (Japan)",
+  "serial": "T-47105M, T-47106M",
+  "region": "Japan"
+ },
+ {
+  "name": "Super Magnetic Niuniu (Japan)",
+  "serial": "T-30802M",
+  "region": "Japan"
+ },
+ {
+  "name": "21 - Two One (Japan)",
+  "serial": "T-46504M",
+  "region": "Japan"
+ },
+ {
+  "name": "Di Gi Charat Fantasy (Japan)",
+  "serial": "T-46301M, T-46302M",
+  "region": "Japan"
+ },
+ {
+  "name": "Doguu Senki - Haou (Japan)",
+  "serial": "T-9101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tamakyuu (Japan)",
+  "serial": "T-20133M",
+  "region": "Japan"
+ },
+ {
+  "name": "Aero Dancing F - Todoroki Tsubasa no Hatsu Hikou (Japan)",
+  "serial": "T-6805M",
+  "region": "Japan"
+ },
+ {
+  "name": "Aero Dancing i - Jikai Saku made Matemasen (Japan)",
+  "serial": "T-6809M",
+  "region": "Japan"
+ },
+ {
+  "name": "Elemental Gimmick Gear (Japan)",
+  "serial": "T-14302M",
+  "region": "Japan"
+ },
+ {
+  "name": "Simple 2000 Series DC Vol. 02 - Natsuiro Celebration - The Ren'ai Simulation (Japan)",
+  "serial": "T-47404M",
+  "region": "Japan"
+ },
+ {
+  "name": "Yume no Tsubasa - Fate of Heart (Japan)",
+  "serial": "T-19705M",
+  "region": "Japan"
+ },
+ {
+  "name": "Memories Off 2nd - Promotion Disc (Japan)",
+  "serial": "T-19705M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dance Dance Revolution - Club Version - Dreamcast Edition (Japan)",
+  "serial": "T-9508M",
+  "region": "Japan"
+ },
+ {
+  "name": "Plus Plumb (Japan)",
+  "serial": "T-37901M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sekai Fushigi Hakken! Troia (Japan)",
+  "serial": "T-39701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dejiko no Maibura (Japan)",
+  "serial": "T-44601M",
+  "region": "Japan"
+ },
+ {
+  "name": "Nanatsu no Hikan - Senritsu no Bishou (Japan)",
+  "serial": "T-7604M",
+  "region": "Japan"
+ },
+ {
+  "name": "Denpa Shounen-teki Kenshou Seikatsu Soft - Nasubi no Heya (Japan)",
+  "serial": "T-14305M",
+  "region": "Japan"
+ },
+ {
+  "name": "Shin Honkaku Hanafuda (Japan)",
+  "serial": "T-16601M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tsuki wa Higashi ni Hi wa Nishi ni - Operation Sanctuary (Japan)",
+  "serial": "T-47109M",
+  "region": "Japan"
+ },
+ {
+  "name": "Langrisser Millennium (Japan)",
+  "serial": "T-2501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Morita no Saikyou Shougi (Japan)",
+  "serial": "T-39101M",
+  "region": "Japan"
+ },
+ {
+  "name": "GaiaMaster - Kessen! Seiki-ou Densetsu (Japan)",
+  "serial": "T-1212M",
+  "region": "Japan"
+ },
+ {
+  "name": "Yoshia no Oka de Nekoronde... (Japan)",
+  "serial": "T-18704M",
+  "region": "Japan"
+ },
+ {
+  "name": "Cherry Blossom (Japan)",
+  "serial": "T-37912M",
+  "region": "Japan"
+ },
+ {
+  "name": "Marvel vs. Capcom 2 - New Age of Heroes (Japan)",
+  "serial": "T-1215M",
+  "region": "Japan"
+ },
+ {
+  "name": "Vampire Chronicle for Matching Service (Japan)",
+  "serial": "T-1235M",
+  "region": "Japan"
+ },
+ {
+  "name": "Memories Off Complete (Japan)",
+  "serial": "T-19702M",
+  "region": "Japan"
+ },
+ {
+  "name": "Ever 17 - The Out of Infinity (Japan)",
+  "serial": "T-19716M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sengoku Turb (Japan)",
+  "serial": "T-38801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Roommate Novel - Satou Yuka (Japan)",
+  "serial": "T-19502M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sweet Season (Japan)",
+  "serial": "T-37911M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kidou Senshi Gundam - Renpou vs. Zeon & DX (Japan) (Disc 1) (Kidou Senshi Gundam - Renpou vs. Zeon)",
+  "serial": "T-13306M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kidou Senshi Gundam - Renpou vs. Zeon & DX (Japan) (Disc 2) (Kidou Senshi Gundam - Renpou vs. Zeon DX)",
+  "serial": "T-13306M",
+  "region": "Japan"
+ },
+ {
+  "name": "Choukou Senki Kikaioh (Japan)",
+  "serial": "T-1206M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pop'n Music 4 - Append Disc (Japan)",
+  "serial": "T-9592M",
+  "region": "Japan"
+ },
+ {
+  "name": "Aero Dancing F (Japan)",
+  "serial": "T-6804M",
+  "region": "Japan"
+ },
+ {
+  "name": "Aero Dancing - Todoroki Taichou no Himitsu Disc (Japan)",
+  "serial": "T-6803M",
+  "region": "Japan"
+ },
+ {
+  "name": "Le Mans 24 Hours (Japan)",
+  "serial": "HDR-0149",
+  "region": "Japan"
+ },
+ {
+  "name": "Pizzicato Polka - Ensa Gen'ya (Japan)",
+  "serial": "T-19724M",
+  "region": "Japan"
+ },
+ {
+  "name": "Inoue Ryouko - Roommate (Japan)",
+  "serial": "T-19505M",
+  "region": "Japan"
+ },
+ {
+  "name": "Cafe Little Wish (Japan)",
+  "serial": "T-46513M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tenohira o, Taiyou ni (Japan)",
+  "serial": "T-46516M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tanaka Torahiko no Ultra-ryuu Shougi - Ibisha Anaguma-hen (Japan)",
+  "serial": "T-22001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Neppachi VI - CR Otakara Tankentai (Japan)",
+  "serial": "T-41007M",
+  "region": "Japan"
+ },
+ {
+  "name": "Moekan (Japan)",
+  "serial": "T-46515M",
+  "region": "Japan"
+ },
+ {
+  "name": "Rune Jade (Japan)",
+  "serial": "T-14304M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eldorado Gate Dai-3-kan (Japan)",
+  "serial": "T-1225M",
+  "region": "Japan"
+ },
+ {
+  "name": "Net Versus - Igo (Japan)",
+  "serial": "T-45703M",
+  "region": "Japan"
+ },
+ {
+  "name": "Net Versus - Gomoku Narabe to Renju (Japan)",
+  "serial": "T-45705M",
+  "region": "Japan"
+ },
+ {
+  "name": "Net Versus - Reversi (Japan)",
+  "serial": "T-45707M",
+  "region": "Japan"
+ },
+ {
+  "name": "Battle Beaster (Japan)",
+  "serial": "T-43801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Chocolat - Maid Cafe Curio (Japan)",
+  "serial": "T-47107M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kitahei Gold (Japan)",
+  "serial": "T-39801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pachinko no Dendou - CR Nanasy (Japan)",
+  "serial": "T-5205M",
+  "region": "Japan"
+ },
+ {
+  "name": "Inoue Ryouko - Last Scene (Japan)",
+  "serial": "T-19506M",
+  "region": "Japan"
+ },
+ {
+  "name": "Fragrance Tale (Japan)",
+  "serial": "T-37904M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sunrise Eiyuutan (Japan)",
+  "serial": "T-41101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Jinsei Game for Dreamcast (Japan)",
+  "serial": "T-10301M",
+  "region": "Japan"
+ },
+ {
+  "name": "Web Mystery - Yochimu o Miru Neko (Japan) (Disc 1)",
+  "serial": "T-39501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Web Mystery - Yochimu o Miru Neko (Japan) (Disc 2)",
+  "serial": "T-39501M",
+  "region": "Japan"
+ },
+ {
+  "name": "After... Wasureenu Kizuna (Japan)",
+  "serial": "T-18705M, T-18706M",
+  "region": "Japan"
+ },
+ {
+  "name": "Rhapsody of Zephyr, The (Japan)",
+  "serial": "T-44502M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tricolore Crise (Japan)",
+  "serial": "T-9104M",
+  "region": "Japan"
+ },
+ {
+  "name": "Margi - Marginal (Japan)",
+  "serial": "T-46514M",
+  "region": "Japan"
+ },
+ {
+  "name": "Interlude (Japan)",
+  "serial": "T-20117M, T-20127M",
+  "region": "Japan"
+ },
+ {
+  "name": "Hello Kitty no Magical Block (Japan)",
+  "serial": "HDR-0070",
+  "region": "Japan"
+ },
+ {
+  "name": "Taisen Net Gimmick - Capcom & Psikyo All Stars (Japan)",
+  "serial": "T-1248M",
+  "region": "Japan"
+ },
+ {
+  "name": "Card of Destiny - Hikari to Yami no Tougousha (Japan)",
+  "serial": "T-44405M",
+  "region": "Japan"
+ },
+ {
+  "name": "Simple 2000 Series DC Vol. 04 - Okaeri! The Ren'ai Adventure (Japan)",
+  "serial": "T-47403M",
+  "region": "Japan"
+ },
+ {
+  "name": "Roommate Asami - Okusama wa Joshikousei - Director's Edition (Japan)",
+  "serial": "T-19508M",
+  "region": "Japan"
+ },
+ {
+  "name": "Real Sound - Kaze no Regret (Japan) (Disc 1) (Rev B)",
+  "serial": "T-30001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Real Sound - Kaze no Regret (Japan) (Disc 2) (Rev A)",
+  "serial": "T-30001M",
+  "region": "Japan"
+ },
+ {
+  "name": "My Merry Maybe (Japan) (Disc 1)",
+  "serial": "T-19719M",
+  "region": "Japan"
+ },
+ {
+  "name": "My Merry Maybe (Japan) (Disc 2)",
+  "serial": "T-19719M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dancing Blade Katte ni Momotenshi! Kanzenban (Japan) (Disc 1)",
+  "serial": "T-9504M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dancing Blade Katte ni Momotenshi! Kanzenban (Japan) (Disc 2)",
+  "serial": "T-9504M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dancing Blade Katte ni Momotenshi II - Tears of Eden Kanzenban (Japan) (Disc 1)",
+  "serial": "T-9505M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dancing Blade Katte ni Momotenshi II - Tears of Eden Kanzenban (Japan) (Disc 2)",
+  "serial": "T-9505M",
+  "region": "Japan"
+ },
+ {
+  "name": "D+Vine [Luv] (Japan)",
+  "serial": "T-46502M",
+  "region": "Japan"
+ },
+ {
+  "name": "Mei Puru (Japan)",
+  "serial": "T-46510M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pachi-Slot Teiou - Dream Slot - Heiwa SP (Japan)",
+  "serial": "T-20501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Ren'ai Chu! Happy Perfect (Japan)",
+  "serial": "T-47601M, T-47602M",
+  "region": "Japan"
+ },
+ {
+  "name": "Vigilante 8 - 2nd Battle (Japan)",
+  "serial": "T-36501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Ecco the Dolphin - Defender of the Future (Japan)",
+  "serial": "HDR-0103",
+  "region": "Japan"
+ },
+ {
+  "name": "Kita e. Photo Memories (Japan)",
+  "serial": "T-14306M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Momoko Gekijou - Coji-Coji (Japan)",
+  "serial": "T-40802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Metal Wolf (Japan)",
+  "serial": "T-46506M",
+  "region": "Japan"
+ },
+ {
+  "name": "Nobunaga no Yabou - Reppuuden (Japan)",
+  "serial": "T-7605M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sangokushi VI with Power-Up Kit (Japan)",
+  "serial": "T-7607M",
+  "region": "Japan"
+ },
+ {
+  "name": "Princess Maker Collection (Japan)",
+  "serial": "T-44801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eldorado Gate Dai-4-kan (Japan)",
+  "serial": "T-1226M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eldorado Gate Dai-5-kan (Japan)",
+  "serial": "T-1227M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pia Carrot e Youkoso!! 3 (Japan)",
+  "serial": "T-20110M",
+  "region": "Japan"
+ },
+ {
+  "name": "Blue-Sky-Blue[s] - Sora o Mau Tsubasa (Japan)",
+  "serial": "T-23204M",
+  "region": "Japan"
+ },
+ {
+  "name": "Shinki Sekai Evolution 2 - Tooi Yakusoku (Japan)",
+  "serial": "T-38703M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sports Jam (Japan)",
+  "serial": "HDR-0153",
+  "region": "Japan"
+ },
+ {
+  "name": "Pro Mahjong Kiwame D (Japan)",
+  "serial": "T-16801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Erde - Nezu no Ki no Shita de (Japan)",
+  "serial": "T-19720M",
+  "region": "Japan"
+ },
+ {
+  "name": "King of Fighters 2001, The (Japan)",
+  "serial": "T-47304M",
+  "region": "Japan"
+ },
+ {
+  "name": "Aero Dancing i (Japan)",
+  "serial": "T-6807M",
+  "region": "Japan"
+ },
+ {
+  "name": "Godzilla Generations - Maximum Impact (Japan)",
+  "serial": "HDR-0047",
+  "region": "Japan"
+ },
+ {
+  "name": "Lake Masters Pro - Dreamcast Plus! (Japan)",
+  "serial": "T-42401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Densha de Go! 2 - Kousoku-hen 3000 Bandai (Japan)",
+  "serial": "T-1102M",
+  "region": "Japan"
+ },
+ {
+  "name": "Jet Coaster Dream 2 (Japan)",
+  "serial": "T-41201M",
+  "region": "Japan"
+ },
+ {
+  "name": "Atsumare! Guru Guru Onsen BB (Japan)",
+  "serial": "HDR-0121",
+  "region": "Japan"
+ },
+ {
+  "name": "Capcom vs. SNK - Millennium Fight 2000 Pro (Japan)",
+  "serial": "T-1247M",
+  "region": "Japan"
+ },
+ {
+  "name": "Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan)",
+  "serial": "T-1249M",
+  "region": "Japan"
+ },
+ {
+  "name": "Macross M3 (Japan)",
+  "serial": "T-21501M, T-21502M",
+  "region": "Japan"
+ },
+ {
+  "name": "Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Message Disc)",
+  "serial": "T-39403M",
+  "region": "Japan"
+ },
+ {
+  "name": "Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Present Disc)",
+  "serial": "T-39403M",
+  "region": "Japan"
+ },
+ {
+  "name": "Weakness Hero Torauman DC (Japan) (Game Disc)",
+  "serial": "T-35405M",
+  "region": "Japan"
+ },
+ {
+  "name": "Weakness Hero Torauman DC (Japan) (Omake Disc)",
+  "serial": "T-35405M",
+  "region": "Japan"
+ },
+ {
+  "name": "Gundam Side Story 0079 - Rise from the Ashes - Special Edition (Japan)",
+  "serial": "T-13303M",
+  "region": "Japan"
+ },
+ {
+  "name": "Totsugeki! Teketeke!! Toy Ranger (Japan) (En,Ja,Fr,Es)",
+  "serial": "HDR-0052",
+  "region": "Japan"
+ },
+ {
+  "name": "Outtrigger (Japan)",
+  "serial": "HDR-0118",
+  "region": "Japan"
+ },
+ {
+  "name": "Berserk - Millennium Falcon-hen - Wasurebana no Shou (Japan) (Taikenban)",
+  "serial": "610-7370",
+  "region": "Japan"
+ },
+ {
+  "name": "NBA 2K1 (Japan)",
+  "serial": "HDR-0150",
+  "region": "Japan"
+ },
+ {
+  "name": "NFL 2K1 (Japan)",
+  "serial": "HDR-0144",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Rev A)",
+  "serial": "HDR-0193, HDR-0201",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2) (Rev A)",
+  "serial": "HDR-0193, HDR-0201",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Rev A)",
+  "serial": "HDR-0193, HDR-0201",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Passport Ver.1.01 (Japan)",
+  "serial": "610-7055",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Passport 2 (Japan) (Rev B)",
+  "serial": "610-7180",
+  "region": "Japan"
+ },
+ {
+  "name": "Re-Volt (Japan)",
+  "serial": "T-8101M",
+  "region": "Japan"
+ },
+ {
+  "name": "Zombie Revenge (Europe) (En,Fr,De,Es)",
+  "serial": "952-0033-50, MK-51038-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Fish Eyes + Wild (Japan)",
+  "serial": "T-9105M",
+  "region": "Japan"
+ },
+ {
+  "name": "Nakoruru - Ano Hito kara no Okurimono (Japan)",
+  "serial": "T-44702M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dengen Tenshi Taisen Mahjong Shangri-La (Japan)",
+  "serial": "T-40801M, T-40803M",
+  "region": "Japan"
+ },
+ {
+  "name": "Bokomu no Tatsujin (Japan)",
+  "serial": "T-42904M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pachi-Slot Teiou - Dream Slot - Olympia SP (Japan)",
+  "serial": "T-20502M",
+  "region": "Japan"
+ },
+ {
+  "name": "Prismaticallization (Japan)",
+  "serial": "T-22002M",
+  "region": "Japan"
+ },
+ {
+  "name": "Rayman - Kaizokusen kara no Dasshutsu! (Japan)",
+  "serial": "T-17703M",
+  "region": "Japan"
+ },
+ {
+  "name": "Spirit of Speed 1937 (Japan)",
+  "serial": "T-8102M",
+  "region": "Japan"
+ },
+ {
+  "name": "Visual Park (Japan)",
+  "serial": "610-7801",
+  "region": "Japan"
+ },
+ {
+  "name": "Power Jet Racing 2001 (Japan)",
+  "serial": "T-6806M",
+  "region": "Japan"
+ },
+ {
+  "name": "Marie & Elie no Atelier - Salburg no Renkinjutsushi 1 & 2 (Japan) (Game Disc)",
+  "serial": "T-44701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Marie & Elie no Atelier - Salburg no Renkinjutsushi 1 & 2 (Japan) (Omake Disc)",
+  "serial": "T-44701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Seireiki Rayblade (Japan)",
+  "serial": "T-42201M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tokusatsu Bouken Katsugeki Super Hero Retsuden (Japan)",
+  "serial": "T-20601M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 1 (Japan)",
+  "serial": "610-7110-01",
+  "region": "Japan"
+ },
+ {
+  "name": "Super Runabout - San Francisco Edition (Japan)",
+  "serial": "T-22102M",
+  "region": "Japan"
+ },
+ {
+  "name": "Majo no Ochakai (Japan)",
+  "serial": "T-20124M, T-20126M",
+  "region": "Japan"
+ },
+ {
+  "name": "Angel Wish - Kimi no Egao ni Chu! (Japan)",
+  "serial": "T-18712M",
+  "region": "Japan"
+ },
+ {
+  "name": "Shin Seiki Evangelion - Typing Hokan Keikaku (Japan)",
+  "serial": "T-35102M",
+  "region": "Japan"
+ },
+ {
+  "name": "Izumo (Japan)",
+  "serial": "T-46902M",
+  "region": "Japan"
+ },
+ {
+  "name": "Charge 'N Blast (Japan)",
+  "serial": "T-4402M",
+  "region": "Japan"
+ },
+ {
+  "name": "Net de Tennis (Japan)",
+  "serial": "T-1234M",
+  "region": "Japan"
+ },
+ {
+  "name": "Cool Cool Toon (Japan)",
+  "serial": "T-3106M",
+  "region": "Japan"
+ },
+ {
+  "name": "Garou - Mark of the Wolves (Japan)",
+  "serial": "T-3108M, T-47302M",
+  "region": "Japan"
+ },
+ {
+  "name": "Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev A)",
+  "serial": "HDR-0092",
+  "region": "Japan"
+ },
+ {
+  "name": "Eldorado Gate Dai-7-kan (Japan)",
+  "serial": "T-1229M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tako no Marine (Japan)",
+  "serial": "T-5204M",
+  "region": "Japan"
+ },
+ {
+  "name": "Get Bass 2 (Japan)",
+  "serial": "HDR-0169",
+  "region": "Japan"
+ },
+ {
+  "name": "Utau - Tumbling Dice (Japan)",
+  "serial": "T-23206M, T-23207M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sega Tetris (Japan) (Rev A)",
+  "serial": "HDR-0073",
+  "region": "Japan"
+ },
+ {
+  "name": "Capcom Taisen Fan Disc (Japan)",
+  "serial": "610-8086",
+  "region": "Japan"
+ },
+ {
+  "name": "Gundam Side Story 0079 - Rise from the Ashes - Premium Disc (Japan)",
+  "serial": "610-7160",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Extra (Japan)",
+  "serial": "610-7709",
+  "region": "Japan"
+ },
+ {
+  "name": "Doki Doki Idol Star Seeker Remix (Japan)",
+  "serial": "T-46701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sengoku Turb - Fanfan I Love Me Dunce-doublentendre (Japan)",
+  "serial": "T-38805M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sega Marine Fishing (Japan)",
+  "serial": "HDR-0104",
+  "region": "Japan"
+ },
+ {
+  "name": "Time Stalkers (Europe) (En,Fr,De,Es)",
+  "serial": "MK-51011-53, MK-51011-56",
+  "region": "Europe"
+ },
+ {
+  "name": "Toy Commander (Europe) (En,Fr,De,Es)",
+  "serial": "950-0011-50, MK-51020-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Orange Pocket - Cornet (Japan)",
+  "serial": "T-18707M, T-18708M",
+  "region": "Japan"
+ },
+ {
+  "name": "Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition (Japan)",
+  "serial": "T-3107M, T-47301M",
+  "region": "Japan"
+ },
+ {
+  "name": "Boku Doraemon (Japan)",
+  "serial": "T-41802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Heavy Metal - Geomatrix (Japan)",
+  "serial": "T-1246M",
+  "region": "Japan"
+ },
+ {
+  "name": "Hello Kitty no Waku Waku Cookies (Japan)",
+  "serial": "HDR-0090",
+  "region": "Japan"
+ },
+ {
+  "name": "Moero! Justice Gakuen (Japan)",
+  "serial": "T-1221M",
+  "region": "Japan"
+ },
+ {
+  "name": "King of Fighters 2002, The (Japan)",
+  "serial": "T-47305M",
+  "region": "Japan"
+ },
+ {
+  "name": "Boku no Tennis Jinsei (Japan)",
+  "serial": "T-41202M",
+  "region": "Japan"
+ },
+ {
+  "name": "Illbleed (Japan) (En,Ja)",
+  "serial": "T-45601M",
+  "region": "Japan"
+ },
+ {
+  "name": "Panzer Front (Japan) (En,Ja)",
+  "serial": "T-2102M",
+  "region": "Japan"
+ },
+ {
+  "name": "World Neverland 2 Plus - The Waktic Republic of Pluto (Japan)",
+  "serial": "T-5303M",
+  "region": "Japan"
+ },
+ {
+  "name": "Sentimental Graffiti - Yakusoku (Japan)",
+  "serial": "T-20128M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 11 (Japan)",
+  "serial": "610-7164-12",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 12 (Japan)",
+  "serial": "610-7164-13",
+  "region": "Japan"
+ },
+ {
+  "name": "Bass Rush Dream - EcoGear PowerWorm Championship (Japan)",
+  "serial": "T-5801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Golf Shiyou yo (Japan) (Rev B)",
+  "serial": "T-40901M",
+  "region": "Japan"
+ },
+ {
+  "name": "Grauen no Torikago - Kapitel 4 - Kaikou (Japan)",
+  "serial": "HDR-0036",
+  "region": "Japan"
+ },
+ {
+  "name": "SegaKara for Dreamcast (Japan)",
+  "serial": "610-7762",
+  "region": "Japan"
+ },
+ {
+  "name": "Typing of the Date (Japan)",
+  "serial": "T-14307M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kaze no Uta (Japan)",
+  "serial": "T-47501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Eldorado Gate Dai-6-kan (Japan)",
+  "serial": "T-1228M",
+  "region": "Japan"
+ },
+ {
+  "name": "Hidden & Dangerous (USA)",
+  "serial": "T-40502N",
+  "region": "USA"
+ },
+ {
+  "name": "Spec Ops II - Omega Squad (USA)",
+  "serial": "T-41704N",
+  "region": "USA"
+ },
+ {
+  "name": "Test Drive Le Mans (USA) (En,Fr,Es)",
+  "serial": "T-15123N",
+  "region": "USA"
+ },
+ {
+  "name": "Tom Clancy's Rainbow Six with Eagle Watch Missions (USA)",
+  "serial": "T-40401N",
+  "region": "USA"
+ },
+ {
+  "name": "Test Drive V-Rally (USA) (En,Fr,De)",
+  "serial": "T-15110N",
+  "region": "USA"
+ },
+ {
+  "name": "Xtreme Sports (USA)",
+  "serial": "T-15126N",
+  "region": "USA"
+ },
+ {
+  "name": "Grauen no Torikago - Kapitel 1 - Keiyaku (Japan)",
+  "serial": "HDR-0033",
+  "region": "Japan"
+ },
+ {
+  "name": "Grauen no Torikago - Kapitel 2 - Torikago (Japan)",
+  "serial": "HDR-0034",
+  "region": "Japan"
+ },
+ {
+  "name": "Musapey's Choco Marker (Japan)",
+  "serial": "T-23203M",
+  "region": "Japan"
+ },
+ {
+  "name": "Baldr Force EXE (Japan)",
+  "serial": "T-47110M",
+  "region": "Japan"
+ },
+ {
+  "name": "Golem no Maigo (Japan)",
+  "serial": "T-41501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Aero Dancing F (Japan) (Rev A)",
+  "serial": "T-6808M",
+  "region": "Japan"
+ },
+ {
+  "name": "Ao no 6-gou - Saigetsu Hito o Matazu - Time and Tide (Japan)",
+  "serial": "HDR-0075",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Promotion Disk (Japan)",
+  "serial": "610-7124",
+  "region": "Japan"
+ },
+ {
+  "name": "Dynamite Deka 2 (Japan) (Taikenban) (610-7146)",
+  "serial": "610-7146",
+  "region": "Japan"
+ },
+ {
+  "name": "NFL 2K2 (Japan)",
+  "serial": "HDR-0196",
+  "region": "Japan"
+ },
+ {
+  "name": "Suigetsu - Mayoigokoro (Japan) (Disc 1)",
+  "serial": "T-19725M",
+  "region": "Japan"
+ },
+ {
+  "name": "Suigetsu - Mayoigokoro (Japan) (Disc 2)",
+  "serial": "T-19725M",
+  "region": "Japan"
+ },
+ {
+  "name": "deSPIRIA (Japan)",
+  "serial": "T-14402M",
+  "region": "Japan"
+ },
+ {
+  "name": "Gunspike (Japan)",
+  "serial": "T-1219M",
+  "region": "Japan"
+ },
+ {
+  "name": "L.O.L. - Lack of Love (Japan)",
+  "serial": "T-2106M",
+  "region": "Japan"
+ },
+ {
+  "name": "Advanced Daisenryaku 2001 (Japan)",
+  "serial": "HDR-0158",
+  "region": "Japan"
+ },
+ {
+  "name": "Bomber Hehhe! (Japan)",
+  "serial": "T-42903M",
+  "region": "Japan"
+ },
+ {
+  "name": "Gunbird 2 (Japan)",
+  "serial": "T-1213M",
+  "region": "Japan"
+ },
+ {
+  "name": "Pro Yakyuu Team o Tsukurou! & Asobou! (Japan)",
+  "serial": "HDR-0173",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 2 (Japan)",
+  "serial": "610-7110-02",
+  "region": "Japan"
+ },
+ {
+  "name": "Frame Gride - Test Operation Disc (Japan)",
+  "serial": "610-7123",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 3 (Japan)",
+  "serial": "610-7110-03",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 4 (Japan) (Disc 1) (Trial Disk)",
+  "serial": "610-7110-04",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 4 (Japan) (Disc 2) (Tokyo Game Show'99 Autumn - Special Disk)",
+  "serial": "610-7110-04",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 5 (Japan) (Disc 1) (Trial Disk)",
+  "serial": "610-7110-05",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 5 (Japan) (Disc 2) (Movie Disk)",
+  "serial": "610-7110-05",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 6 (Japan) (Disc 1) (Special Disk)",
+  "serial": "610-7110-06",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 6 (Japan) (Disc 2) (Trial & Movie Disk)",
+  "serial": "610-7110-06",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 5 (Japan)",
+  "serial": "610-7164-06",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 6 (Japan)",
+  "serial": "610-7164-07",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 8 (Japan)",
+  "serial": "610-7164-09",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 9 (Japan)",
+  "serial": "610-7164-10",
+  "region": "Japan"
+ },
+ {
+  "name": "Dorimaga GD Vol. 10 (Japan)",
+  "serial": "610-7164-11",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 7 (Japan) (Disc 1) (Special Disk)",
+  "serial": "610-7110-07",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast Express Vol. 7 (Japan) (Disc 2) (Trial & Movie Disk)",
+  "serial": "610-7110-07",
+  "region": "Japan"
+ },
+ {
+  "name": "Shirotsumesouwa - Episode of the Clovers (Japan)",
+  "serial": "T-20123M, T-20125M",
+  "region": "Japan"
+ },
+ {
+  "name": "Grauen no Torikago - Kapitel 3 - Kansei (Japan)",
+  "serial": "HDR-0035",
+  "region": "Japan"
+ },
+ {
+  "name": "Hello Kitty no Dream Passport 2 (Japan)",
+  "serial": "610-7349",
+  "region": "Japan"
+ },
+ {
+  "name": "Napple Tale - Arsia in Daydream (Japan)",
+  "serial": "HDR-0079",
+  "region": "Japan"
+ },
+ {
+  "name": "Super Puzzle Fighter II X for Matching Service (Japan)",
+  "serial": "T-1250M",
+  "region": "Japan"
+ },
+ {
+  "name": "Rainbow Cotton (Japan)",
+  "serial": "T-9901M",
+  "region": "Japan"
+ },
+ {
+  "name": "Twinkle Star Sprites (Japan) (En,Ja,Es)",
+  "serial": "T-3103M",
+  "region": "Japan"
+ },
+ {
+  "name": "Microsoft WebTV Setsuzoku Kit (Japan)",
+  "serial": "610-7117",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Passport Premier (Japan)",
+  "serial": "610-8061",
+  "region": "Japan"
+ },
+ {
+  "name": "Puyo Puyo Fever (Japan) (En,Ja)",
+  "serial": "HDR-0216, HDR-0217",
+  "region": "Japan"
+ },
+ {
+  "name": "Radirgy (Japan)",
+  "serial": "T-47802M",
+  "region": "Japan"
+ },
+ {
+  "name": "Mars Matrix (Japan)",
+  "serial": "T-1238M",
+  "region": "Japan"
+ },
+ {
+  "name": "Zero Gunner 2 (Japan)",
+  "serial": "T-20401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tokyo Bus Guide (Japan) (Rev A)",
+  "serial": "T-35402M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tokyo Bus Guide - Bijin Bus Guide Tenjou Disc (Japan)",
+  "serial": "T-35404M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Preview Vol. 8 (Japan)",
+  "serial": "610-7027-08",
+  "region": "Japan"
+ },
+ {
+  "name": "JRA PAT for Dreamcast V50 L10 (Japan)",
+  "serial": "HDR-0204",
+  "region": "Japan"
+ },
+ {
+  "name": "JRA PAT for Dreamcast V40 L11 (Japan)",
+  "serial": "T-42501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Karous (Japan)",
+  "serial": "T-47803M",
+  "region": "Japan"
+ },
+ {
+  "name": "Patissier na Nyanko - Hatsukoi wa Ichigo Aji (Japan)",
+  "serial": "T-18709M, T-18710M",
+  "region": "Japan"
+ },
+ {
+  "name": "Cosmic Smash (Japan)",
+  "serial": "HDR-0176",
+  "region": "Japan"
+ },
+ {
+  "name": "SGGG - Segagaga (Japan)",
+  "serial": "HDR-0083, HDR-0151",
+  "region": "Japan"
+ },
+ {
+  "name": "Quiz Aa Megami-sama - Tatakau Tsubasa to Tomoni (Japan) (Tokubetsu Omake GD-ROM)",
+  "serial": "HDR-0123",
+  "region": "Japan"
+ },
+ {
+  "name": "Sentimental Graffiti 2 - Third Window (Japan)",
+  "serial": "610-7749",
+  "region": "Japan"
+ },
+ {
+  "name": "Generator Vol. 2 (USA)",
+  "serial": "51057",
+  "region": "USA"
+ },
+ {
+  "name": "Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)",
+  "serial": "HDR-0126",
+  "region": "Japan"
+ },
+ {
+  "name": "PenPen (Europe) (En,Fr,De,Es,It,Nl)",
+  "serial": "T-15103D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Alone in the Dark - The New Nightmare (Europe) (Disc 1)",
+  "serial": "T-15112D-05A",
+  "region": "Europe"
+ },
+ {
+  "name": "Alone in the Dark - The New Nightmare (Europe) (Disc 2)",
+  "serial": "T-15112D-05B",
+  "region": "Europe"
+ },
+ {
+  "name": "Disney's Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-17714D-05, T-17714D-74, T-17714D-75",
+  "region": "Europe"
+ },
+ {
+  "name": "Fur Fighters (Europe) (En,Fr,De,Es)",
+  "serial": "T-8113D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Le Mans 24 Hours (Europe) (En,Fr,De,Es,It)",
+  "serial": "952-0103-50, T-15111D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Soldier of Fortune (Europe) (En,Fr,De)",
+  "serial": "952-0163-50, T-17726D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "StarLancer (Europe)",
+  "serial": "952-0141-50, T-17723D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (Europe)",
+  "serial": "T-45002D-05, T-45002D-61",
+  "region": "Europe"
+ },
+ {
+  "name": "Tomb Raider - The Last Revelation (Spain)",
+  "serial": "T-36804D-06",
+  "region": "Spain"
+ },
+ {
+  "name": "Army Men - Sarge's Heroes (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-9708D-51, T-9708D-61",
+  "region": "Europe"
+ },
+ {
+  "name": "Evil Dead - Hail to the King (Europe)",
+  "serial": "T-10005D-05, T-10005D-83",
+  "region": "Europe"
+ },
+ {
+  "name": "Incoming (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-40701D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "KISS Psycho Circus - The Nightmare Child (Europe)",
+  "serial": "T-40506D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sega Bass Fishing (Europe)",
+  "serial": "950-0012-50, MK-51006-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sega Worldwide Soccer 2000 (Europe) (En,Fr,De,Es)",
+  "serial": "MK-51031-50",
+  "region": "Europe"
+ },
+ {
+  "name": "South Park - Chef's Luv Shack (Europe)",
+  "serial": "T-8105D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sydney 2000 (Europe)",
+  "serial": "T-36808D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Walt Disney World Quest - Magical Racing Tour (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-36809D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Tony Hawk's Skateboarding (Europe)",
+  "serial": "T-40204D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sydney 2000 (Spain)",
+  "serial": "T-36808D-06",
+  "region": "Spain"
+ },
+ {
+  "name": "Maken X (Europe) (En,Fr,De,Es)",
+  "serial": "MK-51050-50",
+  "region": "Europe"
+ },
+ {
+  "name": "NBA Hoopz (Europe) (En,Fr,De)",
+  "serial": "T-9713D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Slave Zero (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-15104D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Headhunter (Europe) (En,Fr,De,Es) (Disc 1)",
+  "serial": "MK-51041-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Headhunter (Europe) (En,Fr,De,Es) (Disc 2)",
+  "serial": "MK-51041-50",
+  "region": "Europe"
+ },
+ {
+  "name": "F1 World Grand Prix II for Dreamcast (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-3002D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Charge 'N Blast (Europe)",
+  "serial": "T-44902D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Daytona USA 2001 (Europe) (En,Fr,De,Es)",
+  "serial": "MK-51037-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Re-Volt (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-8107D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Unreal Tournament (Europe)",
+  "serial": "T-15113D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Stunt GP (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+  "serial": "T-22904D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Exhibition of Speed (Europe) (En,Fr,De,Es,It,Nl)",
+  "serial": "T-22903D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Outtrigger (Europe) (En,Fr,De,Es)",
+  "serial": "952-0162-50, MK-51102-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Silent Scope (Europe) (En,Fr,De,Es,It)",
+  "serial": "952-0108-50, T-9505D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Wild Metal (Europe) (En,Fr,De,Es,It,Pt)",
+  "serial": "T-40501D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Gundam Battle Online - Trial Edition (Japan)",
+  "serial": "610-8039",
+  "region": "Japan"
+ },
+ {
+  "name": "MoHo (Europe) (En,Fr,De)",
+  "serial": "T-40508D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "South Park Rally (Europe) (En,Fr,De,Es)",
+  "serial": "952-0074-50, T-8112D-06, T-8112D-13",
+  "region": "Europe"
+ },
+ {
+  "name": "Space Channel 5 (Europe) (En,Fr,De,Es)",
+  "serial": "MK-51051-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Star Wars - Episode I - Racer (Europe)",
+  "serial": "952-0072-50, T-13006D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dreamkey Version 2.0 (Europe)",
+  "serial": "832-0045-46",
+  "region": "Europe"
+ },
+ {
+  "name": "Tantei Shinshi Dash! (Japan) (Rev A)",
+  "serial": "T-44401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Aqua GT (Europe) (En,Fr,De)",
+  "serial": "T-40509D50",
+  "region": "Europe"
+ },
+ {
+  "name": "Looney Tunes - Space Race (Europe) (En,Fr,De,Es,It,Nl)",
+  "serial": "T-15108D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Spider-Man (Europe)",
+  "serial": "T-13011D-60",
+  "region": "Europe"
+ },
+ {
+  "name": "Fur Fighters (UK) (Demo)",
+  "serial": "D-0008-50",
+  "region": "UK"
+ },
+ {
+  "name": "Dreamkey Versao 2.0 (Portugal)",
+  "serial": "832-0046-46",
+  "region": "Portugal"
+ },
+ {
+  "name": "NFL QB Club 2001 (USA)",
+  "serial": "T-8115N",
+  "region": "USA"
+ },
+ {
+  "name": "World Series Baseball 2K1 (USA)",
+  "serial": "51055",
+  "region": "USA"
+ },
+ {
+  "name": "Disney-Pixar Buzz Lightyear of Star Command (Europe)",
+  "serial": "T-13005D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "AeroWings 2 - Airstrike (Europe) (En,De)",
+  "serial": "T-40209D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Capcom vs. SNK (Europe)",
+  "serial": "T-7017D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Pro Pinball Trilogy (Europe)",
+  "serial": "T-30701D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Jeremy McGrath Supercross 2000 (USA)",
+  "serial": "T-8104N",
+  "region": "USA"
+ },
+ {
+  "name": "Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe! (Germany)",
+  "serial": "T-13003D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Silver (Spain)",
+  "serial": "T-15109D-06",
+  "region": "Spain"
+ },
+ {
+  "name": "Crazy Taxi 2 (Europe) (En,Ja,Fr,De,Es)",
+  "serial": "MK-51136-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Deep Fighter (Germany) (Disc 1)",
+  "serial": "T-17704D-18A",
+  "region": "Germany"
+ },
+ {
+  "name": "Deep Fighter (Germany) (Disc 2)",
+  "serial": "T-17704D-18B",
+  "region": "Germany"
+ },
+ {
+  "name": "Gunbird 2 (Europe)",
+  "serial": "T-7018D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "US Shenmue (Japan) (En,Ja) (Disc 1)",
+  "serial": "HDR-0156",
+  "region": "Japan"
+ },
+ {
+  "name": "US Shenmue (Japan) (En,Ja) (Disc 2)",
+  "serial": "HDR-0156",
+  "region": "Japan"
+ },
+ {
+  "name": "US Shenmue (Japan) (En,Ja) (Disc 3)",
+  "serial": "HDR-0156",
+  "region": "Japan"
+ },
+ {
+  "name": "US Shenmue (Japan) (En,Ja) (Shenmue Passport)",
+  "serial": "HDR-0156",
+  "region": "Japan"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De) (Beta) (2000-10-03)",
+  "serial": "952-0099-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sydney 2000 (Germany)",
+  "serial": "T-36808D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Sydney 2000 (Italy)",
+  "serial": "T-36808D-13",
+  "region": "Italy"
+ },
+ {
+  "name": "Bangai-O (Europe) (En,Fr,De)",
+  "serial": "T-7011D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Phantasy Star Online Ver. 2 (Europe) (En,Ja,Fr,De,Es)",
+  "serial": "952-0176-50, MK-51193-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Next Tetris, The (Europe)",
+  "serial": "T-17717D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Stupid Invaders (Europe) (En,Fr,De,It) (Disc 1)",
+  "serial": "T-17711D-71",
+  "region": "Europe"
+ },
+ {
+  "name": "Stupid Invaders (Europe) (En,Fr,De,It) (Disc 2)",
+  "serial": "T-17711D-71",
+  "region": "Europe"
+ },
+ {
+  "name": "Disney-Pixar Captain Buzz Lightyear - Star Command (Germany)",
+  "serial": "T-13005D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Tomb Raider Chronicles - La Leggenda di Lara Croft (Italy)",
+  "serial": "T-36815D-13",
+  "region": "Italy"
+ },
+ {
+  "name": "Surf Rocket Racers (Europe)",
+  "serial": "952-0124-50, T-17721D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Tomb Raider - La Revelation Finale (France)",
+  "serial": "T-36804D-09",
+  "region": "France"
+ },
+ {
+  "name": "Tomb Raider - The Last Revelation (Italy)",
+  "serial": "T-36804D-13",
+  "region": "Italy"
+ },
+ {
+  "name": "Cannon Spike (Europe)",
+  "serial": "T-46601D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Legacy of Kain - Soul Reaver (Spain)",
+  "serial": "T-36803D-06",
+  "region": "Spain"
+ },
+ {
+  "name": "GigaWing (Europe)",
+  "serial": "T-7008D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sonic Shuffle (Europe) (En,Fr,De,Es)",
+  "serial": "MK-51060-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Project Justice - Rival Schools 2 (Europe)",
+  "serial": "T-7022D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Street Fighter III - 3rd Strike (Europe)",
+  "serial": "T-7013D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dino Crisis (Spain)",
+  "serial": "T-7019D-06",
+  "region": "Spain"
+ },
+ {
+  "name": "Disney-Pixar Buzz Lightyear of Star Command (USA)",
+  "serial": "T-13007N",
+  "region": "USA"
+ },
+ {
+  "name": "Demolition Racer - No Exit (USA)",
+  "serial": "T-15112N",
+  "region": "USA"
+ },
+ {
+  "name": "Star Wars - Demolition (USA)",
+  "serial": "T-23003N",
+  "region": "USA"
+ },
+ {
+  "name": "Star Wars - Episode I - Jedi Power Battles (USA)",
+  "serial": "T-23002N",
+  "region": "USA"
+ },
+ {
+  "name": "Tomb Raider Chronicles (USA)",
+  "serial": "T-36812N",
+  "region": "USA"
+ },
+ {
+  "name": "Evil Twin - Cyprien's Chronicles (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-46605D-80",
+  "region": "Europe"
+ },
+ {
+  "name": "Taxi 2 - Le Jeu (France)",
+  "serial": "T-17708D-09",
+  "region": "France"
+ },
+ {
+  "name": "Star Wars - Episode I - Jedi Power Battles (Europe)",
+  "serial": "T-23002D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Nomad Soul, The (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-36805D-05, T-36805D-60",
+  "region": "Europe"
+ },
+ {
+  "name": "Carrier (Europe) (En,Fr,De,Es)",
+  "serial": "T-44901D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Street Fighter III - Double Impact (Europe)",
+  "serial": "T-7006D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
+  "serial": "T-13003N",
+  "region": "USA"
+ },
+ {
+  "name": "Looney Tunes - Space Race (USA) (En,Fr,Es)",
+  "serial": "T-15116N",
+  "region": "USA"
+ },
+ {
+  "name": "Biohazard - Code - Veronica (Japan) (Disc 1)",
+  "serial": "T-1207M",
+  "region": "Japan"
+ },
+ {
+  "name": "Biohazard - Code - Veronica (Japan) (Disc 2)",
+  "serial": "T-1207M",
+  "region": "Japan"
+ },
+ {
+  "name": "WWF Attitude (Germany)",
+  "serial": "T-8103D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "WWF Attitude (USA)",
+  "serial": "T-8103N",
+  "region": "USA"
+ },
+ {
+  "name": "Next Tetris, The - On-Line Edition (USA)",
+  "serial": "T-40214N",
+  "region": "USA"
+ },
+ {
+  "name": "Ultimate Fighting Championship (USA)",
+  "serial": "T-40204N",
+  "region": "USA"
+ },
+ {
+  "name": "Virtua Tennis (USA)",
+  "serial": "51054",
+  "region": "USA"
+ },
+ {
+  "name": "Centipede (USA)",
+  "serial": "T-40602N",
+  "region": "USA"
+ },
+ {
+  "name": "Sega Marine Fishing (USA)",
+  "serial": "51096",
+  "region": "USA"
+ },
+ {
+  "name": "NFL Blitz 2000 (USA)",
+  "serial": "T-9703N",
+  "region": "USA"
+ },
+ {
+  "name": "Grandia II (USA)",
+  "serial": "T-17716N",
+  "region": "USA"
+ },
+ {
+  "name": "San Francisco Rush 2049 (USA) (En,Fr,De,Es,It,Nl)",
+  "serial": "T-9707N",
+  "region": "USA"
+ },
+ {
+  "name": "Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (USA)",
+  "serial": "T-40402N",
+  "region": "USA"
+ },
+ {
+  "name": "Dino Crisis (France)",
+  "serial": "T-7019D-09",
+  "region": "France"
+ },
+ {
+  "name": "Wacky Races (Europe) (En,Fr,De,Es,It,Nl)",
+  "serial": "952-0064-50, T-15106D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2000-12-26)",
+  "serial": "952-0135-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Championship Surfer (Europe) (En,Fr,De) (Beta) (2000-10-24)",
+  "serial": "952-0144-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo)",
+  "serial": "952-0100-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Virtua Striker 2 Ver. 2000.1 (Europe) (Beta) (1999-11-29)",
+  "serial": "952-0025-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Virtua Striker 2 (USA) (En,Ja,De,Es)",
+  "serial": "51028",
+  "region": "USA"
+ },
+ {
+  "name": "Sonic Adventure 2 (USA) (En,Ja,Fr,De,Es)",
+  "serial": "51117",
+  "region": "USA"
+ },
+ {
+  "name": "Sonic Shuffle (USA)",
+  "serial": "51060",
+  "region": "USA"
+ },
+ {
+  "name": "Disney's Dinosaur (USA)",
+  "serial": "T-17717N",
+  "region": "USA"
+ },
+ {
+  "name": "Alone in the Dark - The New Nightmare (Germany) (En,De) (Disc 1)",
+  "serial": "T-15112D-18A",
+  "region": "Germany"
+ },
+ {
+  "name": "Alone in the Dark - The New Nightmare (Germany) (En,De) (Disc 2)",
+  "serial": "T-15112D-18B",
+  "region": "Germany"
+ },
+ {
+  "name": "Sega Worldwide Soccer 2000 (Europe) (Beta) (1999-02-10)",
+  "serial": "952-0007-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Conflict Zone (USA)",
+  "serial": "T-17721N",
+  "region": "USA"
+ },
+ {
+  "name": "Evolution - The World of Sacred Device (USA)",
+  "serial": "T-17706N",
+  "region": "USA"
+ },
+ {
+  "name": "Razor Freestyle Scooter (USA)",
+  "serial": "T-40219N",
+  "region": "USA"
+ },
+ {
+  "name": "Legacy of Kain - Soul Reaver (Italy)",
+  "serial": "T-36803D-13",
+  "region": "Italy"
+ },
+ {
+  "name": "Deep Fighter (USA) (Disc 1)",
+  "serial": "T-17705N",
+  "region": "USA"
+ },
+ {
+  "name": "Deep Fighter (USA) (Disc 2)",
+  "serial": "T-17705N",
+  "region": "USA"
+ },
+ {
+  "name": "F1 World Grand Prix (USA) (En,Fr,De,Es)",
+  "serial": "51030",
+  "region": "USA"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing - Round 2 (USA) (En,Fr,De)",
+  "serial": "T-9717N",
+  "region": "USA"
+ },
+ {
+  "name": "Dino Crisis (Italy)",
+  "serial": "T-7019D-13",
+  "region": "Italy"
+ },
+ {
+  "name": "Championship Surfer (Europe) (En,Fr,De,Es,It)",
+  "serial": "T-41402D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Charge 'N Blast (USA)",
+  "serial": "T-15127N",
+  "region": "USA"
+ },
+ {
+  "name": "Spirit of Speed 1937 (USA) (En,Fr,De,Es)",
+  "serial": "T-8118N",
+  "region": "USA"
+ },
+ {
+  "name": "Striker Pro 2000 (USA)",
+  "serial": "T-15111N",
+  "region": "USA"
+ },
+ {
+  "name": "Iron Aces (USA)",
+  "serial": "T-15129N",
+  "region": "USA"
+ },
+ {
+  "name": "Dragon Riders - Chronicles of Pern (USA)",
+  "serial": "T-17720N",
+  "region": "USA"
+ },
+ {
+  "name": "Floigan Bros. - Episode 1 (USA)",
+  "serial": "51114",
+  "region": "USA"
+ },
+ {
+  "name": "Hoyle Casino (USA)",
+  "serial": "T-11008N",
+  "region": "USA"
+ },
+ {
+  "name": "Wild Metal (USA) (En,Fr,De,Es,It,Pt)",
+  "serial": "T-42101N",
+  "region": "USA"
+ },
+ {
+  "name": "Dreamkey 3.1 (Spain)",
+  "serial": "832-0069-06",
+  "region": "Spain"
+ },
+ {
+  "name": "Railroad Tycoon II (USA)",
+  "serial": "T-41902N",
+  "region": "USA"
+ },
+ {
+  "name": "NFL Blitz 2001 (USA)",
+  "serial": "T-9712N",
+  "region": "USA"
+ },
+ {
+  "name": "Ooga Booga (USA)",
+  "serial": "51140",
+  "region": "USA"
+ },
+ {
+  "name": "Official Sega Dreamcast Magazine Vol. 11 - February 2001 (USA)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Official Sega Dreamcast Magazine Vol. 5 - May 2000 (USA)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Super Magnetic Neo (USA) (Demo)",
+  "serial": "T-40206ND",
+  "region": "USA"
+ },
+ {
+  "name": "ECW Hardcore Revolution (Germany)",
+  "serial": "T-8116D-05",
+  "region": "Germany"
+ },
+ {
+  "name": "Sydney 2000 (France)",
+  "serial": "952-0070-09, T-36808D-09",
+  "region": "France"
+ },
+ {
+  "name": "Dreamkey (France) (Rev A)",
+  "serial": "833-0004-09",
+  "region": "France"
+ },
+ {
+  "name": "Virtua Tennis - Sega Professional Tennis (Europe) (Beta) (2000-06-15)",
+  "serial": "952-0069-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Red Dog - Superior Firepower (USA)",
+  "serial": "T-40215N",
+  "region": "USA"
+ },
+ {
+  "name": "Shadow Man (USA) (Rev A)",
+  "serial": "T-8106N",
+  "region": "USA"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing (USA) (Demo)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Sega Bass Fishing 2 (USA)",
+  "serial": "51166",
+  "region": "USA"
+ },
+ {
+  "name": "Confidential Mission (USA) (En,Ja,Fr,De,Es)",
+  "serial": "51160",
+  "region": "USA"
+ },
+ {
+  "name": "Illbleed (USA)",
+  "serial": "T-46001N",
+  "region": "USA"
+ },
+ {
+  "name": "South Park Rally (USA)",
+  "serial": "T-8116N",
+  "region": "USA"
+ },
+ {
+  "name": "Test Drive 6 (USA)",
+  "serial": "T-15102N",
+  "region": "USA"
+ },
+ {
+  "name": "Samba de Amigo (USA)",
+  "serial": "51092",
+  "region": "USA"
+ },
+ {
+  "name": "Elemental Gimmick Gear (USA)",
+  "serial": "T-41601N",
+  "region": "USA"
+ },
+ {
+  "name": "Industrial Spy - Operation Espionage (USA)",
+  "serial": "T-41302N",
+  "region": "USA"
+ },
+ {
+  "name": "Marvel vs. Capcom 2 (USA)",
+  "serial": "T-1212N",
+  "region": "USA"
+ },
+ {
+  "name": "Incoming (USA)",
+  "serial": "T-12503N",
+  "region": "USA"
+ },
+ {
+  "name": "Cyber Troopers - Virtual-On - Oratorio Tangram (USA)",
+  "serial": "T-13004N",
+  "region": "USA"
+ },
+ {
+  "name": "Space Channel 5 (Europe) (En,Fr,De,Es) (Beta) (2000-08-10)",
+  "serial": "952-0083-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Tech Romancer (USA)",
+  "serial": "T-1208N",
+  "region": "USA"
+ },
+ {
+  "name": "Vanishing Point (USA)",
+  "serial": "T-8110N",
+  "region": "USA"
+ },
+ {
+  "name": "Typing of the Dead, The (USA)",
+  "serial": "51144",
+  "region": "USA"
+ },
+ {
+  "name": "Web Browser 2.0 (USA)",
+  "serial": "51056",
+  "region": "USA"
+ },
+ {
+  "name": "Evolution 2 - Far Off Promise (USA)",
+  "serial": "T-17711N",
+  "region": "USA"
+ },
+ {
+  "name": "Dreamkey 3.1 (Portugal)",
+  "serial": "832-0069-46",
+  "region": "Portugal"
+ },
+ {
+  "name": "Record of Lodoss War - The Advent of Cardice (Japan) (Taikenban)",
+  "serial": "610-7816",
+  "region": "Japan"
+ },
+ {
+  "name": "Seaman Esa Disc - Kimos Shu no Youchuu Hojuu Kit (Japan)",
+  "serial": "610-7804",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamkey (India)",
+  "serial": "673-02117",
+  "region": "India"
+ },
+ {
+  "name": "Seventh Cross Evolution (USA)",
+  "serial": "T-41301N",
+  "region": "USA"
+ },
+ {
+  "name": "Outtrigger (USA)",
+  "serial": "51102",
+  "region": "USA"
+ },
+ {
+  "name": "SnoCross Championship Racing (USA)",
+  "serial": "T-40207N",
+  "region": "USA"
+ },
+ {
+  "name": "Soldier of Fortune (USA)",
+  "serial": "T-40212N",
+  "region": "USA"
+ },
+ {
+  "name": "Speed Devils - Online Racing (USA)",
+  "serial": "T-17718N",
+  "region": "USA"
+ },
+ {
+  "name": "Sports Jam (USA)",
+  "serial": "T-44304N",
+  "region": "USA"
+ },
+ {
+  "name": "Super Magnetic Neo (USA)",
+  "serial": "T-40206N",
+  "region": "USA"
+ },
+ {
+  "name": "Mat Hoffman's Pro BMX (USA)",
+  "serial": "T-13005N",
+  "region": "USA"
+ },
+ {
+  "name": "Blue Stinger (France)",
+  "serial": "T-13001D-09",
+  "region": "France"
+ },
+ {
+  "name": "Tokyo Highway Challenge 2 (Europe)",
+  "serial": "952-0114-50, T-17724D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Marvel vs. Capcom 2 - New Age of Heroes (Europe)",
+  "serial": "T-7010D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Wacky Races (USA)",
+  "serial": "T-15113N",
+  "region": "USA"
+ },
+ {
+  "name": "Suzuki Alstare - Extreme Racing (USA)",
+  "serial": "T-17703N",
+  "region": "USA"
+ },
+ {
+  "name": "Spider-Man (USA)",
+  "serial": "T-13008N",
+  "region": "USA"
+ },
+ {
+  "name": "NFL Blitz 2000 (USA) (Rev 1)",
+  "serial": "T-9703N",
+  "region": "USA"
+ },
+ {
+  "name": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",
+  "serial": "T-17704N",
+  "region": "USA"
+ },
+ {
+  "name": "Stupid Invaders (USA) (Disc 1)",
+  "serial": "T-17708N",
+  "region": "USA"
+ },
+ {
+  "name": "PenPen TriIcelon (USA)",
+  "serial": "T-15105N",
+  "region": "USA"
+ },
+ {
+  "name": "Web Browser 2.62 (USA)",
+  "serial": "51142",
+  "region": "USA"
+ },
+ {
+  "name": "Sonic Adventure (USA) (En,Ja,Fr,De,Es)",
+  "serial": "51000",
+  "region": "USA"
+ },
+ {
+  "name": "Monaco Grand Prix (USA)",
+  "serial": "T-17701N",
+  "region": "USA"
+ },
+ {
+  "name": "Super Runabout - San Francisco Edition (USA)",
+  "serial": "T-12511N",
+  "region": "USA"
+ },
+ {
+  "name": "Deep Fighter (France) (Disc 1)",
+  "serial": "T-17704D-09A",
+  "region": "France"
+ },
+ {
+  "name": "Deep Fighter (France) (Disc 2)",
+  "serial": "T-17704D-09B",
+  "region": "France"
+ },
+ {
+  "name": "Stupid Invaders (USA) (Disc 2)",
+  "serial": "T-17708N",
+  "region": "USA"
+ },
+ {
+  "name": "Demolition Racer - No Exit (USA) (Demo)",
+  "serial": "T-15112ND",
+  "region": "USA"
+ },
+ {
+  "name": "TNN Motorsports Hardcore Heat (USA)",
+  "serial": "T-13701N",
+  "region": "USA"
+ },
+ {
+  "name": "Silver (USA)",
+  "serial": "T-15108N",
+  "region": "USA"
+ },
+ {
+  "name": "Bust-A-Move 4 (Europe)",
+  "serial": "T-8109D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Border Down (Japan)",
+  "serial": "T-46702M, T-46703M",
+  "region": "Japan"
+ },
+ {
+  "name": "Alone in the Dark - The New Nightmare (France) (Disc 1)",
+  "serial": "T-15112D-09A",
+  "region": "France"
+ },
+ {
+  "name": "Alone in the Dark - The New Nightmare (France) (Disc 2)",
+  "serial": "T-15112D-09B",
+  "region": "France"
+ },
+ {
+  "name": "Dreamon Volume 7 & 8 (France)",
+  "serial": "832-0025-50",
+  "region": "France"
+ },
+ {
+  "name": "Tomb Raider - Sur les Traces de Lara Croft (France)",
+  "serial": "T-36815D-09",
+  "region": "France"
+ },
+ {
+  "name": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France)",
+  "serial": "T-13003D-09",
+  "region": "France"
+ },
+ {
+  "name": "Disney's Donald Duck - Goin' Quackers (USA)",
+  "serial": "T-17719N",
+  "region": "USA"
+ },
+ {
+  "name": "Puzzle Bobble 4 (Japan)",
+  "serial": "T-42301M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (France)",
+  "serial": "T-45002D-09",
+  "region": "France"
+ },
+ {
+  "name": "Sydney 2000 (Australia)",
+  "serial": "T-36808D-03",
+  "region": "Australia"
+ },
+ {
+  "name": "UEFA Dream Soccer (Spain) (En,Fr,De,Es)",
+  "serial": "MK-51095-06",
+  "region": "Spain"
+ },
+ {
+  "name": "Evil Twin - Cyprien's Chronicles (Europe) (En,Fr)",
+  "serial": "T-46605D-71",
+  "region": "Europe"
+ },
+ {
+  "name": "Evil Dead - Hail to the King (USA)",
+  "serial": "T-10003N",
+  "region": "USA"
+ },
+ {
+  "name": "POD - Speedzone (USA)",
+  "serial": "T-17713N",
+  "region": "USA"
+ },
+ {
+  "name": "Sonic Adventure - Limited Edition (USA)",
+  "serial": "SDC-51014",
+  "region": "USA"
+ },
+ {
+  "name": "Ring, The - Terror's Realm (USA)",
+  "serial": "T-15122N",
+  "region": "USA"
+ },
+ {
+  "name": "Zombie Revenge (USA)",
+  "serial": "51038",
+  "region": "USA"
+ },
+ {
+  "name": "KISS Psycho Circus - The Nightmare Child (USA)",
+  "serial": "T-41901N",
+  "region": "USA"
+ },
+ {
+  "name": "Disney-Pixar Les Aventures de Buzz L'Eclair (France)",
+  "serial": "T-13005D-09",
+  "region": "France"
+ },
+ {
+  "name": "Speed Devils - Online Racing (Europe)",
+  "serial": "T-17713D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dragon Riders - Chronicles of Pern (Europe)",
+  "serial": "T-17716D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dynamite Cop (Europe)",
+  "serial": "950-0015-50, MK-51013-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Spawn - In the Demon's Hand (Europe)",
+  "serial": "952-0136-50, T-36816D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Stupid Invaders (France) (Disc 1)",
+  "serial": "T-17711D-09",
+  "region": "France"
+ },
+ {
+  "name": "Stupid Invaders (France) (Disc 2)",
+  "serial": "T-17711D-09",
+  "region": "France"
+ },
+ {
+  "name": "Evolution 2 - Far Off Promise (Europe)",
+  "serial": "T-45005D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Grand Theft Auto 2 (France)",
+  "serial": "T-40502D-09",
+  "region": "France"
+ },
+ {
+  "name": "Racing Simulation 2 - Monaco Grand Prix On-Line (Europe)",
+  "serial": "T-45006D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Record of Lodoss War (France)",
+  "serial": "T-7012D-09",
+  "region": "France"
+ },
+ {
+  "name": "Tom Clancy's Rainbow Six incl. Eagle Watch Missions (France)",
+  "serial": "T-45001D-09",
+  "region": "France"
+ },
+ {
+  "name": "JoJo's Bizarre Adventure (Europe)",
+  "serial": "T-7007D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Sword of the Berserk - Guts' Rage (Europe)",
+  "serial": "952-0058-05, T-36807D-50",
+  "region": "Europe"
+ },
+ {
+  "name": "MSR Opel Challenge (Europe) (Beta) (1999-05-19)",
+  "serial": "952-0081-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Shinki Sekai Evolution (Japan) (Taikenban)",
+  "serial": "610-7039",
+  "region": "Japan"
+ },
+ {
+  "name": "Dabitsuku - Derby-ba o Tsukurou! (Japan) (Taikenban)",
+  "serial": "610-7875",
+  "region": "Japan"
+ },
+ {
+  "name": "Chu-Chu Rocket! (Japan) (Taikenban)",
+  "serial": "610-7384",
+  "region": "Japan"
+ },
+ {
+  "name": "PenPen TriIcelon (Japan) (Tentou Taikenban)",
+  "serial": "610-7038",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamkey Version 1.5 (Spain)",
+  "serial": "832-0022-06",
+  "region": "Spain"
+ },
+ {
+  "name": "Dreamkey (France)",
+  "serial": "833-0004-09",
+  "region": "France"
+ },
+ {
+  "name": "Fighting Force 2 (USA)",
+  "serial": "T-36801N",
+  "region": "USA"
+ },
+ {
+  "name": "Cleopatra Fortune (Japan)",
+  "serial": "T-16603M",
+  "region": "Japan"
+ },
+ {
+  "name": "Web Browser (USA)",
+  "serial": "51027",
+  "region": "USA"
+ },
+ {
+  "name": "Carrier (USA)",
+  "serial": "T-5701N",
+  "region": "USA"
+ },
+ {
+  "name": "Tomb Raider Chronicles (Spain)",
+  "serial": "T-36815D-06",
+  "region": "Spain"
+ },
+ {
+  "name": "Dreamkey (Australia)",
+  "serial": "673-01243",
+  "region": "Australia"
+ },
+ {
+  "name": "Fur Fighters + Dead or Alive 2 (Europe) (Demo)",
+  "serial": "D-0009-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Silver (Germany)",
+  "serial": "T-15109D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Tom Clancy's Rainbow Six incl. Eagle Watch Missions (Europe)",
+  "serial": "T-45001D-05",
+  "region": "Europe"
+ },
+ {
+  "name": "Sega Rally 2 (Japan) (Alt)",
+  "serial": "HDR-0010",
+  "region": "Japan"
+ },
+ {
+  "name": "Grauen no Torikago - Kapitel 5 - Shokuzai (Japan)",
+  "serial": "HDR-0037",
+  "region": "Japan"
+ },
+ {
+  "name": "R7 - Regulation 7 (Japan)",
+  "serial": "610-7726, T-42001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tricolore Crise - Art Palette (Japan)",
+  "serial": "610-7933",
+  "region": "Japan"
+ },
+ {
+  "name": "Atsumare! Guru Guru Onsen (Japan) (Taikenban 1)",
+  "serial": "610-7187",
+  "region": "Japan"
+ },
+ {
+  "name": "Mortal Kombat Gold (USA)",
+  "serial": "T-9701N",
+  "region": "USA"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (Spain) (Disc 1)",
+  "serial": "T-36806D-06",
+  "region": "Spain"
+ },
+ {
+  "name": "Samba de Amigo (Europe)",
+  "serial": "MK-51092-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Jojo no Kimyou na Bouken - Mirai e no Isan for Matching Service (Japan)",
+  "serial": "T-1231M",
+  "region": "Japan"
+ },
+ {
+  "name": "Illbleed (Taiwan)",
+  "serial": "T-45601M-11",
+  "region": "Taiwan"
+ },
+ {
+  "name": "Choukou Senki Kikaioh for Matching Service (Japan)",
+  "serial": "T-1232M",
+  "region": "Japan"
+ },
+ {
+  "name": "Re-Volt (Europe) (Demo)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "MP3 DC - Use MP3 Audio CD's on Your Dreamcast (Europe) (Unl)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Himitsu - Original Sound Track (Japan)",
+  "serial": "WPCV-10045",
+  "region": "Japan"
+ },
+ {
+  "name": "GameShark CDX (USA) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Cheats 'N Codes Volume 1 (USA) (Unl)",
+  "serial": "G-20811",
+  "region": "USA"
+ },
+ {
+  "name": "MP3 DC - Use MP3 Audio CD's on Your Dreamcast (USA) (Unl) (Pelican Accessories)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Super Game Converter (USA) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "GameShark Lite (USA) (Unl)",
+  "serial": "G-20821SM",
+  "region": "USA"
+ },
+ {
+  "name": "Action Replay CDX - Demo Version (UK) (Unl)",
+  "serial": "",
+  "region": "UK"
+ },
+ {
+  "name": "GameShark CDX (USA) (Unl) (Final Version)",
+  "serial": "DC GameShark CDX: I-20802",
+  "region": "USA"
+ },
+ {
+  "name": "GameShark Video Game Enhancer - Upgrade Disk (USA) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Trizeal (Japan)",
+  "serial": "T-47901M",
+  "region": "Japan"
+ },
+ {
+  "name": "Hermes (Europe) (Unl)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease)",
+  "serial": "YW-015DC",
+  "region": "Europe"
+ },
+ {
+  "name": "Dynamite Deka 2 (Japan) (Taikenban) (610-7150)",
+  "serial": "610-7150",
+  "region": "Japan"
+ },
+ {
+  "name": "Moero! Justice Gakuen (Japan) (Demo)",
+  "serial": "610-7970",
+  "region": "Japan"
+ },
+ {
+  "name": "Macross M3 (Japan) (Demo)",
+  "serial": "610-7961",
+  "region": "Japan"
+ },
+ {
+  "name": "Power Smash 2 - Sega Professional Tennis (Japan) (En,Ja,Fr,De,Es) (Demo)",
+  "serial": "610-8092",
+  "region": "Japan"
+ },
+ {
+  "name": "Pro Yakyuu Team de Asobou! (Japan) (Demo)",
+  "serial": "610-7385",
+  "region": "Japan"
+ },
+ {
+  "name": "Microsoft WebTV Setsuzoku Kit (Japan) (128bit SSL Taiouban)",
+  "serial": "610-7390, 610-7391",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Passport 3 - Urban Style (Japan)",
+  "serial": "610-7894",
+  "region": "Japan"
+ },
+ {
+  "name": "Phantasy Star Online (Japan) (Demo)",
+  "serial": "610-7978",
+  "region": "Japan"
+ },
+ {
+  "name": "Imakoso!! Dreamcast with Special GD!! (Japan)",
+  "serial": "610-7993",
+  "region": "Japan"
+ },
+ {
+  "name": "Atsumare! Guru Guru Onsen (Japan) (Taikenban 2)",
+  "serial": "610-7351",
+  "region": "Japan"
+ },
+ {
+  "name": "Psyvariar 2 - The Will to Fabricate (Japan)",
+  "serial": "T-9907M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dead or Alive 2 (Japan)",
+  "serial": "T-3602M",
+  "region": "Japan"
+ },
+ {
+  "name": "Grauen no Torikago - Kapitel 6 - Senritsu (Japan)",
+  "serial": "HDR-0038",
+  "region": "Japan"
+ },
+ {
+  "name": "Death Crimson OX (Japan)",
+  "serial": "T-23202M",
+  "region": "Japan"
+ },
+ {
+  "name": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (2001-nen Taiouban)",
+  "serial": "T-39405M",
+  "region": "Japan"
+ },
+ {
+  "name": "Hundred Swords (Japan) (@barai)",
+  "serial": "HDR-0127",
+  "region": "Japan"
+ },
+ {
+  "name": "Power Smash - Sega Professional Tennis (Japan) (Demo 1)",
+  "serial": "610-7958",
+  "region": "Japan"
+ },
+ {
+  "name": "Chocolat - Maid Cafe Curio (Japan) (Taikenban)",
+  "serial": "610-8395",
+  "region": "Japan"
+ },
+ {
+  "name": "Guilty Gear X (Japan) (Taikenban)",
+  "serial": "610-7937",
+  "region": "Japan"
+ },
+ {
+  "name": "Dead or Alive 2 (Europe) (Beta) (2000-03-10)",
+  "serial": "952-0052-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Nomad Soul, The (Germany) (En,Fr,De,Es,It)",
+  "serial": "T-36805D-18",
+  "region": "Germany"
+ },
+ {
+  "name": "Dead or Alive 2 (USA) (Demo)",
+  "serial": "T-3601ND",
+  "region": "USA"
+ },
+ {
+  "name": "Power Stone (USA) (Demo)",
+  "serial": "T-1201N",
+  "region": "USA"
+ },
+ {
+  "name": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-08-07)",
+  "serial": "952-0080-50",
+  "region": "Europe"
+ },
+ {
+  "name": "UEFA Striker (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1999-09-01)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Chicken Run (UK)",
+  "serial": "T-36814D-05",
+  "region": "UK"
+ },
+ {
+  "name": "Disney's 102 Dalmatians - Puppies to the Rescue (UK)",
+  "serial": "T-36813D-05",
+  "region": "UK"
+ },
+ {
+  "name": "AM2 of CRI 2001 New Lineup Movie Collection (Japan)",
+  "serial": "610-8018",
+  "region": "Japan"
+ },
+ {
+  "name": "July (Japan)",
+  "serial": "T-35401M",
+  "region": "Japan"
+ },
+ {
+  "name": "Ultimate Cheats Collection (UK) (Demo) (Unl)",
+  "serial": "",
+  "region": "UK"
+ },
+ {
+  "name": "Ultimate Fighting Championship (USA) (Demo)",
+  "serial": "T-40204ND",
+  "region": "USA"
+ },
+ {
+  "name": "Dreamcast Middleware Conference Demo Disc Part.2 (Japan)",
+  "serial": "",
+  "region": "Japan"
+ },
+ {
+  "name": "JRA PAT for Dreamcast V40 L10 (Japan)",
+  "serial": "T-42501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Chaos Field (Japan)",
+  "serial": "T-47801M",
+  "region": "Japan"
+ },
+ {
+  "name": "Super Street Fighter II X for Matching Service (Japan)",
+  "serial": "T-1236M",
+  "region": "Japan"
+ },
+ {
+  "name": "NHL 2K2 (Japan)",
+  "serial": "HDR-0199",
+  "region": "Japan"
+ },
+ {
+  "name": "Feet of Fury (USA) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Elansar (Europe) (En,Fr,De,Es) (Unl)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Irides - Master of Blocks (USA) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Maqiupai (USA) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "09 Chairs (Japan)",
+  "serial": "SCLX-2004 (8848)",
+  "region": "Japan"
+ },
+ {
+  "name": "Sturmwind (Europe) (Unl) (Rerelease)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Cool Herders (USA) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Ghost Blade (USA, Japan) (Unl) (Rerelease)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Inhabitants (USA) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "FX Unit Yuki (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Kita e. White Illumination - Pure Songs and Pictures (Japan)",
+  "serial": "ZMCZ-656",
+  "region": "Japan"
+ },
+ {
+  "name": "DC-IE Import Enabler (USA) (Unl)",
+  "serial": "G-20812SM",
+  "region": "USA"
+ },
+ {
+  "name": "MP3 DC - Use MP3 Audio CD's on Your Dreamcast (USA) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Pier Solar and the Great Architects (USA) (Unl)",
+  "serial": "T-574276",
+  "region": "USA"
+ },
+ {
+  "name": "Xploder DC (USA) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Checkicco no Miru CD (Japan)",
+  "serial": "PCCAX 10001",
+  "region": "Japan"
+ },
+ {
+  "name": "D2 - Original Sound Track (Japan) (Disc 2) (MilCD)",
+  "serial": "FSCA-10113",
+  "region": "Japan"
+ },
+ {
+  "name": "Heartbreak Diary (Japan)",
+  "serial": "PICL-7501",
+  "region": "Japan"
+ },
+ {
+  "name": "Space Channel 5 Theme Music - Mexican Flyer (Japan)",
+  "serial": "",
+  "region": "Japan"
+ },
+ {
+  "name": "DC X-Terminator (Japan) (Unl)",
+  "serial": "",
+  "region": "Japan"
+ },
+ {
+  "name": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It) (Beta) (2000-01-17)",
+  "serial": "950-0037-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Gunlord (Europe) (Unl)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing (UK)",
+  "serial": "T-9704D-05",
+  "region": "UK"
+ },
+ {
+  "name": "What's Shenmue - Yukawa (Moto) Senmu o Sagase (Japan)",
+  "serial": "610-7179, 610-7375",
+  "region": "Moto"
+ },
+ {
+  "name": "PenPen TriIcelon (Japan) (Taikenban)",
+  "serial": "610-7102",
+  "region": "Japan"
+ },
+ {
+  "name": "Alice Dreams Tournament (USA) (Disc 1) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Alice Dreams Tournament (USA) (Disc 2) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Rush Rush Rally Reloaded (USA) (En,Fr,De,Es,It,Nl) (Unl)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Aero Dancing featuring Blue Impulse (Japan) (Tentou Taikenban)",
+  "serial": "610-7106",
+  "region": "Japan"
+ },
+ {
+  "name": "F355 Challenge (Japan) (Taikenban)",
+  "serial": "610-7899",
+  "region": "Japan"
+ },
+ {
+  "name": "Shutokou Battle (Japan) (Taikenban)",
+  "serial": "610-7134",
+  "region": "Japan"
+ },
+ {
+  "name": "Hang the DJ (Japan)",
+  "serial": "MJCYX-80002",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Passport for Toyota (Japan)",
+  "serial": "610-7057",
+  "region": "Japan"
+ },
+ {
+  "name": "Maboroshi Tsukiyo (Japan) (Taikenban)",
+  "serial": "610-7186",
+  "region": "Japan"
+ },
+ {
+  "name": "Psychic Force 2012 (Japan) (Taikenban)",
+  "serial": "610-7112",
+  "region": "Japan"
+ },
+ {
+  "name": "Escapee, The (USA, Japan) (En,Ja,Fr,De,Es,It) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Jojo no Kimyou na Bouken - Mirai e no Isan (Japan) (Tentou Taikenban)",
+  "serial": "610-7357",
+  "region": "Japan"
+ },
+ {
+  "name": "Morita no Saikyou Reversi (Japan) (Tentou Taikenban)",
+  "serial": "610-7132",
+  "region": "Japan"
+ },
+ {
+  "name": "Space Channel 5 (Japan) (Taikenban)",
+  "serial": "610-7368",
+  "region": "Japan"
+ },
+ {
+  "name": "Yu Suzuki Game Works Vol. 1 (Japan)",
+  "serial": "610-8099",
+  "region": "Japan"
+ },
+ {
+  "name": "Zusar Vasar (Japan) (Taikenban)",
+  "serial": "610-7846",
+  "region": "Japan"
+ },
+ {
+  "name": "Eternal Arcadia (Japan) (Demo)",
+  "serial": "610-7918",
+  "region": "Japan"
+ },
+ {
+  "name": "F1 World Grand Prix II for Dreamcast (Japan) (Demo)",
+  "serial": "610-7922",
+  "region": "Japan"
+ },
+ {
+  "name": "Dengen Tenshi Taisen Mahjong Shangri-La - Super Premium Movie Disc (Japan)",
+  "serial": "610-7369",
+  "region": "Japan"
+ },
+ {
+  "name": "Power Smash - Sega Professional Tennis (Japan) (Demo 2)",
+  "serial": "610-7973",
+  "region": "Japan"
+ },
+ {
+  "name": "JRA PAT for Dreamcast V40 L12 (Japan)",
+  "serial": "T-42501M",
+  "region": "Japan"
+ },
+ {
+  "name": "Army Men - Sarge's Heroes (USA) (Demo)",
+  "serial": "T-9715ND",
+  "region": "USA"
+ },
+ {
+  "name": "Volgarr the Viking (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Dux Version 1.5 (USA, Japan) (Unl) (Rerelease)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Capcom vs. SNK - Millennium Fight 2000 (Japan) (Rev A)",
+  "serial": "T-1217M",
+  "region": "Japan"
+ },
+ {
+  "name": "Grandia II (Japan) (Tentou-you Demo)",
+  "serial": "610-7878",
+  "region": "Japan"
+ },
+ {
+  "name": "House of the Dead 2, The (Japan, Europe) (Taikenban)",
+  "serial": "610-7118",
+  "region": "Japan, Europe"
+ },
+ {
+  "name": "Power Stone 2 (Japan) (Tentou-you Demo Movie)",
+  "serial": "610-7808",
+  "region": "Japan"
+ },
+ {
+  "name": "Seireiki Rayblade (Japan) (Video ROM)",
+  "serial": "610-7747",
+  "region": "Japan"
+ },
+ {
+  "name": "Super Runabout (Japan) (Rev A)",
+  "serial": "T-22101M",
+  "region": "Japan"
+ },
+ {
+  "name": "NBA 2K2 (Japan)",
+  "serial": "HDR-0197",
+  "region": "Japan"
+ },
+ {
+  "name": "World Series Baseball 2K2 (Japan)",
+  "serial": "HDR-0198",
+  "region": "Japan"
+ },
+ {
+  "name": "Cool Cool Toon (Japan) (Tentou-you Taikenban)",
+  "serial": "610-7877",
+  "region": "Japan"
+ },
+ {
+  "name": "Star Gladiator 2 - Nightmare of Bilstein (Japan) (Tentou Taikenban)",
+  "serial": "610-7181",
+  "region": "Japan"
+ },
+ {
+  "name": "Puyo Puyoon (Japan) (Taikenban)",
+  "serial": "610-7109",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Tentou-you Demo Movie)",
+  "serial": "610-8022",
+  "region": "Japan"
+ },
+ {
+  "name": "GigaWing (Japan) (Tentou Taikenban)",
+  "serial": "610-7358",
+  "region": "Japan"
+ },
+ {
+  "name": "Virtua Tennis - Sega Professional Tennis (Europe) (En,Fr,De,Es) (Beta) (2000-07-14)",
+  "serial": "952-0075-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Flintstones, The - Viva Rock Vegas (Europe) (En,Fr,De,Es,It) (Proto) (2001-09-19)",
+  "serial": "952-0174-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Shenmue - Isshou Yokosuka (Japan) (Shenmue Passport) (Rev C)",
+  "serial": "HDR-0031",
+  "region": "Japan"
+ },
+ {
+  "name": "Generator Vol. 1 (Japan)",
+  "serial": "610-7392",
+  "region": "Japan"
+ },
+ {
+  "name": "Last Hope (Europe) (Unl)",
+  "serial": "NGDT DC-300J",
+  "region": "Europe"
+ },
+ {
+  "name": "Alice Dreams (France) (Demo) (Unl)",
+  "serial": "",
+  "region": "France"
+ },
+ {
+  "name": "Marvel vs. Capcom - Clash of Super Heroes (Japan) (Tentou Taikenban)",
+  "serial": "610-7121",
+  "region": "Japan"
+ },
+ {
+  "name": "Daytona USA 2001 (Japan) (Taikenban)",
+  "serial": "673-02290",
+  "region": "Japan"
+ },
+ {
+  "name": "Dead or Alive 2 (Japan) (Taikenban)",
+  "serial": "610-7913",
+  "region": "Japan"
+ },
+ {
+  "name": "Capcom vs. SNK - Millennium Fight 2000 (Japan) (Tentou Taikenban)",
+  "serial": "610-7917",
+  "region": "Japan"
+ },
+ {
+  "name": "Phantasy Star Online (Japan) (Tentou-you Demo Movie)",
+  "serial": "610-7990",
+  "region": "Japan"
+ },
+ {
+  "name": "Street Fighter Zero 3 - Saikyo-ryu Dojo (Japan) (Tentou Taikenban)",
+  "serial": "610-7161",
+  "region": "Japan"
+ },
+ {
+  "name": "Dreamcast VM Data-shuu (Japan)",
+  "serial": "610-8094",
+  "region": "Japan"
+ },
+ {
+  "name": "Aero to Jet de Dancing! (Japan) (Taikenban Disc)",
+  "serial": "610-8017",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Preview Vol. 5 (Japan)",
+  "serial": "610-7027-05",
+  "region": "Japan"
+ },
+ {
+  "name": "San Francisco Rush 2049 (USA) (En,Fr,De,Es,It,Nl) (Demo)",
+  "serial": "T-9707ND",
+  "region": "USA"
+ },
+ {
+  "name": "Super Runabout (Japan) (Taikenban)",
+  "serial": "610-7803",
+  "region": "Japan"
+ },
+ {
+  "name": "Crazy Taxi 2 (Japan) (Taikenban)",
+  "serial": "673-02830",
+  "region": "Japan"
+ },
+ {
+  "name": "House of the Dead 2, The (Japan) (Rev B)",
+  "serial": "HDR-0011",
+  "region": "Japan"
+ },
+ {
+  "name": "Dux Version 1.5 (Europe) (Unl)",
+  "serial": "DXJC-1",
+  "region": "Europe"
+ },
+ {
+  "name": "Marie & Elie no Atelier - Salburg no Renkinjutsushi 1 & 2 (Japan) (Game Disc) (Rev A)",
+  "serial": "T-44701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Marie & Elie no Atelier - Salburg no Renkinjutsushi 1 & 2 (Japan) (Omake Disc) (Rev A)",
+  "serial": "T-44701M",
+  "region": "Japan"
+ },
+ {
+  "name": "Super Magnetic Niuniu - Promotion Disc (Japan)",
+  "serial": "610-7386",
+  "region": "Japan"
+ },
+ {
+  "name": "Biohazard - Code - Veronica (Japan) (Tentou-you Demo Movie)",
+  "serial": "610-7724",
+  "region": "Japan"
+ },
+ {
+  "name": "Pro Yakyuu Team o Tamesou! (Japan) (Famitsu Tokubetsuban)",
+  "serial": "610-7159",
+  "region": "Japan"
+ },
+ {
+  "name": "Redux - Dark Matters (Europe) (Unl)",
+  "serial": "RDXLE-JP, RDXRE-JP",
+  "region": "Europe"
+ },
+ {
+  "name": "Qui Veut Gagner des Millions (France)",
+  "serial": "T-36811D-09",
+  "region": "France"
+ },
+ {
+  "name": "Soulcalibur (Japan) (Tentou Taikenban)",
+  "serial": "610-7173",
+  "region": "Japan"
+ },
+ {
+  "name": "Breakers (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Dux (Europe) (Unl)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Finding Teddy (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Battle Crust (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Flashback (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Satazius Next (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Wolflame (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Alice Sisters (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Captain Tomaday (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Magic Pockets (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Intrepid Izzy (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Leona's Tricky Adventures (Europe) (Unl)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Orion's Puzzle Collection (Europe) (En,Fr) (Unl)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Get Bass (Japan) (Taikenban)",
+  "serial": "610-7119",
+  "region": "Japan"
+ },
+ {
+  "name": "Pro Yakyuu Team de Asobou! (Japan) (Tokubetsuban)",
+  "serial": "610-7350",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen Dream Passport 3 (Japan)",
+  "serial": "610-7996",
+  "region": "Japan"
+ },
+ {
+  "name": "Giant Killers (Europe) (Beta) (2001-01-09)",
+  "serial": "952-0143-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Planet DC Cheats Volume 3 (Europe) (Unl)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl)",
+  "serial": "BB-0001",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Planet DC Cheats Band 1 fuer Dreamcast (Germany) (Unl)",
+  "serial": "",
+  "region": "Germany"
+ },
+ {
+  "name": "Planet DC Cheats Band 2 fuer Dreamcast (Germany) (Unl)",
+  "serial": "",
+  "region": "Germany"
+ },
+ {
+  "name": "Sega GT - Homologation Special (Japan) (Taikenban)",
+  "serial": "610-7727",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen 4 - Koi seyo Otome (Japan) (Tentou-you Demo Movie)",
+  "serial": "610-8333",
+  "region": "Japan"
+ },
+ {
+  "name": "Ever 17 - The Out of Infinity - Premium Edition (Japan)",
+  "serial": "T-19723M",
+  "region": "Japan"
+ },
+ {
+  "name": "Remember 11 - The Age of Infinity - Promotion Disc (Japan)",
+  "serial": "T-19723M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Preview Vol. 7 (Japan)",
+  "serial": "610-7027-07",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Preview Vol. 6 (Japan)",
+  "serial": "610-7027-06",
+  "region": "Japan"
+ },
+ {
+  "name": "Sonic Adventure 2 (Japan) (En,Ja,Fr,De,Es) (Taikenban)",
+  "serial": "610-8057",
+  "region": "Japan"
+ },
+ {
+  "name": "Karat DC-you - Pro Action Replay DC PAR - Sampler - Nyuumon-hen (Japan) (Unl)",
+  "serial": "KRT-SDC01",
+  "region": "Japan"
+ },
+ {
+  "name": "Non Casual Encounter - Prologue (USA, Europe) (Unl)",
+  "serial": "",
+  "region": "USA, Europe"
+ },
+ {
+  "name": "Dream Passport 2 (Japan) (Rev A)",
+  "serial": "610-7180",
+  "region": "Japan"
+ },
+ {
+  "name": "Rush Rush Rally Racing (Europe) (Unl)",
+  "serial": "RRRR-DX, RRRR-RE",
+  "region": "Europe"
+ },
+ {
+  "name": "Ghost Blade (Europe) (Unl) (Limited Edition)",
+  "serial": "TGBLE-JP",
+  "region": "Europe"
+ },
+ {
+  "name": "Ganryu (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Espion-Age-nts (Japan) (Tentou-you Demonstration Movie)",
+  "serial": "610-7185",
+  "region": "Japan"
+ },
+ {
+  "name": "Climax Landers - Motte ke! Minige Campaign (Japan)",
+  "serial": "610-7158",
+  "region": "Japan"
+ },
+ {
+  "name": "Neo XYX (Europe) (Unl)",
+  "serial": "",
+  "region": "Europe"
+ },
+ {
+  "name": "Last Hope - Pink Bullets (Europe) (Unl)",
+  "serial": "LHPBRE2-DC",
+  "region": "Europe"
+ },
+ {
+  "name": "Fast Striker Ver. 1.5 (Europe) (Unl) (Rerelease)",
+  "serial": "FSRE2-DC",
+  "region": "Europe"
+ },
+ {
+  "name": "Pro Yakyuu Team o Tsukurou! (Japan) (Rev E)",
+  "serial": "HDR-0022",
+  "region": "Japan"
+ },
+ {
+  "name": "Cool Boarders Burrrn! (Japan) (Taikenban)",
+  "serial": "610-7174",
+  "region": "Japan"
+ },
+ {
+  "name": "Ultimate Cheats - Volume 2 (UK) (Unl)",
+  "serial": "",
+  "region": "UK"
+ },
+ {
+  "name": "Resident Evil - Code - Veronica (Europe) (Demo)",
+  "serial": "D-0007-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Newpowered Generation 1 (UK) (Unl)",
+  "serial": "",
+  "region": "UK"
+ },
+ {
+  "name": "Karat DC-you - Pro Action Replay 2 (Japan) (Unl)",
+  "serial": "KRT DCPAR2",
+  "region": "Japan"
+ },
+ {
+  "name": "Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl)",
+  "serial": "YW-015DC",
+  "region": "Europe"
+ },
+ {
+  "name": "Tough Guy (USA, Japan) (Unl)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Marvel vs. Capcom 2 - New Age of Heroes (Japan) (Tentou Taikenban)",
+  "serial": "610-7807",
+  "region": "Japan"
+ },
+ {
+  "name": "Sengoku Turb (Japan) (Taikenban)",
+  "serial": "610-7103",
+  "region": "Japan"
+ },
+ {
+  "name": "Debug Indie Sampler 1 (UK) (Unl)",
+  "serial": "",
+  "region": "UK"
+ },
+ {
+  "name": "Chicken Run (Japan) (Beta) (2000-08-01)",
+  "serial": "",
+  "region": "Japan"
+ },
+ {
+  "name": "Sonic Adventure 2 (Europe) (En,Ja,Fr,De,Es) (Beta) (2001-05-21)",
+  "serial": "MK-5111750",
+  "region": "Europe"
+ },
+ {
+  "name": "Sonic Adventure (USA) (Demo)",
+  "serial": "HDR-0001",
+  "region": "USA"
+ },
+ {
+  "name": "GigaWing 2 (Japan) (Tentou Taikenban)",
+  "serial": "610-7992",
+  "region": "Japan"
+ },
+ {
+  "name": "Gunspike (Japan) (Tentou Taikenban)",
+  "serial": "610-7982",
+  "region": "Japan"
+ },
+ {
+  "name": "J.League Pro Soccer Club o Tsukurou! Tokusei Otanoshimi File Download Disc (Japan)",
+  "serial": "610-7383",
+  "region": "Japan"
+ },
+ {
+  "name": "Doricatch - FunCargo (Japan)",
+  "serial": "T-39206M",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Preview Vol. 1 (Japan)",
+  "serial": "610-7027-01",
+  "region": "Japan"
+ },
+ {
+  "name": "Power Stone (Japan) (Tentou Taikenban)",
+  "serial": "610-7115",
+  "region": "Japan"
+ },
+ {
+  "name": "Debug Indie Sampler 2 (UK) (Unl)",
+  "serial": "",
+  "region": "UK"
+ },
+ {
+  "name": "Rush Rush Rally Reloaded (Europe) (En,Fr,De,Es,It,Nl) (Unl)",
+  "serial": "WG-21021-EU",
+  "region": "Europe"
+ },
+ {
+  "name": "Zombie Revenge (Japan) (Taikenban)",
+  "serial": "610-7353",
+  "region": "Japan"
+ },
+ {
+  "name": "Kidou Senkan Nadesico - Nadesico the Mission - Special Disc (Japan) (Demo)",
+  "serial": "610-7183",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Preview Vol. 2 (Japan)",
+  "serial": "610-7027-02",
+  "region": "Japan"
+ },
+ {
+  "name": "Dream Preview Vol. 3 (Japan)",
+  "serial": "610-7027-03",
+  "region": "Japan"
+ },
+ {
+  "name": "Rush Rush Rally Reloaded (UK) (En,Fr,De,Es,It,Nl) (Unl) (Sample)",
+  "serial": "",
+  "region": "UK"
+ },
+ {
+  "name": "Dream Preview Vol. 0 (Japan)",
+  "serial": "610-7027-00",
+  "region": "Japan"
+ },
+ {
+  "name": "Propeller Arena (USA) (Proto)",
+  "serial": "",
+  "region": "USA"
+ },
+ {
+  "name": "Karat DC-you - Pro Action Replay (Japan) (Unl)",
+  "serial": "",
+  "region": "Japan"
+ },
+ {
+  "name": "SGGG - Segagaga (Japan) (Rev A)",
+  "serial": "HDR-0171",
+  "region": "Japan"
+ },
+ {
+  "name": "Sakura Taisen (Japan) (Disc 2) (Rev A)",
+  "serial": "HDR-0192, HDR-0201",
+  "region": "Japan"
+ },
+ {
+  "name": "House of the Dead 2, The (Japan) (Rev A)",
+  "serial": "HDR-0007",
+  "region": "Japan"
+ },
+ {
+  "name": "Slave Zero (USA) (Rev A)",
+  "serial": "T-15106N",
+  "region": "USA"
+ },
+ {
+  "name": "Soulcalibur (Japan) (Tokubetsu Taikenban)",
+  "serial": "610-7175",
+  "region": "Japan"
+ },
+ {
+  "name": "F1 World Grand Prix for Dreamcast (Japan) (Rev A)",
+  "serial": "T-3001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Virtua Fighter History-VF4 (Japan) (Alt)",
+  "serial": "610-8087",
+  "region": "Japan"
+ },
+ {
+  "name": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan)",
+  "serial": "T-39402M",
+  "region": "Japan"
+ },
+ {
+  "name": "Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev B)",
+  "serial": "HDR-0092",
+  "region": "Japan"
+ },
+ {
+  "name": "Record of Lodoss War - The Advent of Cardice (Japan) (Rev A)",
+  "serial": "T-27903M",
+  "region": "Japan"
+ },
+ {
+  "name": "Volgarr the Viking (USA, Japan) (Unl) (Rev 1)",
+  "serial": "",
+  "region": "USA, Japan"
+ },
+ {
+  "name": "Dreamcast System-Disc 2 (Japan)",
+  "serial": "HKT-0910",
+  "region": "Japan"
+ },
+ {
+  "name": "Atsumare! Guru Guru Onsen BB (Japan) (Rev A)",
+  "serial": "HDR-0121",
+  "region": "Japan"
+ },
+ {
+  "name": "Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Beta) (2000-10-05)",
+  "serial": "952-0098-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Dream Preview Vol. 4 (Japan)",
+  "serial": "610-7027-04",
+  "region": "Japan"
+ },
+ {
+  "name": "F1 World Grand Prix II for Dreamcast (Europe) (En,Fr,De,Es,It) (Beta) (2000-07-26)",
+  "serial": "952-0079-50",
+  "region": "Europe"
+ },
+ {
+  "name": "CSK Kenkouhoken Kumiai Sen'you Dream Passport 3 (Japan)",
+  "serial": "610-7881",
+  "region": "Japan"
+ },
+ {
+  "name": "PenPen TriIcelon (Japan)",
+  "serial": "T-17001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Action Replay CDX Version 3.0 (France) (Unl)",
+  "serial": "HDR-0030",
+  "region": "France"
+ },
+ {
+  "name": "Rush Rush Rally Reloaded (Europe) (En,Fr,De,Es,It,Nl) (Unl) (Rerelease)",
+  "serial": "13464538 WG-21021-EU",
+  "region": "Europe"
+ },
+ {
+  "name": "Dream Passport 2 with Guru Guru Onsen (Japan)",
+  "serial": "610-7805",
+  "region": "Japan"
+ },
+ {
+  "name": "Doricatch - Gaia (Japan)",
+  "serial": "T-39201M",
+  "region": "Japan"
+ },
+ {
+  "name": "Doricatch - Hilux Surf (Japan)",
+  "serial": "T-39203M",
+  "region": "Japan"
+ },
+ {
+  "name": "Doricatch - Land Cruiser 100-Cygnus (Japan)",
+  "serial": "T-39202M",
+  "region": "Japan"
+ },
+ {
+  "name": "Doricatch - Land Cruiser Prado (Japan)",
+  "serial": "T-39204M",
+  "region": "Japan"
+ },
+ {
+  "name": "Doricatch - Celsior (Japan)",
+  "serial": "T-39214M",
+  "region": "Japan"
+ },
+ {
+  "name": "DC-UA - Dreamcast Universal Adapter (Japan) (Unl)",
+  "serial": "",
+  "region": "Japan"
+ },
+ {
+  "name": "Doricatch - Estima (Japan)",
+  "serial": "T-39209M",
+  "region": "Japan"
+ },
+ {
+  "name": "Planet DC Cheats Volume 2 (UK) (Unl)",
+  "serial": "",
+  "region": "UK"
+ },
+ {
+  "name": "Fast Striker Ver. 1.5 (World) (Unl)",
+  "serial": "",
+  "region": "World"
+ },
+ {
+  "name": "MDK2 (Europe) (Beta) (2000-03-05)",
+  "serial": "952-0049-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Planet DC Cheats Volume 1 (UK) (Unl)",
+  "serial": "",
+  "region": "UK"
+ },
+ {
+  "name": "Sakura Taisen (Japan) (Disc 1) (Rev A)",
+  "serial": "HDR-0192, HDR-0201",
+  "region": "Japan"
+ },
+ {
+  "name": "Equalizer Xtreme (France) (Unl)",
+  "serial": "",
+  "region": "France"
+ },
+ {
+  "name": "Giant Killers (Europe) (Beta) (2001-01-31)",
+  "serial": "952-0154-50",
+  "region": "Europe"
+ },
+ {
+  "name": "Choukou Senki Kikaioh (Japan) (Tentou Taikenban)",
+  "serial": "610-7380",
+  "region": "Japan"
+ },
+ {
+  "name": "ISAO Promotion Disc by Seaman (Japan)",
+  "serial": "610-7813",
+  "region": "Japan"
+ },
+ {
+  "name": "King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban)",
+  "serial": "610-7800",
+  "region": "Japan"
+ },
+ {
+  "name": "Comic Party (Japan) (Disc 1) (Rev B)",
+  "serial": "T-38301M",
+  "region": "Japan"
+ },
+ {
+  "name": "Comic Party (Japan) (Disc 2) (Rev B)",
+  "serial": "T-38301M",
+  "region": "Japan"
+ },
+ {
+  "name": "Neppachi - 10-renchan de Las Vegas Ryokou (Japan)",
+  "serial": "T-41001M",
+  "region": "Japan"
+ },
+ {
+  "name": "Tee Off (Europe) (Beta) (1999-12-19)",
+  "serial": "950-0032-50",
+  "region": "Europe"
+ }
+]
