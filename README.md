@@ -1,6 +1,6 @@
 # Dreamcast VMU Pro saves
 
-Save files for Dreamcast games, packed up for the 8BitMods VMU Pro. Most of them are unlocked or close to it, so you can skip the grind and get to the part of the game you actually wanted.
+Save files for Dreamcast games, packed up for the 8BitMods VMU Pro. Most of them are fully unlocked or close to it.
 
 ## Get your saves (the easy way)
 
@@ -37,7 +37,7 @@ Games marked with a warning sign in the catalog have a weaker save or an unconfi
 - **The game doesn't see the save.** Some games only read saves from their own region. Check that the card's region (in the catalog) matches your disc.
 - **You already have saves under the same folder name.** Don't overwrite them. Rename one folder, or merge the two in the eVMU emulator.
 
-## Why the folders have weird names
+## Folder naming
 
 The VMU Pro finds a game's card by matching the folder name to the disc's product ID, so the folders are things like `T1201N` (that's Power Stone) and `MK51000` (Sonic Adventure). It's ugly, but it's what makes the automatic loading work.
 
