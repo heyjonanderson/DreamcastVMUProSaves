@@ -49,3 +49,11 @@ Not yet built: Virtua Tennis (virtuatennis -> 51054, virtuatennis2 -> 51186), th
 - Sort fix: the VMU Pro sorts case-sensitively (ASCII), so ZZ_ cards landed before 'Zero Gunner'/'Zusar Vasar'. Extras now use a lowercase zz_ prefix (zz_MG_<game>, zz_CHEAT*), which sorts last either way.
 - VM2: Standard.dat (product-ID DB; 366 of 374 of our card IDs are in it, so the IDs are independently confirmed; VM2 keeps the trailing 00 on Armada/Hoyle/Wild Metal) and GID.dat (GIDnnn per title+region). VM2 game pack = single-game .VMU images (VMUGAMES). Added 81 new minigames from it via tools/vm2_import.js. VM2 folder layout still unconfirmed: see VM2-TEST.zip results.
 - Shenmue Goodies Passport (203 character files, identical to the disc's VMU_MISC/SHENMUE_PASSPORT, also the VMU_Games_Shenmue.zip): built as 3 cards, each the viewer game (block 0) + up to 75 characters. tools/shenmue_import.js.
+
+## VM2 folder layout (tested on hardware)
+- Folder = disc-header Product Number exactly as printed, dash kept: `T1201N/GAME.VMU`, `T1212N/GAME.VMU`, `MK-51054/GAME.VMU`, `MK-51186/GAME.VMU`. VMU Pro strips the dashes; the VM2 does not.
+- Evidence: VM2-TEST-3 (GID folders) failed for MvC2, Virtua Tennis, Tennis 2K2; VM2-TEST-4 product-ID folders worked for MvC2, and the VM2 created `MK-51054` and `MK-51186` itself next to the dashless folders I supplied (so it ignored those).
+- Standard.dat strips dashes (MK51054), so it is NOT the folder source. Folder comes from the disc header (gameid.json `p`).
+- Unconfirmed: trailing " 00" headers (Armada, Hoyle Casino, Wild Metal). The catalog offers both `T40301N 00` and `T40301N00`.
+- 133 of 374 game folders differ between the VMU Pro and VM2 names (all MK-/HDR- and some T- headers).
+- Minigame layout on the VM2 (root `VMUGAMES` folder exists) is not yet worked out; VM2 zips exclude minigames and cheat cards.

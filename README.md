@@ -14,6 +14,8 @@ Then:
 - Copy that folder to the top level of the VMU Pro's microSD card. If the card already has a `Dreamcast` folder, merge them.
 - Put the card back in the VMU Pro and start a game. If the folder name matches the disc, the VMU Pro loads the save by itself.
 
+**Got a VM2?** Pick "For VM2" next to the build button before you press it. The VM2 wants a different layout: one folder per game, named with the disc ID as printed on the disc (dash included, like `MK-51054`), with a `GAME.VMU` inside. Copy those folders to the top level of the SD card, with no `Dreamcast` folder. This is tested on a real VM2 with Power Stone, Marvel vs. Capcom 2, Virtua Tennis and Tennis 2K2. VM2 zips are games only for now, no minigames or cheat cards.
+
 That's the whole process. The rest of this page is for when something goes sideways, or you're curious how it works.
 
 ## What you get
@@ -41,7 +43,7 @@ Games marked with a warning sign in the catalog have a weaker save or an unconfi
 
 The VMU Pro finds a game's card by matching the folder name to the disc's product ID, so the folders are things like `T1201N` (that's Power Stone) and `MK51000` (Sonic Adventure). It's ugly, but it's what makes the automatic loading work.
 
-The ID is the one printed in the disc header with the dashes and spaces taken out. For games with several versions that differ only in the last two digits, you can drop those two digits and one folder covers them all.
+The ID is the one printed in the disc header with the dashes and spaces taken out. (The VM2 keeps the dash, so its folders look like `MK-51000` instead. The catalog builds that layout for you.) For games with several versions that differ only in the last two digits, you can drop those two digits and one folder covers them all.
 
 To find a game without memorizing IDs, use the catalog, or browse the [`by-title`](by-title) folder (same cards, named by game title). [`INDEX.md`](INDEX.md) is the full list with direct links, and `INDEX.csv` is the same thing for spreadsheets.
 

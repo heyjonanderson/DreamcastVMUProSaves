@@ -15,6 +15,12 @@ const items=idx.map(r=>{const [folder,game,region,status,redump,dir,save]=r;
   const type=/^zz_MG_/.test(folder)?'minigame':/^zz_CHEAT/.test(folder)?'cheat':'game';
   const dirs=(byFile[folder+'-1.vmu']||[]);const gdir=dirs.find(d=>d.toLowerCase().includes(game.toLowerCase().replace(/[<>:"\/\\|?*]/g,' -').slice(0,12)))||dirs[0]||'';
   return {id:folder,t:game,r:region==='-'?'':region,s:status==='ready'?'ready':'review',k:type,w:(status==='ready'?'':(why[folder+'|'+game]||'')).slice(0,220),bt:gdir};});
+// VM2 folder = disc-header Product Number exactly as printed (dash kept, e.g. MK-51054); the VMU Pro strips dashes.
+// Confirmed on a VM2: T1201N, T1212N (no dash in header) load; MK-51054 / MK-51186 are what the VM2 creates itself.
+// The "xxxxx 00" headers (Armada, Hoyle Casino, Wild Metal) are unconfirmed, so both spellings are offered.
+const G=require('../gameid.json');const nrm=x=>x.replace(/ 00$/,'').replace(/[-\s]/g,'');
+const rawBy={};for(const g of G){if(g.p)(rawBy[nrm(g.p)]??=new Set()).add(g.p);}
+for(const i of items){if(i.k!=='game')continue;const s=rawBy[i.id];const n=new Set(s&&s.size===1?s:[i.id]);for(const x of [...n])if(/ 00$/.test(x))n.add(x.replace(/ 00$/,'00'));i.v2=[...n];}
 items.sort((a,b)=>a.t.localeCompare(b.t,'en',{sensitivity:'base'})||a.id.localeCompare(b.id));
 const enc=p=>p.split('/').map(encodeURIComponent).join('/');
 const raw=id=>`https://github.com/${USER}/raw/${BR}/vmupro/Dreamcast/${id}/${id}-1.vmu`;
@@ -51,11 +57,12 @@ td:last-child{white-space:nowrap}.tw{overflow-x:auto}@media(max-width:640px){.hm
 <li><b>Copy to the SD card.</b> Put the <code>Dreamcast</code> folder in the top level of the VMU Pro's microSD card, so you end up with paths like <code>Dreamcast/T1201N/T1201N-1.vmu</code>. If the card already has a <code>Dreamcast</code> folder, merge them. Back up your own saves first, because a folder with the same name will be overwritten.</li>
 <li><b>Play.</b> Put the card back in the VMU Pro and start a game. When the folder name matches the disc, the VMU Pro loads that save automatically. You can also browse every card in the VMU Browser. Minigames and cheat cards are named <code>zz_</code> so they sit at the end of the list.</li>
 </ol>
+<p class="sm"><b>Using a VM2?</b> Switch the box next to the build button to <i>For VM2</i> first. The zip then holds one folder per game, named with the disc ID as printed on the disc (for example <code>MK-51054</code>), each with a <code>GAME.VMU</code> inside. Copy those folders straight to the top level of the VM2 SD card, with no <code>Dreamcast</code> folder. VM2 zips cover games only, not minigames or cheat cards yet.</p>
 <p class="sm">Folder names are disc IDs (that is how the VMU Pro finds the right card), so the zip looks cryptic but is correct. Games marked ⚠️ have a weaker or unconfirmed save; the note under the title says why. Not every game has been tested on a real device. Full details are in the <a href="https://github.com/${USER}#readme">README</a>.</p></section>
 <div class="stick"><div class="bar"><input id="q" type="search" placeholder="Search title or ID…"><select id="r"><option value="">All regions</option><option>US</option><option>EU</option><option>JP</option></select>
 <select id="k"><option value="game">Games</option><option value="minigame">Minigames</option><option value="cheat">Cheat cards</option><option value="">Everything</option></select>
 <select id="s"><option value="">Any status</option><option value="ready">✅ ready</option><option value="review">⚠️ needs review</option></select></div>
-<div class="bar"><button id="all">Select visible</button><button id="none">Clear</button><button id="zip" class="p">Build SD zip (<span id="n">0</span>)</button><span id="msg" class="sm"></span></div></div>
+<div class="bar"><button id="all">Select visible</button><button id="none">Clear</button><select id="dev"><option value="pro">For VMU Pro</option><option value="vm2">For VM2</option></select><button id="zip" class="p">Build SD zip (<span id="n">0</span>)</button><span id="msg" class="sm"></span></div></div>
 <div class="tw"><table><thead><tr><th></th><th>Game</th><th class="hm">Folder</th><th>Region</th><th></th><th>Card</th></tr></thead><tbody id="t"></tbody></table></div>
 <p class="sm" id="cnt"></p><p class="sm">${items.filter(i=>i.k==='game').length} games, ${items.filter(i=>i.k==='minigame').length} VMU minigames and ${items.filter(i=>i.k==='cheat').length} cheat-device cards in total.</p></main>
 <script>${fs.readFileSync(path.join(__dirname,"vendor","jszip.min.js"),"utf8")}</script>
@@ -67,8 +74,9 @@ document.addEventListener('change',e=>{if(e.target.dataset&&e.target.dataset.id)
 ['q','r','k','s'].forEach(x=>$(x).addEventListener('input',render));
 $('all').onclick=()=>{vis().forEach(i=>sel.add(i.id));render()};$('none').onclick=()=>{sel.clear();render()};
 $('zip').onclick=async()=>{if(!sel.size){$('msg').textContent='Tick some games first.';return}const z=new JSZip();let n=0;
- for(const id of sel){$('msg').textContent='Fetching '+(++n)+' of '+sel.size+'…';try{const r=await fetch('https://raw.githubusercontent.com/'+U+'/'+B+'/vmupro/Dreamcast/'+id+'/'+id+'-1.vmu');if(!r.ok)throw 0;z.file('Dreamcast/'+id+'/'+id+'-1.vmu',await r.arrayBuffer());}catch(e){$('msg').textContent='Failed on '+id;return}}
- const b=await z.generateAsync({type:'blob',compression:'DEFLATE',compressionOptions:{level:9}});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='VMUPro-SD-card-custom.zip';a.click();$('msg').textContent='Done. Extract to the root of the SD card.';};
+ const vm2=$('dev').value==='vm2',byId=Object.fromEntries(D.map(i=>[i.id,i]));let skipped=0;
+ for(const id of sel){$('msg').textContent='Fetching '+(++n)+' of '+sel.size+'…';if(vm2&&!byId[id].v2){skipped++;continue}try{const r=await fetch('https://raw.githubusercontent.com/'+U+'/'+B+'/vmupro/Dreamcast/'+id+'/'+id+'-1.vmu');if(!r.ok)throw 0;const buf=await r.arrayBuffer();if(vm2)for(const f of byId[id].v2)z.file(f+'/GAME.VMU',buf);else z.file('Dreamcast/'+id+'/'+id+'-1.vmu',buf);}catch(e){$('msg').textContent='Failed on '+id;return}}
+ const b=await z.generateAsync({type:'blob',compression:'DEFLATE',compressionOptions:{level:9}});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=vm2?'VM2-SD-card-custom.zip':'VMUPro-SD-card-custom.zip';a.click();$('msg').textContent=vm2?'Done. Copy the folders to the root of the VM2 SD card.'+(skipped?' Minigames and cheat cards are not included for the VM2 yet.':''):'Done. Extract to the root of the SD card.';};
 render();</script></body></html>`;
 fs.mkdirSync(path.join(ROOT,'docs'),{recursive:true});fs.writeFileSync(path.join(ROOT,'docs','index.html'),html);
 console.log(items.length,'catalog entries; INDEX.md',L.join('\n').length,'bytes; docs/index.html',html.length,'bytes');
