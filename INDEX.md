@@ -9,7 +9,9 @@
 | T41903N | 4x4 Evolution | US | ready | v6405.vmi |
 | HDR0158 | Advanced Daisenryaku | JP | ready | dazhanlu.VMI |
 | T6807M | Aero Dancing | JP | needs review | aeroisys.VMI |
+| T6804M | Aero Dancing F | JP | ready | dc_kool_00000005.vmi |
 | T6809M | Aero Dancing Fan Disc | JP | needs review | aerocnem.VMI |
+| T6802M | Aero Dancing featuring Blue Impulse | JP | ready | dc_kool_00000004.vmi |
 | T40201N | Aero Wings | US | ready | v61068.vmi |
 | T40210N | Aero Wings 2: Air Strike | US | ready | v36311.vmi |
 | T9501N | Air Force Delta | US | ready | v39495.vmi |
@@ -25,13 +27,14 @@
 | T41802M | Boku Doraemon | JP | ready | dingdang.VMI |
 | T42903M | Bomber Hehhe | JP | ready | bomberhe.VMI |
 | MK51065 | Bomberman Online | US | ready | v32866.vmi |
+| T46703M | Border Down | JP | ready | heezy_00000025.vmi |
 | T8117N | Bust A Move 4 | US | ready | pb4us.VMI |
 | T13007N | Buzz Lightyear of Star Command | US | ready | v74825.vmi |
 | T12504N | Caesar's Palace 2000 | US | ready | v7771.vmi |
 | T1215N | Cannon Spike | US | ready | v25804.vmi+v50562.vmi |
 | T20108M | Canvas | JP | ready | CANVAS.VMI |
 | T1249M | Capcom vs. SNK 2 | JP | ready | v7082.vmi+cvs2rep1.VMI+cvs2rep2.VMI+cvs2rep3.VMI+cvs2rep4.VMI+cvs2rep5.VMI+cvs2rep6.VMI |
-| T1218N | Capcom vs. SNK: Millennium Fight 2000 | US | needs review | v47663.vmi+v56329.vmi |
+| T1218N | Capcom vs. SNK: Millennium Fight 2000 | US | ready | dc_kool_00000022.vmi |
 | T5701N | Carrier | US | ready | CARRIER.VMI |
 | T46901M | Castle Fantasia | JP | ready | CASTLEFA.VMI |
 | T40602N | Centipede | US | ready | v72205.vmi |
@@ -47,14 +50,18 @@
 | CHEATSOFGS | Cheat-device code save: GameShark codes for Soldier of Fortune (unlimited armor/ammo) | - | needs review | v64385.vmi |
 | CHEATPSO2XP | Cheat-device code save: Xploder codes for Phantasy Star Online Ver. 2 | - | needs review | v45276.vmi |
 | T36811N | Chicken Run | US | ready | v7111.vmi |
-| MK51049 | Chu Chu Rocket | US | ready | v38939.vmi+v7640.vmi |
+| T1206M | Choukou Senki Kikaioh (Tech Romancer JP) | JP | ready | dc_kool_00000325.vmi |
+| MK51049 | Chu Chu Rocket | US | ready | dc_kool_00000031.vmi |
+| HDR0009 | Climax Landers | JP | ready | dc_kool_00000032.vmi |
 | T15128N | Coaster Works | US | ready | v14850.vmi |
 | T38301M | Comic Party | JP | ready | comicpar.VMI |
 | MK51160 | Confidential Mission | US | ready | v23841.vmi |
 | T17721N | Conflict Zone | US | ready | v30142.vmi |
+| T36901M | Cool Boarders Burrrn! | JP | ready | dc_kool_00000035.vmi |
 | T3106M | Cool Cool Toon | JP | ready | COOLCT.VMI |
 | MK51035 | Crazy Taxi | US | ready | v81909.vmi+CRAZYT.VMI |
 | MK51136 | Crazy Taxi 2 | US | ready | v51513.vmi+v43160.vmi |
+| T46501M | D+Vine [Luv] | JP | needs review | jeffma_DVINELUV.vmi |
 | MK51036 | D2 | US | ready | v93751.vmi |
 | HDR0084 | Dabitsuku 1 | JP | ready | DABI1.VMI |
 | HDR0167 | Dabitsuku 2 | JP | ready | DABI2.VMI |
@@ -105,7 +112,9 @@
 | HDR0187 | Fushigi Dungeon | JP | ready | asuka001.VMI |
 | T3108M | Garou: Mark of the Wolves | JP | needs review | garou1.VMI |
 | T9710N | Gauntlet Legends | US | ready | v48502.vmi |
+| HDR0023 | Get Bass (Sega Bass Fishing JP) | JP | ready | dc_kool_00000096.vmi |
 | HDR0101 | Giant Gram 2000 | JP | ready | GIANTG2K.VMI |
+| HDR0005 | Giant Gram: Zen Nihon Pro Wres 2 | JP | ready | dc_kool_00000097.vmi |
 | T1209N | Giga Wing | US | ready | GIGAWING.VMI |
 | T1222N | Giga Wing 2 | US | ready | v499.vmi |
 | HDR0004 | Godzilla Generations | JP | ready | GODZILLA.VMI |
@@ -131,6 +140,7 @@
 | T41302N | Industrial Spy: Operation Espionage | US | ready | v8391.vmi |
 | T15129N | Iron Aces | US | ready | v91038.vmi |
 | T8104N | Jeremy McGrath Supercross 2000 | US | ready | v85569.vmi |
+| T40902M | Jet Coaster Dream | JP | ready | dc_kool_00000115.vmi |
 | MK51058 | Jet Grind Radio | US | ready | v63649.vmi+v4596.vmi |
 | HDR0128 | Jet Set Radio DX | JP | needs review | jetsetdx.VMI |
 | T1206N | JoJo's Bizarre Adventure | US | ready | v11766.vmi |
@@ -188,6 +198,7 @@
 | T20122M | Pia Carrot 3 | JP | ready | PIA3BEST.VMI |
 | T1207N | Plasma Sword | US | ready | v78823.vmi |
 | T17713N | POD: Speedzone | US | ready | podsave.VMI |
+| T9591M | Pop'n Music 3 Append Disc | JP | ready | dc_kool_00000160.vmi |
 | T6806M | Power Jet Racing 2001 | JP | ready | JETRACE1.VMI |
 | T1201N | Power Stone | US | ready | v27222.vmi |
 | T1211N | Power Stone 2 | US | ready | v67990.vmi |
@@ -235,6 +246,7 @@
 | HDR0057 | Sakura Wars Kayou Show | JP | ready | SWDASHEN.VMI |
 | MK51092 | Samba de Amigo | US | ready | v39888.vmi |
 | T9707N | San Francisco Rush 2049 | US | ready | v82401.vmi |
+| MK51048 | Seaman | US | needs review | purhaze_SEA1.vmi+purhaze_SEA2.vmi |
 | MK51006 | Sega Bass Fishing | US | ready | v21584.vmi |
 | MK51166 | Sega Bass Fishing 2 | US | ready | v40328.vmi |
 | MK51053 | Sega GT | US | ready | v64594.vmi |
@@ -248,12 +260,14 @@
 | MK51062 | Sega Sports NFL 2K1 | US | ready | v92764.vmi+v45179.vmi |
 | MK51168 | Sega Sports NFL 2K2 | US | ready | v76050.vmi |
 | MK51025 | Sega Sports NHL 2K | US | ready | v62214.vmi |
+| MK51182 | Sega Sports NHL 2K2 | US | ready | dc_kool_00000150.vmi |
 | HDR0151 | SeGaGaGa | JP | ready | SEGAGAGA.VMI |
 | T42201M | Seirei Hata Ray Blade | JP | needs review | SHENGLJ2.VMI |
 | T41301N | Seventh Cross Evolution | US | ready | 00000176.vmi |
 | T8106N | Shadow Man | US | ready | v92438.vmi+v8737.vmi |
 | MK51059 | Shenmue Chapter 1: Yokosuka | US | ready | v98269.vmi |
 | MK5118450 | Shenmue II | EU | ready | v91835.vmi |
+| T28202M | Shin Nihon Pro Wrestling: Toukon Retsuden 4 | JP | ready | dc_kool_00000146.vmi |
 | T9507N | Silent Scope | US | ready | v91000.vmi |
 | T15108N | Silver | US | ready | v760.vmi |
 | MK51052 | Skies of Arcadia | US | ready | v28902.vmi+sa_d01.vmi+sa_d02.vmi+sa_d03.vmi+v94208.vmi |
@@ -280,7 +294,7 @@
 | T23003N | Star Wars Demolition | US | ready | v28784.vmi |
 | T23002N | Star Wars Episode 1: Jedi Power Battles | US | ready | v56151.vmi |
 | T23001N | Star Wars Episode 1: Racer | US | ready | v19047.vmi |
-| T1203N | Street Fighter Alpha 3 | US | needs review | v77348.vmi+v32793.vmi+v20786.vmi |
+| T1203N | Street Fighter Alpha 3 | US | ready | dc_kool_00000287.vmi |
 | T1213N | Street Fighter III: 3rd Strike | US | ready | v37955.vmi |
 | T1210N | Street Fighter III: Double Impact | US | ready | v50554.vmi |
 | T15111N | Striker Pro 2000 | US | ready | v3240.vmi |
@@ -291,6 +305,7 @@
 | T40206N | Super Magnetic Neo | US | ready | v88771.vmi |
 | T20602M | Super Robot Wars Alpha | JP | ready | SRWLAST2.VMI+SRWSYSTE.VMI |
 | T12509N | Super Runabout SF Edition | US | ready | v62262.vmi |
+| HDR0013 | Super Speed Racing | JP | ready | dc_kool_00000321.vmi |
 | T1236M | Super Street Fighter II X for Matching Service | JP | ready | SSF2X.VMI |
 | T40216N | Surf Rocket Racers | US | ready | v85992.vmi |
 | T17703N | Suzuki Alstare Extreme Racing | US | ready | v79472.vmi |
@@ -328,7 +343,7 @@
 | T13003N | Toy Story 2 | US | ready | v38204.vmi |
 | T8102N | Trickstyle | US | ready | 00000168.vmi |
 | T9104M | Tricolore Crise | JP | ready | 3jiao3.VMI |
-| T40204N | Ultimate Fighting Championship | US | needs review | v13438.vmi+v67002.vmi |
+| T40204N | Ultimate Fighting Championship | US | ready | dc_kool_00000345.vmi |
 | T15125N | Unreal Tournament | US | ready | v97099.vmi |
 | T36810N | Urban Chaos | US | ready | v247.vmi |
 | T8110N | Vanishing Point | US | ready | v10038.vmi |

@@ -1,10 +1,10 @@
 # Status report
 
-Game cards: 343 (.vmu, 131072 bytes each) for 337 games, plus 76 extras cards (minigames, cheat-device codes) as folders named MINIGAMESnn / CHEAT* beside the game folders.
+Game cards: 358 (.vmu, 131072 bytes each) for 352 games, plus 76 extras cards (minigames, cheat-device codes) as folders named MINIGAMESnn / CHEAT* beside the game folders.
 Every card parses back cleanly (checked by tools/vmu.js and by an independent Python checker written from the VMS format notes: directory, FAT chains, save data). **No card has been opened in EVMU or on VMU Pro hardware.**
 
-- ready: 313 games (heuristic or manual pick judged complete/best available, filename/region check passed)
-- needs review: 24 games (listed below)
+- ready: 329 games (heuristic or manual pick judged complete/best available, filename/region check passed)
+- needs review: 23 games (listed below)
 - failed to build: 0
 - extras cards: 76 (cheat-device cards are marked needs review because they only work with the matching cheat disc)
 - no card: see _project/unmapped_or_skipped.csv; extras not on a card: _project/not_on_cards_extras.csv
@@ -14,11 +14,8 @@ Every card parses back cleanly (checked by tools/vmu.js and by an independent Py
 
 | Game | Folder(s) | Region | Why |
 |---|---|---|---|
-| Capcom vs. SNK: Millennium Fight 2000 | T1218N | US | US filename VS.SNKMF_SYS inferred from archive description ("for the American release") vs JP CAPVSSNK_SYS; not hardware-verified. Alt 100% saves: v90895, v27880 / extras on card: v56329.vmi |
-| Street Fighter Alpha 3 | T1203N | US | SYS (SFALPHA3.SYS) and WTR (SFALPHA3.WTR) files on one card. Neither is region-labelled / extras on card: v20786.vmi |
 | Garou: Mark of the Wolves | T3108M | JP | JP-only. Two serials in Redump; card duplicated under both. Partial save |
 | Fighting Vipers 2 | MK5115450 | EU | No US release; EU ID used. Archive save region unlabelled |
-| Ultimate Fighting Championship | T40204N | US | SYS and EDT from different creators combined on one card; compatibility not verified |
 | Virtual-On: Oratorio Tangram | T13004N | US | Save region unlabelled; unsure US filename matches / extras on card: v39368.vmi,v8748.vmi |
 | Kidou Senshi Gundam: Renpou vs. Zeon & DX | T13306M | JP | JP-only, 2 discs share serial T-13306M. Partial save, creator unnamed |
 | Aero Dancing | T6807M | JP | Redump mapping inferred from filename/title, not confirmed |
@@ -37,4 +34,6 @@ Every card parses back cleanly (checked by tools/vmu.js and by an independent Py
 | Seirei Hata Ray Blade | T42201M | JP | Only stage 1 saves in archive |
 | Sonic Shuffle | MK51060 | US | archive has 2 filename variants (SSHUFFLE/SONICSHU); region of chosen save not confirmed; also released: JP/EU |
 | Xtreme Sports | T15126N | US | archive has 2 filename variants |
+| Seaman | MK51048 | US | PURHAZE saves have no description; USR and _VM files taken together. From the VMU Tool Dream Explorer disc (PURHAZE) |
+| D+Vine [Luv] | T46501M | JP | JEFFMA save has no description. From the VMU Tool Dream Explorer disc (JEFFMA) |
 | Atari Anniversary Edition (VMU icon only) | T15130N | US | Icon-only card; no game progress to save in this title |

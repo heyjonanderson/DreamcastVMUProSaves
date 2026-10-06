@@ -11,7 +11,9 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T41903N](T41903N) | 4x4 Evolution | US | ready |
 | [HDR0158](HDR0158) | Advanced Daisenryaku | JP | ready |
 | [T6807M](T6807M) | Aero Dancing | JP | needs review |
+| [T6804M](T6804M) | Aero Dancing F | JP | ready |
 | [T6809M](T6809M) | Aero Dancing Fan Disc | JP | needs review |
+| [T6802M](T6802M) | Aero Dancing featuring Blue Impulse | JP | ready |
 | [T40201N](T40201N) | Aero Wings | US | ready |
 | [T40210N](T40210N) | Aero Wings 2: Air Strike | US | ready |
 | [T9501N](T9501N) | Air Force Delta | US | ready |
@@ -27,13 +29,14 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T41802M](T41802M) | Boku Doraemon | JP | ready |
 | [T42903M](T42903M) | Bomber Hehhe | JP | ready |
 | [MK51065](MK51065) | Bomberman Online | US | ready |
+| [T46703M](T46703M) | Border Down | JP | ready |
 | [T8117N](T8117N) | Bust A Move 4 | US | ready |
 | [T13007N](T13007N) | Buzz Lightyear of Star Command | US | ready |
 | [T12504N](T12504N) | Caesar's Palace 2000 | US | ready |
 | [T1215N](T1215N) | Cannon Spike | US | ready |
 | [T20108M](T20108M) | Canvas | JP | ready |
 | [T1249M](T1249M) | Capcom vs. SNK 2 | JP | ready |
-| [T1218N](T1218N) | Capcom vs. SNK: Millennium Fight 2000 | US | needs review |
+| [T1218N](T1218N) | Capcom vs. SNK: Millennium Fight 2000 | US | ready |
 | [T5701N](T5701N) | Carrier | US | ready |
 | [T46901M](T46901M) | Castle Fantasia | JP | ready |
 | [T40602N](T40602N) | Centipede | US | ready |
@@ -49,14 +52,18 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [CHEATSOFGS](CHEATSOFGS) | Cheat-device code save: GameShark codes for Soldier of Fortune (unlimited armor/ammo) | - | needs review |
 | [CHEATPSO2XP](CHEATPSO2XP) | Cheat-device code save: Xploder codes for Phantasy Star Online Ver. 2 | - | needs review |
 | [T36811N](T36811N) | Chicken Run | US | ready |
+| [T1206M](T1206M) | Choukou Senki Kikaioh (Tech Romancer JP) | JP | ready |
 | [MK51049](MK51049) | Chu Chu Rocket | US | ready |
+| [HDR0009](HDR0009) | Climax Landers | JP | ready |
 | [T15128N](T15128N) | Coaster Works | US | ready |
 | [T38301M](T38301M) | Comic Party | JP | ready |
 | [MK51160](MK51160) | Confidential Mission | US | ready |
 | [T17721N](T17721N) | Conflict Zone | US | ready |
+| [T36901M](T36901M) | Cool Boarders Burrrn! | JP | ready |
 | [T3106M](T3106M) | Cool Cool Toon | JP | ready |
 | [MK51035](MK51035) | Crazy Taxi | US | ready |
 | [MK51136](MK51136) | Crazy Taxi 2 | US | ready |
+| [T46501M](T46501M) | D+Vine [Luv] | JP | needs review |
 | [MK51036](MK51036) | D2 | US | ready |
 | [HDR0084](HDR0084) | Dabitsuku 1 | JP | ready |
 | [HDR0167](HDR0167) | Dabitsuku 2 | JP | ready |
@@ -107,7 +114,9 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [HDR0187](HDR0187) | Fushigi Dungeon | JP | ready |
 | [T3108M](T3108M) | Garou: Mark of the Wolves | JP | needs review |
 | [T9710N](T9710N) | Gauntlet Legends | US | ready |
+| [HDR0023](HDR0023) | Get Bass (Sega Bass Fishing JP) | JP | ready |
 | [HDR0101](HDR0101) | Giant Gram 2000 | JP | ready |
+| [HDR0005](HDR0005) | Giant Gram: Zen Nihon Pro Wres 2 | JP | ready |
 | [T1209N](T1209N) | Giga Wing | US | ready |
 | [T1222N](T1222N) | Giga Wing 2 | US | ready |
 | [HDR0004](HDR0004) | Godzilla Generations | JP | ready |
@@ -133,6 +142,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T41302N](T41302N) | Industrial Spy: Operation Espionage | US | ready |
 | [T15129N](T15129N) | Iron Aces | US | ready |
 | [T8104N](T8104N) | Jeremy McGrath Supercross 2000 | US | ready |
+| [T40902M](T40902M) | Jet Coaster Dream | JP | ready |
 | [MK51058](MK51058) | Jet Grind Radio | US | ready |
 | [HDR0128](HDR0128) | Jet Set Radio DX | JP | needs review |
 | [T1206N](T1206N) | JoJo's Bizarre Adventure | US | ready |
@@ -190,6 +200,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T20122M](T20122M) | Pia Carrot 3 | JP | ready |
 | [T1207N](T1207N) | Plasma Sword | US | ready |
 | [T17713N](T17713N) | POD: Speedzone | US | ready |
+| [T9591M](T9591M) | Pop'n Music 3 Append Disc | JP | ready |
 | [T6806M](T6806M) | Power Jet Racing 2001 | JP | ready |
 | [T1201N](T1201N) | Power Stone | US | ready |
 | [T1211N](T1211N) | Power Stone 2 | US | ready |
@@ -237,6 +248,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [HDR0057](HDR0057) | Sakura Wars Kayou Show | JP | ready |
 | [MK51092](MK51092) | Samba de Amigo | US | ready |
 | [T9707N](T9707N) | San Francisco Rush 2049 | US | ready |
+| [MK51048](MK51048) | Seaman | US | needs review |
 | [MK51006](MK51006) | Sega Bass Fishing | US | ready |
 | [MK51166](MK51166) | Sega Bass Fishing 2 | US | ready |
 | [MK51053](MK51053) | Sega GT | US | ready |
@@ -250,12 +262,14 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MK51062](MK51062) | Sega Sports NFL 2K1 | US | ready |
 | [MK51168](MK51168) | Sega Sports NFL 2K2 | US | ready |
 | [MK51025](MK51025) | Sega Sports NHL 2K | US | ready |
+| [MK51182](MK51182) | Sega Sports NHL 2K2 | US | ready |
 | [HDR0151](HDR0151) | SeGaGaGa | JP | ready |
 | [T42201M](T42201M) | Seirei Hata Ray Blade | JP | needs review |
 | [T41301N](T41301N) | Seventh Cross Evolution | US | ready |
 | [T8106N](T8106N) | Shadow Man | US | ready |
 | [MK51059](MK51059) | Shenmue Chapter 1: Yokosuka | US | ready |
 | [MK5118450](MK5118450) | Shenmue II | EU | ready |
+| [T28202M](T28202M) | Shin Nihon Pro Wrestling: Toukon Retsuden 4 | JP | ready |
 | [T9507N](T9507N) | Silent Scope | US | ready |
 | [T15108N](T15108N) | Silver | US | ready |
 | [MK51052](MK51052) | Skies of Arcadia | US | ready |
@@ -282,7 +296,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T23003N](T23003N) | Star Wars Demolition | US | ready |
 | [T23002N](T23002N) | Star Wars Episode 1: Jedi Power Battles | US | ready |
 | [T23001N](T23001N) | Star Wars Episode 1: Racer | US | ready |
-| [T1203N](T1203N) | Street Fighter Alpha 3 | US | needs review |
+| [T1203N](T1203N) | Street Fighter Alpha 3 | US | ready |
 | [T1213N](T1213N) | Street Fighter III: 3rd Strike | US | ready |
 | [T1210N](T1210N) | Street Fighter III: Double Impact | US | ready |
 | [T15111N](T15111N) | Striker Pro 2000 | US | ready |
@@ -293,6 +307,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T40206N](T40206N) | Super Magnetic Neo | US | ready |
 | [T20602M](T20602M) | Super Robot Wars Alpha | JP | ready |
 | [T12509N](T12509N) | Super Runabout SF Edition | US | ready |
+| [HDR0013](HDR0013) | Super Speed Racing | JP | ready |
 | [T1236M](T1236M) | Super Street Fighter II X for Matching Service | JP | ready |
 | [T40216N](T40216N) | Surf Rocket Racers | US | ready |
 | [T17703N](T17703N) | Suzuki Alstare Extreme Racing | US | ready |
@@ -330,7 +345,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T13003N](T13003N) | Toy Story 2 | US | ready |
 | [T8102N](T8102N) | Trickstyle | US | ready |
 | [T9104M](T9104M) | Tricolore Crise | JP | ready |
-| [T40204N](T40204N) | Ultimate Fighting Championship | US | needs review |
+| [T40204N](T40204N) | Ultimate Fighting Championship | US | ready |
 | [T15125N](T15125N) | Unreal Tournament | US | ready |
 | [T36810N](T36810N) | Urban Chaos | US | ready |
 | [T8110N](T8110N) | Vanishing Point | US | ready |

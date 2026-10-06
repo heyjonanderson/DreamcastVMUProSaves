@@ -20,5 +20,7 @@ function remap(s){
   return {...s,ids,oldIds:s.ids};
 }
 const attach=rd('extras_attach.json')||{};
-const games=[...require('./tools/selections_12'),...(rd('selections3.json')||[])].map(s=>attach[s.dir]?{...s,extras:attach[s.dir]}:s).map(remap);
+const disc=rd('selections_disc.json')||{upgrades:{},new:[]};
+const upgrade=s=>{const u=disc.upgrades[s.dir];if(!u)return s;const att=(s.extras||[]).filter(e=>!(u.drop||[]).includes(e));return {...s,srcdir:u.srcdir,files:u.files,status:u.status,notes:u.notes,completion:'Upgraded from the VMU Tool Dream Explorer disc: '+u.notes,extras:[]};};
+const games=[...require('./tools/selections_12'),...(rd('selections3.json')||[]),...disc.new].map(s=>attach[s.dir]?{...s,extras:attach[s.dir]}:s).map(upgrade).map(remap);
 module.exports=[...games,...(rd('selections_extras.json')||[])];

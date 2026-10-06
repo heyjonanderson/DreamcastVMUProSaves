@@ -12,7 +12,7 @@ const problems=[];
 const only=process.argv.slice(2);
 for(const s of sel){
   if(only.length&&!only.includes(s.dir))continue;
-  const g=A.load(s.dir);
+  const g=A.load(s.srcdir||s.dir);
   if(!g){problems.push(s.dir+': no README');continue;}
   const used=[];const skippedExtras=[];
   let blocksUsed=0;
@@ -36,7 +36,7 @@ for(const s of sel){
     if(seenSave.has(k)){if(ch)seenSave.get(k)[7]='yes';continue;}
     const row=[s.dir==='minigames'?'VMU Mini Games':g.title,s.dir,r.vmi,r.vms,r.fname,r.creator,r.desc,ch];seenSave.set(k,row);allSaves.push(row);}
   // originals: everything downloaded for the game (VMI/VMS + description text)
-  const od=path.join(ROOT,'originals',s.dir);fs.mkdirSync(od,{recursive:true});
+  const od=path.join(ROOT,'originals',s.dir,...(s.srcdir&&s.srcdir!==s.dir?['vmu-dream-explorer-disc']:[]));fs.mkdirSync(od,{recursive:true});
   for(const f of fs.readdirSync(g.path)){if(/\.(gif|png)$/i.test(f))continue;fs.copyFileSync(path.join(g.path,f),path.join(od,f));}
   // card(s)
   const files=used.map(u=>({name:u.vmi.name,data:u.data,type:(u.vmi.mode&2)?0xcc:0x33,protect:!!(u.vmi.mode&1),time:u.vmi.time}));
@@ -46,7 +46,7 @@ for(const s of sel){
     const dir=path.join(ROOT,'vmupro',...(s.outdir||'Dreamcast').split('/'),folder);fs.mkdirSync(dir,{recursive:true});
     const out=path.join(dir,folder+'-1.vmu');fs.writeFileSync(out,img);
     credits.push([]);credits.pop();
-    used.forEach(u=>credits.push([s.title,id,s.region,`src/${s.dir}/${u.row.vmi}`,REPO+s.dir+'/'+path.basename(u.vmsP),u.row.creator,u.row.desc,path.basename(u.vmiP),path.basename(u.vmsP),'VMI+VMS (single save, wrapped into 128KB card)',u.row.fname,Math.ceil(u.data.length/512)]));
+    used.forEach(u=>credits.push([s.title,id,s.region,g.extra?`extra/${s.srcdir||s.dir}/${u.row.vmi}`:`src/${s.dir}/${u.row.vmi}`,g.extra?'VMU Tool Dream Explorer disc (CD): VMU_SAVES/'+u.row.desc.replace(/^.*source: ([^;\]]+).*$/,'$1'):REPO+s.dir+'/'+path.basename(u.vmsP),u.row.creator,u.row.desc,path.basename(u.vmiP),path.basename(u.vmsP),'VMI+VMS (single save, wrapped into 128KB card)',u.row.fname,Math.ceil(u.data.length/512)]));
     // validate by parsing back from disk
     const back=fs.readFileSync(out),p=V.parse(back);
     const errs=[...p.errs];
@@ -58,7 +58,7 @@ for(const s of sel){
     if(skippedExtras.length)notes+=` | extras not fitted (card full or name clash): ${skippedExtras.join(',')}`;
     if(errs.length){status='needs review';notes+=' | VALIDATION: '+errs.join('; ');problems.push(`${s.dir}/${folder}: ${errs.join('; ')}`);}
     const idNote=s.ids.length>1?` (alt ID ${s.ids.filter(x=>x!==id).join(',')})`:'';
-    report.push([s.title,folder,id,s.region,used.map(u=>u.row.vmi).join('+'),s.completion,`bucanero/dreamcast-saves/${s.dir}`,[...new Set(used.map(u=>u.row.creator).filter(Boolean))].join('; ')||'(unnamed)',status,`${notes}${idNote} | card: ${contents}, ${p.freeUser} blocks free, ${back.length} bytes`]);
+    report.push([s.title,folder,id,s.region,used.map(u=>u.row.vmi).join('+'),s.completion,(g.extra?'VMU Tool Dream Explorer disc ('+s.srcdir+')':`bucanero/dreamcast-saves/${s.dir}`),[...new Set(used.map(u=>u.row.creator).filter(Boolean))].join('; ')||'(unnamed)',status,`${notes}${idNote} | card: ${contents}, ${p.freeUser} blocks free, ${back.length} bytes`]);
   }
 }
 const w=(f,rows)=>fs.writeFileSync(path.join(__dirname,'..',f),csv(rows));

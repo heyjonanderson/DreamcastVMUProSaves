@@ -1,0 +1,285 @@
+{
+ "upgrades": {
+  "capcomsnk": {
+   "srcdir": "disc_capcomsnk",
+   "files": [
+    "dc_kool_00000022.vmi"
+   ],
+   "status": "ready",
+   "notes": "Region labelled US in the DC_KOOL collection (VS.SNKMF_SYS); confirms the US filename. \"All Unlocked\"",
+   "drop": []
+  },
+  "streetfighter3": {
+   "srcdir": "disc_streetfighter3",
+   "files": [
+    "dc_kool_00000287.vmi"
+   ],
+   "status": "ready",
+   "notes": "US-labelled SYS save: all 30 masters beaten and full-power World Tour characters (replaces the unlabelled SYS+WTR pair)",
+   "drop": [
+    "v20786.vmi"
+   ]
+  },
+  "ufc": {
+   "srcdir": "disc_ufc",
+   "files": [
+    "dc_kool_00000345.vmi"
+   ],
+   "status": "ready",
+   "notes": "US-labelled SYS save: all belts, Bruce Buffer card girl, fighting styles, voice and nickname unlocked (replaces the SYS+EDT pair from different creators)",
+   "drop": []
+  },
+  "chuchu": {
+   "srcdir": "disc_chuchu",
+   "files": [
+    "dc_kool_00000031.vmi"
+   ],
+   "status": "ready",
+   "notes": "US-labelled: all 1P puzzle stages completed with stars, all challenge stages and characters",
+   "drop": []
+  }
+ },
+ "new": [
+  {
+   "dir": "disc_climaxlanders",
+   "srcdir": "disc_climaxlanders",
+   "title": "Climax Landers",
+   "rname": "Climax Landers (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000032.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_coolboardersburrrn",
+   "srcdir": "disc_coolboardersburrrn",
+   "title": "Cool Boarders Burrrn!",
+   "rname": "Cool Boarders Burrrn! (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000035.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_getbass",
+   "srcdir": "disc_getbass",
+   "title": "Get Bass (Sega Bass Fishing JP)",
+   "rname": "Get Bass (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000096.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_giantgram1",
+   "srcdir": "disc_giantgram1",
+   "title": "Giant Gram: Zen Nihon Pro Wres 2",
+   "rname": "Giant Gram - Zen Nihon Pro Wres 2 in Nippon Budoukan (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000097.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_jetcoasterdream",
+   "srcdir": "disc_jetcoasterdream",
+   "title": "Jet Coaster Dream",
+   "rname": "Jet Coaster Dream (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000115.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_toukon4",
+   "srcdir": "disc_toukon4",
+   "title": "Shin Nihon Pro Wrestling: Toukon Retsuden 4",
+   "rname": "Shin Nihon Pro Wrestling - Toukon Retsuden 4 (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000146.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_nhl2k2",
+   "srcdir": "disc_nhl2k2",
+   "title": "Sega Sports NHL 2K2",
+   "rname": "NHL 2K2 (USA)",
+   "ids": [
+    "?"
+   ],
+   "region": "US",
+   "files": [
+    "dc_kool_00000150.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "Roster update (5 Nov 2002); no completion state. From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_popnmusic3",
+   "srcdir": "disc_popnmusic3",
+   "title": "Pop'n Music 3 Append Disc",
+   "rname": "Pop'n Music 3 - Append Disc (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000160.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_superspeedracing",
+   "srcdir": "disc_superspeedracing",
+   "title": "Super Speed Racing",
+   "rname": "Super Speed Racing (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000321.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_kikaioh",
+   "srcdir": "disc_kikaioh",
+   "title": "Choukou Senki Kikaioh (Tech Romancer JP)",
+   "rname": "Choukou Senki Kikaioh (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000325.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "JP save; the US release (Tech Romancer) uses a different filename. From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_aerodancing",
+   "srcdir": "disc_aerodancing",
+   "title": "Aero Dancing featuring Blue Impulse",
+   "rname": "Aero Dancing featuring Blue Impulse (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000004.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_aerodancingf",
+   "srcdir": "disc_aerodancingf",
+   "title": "Aero Dancing F",
+   "rname": "Aero Dancing F (Japan) | Aero Dancing F (Japan) (Rev A)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "dc_kool_00000005.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "Fighter Pilot complete / Tactical #8. From the VMU Tool Dream Explorer disc (DC_KOOL)"
+  },
+  {
+   "dir": "disc_borderdown",
+   "srcdir": "disc_borderdown",
+   "title": "Border Down",
+   "rname": "Border Down (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "heezy_00000025.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "Both Arcade and Remix mode unlocked (HEEZY, JP-labelled). From the VMU Tool Dream Explorer disc (HEEZY)"
+  },
+  {
+   "dir": "disc_seaman",
+   "srcdir": "disc_seaman",
+   "title": "Seaman",
+   "rname": "Seaman (USA)",
+   "ids": [
+    "?"
+   ],
+   "region": "US",
+   "files": [
+    "purhaze_SEA1.vmi",
+    "purhaze_SEA2.vmi"
+   ],
+   "completion": "See notes",
+   "status": "needs review",
+   "notes": "PURHAZE saves have no description; USR and _VM files taken together. From the VMU Tool Dream Explorer disc (PURHAZE)"
+  },
+  {
+   "dir": "disc_dvineluv",
+   "srcdir": "disc_dvineluv",
+   "title": "D+Vine [Luv]",
+   "rname": "D+Vine [Luv] (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "jeffma_DVINELUV.vmi"
+   ],
+   "completion": "See notes",
+   "status": "needs review",
+   "notes": "JEFFMA save has no description. From the VMU Tool Dream Explorer disc (JEFFMA)"
+  }
+ ]
+}
