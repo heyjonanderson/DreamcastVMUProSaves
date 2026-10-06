@@ -103,7 +103,8 @@
 | T17706N | Evolution | US | ready | v77140.vmi |
 | T1711N | Evolution 2: A Far Off Promise | US | ready | 00000012.vmi |
 | T15104N | Expendable | US | ready | v91860.vmi |
-| T3001N | F1 World Grand Prix | US | ready | blue_swirl_f1_world_g_SAVE0000.vmi |
+| T3001N | F1 World Grand Prix | US | needs review | v97839.vmi |
+| T3002M | F1 World Grand Prix II | JP | ready | blue_swirl_f1_world_g_SAVE0000.vmi |
 | HDR0100 | F355 Challenge | JP | ready | v59007.vmi |
 | 36801N | Fighting Force 2 | US | needs review | v94821.vmi |
 | T36801N | Fighting Force 2 | US | needs review | v94821.vmi |
@@ -196,6 +197,7 @@
 | T9703N | NFL Blitz 2000 | US | ready | v21453.vmi |
 | T9712N | NFL Blitz 2001 | US | ready | v58068.vmi |
 | T9504M | Nightmare Creatures 2 | US | ready | v22798.vmi |
+| T9504N | Nightmare Creatures 2 | US | ready | v22798.vmi |
 | T36807N | Omikron: The Nomad Soul | US | ready | v89140.vmi |
 | MK51140 | Ooga Booga | US | ready | v81380.vmi |
 | MK51102 | Outtrigger | US | ready | v4846.vmi |
@@ -258,6 +260,8 @@
 | MK51048 | Seaman | US | needs review | purhaze_SEA1.vmi+purhaze_SEA2.vmi |
 | MK51006 | Sega Bass Fishing | US | ready | v21584.vmi |
 | MK51166 | Sega Bass Fishing 2 | US | ready | v40328.vmi |
+| HDR0146 | Sega Extreme Sports | JP | ready | exsports.VMI |
+| MK5108150 | Sega Extreme Sports | EU | ready | blue_swirl_sega_extre_SAVE0002.vmi |
 | MK51053 | Sega GT | US | ready | v64594.vmi |
 | MK51096 | Sega Marine Fishing | US | ready | v72852.vmi |
 | MK51019 | Sega Rally Championship 2 | US | ready | SGRALLY2.VMI |
@@ -277,7 +281,7 @@
 | MK51059 | Shenmue Chapter 1: Yokosuka | US | ready | v98269.vmi |
 | MK5118450 | Shenmue II | EU | ready | v91835.vmi |
 | T28202M | Shin Nihon Pro Wrestling: Toukon Retsuden 4 | JP | ready | dc_kool_00000146.vmi |
-| T9507N | Silent Scope | US | ready | v91000.vmi |
+| T9507N | Silent Scope | US | ready | v36531.vmi |
 | T15108N | Silver | US | ready | v760.vmi |
 | MK51052 | Skies of Arcadia | US | ready | v28902.vmi+sa_d01.vmi+sa_d02.vmi+sa_d03.vmi+v94208.vmi |
 | T15106N | Slave Zero | US | ready | v31826.vmi |
@@ -513,7 +517,7 @@
 | T22904N | Worms World Party | US | ready | v66120.vmi |
 | T8103N | WWF Attitude | US | ready | 00000855.vmi |
 | T10005N | WWF Royal Rumble | US | ready | v31180.vmi |
-| T15126N | Xtreme Sports | US | needs review | v37050.vmi |
+| T15126N | Xtreme Sports | US | ready | v34612.vmi |
 | T20401M | Zero Gunner 2 | JP | ready | zerogun2.VMI |
 | MK51038 | Zombie Revenge | US | ready | ZOMBIERE.VMI |
 | T43301M | Zusar Vasar | JP | ready | 00000945.VMI |

@@ -100,7 +100,8 @@ T46605D80,Evil Twin,EU,ready,"Evil Twin - Cyprien's Chronicles (Europe) (En,Fr,D
 T17706N,Evolution,US,ready,Evolution - The World of Sacred Device (USA),evolution,v77140.vmi
 T1711N,Evolution 2: A Far Off Promise,US,ready,Evolution 2 - Far Off Promise (USA),evolution2,00000012.vmi
 T15104N,Expendable,US,ready,"Expendable (USA) (En,Fr,De,Es,It)",expendable,v91860.vmi
-T3001N,F1 World Grand Prix,US,ready,"F1 World Grand Prix (USA) (En,Fr,De,Es)",f1worldprix,blue_swirl_f1_world_g_SAVE0000.vmi
+T3001N,F1 World Grand Prix,US,needs review,"F1 World Grand Prix (USA) (En,Fr,De,Es)",f1worldprix,v97839.vmi
+T3002M,F1 World Grand Prix II,JP,ready,F1 World Grand Prix II for Dreamcast (Japan),disc_bs_f1wgp2,blue_swirl_f1_world_g_SAVE0000.vmi
 HDR0100,F355 Challenge,JP,ready,F355 Challenge (Japan),f355challenge,v59007.vmi
 36801N,Fighting Force 2,US,needs review,Fighting Force 2 (USA) (Rev A) | Fighting Force 2 (USA),fightforce2,v94821.vmi
 T36801N,Fighting Force 2,US,needs review,Fighting Force 2 (USA) (Rev A) | Fighting Force 2 (USA),fightforce2,v94821.vmi
@@ -193,6 +194,7 @@ T19703M,Never 7: The End of Infinity,JP,ready,Never 7 - The End of Infinity (Jap
 T9703N,NFL Blitz 2000,US,ready,NFL Blitz 2000 (USA) | NFL Blitz 2000 (USA) (Rev 1),nflblitz,v21453.vmi
 T9712N,NFL Blitz 2001,US,ready,NFL Blitz 2001 (USA),nflblitz2k1,v58068.vmi
 T9504M,Nightmare Creatures 2,US,ready,Nightmare Creatures II (USA),nightcreature2,v22798.vmi
+T9504N,Nightmare Creatures 2,US,ready,Nightmare Creatures II (USA),nightcreature2,v22798.vmi
 T36807N,Omikron: The Nomad Soul,US,ready,"Omikron - The Nomad Soul (USA) (En,Fr,De,Es,It)",omikron,v89140.vmi
 MK51140,Ooga Booga,US,ready,Ooga Booga (USA),ooga,v81380.vmi
 MK51102,Outtrigger,US,ready,Outtrigger (USA),outtrigger,v4846.vmi
@@ -255,6 +257,8 @@ T9707N,San Francisco Rush 2049,US,ready,"San Francisco Rush 2049 (USA) (En,Fr,De
 MK51048,Seaman,US,needs review,Seaman (USA),disc_seaman,purhaze_SEA1.vmi+purhaze_SEA2.vmi
 MK51006,Sega Bass Fishing,US,ready,Sega Bass Fishing (USA),bassfish,v21584.vmi
 MK51166,Sega Bass Fishing 2,US,ready,Sega Bass Fishing 2 (USA),bassfish2,v40328.vmi
+HDR0146,Sega Extreme Sports,JP,ready,Sega Extreme Sports (Japan),xsports,exsports.VMI
+MK5108150,Sega Extreme Sports,EU,ready,"Sega Extreme Sports (Europe) (En,Fr,De,Es)",disc_bs_segaextreme,blue_swirl_sega_extre_SAVE0002.vmi
 MK51053,Sega GT,US,ready,Sega GT (USA),segagt,v64594.vmi
 MK51096,Sega Marine Fishing,US,ready,Sega Marine Fishing (USA),marinefish,v72852.vmi
 MK51019,Sega Rally Championship 2,US,ready,Sega Rally 2 (USA),segarally,SGRALLY2.VMI
@@ -274,7 +278,7 @@ T8106N,Shadow Man,US,ready,Shadow Man (USA) | Shadow Man (USA) (Rev A),shadowman
 MK51059,Shenmue Chapter 1: Yokosuka,US,ready,Shenmue (USA) (Disc 1) | Shenmue (USA) (Disc 2) | Shenmue (USA) (Disc 3) | Shenmue (USA) (Shenmue Passport),shenmue,v98269.vmi
 MK5118450,Shenmue II,EU,ready,"Shenmue II (Europe) (En,Fr,De,Es) (Disc 1) | Shenmue II (Europe) (En,Fr,De,Es) (Disc 2) | Shenmue II (Europe) (En,Fr,De,Es) (Disc 3) | Shenmue II (Europe) (En,Fr,De,Es) (Disc 4)",shenmue2,v91835.vmi
 T28202M,Shin Nihon Pro Wrestling: Toukon Retsuden 4,JP,ready,Shin Nihon Pro Wrestling - Toukon Retsuden 4 (Japan),disc_toukon4,dc_kool_00000146.vmi
-T9507N,Silent Scope,US,ready,Silent Scope (USA),silentscope,v91000.vmi
+T9507N,Silent Scope,US,ready,Silent Scope (USA),silentscope,v36531.vmi
 T15108N,Silver,US,ready,Silver (USA),silver,v760.vmi
 MK51052,Skies of Arcadia,US,ready,Skies of Arcadia (USA) (Disc 1) | Skies of Arcadia (USA) (Disc 2),arcadia,v28902.vmi+sa_d01.vmi+sa_d02.vmi+sa_d03.vmi+v94208.vmi
 T15106N,Slave Zero,US,ready,Slave Zero (USA) | Slave Zero (USA) (Rev A),slave_zero,v31826.vmi
@@ -510,7 +514,7 @@ T40601N,Worms Armageddon,US,ready,"Worms Armageddon (USA) (En,Fr,De,Nl,Sv,No,Da)
 T22904N,Worms World Party,US,ready,"Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",wormparty,v66120.vmi
 T8103N,WWF Attitude,US,ready,WWF Attitude (USA),wwfattitude,00000855.vmi
 T10005N,WWF Royal Rumble,US,ready,WWF Royal Rumble (USA),wwfrumble,v31180.vmi
-T15126N,Xtreme Sports,US,needs review,Xtreme Sports (USA),xsports,v37050.vmi
+T15126N,Xtreme Sports,US,ready,Xtreme Sports (USA),xsports,v34612.vmi
 T20401M,Zero Gunner 2,JP,ready,Zero Gunner 2 (Japan),zerogun2,zerogun2.VMI
 MK51038,Zombie Revenge,US,ready,Zombie Revenge (USA),zombie,ZOMBIERE.VMI
 T43301M,Zusar Vasar,JP,ready,"Zusar Vasar (Japan) (En,Ja)",zusarvasar,00000945.VMI

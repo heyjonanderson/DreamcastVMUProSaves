@@ -1,9 +1,9 @@
 # Status report
 
-Game cards: 370 (.vmu, 131072 bytes each) for 364 games, plus 145 extras cards (minigames, cheat-device codes) as folders named MINIGAMESnn / CHEAT* beside the game folders.
+Game cards: 374 (.vmu, 131072 bytes each) for 366 games, plus 145 extras cards (minigames, cheat-device codes) as folders named MINIGAMESnn / CHEAT* beside the game folders.
 Every card parses back cleanly (checked by tools/vmu.js and by an independent Python checker written from the VMS format notes: directory, FAT chains, save data). **No card has been opened in EVMU or on VMU Pro hardware.**
 
-- ready: 341 games (heuristic or manual pick judged complete/best available, filename/region check passed)
+- ready: 343 games (heuristic or manual pick judged complete/best available, filename/region check passed)
 - needs review: 23 games (listed below)
 - failed to build: 0
 - extras cards: 145 (cheat-device cards are marked needs review because they only work with the matching cheat disc)
@@ -20,6 +20,7 @@ Every card parses back cleanly (checked by tools/vmu.js and by an independent Py
 | Aero Dancing | T6807M | JP | Redump mapping inferred from filename/title, not confirmed |
 | Aero Dancing Fan Disc | T6809M | JP | Redump mapping inferred from filename/title, not confirmed |
 | ESPN NBA 2 Night | T9505N | US | Only save: early in a season, not a completed state |
+| F1 World Grand Prix | T3001N | US | F1WGP4DC_ = F1 World Grand Prix (US). F1WGP4DC2 saves belong to F1 World Grand Prix II (JP/EU), which was wrongly used before; this US save is mid-season, no completed US save in archive |
 | Fighting Force 2 | 36801N, T36801N | US | Level 8 save; archive has no completed save; also released: other/EU (alt ID T36801N) |
 | Gunbird 2 | T1214N | US | Only save; description gives no unlock info; also released: JP/EU |
 | Jet Set Radio DX | HDR0128 | JP | Redump mapping inferred from filename/title, not confirmed |
@@ -29,7 +30,6 @@ Every card parses back cleanly (checked by tools/vmu.js and by an independent Py
 | Sakura Wars Columns | HDR0046 | JP | Only save; description gives no progress info |
 | Seirei Hata Ray Blade | T42201M | JP | Only stage 1 saves in archive |
 | Sonic Shuffle | MK51060 | US | archive has 2 filename variants (SSHUFFLE/SONICSHU); region of chosen save not confirmed; also released: JP/EU |
-| Xtreme Sports | T15126N | US | archive has 2 filename variants |
 | Seaman | MK51048 | US | PURHAZE saves have no description; USR and _VM files taken together. From the VMU Tool Dream Explorer disc (PURHAZE) |
 | D+Vine [Luv] | T46501M | JP | JEFFMA save has no description. From the VMU Tool Dream Explorer disc (JEFFMA) |
 | Deadly Skies | T9501N50 | EU | 19 missions cleared; no completed save. From the Blue Swirl collection on the VMU Tool Dream Explorer disc |

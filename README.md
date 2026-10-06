@@ -44,6 +44,9 @@ The minigames come from the archive's homebrew/fan collection plus official Sega
 files are in `originals/minigames/`. `CHEAT*` cards are Action Replay / GameShark / Xploder code saves and only work with the
 matching cheat disc.
 
+## Testing
+See [TESTING.md](TESTING.md): structure check, an ID cross-check against K3zter's save database, an on-device check and a per-game check.
+
 ## Naming rule (from the official docs)
 8BitMods' Importing Saves page specifies `Dreamcast\<name>\<name>-1.vmu` (hyphen before the channel number, 128 KB file,
 folder and file name must match) and, for GameID, the disc ID with dashes and spaces stripped. K3zter's

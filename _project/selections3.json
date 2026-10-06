@@ -1136,11 +1136,11 @@
   ],
   "region": "US",
   "files": [
-   "v75648.vmi"
+   "v97839.vmi"
   ],
-  "completion": "5 races remaining for the end of championshipand of course 1 in drivers and constructors c",
+  "completion": "nivel 11",
   "status": "needs review",
-  "notes": "Mid-championship save; no completed save in archive"
+  "notes": "F1WGP4DC_ = F1 World Grand Prix (US). F1WGP4DC2 saves belong to F1 World Grand Prix II (JP/EU), which was wrongly used before; this US save is mid-season, no completed US save in archive"
  },
  {
   "dir": "f355challenge",
@@ -3368,11 +3368,11 @@
   ],
   "region": "US",
   "files": [
-   "v91000.vmi"
+   "v36531.vmi"
   ],
-  "completion": "Best of 10: [USA] Game solved on difficultlty level 4Real time aiming unlockedThe realtime aime makes the game so much better to playSee if you can beat",
+  "completion": "Completed all Out Door Training stages and Challenge 100 stages. Plus all extra options.",
   "status": "ready",
-  "notes": "also released: JP/EU"
+  "notes": "SSCOPE01 = US/EU name (SILENT01 is the JP name); confirmed by K3zter save-db; also released: JP/EU"
  },
  {
   "dir": "silver",
@@ -4526,11 +4526,11 @@
   ],
   "region": "US",
   "files": [
-   "v37050.vmi"
+   "v34612.vmi"
   ],
-  "completion": "Best of 9: Game complete with all the sportsavaliable.",
-  "status": "needs review",
-  "notes": "archive has 2 filename variants"
+  "completion": "I have all the levels and sports in this save.",
+  "status": "ready",
+  "notes": "XTREMESP = Xtreme Sports (US). EXTREMES.SYS is the different game Sega Extreme Sports (EU/JP) and was wrongly used before; confirmed by K3zter save-db"
  },
  {
   "dir": "zerogun2",

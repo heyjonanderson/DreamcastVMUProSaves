@@ -17,12 +17,13 @@ function remap(s){
   const old=s.ids.map(i=>i.replace(/[-\s]/g,''));
   // header numbers that are placeholders/ambiguous (T0000M is shared by homebrew) also keep the Redump-serial folder
   const ids=pn.some(x=>/^T0000|^\d/.test(x))?[...new Set([...pn,...old])]:pn;
-  return {...s,ids,oldIds:s.ids};
+  return {...s,ids:[...new Set([...ids,...(ALIAS[s.dir]||[])])],oldIds:s.ids};
 }
 const attach=rd('extras_attach.json')||{};
 const disc0=rd('selections_disc.json')||{upgrades:{},new:[]};
 const keep=x=>!(process.env.NO_BLUESWIRL&&x.restricted==='blueswirl'); // NO_BLUESWIRL=1 drops Blue Swirl-derived picks (easy revert)
 const disc={upgrades:Object.fromEntries(Object.entries(disc0.upgrades).filter(([k,v])=>keep(v))),new:disc0.new.filter(keep)};
 const upgrade=s=>{const u=disc.upgrades[s.dir];if(!u)return s;const att=(s.extras||[]).filter(e=>!(u.drop||[]).includes(e));return {...s,srcdir:u.srcdir,files:u.files,status:u.status,notes:u.notes,completion:'Upgraded from the VMU Tool Dream Explorer disc: '+u.notes,extras:[]};};
-const games=[...require('./tools/selections_12'),...(rd('selections3.json')||[]),...disc.new].map(s=>attach[s.dir]?{...s,extras:attach[s.dir]}:s).map(upgrade).map(remap);
+const ALIAS={nightcreature2:['T9504N']}; // header number per kevh182 list differs from K3zter's DB: keep both
+const games=[...require('./tools/selections_12'),...require('./tools/selections_fix'),...(rd('selections3.json')||[]),...disc.new].map(s=>attach[s.dir]?{...s,extras:attach[s.dir]}:s).map(upgrade).map(remap);
 module.exports=[...games,...(rd('selections_extras.json')||[]).filter(keep)];

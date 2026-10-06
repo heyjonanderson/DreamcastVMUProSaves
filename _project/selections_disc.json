@@ -77,16 +77,6 @@
    "notes": "Blue Swirl collection: all characters unlocked",
    "drop": [],
    "restricted": "blueswirl"
-  },
-  "f1worldprix": {
-   "srcdir": "disc_bs_f1worldprix",
-   "files": [
-    "blue_swirl_f1_world_g_SAVE0000.vmi"
-   ],
-   "status": "ready",
-   "notes": "Blue Swirl collection: tournament at the last course",
-   "drop": [],
-   "restricted": "blueswirl"
   }
  },
  "new": [
@@ -330,6 +320,40 @@
    "completion": "See notes",
    "status": "needs review",
    "notes": "JEFFMA save has no description. From the VMU Tool Dream Explorer disc (JEFFMA)"
+  },
+  {
+   "dir": "disc_bs_f1wgp2",
+   "srcdir": "disc_bs_f1wgp2",
+   "title": "F1 World Grand Prix II",
+   "rname": "F1 World Grand Prix II for Dreamcast (Japan)",
+   "ids": [
+    "?"
+   ],
+   "region": "JP",
+   "files": [
+    "blue_swirl_f1_world_g_SAVE0000.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "Tournament at the last course (F1WGP4DC2 = the II game). From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
+  },
+  {
+   "dir": "disc_bs_segaextreme",
+   "srcdir": "disc_bs_segaextreme",
+   "title": "Sega Extreme Sports",
+   "rname": "Sega Extreme Sports (Europe) (En,Fr,De,Es)",
+   "ids": [
+    "?"
+   ],
+   "region": "EU",
+   "files": [
+    "blue_swirl_sega_extre_SAVE0002.vmi"
+   ],
+   "completion": "See notes",
+   "status": "ready",
+   "notes": "All tracks unlocked (PAL); EXTREMES = Sega Extreme Sports, not Xtreme Sports. From the Blue Swirl collection on the VMU Tool Dream Explorer disc",
+   "restricted": "blueswirl"
   },
   {
    "dir": "disc_bs_aquagt",

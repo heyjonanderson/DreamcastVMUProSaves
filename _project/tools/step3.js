@@ -128,6 +128,9 @@ const FORCE={
 'arcadia':{fn:/^S\.ARCADIA001/,st:R_,note:'S.ARCADIA = US name (E.ARCADIA = JP, ARCADIA_E = EU, per archive download descriptions)'},
 'segarally':{files:['SGRALLY2.VMI'],st:R_,note:'Labelled "All unlocked (USA)" in archive; SGRALLY2I0VD = US name (SG_RALLY20VD is the JP version)'},
 'golfshiyo':{files:['SHIGOLF2.VMI'],st:R_,note:'Save filename SHIYOUY2 matches Golf Shiyou yo 2 (T-44501M); only save in archive'},
+'silentscope':{fn:/^SSCOPE01/,st:R_,note:'SSCOPE01 = US/EU name (SILENT01 is the JP name); confirmed by K3zter save-db'},
+'xsports':{files:['v34612.vmi'],st:R_,note:'XTREMESP = Xtreme Sports (US). EXTREMES.SYS is the different game Sega Extreme Sports (EU/JP) and was wrongly used before; confirmed by K3zter save-db'},
+'f1worldprix':{fn:/^F1WGP4DC_/,st:N_,note:'F1WGP4DC_ = F1 World Grand Prix (US). F1WGP4DC2 saves belong to F1 World Grand Prix II (JP/EU), which was wrongly used before; this US save is mid-season, no completed US save in archive'},
 'd2':{fn:/^D2_______001/,st:R_,note:'D2_______001 slot; D2SYSTEM file not included'},
 };
 const owner={};for(const s of base)for(const i of s.ids)owner[i.replace(/[-\s]/g,'')]=s.dir;

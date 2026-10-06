@@ -105,7 +105,8 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T17706N](T17706N) | Evolution | US | ready |
 | [T1711N](T1711N) | Evolution 2: A Far Off Promise | US | ready |
 | [T15104N](T15104N) | Expendable | US | ready |
-| [T3001N](T3001N) | F1 World Grand Prix | US | ready |
+| [T3001N](T3001N) | F1 World Grand Prix | US | needs review |
+| [T3002M](T3002M) | F1 World Grand Prix II | JP | ready |
 | [HDR0100](HDR0100) | F355 Challenge | JP | ready |
 | [36801N](36801N) | Fighting Force 2 | US | needs review |
 | [T36801N](T36801N) | Fighting Force 2 | US | needs review |
@@ -198,6 +199,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T9703N](T9703N) | NFL Blitz 2000 | US | ready |
 | [T9712N](T9712N) | NFL Blitz 2001 | US | ready |
 | [T9504M](T9504M) | Nightmare Creatures 2 | US | ready |
+| [T9504N](T9504N) | Nightmare Creatures 2 | US | ready |
 | [T36807N](T36807N) | Omikron: The Nomad Soul | US | ready |
 | [MK51140](MK51140) | Ooga Booga | US | ready |
 | [MK51102](MK51102) | Outtrigger | US | ready |
@@ -260,6 +262,8 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MK51048](MK51048) | Seaman | US | needs review |
 | [MK51006](MK51006) | Sega Bass Fishing | US | ready |
 | [MK51166](MK51166) | Sega Bass Fishing 2 | US | ready |
+| [HDR0146](HDR0146) | Sega Extreme Sports | JP | ready |
+| [MK5108150](MK5108150) | Sega Extreme Sports | EU | ready |
 | [MK51053](MK51053) | Sega GT | US | ready |
 | [MK51096](MK51096) | Sega Marine Fishing | US | ready |
 | [MK51019](MK51019) | Sega Rally Championship 2 | US | ready |
@@ -515,7 +519,7 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [T22904N](T22904N) | Worms World Party | US | ready |
 | [T8103N](T8103N) | WWF Attitude | US | ready |
 | [T10005N](T10005N) | WWF Royal Rumble | US | ready |
-| [T15126N](T15126N) | Xtreme Sports | US | needs review |
+| [T15126N](T15126N) | Xtreme Sports | US | ready |
 | [T20401M](T20401M) | Zero Gunner 2 | JP | ready |
 | [MK51038](MK51038) | Zombie Revenge | US | ready |
 | [T43301M](T43301M) | Zusar Vasar | JP | ready |

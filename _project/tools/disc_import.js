@@ -52,9 +52,10 @@ const BS_UP={ // existing game dir -> pick
  redlineracer:{pick:[['BLUE_SWIRL','SAVE0000','REDLINE_RACER']],note:'Blue Swirl collection: all tracks free'},
  sakura_card:{pick:[['BLUE_SWIRL','SAVE0000','SAKURA_CARD_CAPTOR_TOMOYO_VIDEO']],note:'Blue Swirl collection (JP): nearly all stages open plus some extras'},
  godzilla:{pick:[['BLUE_SWIRL','SAVE0000','GODZILLA_GENERATIONS']],note:'Blue Swirl collection: all characters unlocked'},
- f1worldprix:{pick:[['BLUE_SWIRL','SAVE0000','F1_WORLD_GRAND_PRIX_II']],note:'Blue Swirl collection: tournament at the last course',status:'ready'},
 };
 const BS_NEW=[
+ {key:'f1wgp2',title:'F1 World Grand Prix II',rname:['F1 World Grand Prix II for Dreamcast (Japan)'],region:'JP',pick:[['BLUE_SWIRL','SAVE0000','F1_WORLD_GRAND_PRIX_II']],note:'Tournament at the last course (F1WGP4DC2 = the II game)'},
+ {key:'segaextreme',title:'Sega Extreme Sports',rname:['Sega Extreme Sports (Europe) (En,Fr,De,Es)'],region:'EU',pick:[['BLUE_SWIRL','SAVE0002','SEGA_EXTREME_SPORTS']],note:'All tracks unlocked (PAL); EXTREMES = Sega Extreme Sports, not Xtreme Sports'},
  {key:'aquagt',title:'Aqua GT',rname:['Aqua GT (Europe) (En,Fr,De)'],region:'EU',pick:[['BLUE_SWIRL','SAVE0000','AQUA_GT']],note:'All boats and tracks unlocked in arcade mode'},
  {key:'cvspro',title:'Capcom vs. SNK Millennium Fight 2000 Pro',rname:['Capcom vs. SNK - Millennium Fight 2000 Pro (Japan)'],region:'JP',pick:[['BLUE_SWIRL','SAVE0000','CAPCOM_VS_SNK_PRO']],note:'Everything open ("tudo aberto")'},
  {key:'ddr2nd',title:'Dance Dance Revolution 2nd Mix',rname:['Dance Dance Revolution 2nd Mix - Dreamcast Edition (Japan)'],region:'JP',pick:[['BLUE_SWIRL','SAVE0000','DANCE_DANCE_REVOLUTION_2ND_MIX']],note:'Just about everything unlocked'},
