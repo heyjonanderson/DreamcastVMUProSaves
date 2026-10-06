@@ -1,8 +1,8 @@
 # Dreamcast VMU Pro saves
 
 Fully unlocked (or best-available) Dreamcast save data, one 128 KB `.vmu` card image per game, laid out for the
-8BitMods VMU Pro: `vmupro/Dreamcast/<GAMEID>/<GAMEID>-1.vmu`. **337 games, 343 game cards**, plus 26 VMU minigame
-cards and 9 cheat-device code cards. One game per title: US release preferred, else EU, else JP. Folder names are the disc-header **Product Number** (e.g. Sonic Adventure US is `MK-51000` -> `MK51000`), taken from the
+8BitMods VMU Pro: `vmupro/Dreamcast/<GAMEID>/<GAMEID>-1.vmu`. **337 games, 343 game cards**, plus 67 VMU minigame
+cards (one game each, `MG_*`) and 9 cheat-device code cards. One game per title: US release preferred, else EU, else JP. Folder names are the disc-header **Product Number** (e.g. Sonic Adventure US is `MK-51000` -> `MK51000`), taken from the
 kevh182/Redump_GameID list, because that is the ID the VMU Pro's GameID matches. (Redump's own serial for that disc, `51000`,
 is different and would not match.) A disc with several header numbers (revisions) gets a card under each.
 
@@ -37,12 +37,12 @@ A folder you already have with the same name will conflict. Do not overwrite it:
 Each card here holds just that game's chosen save (plus downloads/icons that fit), not a full memory card.
 
 ### Minigames and cheat cards
-`MINIGAMES01`...`MINIGAMES26` hold the VMU minigames and animations from the archive (grouped: homebrew, official, animations;
-several share an in-card name so they can't be on one card). `CHEAT*` cards are Action Replay / GameShark / Xploder code
-saves; they only work with the matching cheat disc. These show up as ordinary virtual memory cards by folder name.
-Whether the VMU Pro can launch minigames from these cards is **unverified**. The VMU Pro docs describe a separate `games/`
-folder for `.vmupack` files, and say individual `.VMS`/`.VMI` games can be converted to a `.vmu` by opening them in EVMU
-and saving. The original `.VMI`/`.VMS` files are in `originals/minigames/`.
+Each VMU minigame is its own card, named `MG_<game>` (for example `MG_VMU_Football`). A VMU only launches the game stored
+at the start of the card, so putting several games on one card made them all launch the first one. Open the card in the
+VMU Browser, pick the game, and choose "Play Game in VMU". They sort together in the VMC list under `MG_`.
+The minigames come from the archive's homebrew/fan collection plus official Sega/Capcom/Namco ones; the original `.VMI`/`.VMS`
+files are in `originals/minigames/`. `CHEAT*` cards are Action Replay / GameShark / Xploder code saves and only work with the
+matching cheat disc.
 
 ## Naming rule (from the official docs)
 8BitMods' Importing Saves page specifies `Dreamcast\<name>\<name>-1.vmu` (hyphen before the channel number, 128 KB file,
@@ -53,7 +53,7 @@ An earlier revision of this repo wrongly used an underscore; if you downloaded t
 ## What is in here
 | Path | Contents |
 |---|---|
-| `vmupro/Dreamcast/<ID>/<ID>-1.vmu` | The cards. Game cards use the product ID; extras are `MINIGAMES01-26`, `CHEAT*` |
+| `vmupro/Dreamcast/<ID>/<ID>-1.vmu` | The cards. Game cards use the product ID; extras are `MG_*` (minigames), `CHEAT*` |
 | `by-title/<Game title> [REGION]/` | Browsable copy of every card in folders named by title (not SD layout) |
 | `INDEX.md`, `INDEX.csv` | Folder -> game title, region, status, Redump title, save used |
 | `STEP3_REPORT.md` | Overall status and the list of cards still needing review |

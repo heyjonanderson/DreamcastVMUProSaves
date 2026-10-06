@@ -26,17 +26,18 @@ const items=g.rows.map(r=>{const vmi=V.parseVmi(fs.readFileSync(A.ci(g.path,r.vm
   const key=r.vmi.replace(/\.vmi$/i,'');
   const cat=CAT.homebrew.includes(key)?0:CAT.official.includes(key)?1:2;
   return {r,key,cat,blocks:Math.ceil(d.length/512),name:vmi.name};});
-items.sort((a,b)=>a.cat-b.cat||b.blocks-a.blocks);
-const cards=[];
-for(const it of items){let c=cards.find(c=>c.cat===it.cat&&c.used+it.blocks<=200&&!c.names.has(it.name));
-  if(!c){c={cat:it.cat,used:0,names:new Set(),items:[]};cards.push(c);}
-  c.used+=it.blocks;c.names.add(it.name);c.items.push(it);}
-const CN=['Homebrew & fan minigames','Official / publisher minigames','Animations & music videos'];
-const out=[];let n=0;
-const cnt={};
-for(const c of cards){cnt[c.cat]=(cnt[c.cat]||0)+1;n++;const num=String(n).padStart(2,'0');
-  out.push({dir:'minigames',outdir:'Dreamcast',title:`VMU minigames ${num}: ${CN[c.cat]}`,rname:'(not a disc: standalone VMU minigame collection)',ids:['MINIGAMES'+num],region:'-',files:c.items.map(i=>i.r.vmi),
-   completion:c.items.map(i=>i.key+' ('+i.name+')').join(', '),status:'ready',notes:`${c.items.length} VMU game/animation files, ${c.used} blocks. Placement/folder convention on VMU Pro not verified; original .VMI/.VMS are in originals/minigames`});}
+// One card per game: a VMU runs the game stored at block 0 only, so several games on one card all launch the first one.
+const CN=['Homebrew & fan minigame','Official / publisher minigame','Animation / music video'];
+const SLUG={'4007':'Marvel_vs_Capcom_2','4008':'Power_Stone_2_JP','PQ_NTSC':'Skies_Arcadia_Pintas_Quest_NTSC','PQ_PAL':'Skies_Arcadia_Pintas_Quest_PAL','SOAMINI':'Skies_Arcadia_Pintas_Quest','SCCBRK':'Cardcaptor_Breakout','DANGELO':'DAngelo_Music_Video','E0':'Enemy_Zero_Training','FASTFURI':'Fast_and_Furious_Animation','GREY':'Greyscale_Photo_Demo'};
+const slugOf=(r,key)=>{if(SLUG[key])return SLUG[key];let t=r.desc.split(/:|\. /)[0].replace(/ mini ?game.*$/i,'').replace(/\(.*?\)/g,m=>m.replace(/[()]/g,'')).trim();
+  t=t.replace(/[^A-Za-z0-9]+/g,'_').replace(/^_+|_+$/g,'');return (t||key).slice(0,26);};
+items.sort((a,b)=>a.cat-b.cat||a.r.vmi.localeCompare(b.r.vmi));
+const out=[];const usedIds=new Set();
+for(const it of items){
+  let slug='MG_'+slugOf(it.r,it.key);let id=slug,n=2;while(usedIds.has(id.toLowerCase())){id=slug+'_'+n++;}usedIds.add(id.toLowerCase());
+  const nice=id.replace(/^MG_/,'').replace(/_/g,' ');
+  out.push({dir:'minigames',outdir:'Dreamcast',title:`VMU minigame: ${nice}`,rname:'(not a disc: standalone VMU minigame)',ids:[id],region:'-',files:[it.r.vmi],
+   completion:`${it.key} (${it.name}): ${it.r.desc.replace(/\s+/g,' ').slice(0,100)}`,status:'ready',notes:`${CN[it.cat]}, ${it.blocks} blocks. One game per card because a VMU launches the game at block 0 only`});}
 // cheat-device cards (one per code file; most share a filename so each gets its own card)
 const CH=[
  ['arcdx','arcdx1.VMI','CHEATARCDX01','Action Replay CDX code save (many codes loaded)'],['arcdx','AR423.VMI','CHEATARCDX02','Action Replay CDX code save: 423 games, all regions'],
@@ -49,4 +50,4 @@ for(const [dir,f,id,t] of CH)out.push({dir,outdir:'Dreamcast',title:'Cheat-devic
 out.push({dir:'atari',title:'Atari Anniversary Edition (VMU icon only)',rname:'Atari Anniversary Edition (USA)',ids:['T-15130N'],region:'US',files:['ATARI.VMI'],completion:'VMU icon file only; archive has no game save',status:'needs review',notes:'Icon-only card; no game progress to save in this title'});
 fs.writeFileSync(path.join(__dirname,'..','selections_extras.json'),JSON.stringify(out,null,1));
 fs.writeFileSync(path.join(__dirname,'..','extras_attach.json'),JSON.stringify(ATTACH,null,1));
-console.log(cards.length,'minigame cards,',CH.length,'cheat cards');
+console.log(items.length,'minigame cards,',CH.length,'cheat cards');

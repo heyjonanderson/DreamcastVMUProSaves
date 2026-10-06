@@ -343,32 +343,73 @@ Folder names are Dreamcast product IDs (the VMU Pro matches the folder name to t
 | [MK51054](MK51054) | Virtua Tennis | US | ready |
 | [MK51186](MK51186) | Virtua Tennis 2 (Tennis 2K2) | US | ready |
 | [T13004N](T13004N) | Virtual-On: Oratorio Tangram | US | needs review |
-| [MINIGAMES01](MINIGAMES01) | VMU minigames 01: Homebrew & fan minigames | - | ready |
-| [MINIGAMES02](MINIGAMES02) | VMU minigames 02: Homebrew & fan minigames | - | ready |
-| [MINIGAMES03](MINIGAMES03) | VMU minigames 03: Homebrew & fan minigames | - | ready |
-| [MINIGAMES04](MINIGAMES04) | VMU minigames 04: Homebrew & fan minigames | - | ready |
-| [MINIGAMES05](MINIGAMES05) | VMU minigames 05: Homebrew & fan minigames | - | ready |
-| [MINIGAMES06](MINIGAMES06) | VMU minigames 06: Official / publisher minigames | - | ready |
-| [MINIGAMES07](MINIGAMES07) | VMU minigames 07: Official / publisher minigames | - | ready |
-| [MINIGAMES08](MINIGAMES08) | VMU minigames 08: Official / publisher minigames | - | ready |
-| [MINIGAMES09](MINIGAMES09) | VMU minigames 09: Official / publisher minigames | - | ready |
-| [MINIGAMES10](MINIGAMES10) | VMU minigames 10: Official / publisher minigames | - | ready |
-| [MINIGAMES11](MINIGAMES11) | VMU minigames 11: Official / publisher minigames | - | ready |
-| [MINIGAMES12](MINIGAMES12) | VMU minigames 12: Official / publisher minigames | - | ready |
-| [MINIGAMES13](MINIGAMES13) | VMU minigames 13: Official / publisher minigames | - | ready |
-| [MINIGAMES14](MINIGAMES14) | VMU minigames 14: Official / publisher minigames | - | ready |
-| [MINIGAMES15](MINIGAMES15) | VMU minigames 15: Official / publisher minigames | - | ready |
-| [MINIGAMES16](MINIGAMES16) | VMU minigames 16: Official / publisher minigames | - | ready |
-| [MINIGAMES17](MINIGAMES17) | VMU minigames 17: Animations & music videos | - | ready |
-| [MINIGAMES18](MINIGAMES18) | VMU minigames 18: Animations & music videos | - | ready |
-| [MINIGAMES19](MINIGAMES19) | VMU minigames 19: Animations & music videos | - | ready |
-| [MINIGAMES20](MINIGAMES20) | VMU minigames 20: Animations & music videos | - | ready |
-| [MINIGAMES21](MINIGAMES21) | VMU minigames 21: Animations & music videos | - | ready |
-| [MINIGAMES22](MINIGAMES22) | VMU minigames 22: Animations & music videos | - | ready |
-| [MINIGAMES23](MINIGAMES23) | VMU minigames 23: Animations & music videos | - | ready |
-| [MINIGAMES24](MINIGAMES24) | VMU minigames 24: Animations & music videos | - | ready |
-| [MINIGAMES25](MINIGAMES25) | VMU minigames 25: Animations & music videos | - | ready |
-| [MINIGAMES26](MINIGAMES26) | VMU minigames 26: Animations & music videos | - | ready |
+| [MG_4_Wins](MG_4_Wins) | VMU minigame: 4 Wins | - | ready |
+| [MG_Alien_Fighter](MG_Alien_Fighter) | VMU minigame: Alien Fighter | - | ready |
+| [MG_Alien_Shooter](MG_Alien_Shooter) | VMU minigame: Alien Shooter | - | ready |
+| [MG_Cardcaptor_Breakout](MG_Cardcaptor_Breakout) | VMU minigame: Cardcaptor Breakout | - | ready |
+| [MG_Chao_Adventure_by_SEGA](MG_Chao_Adventure_by_SEGA) | VMU minigame: Chao Adventure by SEGA | - | ready |
+| [MG_Chao_Editor_2_by_Tyro](MG_Chao_Editor_2_by_Tyro) | VMU minigame: Chao Editor 2 by Tyro | - | ready |
+| [MG_Chao_Editor_by_Tyro](MG_Chao_Editor_by_Tyro) | VMU minigame: Chao Editor by Tyro | - | ready |
+| [MG_circles](MG_circles) | VMU minigame: circles | - | ready |
+| [MG_Climax_Landers](MG_Climax_Landers) | VMU minigame: Climax Landers | - | ready |
+| [MG_DAngelo_Music_Video](MG_DAngelo_Music_Video) | VMU minigame: DAngelo Music Video | - | ready |
+| [MG_Dragon_Ball_Z](MG_Dragon_Ball_Z) | VMU minigame: Dragon Ball Z | - | ready |
+| [MG_Dream_Racer](MG_Dream_Racer) | VMU minigame: Dream Racer | - | ready |
+| [MG_Enemy_Zero_Training](MG_Enemy_Zero_Training) | VMU minigame: Enemy Zero Training | - | ready |
+| [MG_Fast_and_Furious_Animation](MG_Fast_and_Furious_Animation) | VMU minigame: Fast and Furious Animation | - | ready |
+| [MG_Fat_Rain](MG_Fat_Rain) | VMU minigame: Fat Rain | - | ready |
+| [MG_Freak_Skater](MG_Freak_Skater) | VMU minigame: Freak Skater | - | ready |
+| [MG_Frog_in_a_blender](MG_Frog_in_a_blender) | VMU minigame: Frog in a blender | - | ready |
+| [MG_Glucky_Labyrinth](MG_Glucky_Labyrinth) | VMU minigame: Glucky Labyrinth | - | ready |
+| [MG_Godzilla](MG_Godzilla) | VMU minigame: Godzilla | - | ready |
+| [MG_Greyscale_Photo_Demo](MG_Greyscale_Photo_Demo) | VMU minigame: Greyscale Photo Demo | - | ready |
+| [MG_Hello_Kitty](MG_Hello_Kitty) | VMU minigame: Hello Kitty | - | ready |
+| [MG_I_do_U_do](MG_I_do_U_do) | VMU minigame: I do U do | - | ready |
+| [MG_Jojo_s_Problem](MG_Jojo_s_Problem) | VMU minigame: Jojo s Problem | - | ready |
+| [MG_Kill_Hyman](MG_Kill_Hyman) | VMU minigame: Kill Hyman | - | ready |
+| [MG_Lightsabre_Battle](MG_Lightsabre_Battle) | VMU minigame: Lightsabre Battle | - | ready |
+| [MG_Linear_s_Watch](MG_Linear_s_Watch) | VMU minigame: Linear s Watch | - | ready |
+| [MG_Logic](MG_Logic) | VMU minigame: Logic | - | ready |
+| [MG_Marvel_vs_Capcom_2](MG_Marvel_vs_Capcom_2) | VMU minigame: Marvel vs Capcom 2 | - | ready |
+| [MG_Matrix_Reloaded_vmu_animat](MG_Matrix_Reloaded_vmu_animat) | VMU minigame: Matrix Reloaded vmu animat | - | ready |
+| [MG_Michael_Jackson_music_vide](MG_Michael_Jackson_music_vide) | VMU minigame: Michael Jackson music vide | - | ready |
+| [MG_Minesweeper](MG_Minesweeper) | VMU minigame: Minesweeper | - | ready |
+| [MG_Neko_2_2](MG_Neko_2_2) | VMU minigame: Neko 2 2 | - | ready |
+| [MG_Paper_Attack](MG_Paper_Attack) | VMU minigame: Paper Attack | - | ready |
+| [MG_Pop_n_Music_Vol_1](MG_Pop_n_Music_Vol_1) | VMU minigame: Pop n Music Vol 1 | - | ready |
+| [MG_Pop_n_Music_Vol_2](MG_Pop_n_Music_Vol_2) | VMU minigame: Pop n Music Vol 2 | - | ready |
+| [MG_Pop_n_Music_Vol_3](MG_Pop_n_Music_Vol_3) | VMU minigame: Pop n Music Vol 3 | - | ready |
+| [MG_Power_Stone_2_JP](MG_Power_Stone_2_JP) | VMU minigame: Power Stone 2 JP | - | ready |
+| [MG_Powerstone_mini_by_Capcom](MG_Powerstone_mini_by_Capcom) | VMU minigame: Powerstone mini by Capcom | - | ready |
+| [MG_promotion_video](MG_promotion_video) | VMU minigame: promotion video | - | ready |
+| [MG_PSO_ID_Calculator](MG_PSO_ID_Calculator) | VMU minigame: PSO ID Calculator | - | ready |
+| [MG_PSO_Slide_Puzzle](MG_PSO_Slide_Puzzle) | VMU minigame: PSO Slide Puzzle | - | ready |
+| [MG_SEGA_GT](MG_SEGA_GT) | VMU minigame: SEGA GT | - | ready |
+| [MG_Shenmue](MG_Shenmue) | VMU minigame: Shenmue | - | ready |
+| [MG_Simon_Bryan](MG_Simon_Bryan) | VMU minigame: Simon Bryan | - | ready |
+| [MG_Skies_Arcadia_Pintas_Quest](MG_Skies_Arcadia_Pintas_Quest) | VMU minigame: Skies Arcadia Pintas Quest | - | ready |
+| [MG_Skies_Arcadia_Pintas_Quest_NTSC](MG_Skies_Arcadia_Pintas_Quest_NTSC) | VMU minigame: Skies Arcadia Pintas Quest NTSC | - | ready |
+| [MG_Skies_Arcadia_Pintas_Quest_PAL](MG_Skies_Arcadia_Pintas_Quest_PAL) | VMU minigame: Skies Arcadia Pintas Quest PAL | - | ready |
+| [MG_Slidepuzzle](MG_Slidepuzzle) | VMU minigame: Slidepuzzle | - | ready |
+| [MG_Snaky](MG_Snaky) | VMU minigame: Snaky | - | ready |
+| [MG_Soul_Calibur_2_Adventure](MG_Soul_Calibur_2_Adventure) | VMU minigame: Soul Calibur 2 Adventure | - | ready |
+| [MG_SoulCalibur_by_Namco](MG_SoulCalibur_by_Namco) | VMU minigame: SoulCalibur by Namco | - | ready |
+| [MG_Sound_Demo_v1_0](MG_Sound_Demo_v1_0) | VMU minigame: Sound Demo v1 0 | - | ready |
+| [MG_Space_Invaders](MG_Space_Invaders) | VMU minigame: Space Invaders | - | ready |
+| [MG_Star_Wars](MG_Star_Wars) | VMU minigame: Star Wars | - | ready |
+| [MG_sun_moon_rise](MG_sun_moon_rise) | VMU minigame: sun moon rise | - | ready |
+| [MG_Supercross_VMU](MG_Supercross_VMU) | VMU minigame: Supercross VMU | - | ready |
+| [MG_Swampy](MG_Swampy) | VMU minigame: Swampy | - | ready |
+| [MG_Tech_Romancer](MG_Tech_Romancer) | VMU minigame: Tech Romancer | - | ready |
+| [MG_Tiny_Tetris](MG_Tiny_Tetris) | VMU minigame: Tiny Tetris | - | ready |
+| [MG_Tokyo_Car_race](MG_Tokyo_Car_race) | VMU minigame: Tokyo Car race | - | ready |
+| [MG_VM_a_Sketch](MG_VM_a_Sketch) | VMU minigame: VM a Sketch | - | ready |
+| [MG_VMU_Breakout_by_MJ](MG_VMU_Breakout_by_MJ) | VMU minigame: VMU Breakout by MJ | - | ready |
+| [MG_VMU_Fighter](MG_VMU_Fighter) | VMU minigame: VMU Fighter | - | ready |
+| [MG_VMU_Football](MG_VMU_Football) | VMU minigame: VMU Football | - | ready |
+| [MG_VMU_Mini_Pacman](MG_VMU_Mini_Pacman) | VMU minigame: VMU Mini Pacman | - | ready |
+| [MG_VMU_Vision_by_Tyro](MG_VMU_Vision_by_Tyro) | VMU minigame: VMU Vision by Tyro | - | ready |
+| [MG_Where_s_Bruce](MG_Where_s_Bruce) | VMU minigame: Where s Bruce | - | ready |
 | [T15113N](T15113N) | Wacky Races | US | ready |
 | [T8111N](T8111N) | Wetrix+ | US | ready |
 | [T42101N00](T42101N00) | Wild Metal | US | ready |

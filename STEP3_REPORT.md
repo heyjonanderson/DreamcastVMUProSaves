@@ -1,12 +1,12 @@
 # Status report
 
-Game cards: 343 (.vmu, 131072 bytes each) for 337 games, plus 35 extras cards (minigames, cheat-device codes) as folders named MINIGAMESnn / CHEAT* beside the game folders.
+Game cards: 410 (.vmu, 131072 bytes each) for 404 games, plus 9 extras cards (minigames, cheat-device codes) as folders named MINIGAMESnn / CHEAT* beside the game folders.
 Every card parses back cleanly (checked by tools/vmu.js and by an independent Python checker written from the VMS format notes: directory, FAT chains, save data). **No card has been opened in EVMU or on VMU Pro hardware.**
 
-- ready: 313 games (heuristic or manual pick judged complete/best available, filename/region check passed)
+- ready: 380 games (heuristic or manual pick judged complete/best available, filename/region check passed)
 - needs review: 24 games (listed below)
 - failed to build: 0
-- extras cards: 35 (cheat-device cards are marked needs review because they only work with the matching cheat disc)
+- extras cards: 9 (cheat-device cards are marked needs review because they only work with the matching cheat disc)
 - no card: see _project/unmapped_or_skipped.csv; extras not on a card: _project/not_on_cards_extras.csv
 - Folder -> game names: INDEX.md / INDEX.csv
 
